@@ -1,0 +1,30 @@
+[
+    {
+        "id": 0,
+        "feature": "Seed starter"
+    },
+    {
+        "id": 1,
+        "feature": "Seed inventory"
+    },
+    {
+        "id": 2,
+        "feature": "Night Mode"
+    },
+    {
+        "id": 3,
+        "feature": "Planting Zones"
+    },
+    {
+        "id": 4,
+        "feature": "Adding Notes"
+    },
+    {
+        "id": 5,
+        "feature": "General App improvement"
+    },
+    {
+        "id": 6,
+        "feature": "Notifications"
+    },
+]
