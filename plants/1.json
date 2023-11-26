@@ -1,0 +1,393 @@
+[
+    {
+        "id": 0,
+        "name": "Tomato",
+        "varieties_common_feature": {
+            "sunlight_requirement": "Full Sun",
+            "propagation_methods": ["Seeds", "Seedlings"],
+            "soil_acidity_range": {
+              "lower_bound": 6.0,
+              "upper_bound": 7.0
+            },
+            "days_to_germination": 5,
+            "frost_tolerance": false,
+            "planting_depth": "1/4 - 1/2 inch deep",
+            "spacing": "2-3 feet apart",
+            "life_cycle": "Annual",
+            "season": "Warm",
+        },
+        "varieties": [
+            {
+                "id": 0,
+              "name": "Roma",
+              "description": "Roma tomatoes, scientifically known as Solanum lycopersicum 'Roma,' are a cherished cultivar celebrated for their distinctive attributes and culinary versatility. These determinate tomatoes boast a classic plum shape, characterized by their elongated, oval form and vibrant red color when fully ripened. Renowned for their exceptional flavor, Roma tomatoes are a popular choice among gardeners and chefs alike, particularly prized for their low seed content and dense, meaty texture.",
+              "growth_mode": "determinate",
+              "days_to_harvest": {
+                "lower_estimate": 70,
+                "higher_estimate": 80
+              },
+              "is_container_variety": true,
+              "fruit_color": "Red",
+              "flower_color": "Yellow",
+              "leaf_color": "Green",
+              "fruit_weight": "3-4 ounces",
+              "plant_height": "2-3 feet",
+              "best_uses": ["Sauces", "Paste", "Canning"],
+              "needs_support": true,
+              "water_requirement": "Once a week",
+              "feeding_requirement": "Twice a week",
+              "requires_pruning": true,
+              "fun_fact": "Did you know? The name 'Roma' is derived from the Italian word for Rome, where these tomatoes have been a staple in traditional cuisine for centuries.",
+              "planting_tip": "For optimal growth, plant Roma tomatoes in well-drained soil enriched with organic matter. Space plants 2-3 feet apart, consider support for laden plants, water weekly, fertilize every two weeks, prune for shape and fruit production, maintain soil pH between 6.0 and 7.0, and plant seeds or seedlings 1/4-1/2 inch deep.",
+              "spacing": "Space plants 2-3 feet apart."
+            },
+            {
+                "id": 1,
+              "name": "Cherokee Purple",
+              "description": "Cherokee Purple tomatoes, known for their rich flavor and unique color, are an heirloom variety that captivates with its deep, dusky purple hue. Believed to have originated with the Cherokee people, these tomatoes have a complex, sweet taste and a reputation for being one of the best-tasting heirloom varieties. The large, beefsteak-style fruits are often used in salads and sandwiches, adding both visual appeal and exceptional flavor to dishes.",
+              "growth_mode": "Indeterminate",
+              "days_to_harvest": {
+                "lower_estimate": 75,
+                "higher_estimate": 90
+              },
+              "is_container_variety": true,
+              "fruit_color": "Deep Purple",
+              "flower_color": "Yellow",
+              "leaf_color": "Green",
+              "fruit_weight": "8-12 ounces",
+              "plant_height": "5-7 feet",
+              "best_uses": ["Salads", "Sandwiches", "Slicing"],
+              "needs_support": true,
+              "water_requirement": "Twice a week",
+              "feeding_requirement": "Every three weeks",
+              "requires_pruning": true,
+              "fun_fact": "Did you know? Cherokee Purple tomatoes have a rich history and are considered one of the first heirloom varieties to gain popularity in the United States.",
+              "planting_tip": "Plant Cherokee Purple tomatoes in well-drained soil with organic matter. Provide sturdy support for the plants, as they can grow tall. Water consistently, aiming for twice a week, and fertilize every three weeks. Prune to manage plant shape and improve air circulation. Keep the soil pH between 6.0 and 7.5 for optimal growth.",
+              "frost_tolerance": false,
+              "temperature_preference": "Warm",
+              "spacing": "Space plants 3-4 feet apart."
+            },
+            {
+                "id": 2,
+              "name": "Early Girl Tomatoes",
+              "description": "Early Girl tomatoes are renowned for their quick maturity and delicious flavor. This determinate variety is favored by gardeners for its early harvest, making it an excellent choice for those looking to enjoy homegrown tomatoes sooner in the season. The medium-sized, round fruits boast a classic red color and are well-suited for a variety of culinary uses.",
+              "growth_mode": "determinate",
+              "days_to_harvest": {
+                "lower_estimate": 50,
+                "higher_estimate": 62
+              },
+              "is_container_variety": true,
+              "fruit_color": "Red",
+              "flower_color": "Yellow",
+              "leaf_color": "Green",
+              "fruit_weight": "4-6 ounces",
+              "plant_height": "3-4 feet",
+              "best_uses": ["Salads", "Slicing", "Canning"],
+              "needs_support": true,
+              "water_requirement": "Twice a week",
+              "feeding_requirement": "Every two weeks",
+              "requires_pruning": true,
+              "fun_fact": "Did you know? Early Girl tomatoes have been a favorite among gardeners since the 1970s and are prized for their reliability and versatility.",
+              "planting_tip": "Plant Early Girl tomatoes in well-drained soil with good sunlight. Provide support for the determinate plants if needed. Water consistently, aiming for twice a week, and fertilize every two weeks. Prune to manage plant shape and promote air circulation. Enjoy an early harvest of flavorful tomatoes!",
+              "spacing": "2-3 feet apart."
+            },
+            {
+                "id": 3,
+              "name": "Super Sweet 100",
+              "description": "Super Sweet 100 tomatoes are a popular cherry tomato variety known for their exceptional sweetness and productivity. These indeterminate vines produce an abundance of small, round tomatoes in clusters, making them a delightful addition to salads and snacks. The vibrant red color and high sugar content make Super Sweet 100 tomatoes a favorite among gardeners and enthusiasts.",
+              "growth_mode": "indeterminate",
+              "days_to_harvest": {
+                "lower_estimate": 65,
+                "higher_estimate": 75
+              },
+              "is_container_variety": true,
+              "fruit_color": "Red",
+              "flower_color": "Yellow",
+              "leaf_color": "Green",
+              "fruit_weight": "Less than 1 ounce",
+              "plant_height": "6-8 feet",
+              "best_uses": ["Salads", "Snacking", "Containers"],
+              "needs_support": true,
+              "water_requirement": "Twice a week",
+              "feeding_requirement": "Every two weeks",
+              "requires_pruning": true,
+              "fun_fact": "Did you know? Super Sweet 100 tomatoes are considered one of the sweetest cherry tomato varieties, delighting taste buds with their sugary flavor.",
+              "planting_tip": "Plant Super Sweet 100 tomatoes in well-drained soil with good sunlight. Provide sturdy support for the indeterminate vines, as they can reach significant heights. Water consistently, aiming for twice a week, and fertilize every two weeks. Prune to manage plant shape and promote air circulation. Enjoy a continuous harvest of irresistibly sweet tomatoes!",
+              "spacing": "3-4 feet apart"
+            },
+            {
+                "id": 4,
+              "name": "Beefsteak",
+              "description": "Beefsteak tomatoes are a classic and beloved variety known for their large size, meaty texture, and robust flavor. These indeterminate tomatoes produce hefty fruits that are perfect for slicing and enjoying in sandwiches, burgers, and salads. With their rich, red color and delicious taste, Beefsteak tomatoes are a staple in gardens and kitchens alike.",
+              "growth_mode": "indeterminate",
+              "days_to_harvest": {
+                "lower_estimate": 75,
+                "higher_estimate": 85
+              },
+              "is_container_variety": true,
+              "fruit_color": "Red",
+              "flower_color": "Yellow",
+              "leaf_color": "Green",
+              "fruit_weight": "12-16 ounces",
+              "plant_height": "5-7 feet",
+              "best_uses": ["Slicing", "Sandwiches", "Burgers"],
+              "needs_support": true,
+              "water_requirement": "Twice a week",
+              "feeding_requirement": "Every three weeks",
+              "requires_pruning": true,
+              "fun_fact": "Did you know? Beefsteak tomatoes get their name from their hefty size and are often compared to steaks due to their substantial flesh.",
+              "planting_tip": "Plant Beefsteak tomatoes in well-drained soil with good sunlight. Provide strong support for the indeterminate vines, as they can produce large, heavy fruits. Water consistently, aiming for twice a week, and fertilize every three weeks. Prune to manage plant shape and enhance air circulation. Enjoy the bountiful harvest of flavorful, sizable tomatoes!",
+              "spacing": "Space plants 3-4 feet apart."
+            },
+            {
+                "id": 5,
+              "name": "Yellow Pear",
+              "description": "Yellow Pear tomatoes are a charming and flavorful heirloom cherry tomato variety. Known for their small, pear-shaped fruits and vibrant yellow color, these indeterminate vines add a burst of sweetness to salads and garden snacks. With a delightful balance of acidity and sweetness, Yellow Pear tomatoes are a favorite choice for both home gardeners and culinary enthusiasts.",
+              "growth_mode": "indeterminate",
+              "days_to_harvest": {
+                "lower_estimate": 70,
+                "higher_estimate": 80
+              },
+              "is_container_variety": true,
+              "fruit_color": "Yellow",
+              "flower_color": "Yellow",
+              "leaf_color": "Green",
+              "fruit_weight": "Less than 1 ounce",
+              "plant_height": "6-8 feet",
+              "best_uses": ["Salads", "Snacking", "Pickling"],
+              "needs_support": true,
+              "water_requirement": "Twice a week",
+              "feeding_requirement": "Every two weeks",
+              "requires_pruning": true,
+              "fun_fact": "Did you know? Yellow Pear tomatoes are often considered one of the oldest heirloom varieties, dating back to the 18th century.",
+              "planting_tip": "Plant Yellow Pear tomatoes in well-drained soil with good sunlight. Provide sturdy support for the indeterminate vines, as they can grow tall. Water consistently, aiming for twice a week, and fertilize every two weeks. Prune to manage plant shape and promote air circulation. Enjoy the delightful harvest of small, sweet, yellow tomatoes!",
+              "spacing": "Space plants 3-4 feet apart."
+            },
+            {
+                "id": 6,
+              "name": "Better Boy",
+              "description": "Better Boy tomatoes are a popular hybrid variety known for their excellent flavor, large size, and disease resistance. These indeterminate tomatoes produce round, red fruits that are perfect for slicing and enjoying in various culinary applications. With a well-balanced taste and reliable performance, Better Boy tomatoes are a favorite among home gardeners and chefs alike.",
+              "growth_mode": "indeterminate",
+              "days_to_harvest": {
+                "lower_estimate": 70,
+                "higher_estimate": 80
+              },
+              "is_container_variety": false,
+              "fruit_color": "Red",
+              "flower_color": "Yellow",
+              "leaf_color": "Green",
+              "fruit_weight": "8-12 ounces",
+              "plant_height": "5-7 feet",
+              "best_uses": ["Slicing", "Salads", "Sandwiches"],
+              "needs_support": true,
+              "water_requirement": "Twice a week",
+              "feeding_requirement": "Every three weeks",
+              "requires_pruning": true,
+              "fun_fact": "Did you know? Better Boy tomatoes are celebrated for their resistance to various diseases, making them a reliable choice for gardeners.",
+              "planting_tip": "Plant Better Boy tomatoes in well-drained soil with good sunlight. Provide sturdy support for the indeterminate vines, especially as they bear large fruits. Water consistently, aiming for twice a week, and fertilize every three weeks. Prune to manage plant shape and enhance air circulation. Enjoy the robust and flavorful harvest of Better Boy tomatoes!",
+              "spacing": "3-4 feet apart."
+            },
+            {
+                "id": 7,
+              "name": "San Marzano",
+              "description": "San Marzano tomatoes are a cherished plum tomato variety hailing from the Campania region of Italy. Known for their elongated shape, thick flesh, and low seed count, they are a favorite for making rich sauces and pastes. With a sweet and savory flavor, San Marzano tomatoes have earned their place in traditional Italian cuisine.",
+              "growth_mode": "determinate",
+              "days_to_harvest": {
+                "lower_estimate": 80,
+                "higher_estimate": 90
+              },
+              "is_container_variety": true,
+              "fruit_color": "Red",
+              "flower_color": "Yellow",
+              "leaf_color": "Green",
+              "fruit_weight": "4-6 ounces",
+              "plant_height": "4-6 feet",
+              "best_uses": ["Sauces", "Paste", "Canning"],
+              "needs_support": true,
+              "water_requirement": "Once a week",
+              "feeding_requirement": "Every two weeks",
+              "requires_pruning": true,
+              "fun_fact": "Did you know? San Marzano tomatoes have an official designation in Italy, known as 'Pomodoro San Marzano dell'Agro Sarnese-Nocerino DOP.'",
+              "planting_tip": "Plant San Marzano tomatoes in well-drained soil with good sunlight. Provide support for determinate plants if needed. Water consistently, aiming for once a week, and fertilize every two weeks. Prune to manage plant shape and enhance air circulation for optimal tomato production.",
+              "spacing": "Space plants 2-3 feet apart."
+            },
+            {
+                "id": 8,
+              "name": "Brandywine",
+              "description": "Brandywine tomatoes are an heirloom variety prized for their exceptional flavor and large, beefsteak-style fruits. With a unique pinkish-red color, Brandywine tomatoes have a sweet and slightly tangy taste. These indeterminate vines are a favorite among tomato enthusiasts for their distinct characteristics and culinary versatility.",
+              "growth_mode": "indeterminate",
+              "days_to_harvest": {
+                "lower_estimate": 80,
+                "higher_estimate": 95
+              },
+              "is_container_variety": true,
+              "fruit_color": "Pinkish-Red",
+              "flower_color": "Yellow",
+              "leaf_color": "Green",
+              "fruit_weight": "10-16 ounces",
+              "plant_height": "6-8 feet",
+              "best_uses": ["Slicing", "Salads", "Gourmet Dishes"],
+              "needs_support": true,
+              "water_requirement": "Twice a week",
+              "feeding_requirement": "Every three weeks",
+              "requires_pruning": true,
+              "fun_fact": "Did you know? Brandywine tomatoes are believed to date back to the late 1800s and are considered one of the oldest heirloom varieties.",
+              "planting_tip": "Plant Brandywine tomatoes in well-drained soil with good sunlight. Provide sturdy support for indeterminate vines. Water consistently, aiming for twice a week, and fertilize every three weeks. Prune to manage plant shape and promote air circulation. Enjoy the unique and delicious taste of Brandywine tomatoes!",
+              "spacing": "3-4 feet apart."
+            },
+            {
+                "id": 9,
+              "name": "Tiny Tim",
+              "description": "Tiny Tim tomatoes are a dwarf cherry tomato variety, perfect for small spaces and container gardening. Despite their petite size, these determinate plants produce tiny, flavorful fruits. With a compact and bushy growth habit, Tiny Tim tomatoes are an excellent choice for patio gardens and windowsill containers.",
+              "growth_mode": "determinate",
+              "days_to_harvest": {
+                "lower_estimate": 50,
+                "higher_estimate": 55
+              },
+              "is_container_variety": true,
+              "fruit_color": "Red",
+              "flower_color": "Yellow",
+              "leaf_color": "Green",
+              "fruit_weight": "Less than 1 ounce",
+              "plant_height": "8-12 inches",
+              "best_uses": ["Containers", "Window Boxes", "Small Gardens"],
+              "needs_support": false,
+              "water_requirement": "Once a week",
+              "feeding_requirement": "Every four weeks",
+              "requires_pruning": false,
+              "fun_fact": "Did you know? Tiny Tim tomatoes are often considered one of the smallest tomato varieties, making them ideal for compact gardening spaces.",
+              "planting_tip": "Plant Tiny Tim tomatoes in well-drained soil in containers or small garden spaces with good sunlight. Water consistently, aiming for once a week, and fertilize every four weeks. Since they are determinate, pruning is generally not necessary. Enjoy the miniature beauty of Tiny Tim tomatoes!",
+              "spacing": "6-8 inches apart."
+            },
+            {
+                "id": 10,
+              "name": "Black Krim",
+              "description": "Black Krim tomatoes are an heirloom variety with a distinct and dark coloration. Known for their rich, smoky flavor, these indeterminate tomatoes have a deep purple-brown hue. Black Krim tomatoes are popular among gardeners and chefs seeking a unique and flavorful addition to salads and gourmet dishes.",
+              "growth_mode": "indeterminate",
+              "days_to_harvest": {
+                "lower_estimate": 75,
+                "higher_estimate": 90
+              },
+              "is_container_variety": false,
+              "fruit_color": "Deep Purple-Brown",
+              "flower_color": "Yellow",
+              "leaf_color": "Green",
+              "fruit_weight": "8-12 ounces",
+              "plant_height": "5-7 feet",
+              "best_uses": ["Slicing", "Salads", "Gourmet Dishes"],
+              "needs_support": true,
+              "water_requirement": "Twice a week",
+              "feeding_requirement": "Every three weeks",
+              "requires_pruning": true,
+              "fun_fact": "Did you know? Black Krim tomatoes are believed to have originated in Crimea, and their dark color intensifies with sun exposure.",
+              "planting_tip": "Plant Black Krim tomatoes in well-drained soil with good sunlight. Provide sturdy support for indeterminate vines. Water consistently, aiming for twice a week, and fertilize every three weeks. Prune to manage plant shape and promote air circulation. Enjoy the unique and smoky flavor of Black Krim tomatoes!",
+              "spacing": "3-4 feet apart."
+            },
+            {
+                "id": 11,
+              "name": "Green Zebra",
+              "description": "Green Zebra tomatoes are a visually striking and flavorful variety known for their vibrant green and yellow stripes. These indeterminate tomatoes offer a unique and tangy taste, making them a popular choice for salads and culinary creations. With their distinctive appearance and lively flavor, Green Zebra tomatoes add a playful touch to the garden and the kitchen.",
+              "growth_mode": "indeterminate",
+              "days_to_harvest": {
+                "lower_estimate": 75,
+                "higher_estimate": 85
+              },
+              "is_container_variety": true,
+              "fruit_color": "Green with Yellow Stripes",
+              "flower_color": "Yellow",
+              "leaf_color": "Green"
+              "fruit_weight": "4-6 ounces",
+              "plant_height": "5-6 feet",
+              "best_uses": ["Salads", "Slicing", "Garnishes"],
+              "needs_support": true,
+              "water_requirement": "Twice a week",
+              "feeding_requirement": "Every three weeks",
+              "requires_pruning": true,
+              "fun_fact": "Did you know? Green Zebra tomatoes were developed by Tom Wagner and introduced in the 1980s, contributing a playful twist to tomato varieties.",
+              "planting_tip": "Plant Green Zebra tomatoes in well-drained soil with good sunlight. Provide sturdy support for indeterminate vines. Water consistently, aiming for twice a week, and fertilize every three weeks. Prune to manage plant shape and promote air circulation. Enjoy the lively and tangy flavor of Green Zebra tomatoes!",
+              "spacing": "Space plants 3-4 feet apart."
+            },
+            {
+                "id": 12,
+              "name": "Jaune Flamme",
+              "description": "Jaune Flamme tomatoes, also known as Jaune Flammée or Yellow Flame, are a French heirloom variety prized for their small size and intense flavor. These determinate tomatoes bear small, apricot-colored fruits with a sweet and fruity taste. Jaune Flamme tomatoes are perfect for snacking, salads, and culinary creations that require a burst of vibrant flavor.",
+              "growth_mode": "determinate",
+              "days_to_harvest": {
+                "lower_estimate": 65,
+                "higher_estimate": 75
+              },
+              "is_container_variety": true,
+              "fruit_color": "Apricot",
+              "flower_color": "Yellow",
+              "fruit_weight": "Less than 1 ounce",
+              "plant_height": "3-4 feet",
+              "best_uses": ["Snacking", "Salads", "Culinary Creations"],
+              "needs_support": true,
+              "water_requirement": "Once a week",
+              "feeding_requirement": "Every two weeks",
+              "requires_pruning": false,
+              "fun_fact": "Did you know? Jaune Flamme tomatoes are often praised for their exceptional balance of sweetness and acidity.",
+              "planting_tip": "Plant Jaune Flamme tomatoes in well-drained soil with good sunlight. Water consistently, aiming for once a week, and fertilize every two weeks. Since they are determinate, pruning is generally not necessary. Enjoy the delightful burst of flavor from Jaune Flamme tomatoes!",
+              "spacing": "2-3 feet"
+            },
+            {
+                "id": 13,
+              "name": "Mortgage Lifter Tomatoes",
+              "description": "Mortgage Lifter tomatoes are a legendary heirloom variety with a fascinating history. Developed in the 1930s, these indeterminate tomatoes are known for their large, pinkish-red fruits and exceptional taste. Mortgage Lifter tomatoes earned their name from the story of a gardener who used the proceeds from selling the plants to pay off his mortgage. With a sweet and meaty flavor, they remain a popular choice among tomato enthusiasts.",
+              "growth_mode": "indeterminate",
+              "days_to_harvest": {
+                "lower_estimate": 80,
+                "higher_estimate": 90
+              },
+              "is_container_variety": true,
+              "fruit_color": "Pinkish-Red",
+              "flower_color": "Yellow",
+              "leaf_color": "Green",
+              "fruit_weight": "10-16 ounces",
+              "plant_height": "6-8 feet",
+              "best_uses": ["Slicing", "Canning", "Sauces"],
+              "needs_support": true,
+              "water_requirement": "Twice a week",
+              "feeding_requirement": "Every three weeks",
+              "requires_pruning": true,
+              "fun_fact": "Did you know? Mortgage Lifter tomatoes are renowned for their large size and were developed by crossbreeding four different varieties.",
+              "planting_tip": "Plant Mortgage Lifter tomatoes in well-drained soil with good sunlight. Provide sturdy support for indeterminate vines. Water consistently, aiming for twice a week, and fertilize every three weeks. Prune to manage plant shape and promote air circulation. Enjoy the history and flavor of Mortgage Lifter tomatoes!",
+              "spacing": "3-4 feet"
+            },
+            {
+                "id": 14,
+              "name": "Chocolate Cherry",
+              "description": "Chocolate Cherry tomatoes are a delectable cherry tomato variety with a unique and rich flavor. These indeterminate vines produce clusters of small, chocolate-brown tomatoes that are both sweet and complex. Perfect for snacking, salads, and adding a burst of color to culinary creations, Chocolate Cherry tomatoes are a favorite among gardeners and food enthusiasts.",
+              "growth_mode": "indeterminate",
+              "days_to_harvest": {
+                "lower_estimate": 65,
+                "higher_estimate": 75
+              },
+              "is_container_variety": false,
+              "fruit_color": "Chocolate-Brown",
+              "flower_color": "Yellow",
+              "fruit_weight": "Less than 1 ounce",
+              "plant_height": "5-6 feet",
+              "best_uses": ["Snacking", "Salads", "Garnishes"],
+              "needs_support": true,
+              "water_requirement": "Twice a week",
+              "feeding_requirement": "Every two weeks",
+              "requires_pruning": true,
+              "fun_fact": "Did you know? Chocolate Cherry tomatoes are often praised for their rich flavor, combining sweetness with earthy undertones.",
+              "planting_tip": "Plant Chocolate Cherry tomatoes in well-drained soil with good sunlight. Provide sturdy support for indeterminate vines. Water consistently, aiming for twice a week, and fertilize every two weeks. Prune to manage plant shape and promote air circulation. Enjoy the unique and rich flavor of Chocolate Cherry tomatoes!",
+              "spacing": "3-4 feet"
+            }
+
+
+
+
+
+
+
+
+
+
+
+        ]
+        }
+]
