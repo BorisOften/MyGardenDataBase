@@ -581,7 +581,7 @@
                   "overwrite_common_features": {
                       "propagation_methods": ["Seedlings"],
                       "days_to_germination": "14-21 days",
-                      "life_cycle": "Perennial",
+                      "life_cycle": "Perennial"
                   }
                 }
         ]
