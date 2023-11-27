@@ -319,6 +319,7 @@
               "is_container_variety": true,
               "fruit_color": "Apricot",
               "flower_color": "Yellow",
+              "leaf_color": "Green",
               "fruit_weight": "Less than 1 ounce",
               "plant_height": "3-4 feet",
               "best_uses": ["Snacking", "Salads", "Culinary Creations"],
@@ -366,6 +367,7 @@
               "is_container_variety": false,
               "fruit_color": "Chocolate-Brown",
               "flower_color": "Yellow",
+              "leaf_color": "Green",
               "fruit_weight": "Less than 1 ounce",
               "plant_height": "5-6 feet",
               "best_uses": ["Snacking", "Salads", "Garnishes"],
@@ -377,17 +379,6 @@
               "planting_tip": "Plant Chocolate Cherry tomatoes in well-drained soil with good sunlight. Provide sturdy support for indeterminate vines. Water consistently, aiming for twice a week, and fertilize every two weeks. Prune to manage plant shape and promote air circulation. Enjoy the unique and rich flavor of Chocolate Cherry tomatoes!",
               "spacing": "3-4 feet"
             }
-
-
-
-
-
-
-
-
-
-
-
         ]
         },
     {
