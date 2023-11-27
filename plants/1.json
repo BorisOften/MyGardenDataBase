@@ -2,7 +2,7 @@
     {
         "id": 0,
         "name": "Tomato",
-        "varieties_common_feature": {
+        "varieties_common_features": {
             "sunlight_requirement": "Full Sun",
             "propagation_methods": ["Seeds", "Seedlings"],
             "soil_acidity_range": {
@@ -389,5 +389,203 @@
 
 
         ]
+        },
+    {
+        "id": 1,
+        "name": "Basil",
+        "varieties_common_features": {
+            "sunlight_requirement": "Full Sun to Partial Shade",
+            "propagation_methods": ["Seeds", "Seedlings"],
+            "soil_acidity_range": {
+              "lower_bound": 6.0,
+              "upper_bound": 7.0
+            },
+            "days_to_germination": 5,
+            "frost_tolerance": false,
+            "planting_depth": "1/4 inch",
+            "spacing": "8-12 inches",
+            "life_cycle": "Annual",
+            "season": "Warm"
+        },
+        "varieties": [
+                {
+                    "id": 0,
+                  "name": "Sweet Basil",
+                  "description": "Sweet Basil is a popular culinary herb known for its aromatic leaves and versatile uses in cooking. With a sweet and slightly peppery flavor, it is a key ingredient in various dishes, including pasta, salads, and pesto. Sweet Basil is an annual herb that thrives in warm climates, making it a favorite among gardeners and chefs alike.",
+                  "growth_mode": "annual",
+                  "days_to_harvest": {
+                    "lower_estimate": 60,
+                    "higher_estimate": 90
+                  },
+                  "is_container_variety": true,
+                  "fruit_color": null,
+                  "flower_color": "White",
+                  "leaf_color": "Green",
+                  "fruit_weight": null,
+                  "plant_height": "12-24 inches",
+                  "best_uses": ["Culinary", "Medicinal", "Aromatic"],
+                  "needs_support": false,
+                  "water_requirement": "Regularly",
+                  "feeding_requirement": "Every four weeks",
+                  "requires_pruning": true,
+                  "fun_fact": "Did you know? Sweet Basil is not only valued for its culinary uses but is also associated with various cultural and medicinal traditions.",
+                  "planting_tip": "Plant Sweet Basil in well-drained soil with good sunlight. Water regularly, allowing the soil to dry out between watering. Fertilize every four weeks to promote healthy growth. Prune regularly to encourage bushier and more compact growth. Harvest leaves regularly to encourage continuous production.",
+                  "spacing": "8-12 inches"
+                },
+                {
+                    "id": 1,
+                  "name": "Genovese Basil",
+                  "description": "Genovese Basil is a classic and widely-used basil variety, known for its strong aroma and bold, sweet flavor. This annual herb is a staple in Italian cuisine and is commonly used in pesto, salads, and various dishes. With large, dark green leaves, Genovese Basil adds a rich and aromatic dimension to culinary creations.",
+                  "growth_mode": "annual",
+                  "days_to_harvest": {
+                    "lower_estimate": 60,
+                    "higher_estimate": 90
+                  },
+                  "is_container_variety": true,
+                  "fruit_color": null,
+                  "flower_color": "White",
+                  "leaf_color": "Dark Green",
+                  "fruit_weight": null,
+                  "plant_height": "18-24 inches",
+                  "best_uses": ["Culinary", "Pesto", "Salads"],
+                  "needs_support": false,
+                  "water_requirement": "Regularly",
+                  "feeding_requirement": "Every four weeks",
+                  "requires_pruning": true,
+                  "fun_fact": "Did you know? Genovese Basil is often considered the best basil for making traditional pesto.",
+                  "planting_tip": "Plant Genovese Basil in well-drained soil with good sunlight. Water regularly, allowing the soil to dry out between watering. Fertilize every four weeks to promote healthy growth. Prune regularly to encourage bushier and more compact growth. Harvest leaves regularly for culinary use.",
+                  "spacing": "8-12 inches"
+                },
+                {
+                    "id": 2,
+                  "name": "Thai Basil",
+                  "description": "Thai Basil, also known as Holy Basil, is a flavorful basil variety with a distinct anise-like aroma and spicy flavor. Widely used in Thai and Southeast Asian cuisines, this annual herb adds a unique and aromatic touch to curries, stir-fries, and noodle dishes. With purple stems and blooms, Thai Basil is not only culinary but also ornamental.",
+                  "growth_mode": "annual",
+                  "days_to_harvest": {
+                    "lower_estimate": 60,
+                    "higher_estimate": 90
+                  },
+                  "is_container_variety": true,
+                  "fruit_color": null,
+                  "flower_color": "Purple",
+                  "leaf_color": "Green",
+                  "fruit_weight": null,
+                  "plant_height": "12-18 inches",
+                  "best_uses": ["Culinary", "Curries", "Stir-fries"],
+                  "needs_support": false,
+                  "water_requirement": "Regularly",
+                  "feeding_requirement": "Every four weeks",
+                  "requires_pruning": true,
+                  "fun_fact": "Did you know? Thai Basil is often considered a sacred herb in some cultures and has medicinal uses.",
+                  "planting_tip": "Plant Thai Basil in well-drained soil with good sunlight. Water regularly, allowing the soil to dry out between watering. Fertilize every four weeks to promote healthy growth. Prune regularly to encourage bushier and more compact growth. Harvest leaves regularly for culinary and medicinal use.",
+                  "spacing": "8-12 inches"
+                },
+                {
+                    "id": 3,
+                  "name": "Lemon Basil",
+                  "description": "Lemon Basil is a delightful basil variety with a citrusy aroma and flavor reminiscent of lemon. This annual herb is a versatile addition to both sweet and savory dishes, adding a refreshing and zesty twist. With bright green leaves and a distinct lemon scent, Lemon Basil is a popular choice for teas, desserts, and summer dishes.",
+                  "growth_mode": "annual",
+                  "days_to_harvest": {
+                    "lower_estimate": 60,
+                    "higher_estimate": 90
+                  },
+                  "is_container_variety": true,
+                  "fruit_color": null,
+                  "flower_color": "White",
+                  "leaf_color": "Bright Green",
+                  "fruit_weight": null,
+                  "plant_height": "12-18 inches",
+                  "best_uses": ["Culinary", "Teas", "Desserts"],
+                  "needs_support": false,
+                  "water_requirement": "Regularly",
+                  "feeding_requirement": "Every four weeks",
+                  "requires_pruning": true,
+                  "fun_fact": "Did you know? Lemon Basil is known for its aromatic oils, which are often used in perfumes and aromatherapy.",
+                  "planting_tip": "Plant Lemon Basil in well-drained soil with good sunlight. Water regularly, allowing the soil to dry out between watering. Fertilize every four weeks to promote healthy growth. Prune regularly to encourage bushier and more compact growth. Harvest leaves regularly for culinary and aromatic use.",
+                  "spacing": "8-12 inches"
+                },
+                
+                {
+                    "id": 4,
+                  "name": "Purple Ruffles Basil",
+                  "description": "Purple Ruffles Basil is a visually stunning basil variety known for its deeply ruffled and purple-tinged leaves. This annual herb not only adds a unique aesthetic to the garden but also offers a sweet basil flavor. With its ornamental and culinary appeal, Purple Ruffles Basil is a favorite for garnishes, salads, and culinary creations.",
+                  "growth_mode": "annual",
+                  "days_to_harvest": {
+                    "lower_estimate": 60,
+                    "higher_estimate": 90
+                  },
+                  "is_container_variety": true,
+                  "fruit_color": null,
+                  "flower_color": "White",
+                  "leaf_color": "Purple",
+                  "fruit_weight": null,
+                  "plant_height": "12-18 inches",
+                  "best_uses": ["Culinary", "Garnishes", "Salads"],
+                  "needs_support": false,
+                  "water_requirement": "Regularly",
+                  "feeding_requirement": "Every four weeks",
+                  "requires_pruning": true,
+                  "fun_fact": "Did you know? Purple Ruffles Basil is often used as both a culinary herb and an ornamental plant in garden design.",
+                  "planting_tip": "Plant Purple Ruffles Basil in well-drained soil with good sunlight. Water regularly, allowing the soil to dry out between watering. Fertilize every four weeks to promote healthy growth. Prune regularly to encourage bushier and more compact growth. Harvest leaves regularly for culinary and ornamental use.",
+                  "spacing": "8-12 inches"
+                },
+
+                {
+                    "id": 5,
+                  "name": "Cinnamon Basil",
+                  "description": "Cinnamon Basil is a unique basil variety known for its distinct cinnamon-like aroma and flavor. This annual herb adds a warm and spicy note to both sweet and savory dishes. With green leaves and a delightful fragrance, Cinnamon Basil is a wonderful addition to teas, desserts, and recipes that benefit from a touch of cinnamon.",
+                  "growth_mode": "annual",
+                  "days_to_harvest": {
+                    "lower_estimate": 60,
+                    "higher_estimate": 90
+                  },
+                  "is_container_variety": true,
+                  "fruit_color": null,
+                  "flower_color": "White",
+                  "leaf_color": "Green",
+                  "fruit_weight": null,
+                  "plant_height": "12-18 inches",
+                  "best_uses": ["Culinary", "Teas", "Desserts"],
+                  "needs_support": false,
+                  "water_requirement": "Regularly",
+                  "feeding_requirement": "Every four weeks",
+                  "requires_pruning": true,
+                  "fun_fact": "Did you know? Cinnamon Basil is valued not only for its culinary uses but also for its potential medicinal properties.",
+                  "planting_tip": "Plant Cinnamon Basil in well-drained soil with good sunlight. Water regularly, allowing the soil to dry out between watering. Fertilize every four weeks to promote healthy growth. Prune regularly to encourage bushier and more compact growth. Harvest leaves regularly for culinary and aromatic use.",
+                  "spacing": "8-12 inches"
+                },
+                
+                {
+                    "id": 6,
+                  "name": "African Blue Basil",
+                  "description": "African Blue Basil is a unique and ornamental basil variety with attractive purple stems and flowers. While it shares the aromatic qualities of traditional basil, African Blue Basil stands out with its striking appearance. This perennial herb is not only a flavorful addition to dishes but also a beautiful and pollinator-friendly plant for gardens.",
+                  "growth_mode": "annual",
+                  "days_to_harvest": {
+                    "lower_estimate": 60,
+                    "higher_estimate": 90
+                  },
+                  "is_container_variety": true,
+                  "fruit_color": null,
+                  "flower_color": "Purple",
+                  "leaf_color": "Green with Purple Accents",
+                  "fruit_weight": null,
+                  "plant_height": "24-36 inches",
+                  "best_uses": ["Culinary", "Teas", "Desserts"],
+                  "needs_support": false,
+                  "water_requirement": "Regularly",
+                  "feeding_requirement": "Every four weeks",
+                  "requires_pruning": true,
+                  "fun_fact": "Did you know? Cinnamon Basil is valued not only for its culinary uses but also for its potential medicinal properties.",
+                  "planting_tip": "Plant Cinnamon Basil in well-drained soil with good sunlight. Water regularly, allowing the soil to dry out between watering. Fertilize every four weeks to promote healthy growth. Prune regularly to encourage bushier and more compact growth. Harvest leaves regularly for culinary and aromatic use.",
+                  "spacing": "8-12 inches",
+                  "overwrite_common_features": {
+                      "propagation_methods": ["Seedlings"],
+                      "days_to_germination": "14-21 days",
+                      "life_cycle": "Perennial",
+                  }
+                }
+        ]
+        
         }
+
 ]
