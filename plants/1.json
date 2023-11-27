@@ -1,7 +1,7 @@
 [
     {
         "id": 0,
-        "name": "Tomato",
+        "name": "tomato",
         "varieties_common_features": {
             "sunlight_requirement": "Full Sun",
             "propagation_methods": ["Seeds", "Seedlings"],
@@ -383,7 +383,7 @@
         },
     {
         "id": 1,
-        "name": "Basil",
+        "name": "basil",
         "varieties_common_features": {
             "sunlight_requirement": "Full Sun to Partial Shade",
             "propagation_methods": ["Seeds", "Seedlings"],
