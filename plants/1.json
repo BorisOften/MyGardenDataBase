@@ -9,7 +9,7 @@
               "lower_bound": 6.0,
               "upper_bound": 7.0
             },
-            "days_to_germination": 5,
+            "days_to_germination": "5-7 days",
             "frost_tolerance": false,
             "planting_depth": "1/4 - 1/2 inch deep",
             "spacing": "2-3 feet apart",
@@ -391,7 +391,7 @@
               "lower_bound": 6.0,
               "upper_bound": 7.0
             },
-            "days_to_germination": 5,
+            "days_to_germination": "5-7 days",
             "frost_tolerance": false,
             "planting_depth": "1/4 inch",
             "spacing": "8-12 inches",
@@ -577,6 +577,307 @@
                 }
         ]
         
-        }
+        },
+    {
+        "id": 2,
+        "name": "parsley",
+        "varieties_common_features": {
+            "sunlight_requirement": "Full Sun to Partial Shade",
+            "propagation_methods": ["Seeds"],
+            "soil_acidity_range": {
+              "lower_bound": 6.0,
+              "upper_bound": 7.5
+            },
+            "days_to_germination": "14-21 days",
+            "frost_tolerance": true,
+            "planting_depth": "1/4 inch",
+            "spacing": "8-12 inches",
+            "life_cycle": "Biennial",
+            "season": "Cold"
+        },
+        "varieties": [
+            {
+                "id": 0,
+                "name": "Italian Flat Leaf",
+                "description": "Italian Flat Leaf Parsley is a versatile herb known for its fresh and robust flavor. With flat, dark green leaves, this biennial herb is a staple in Mediterranean and international cuisines. Italian Flat Leaf Parsley is not only a culinary delight but also a nutritional powerhouse, adding brightness to salads, soups, and various dishes.",
+                "growth_mode": null,
+                "days_to_harvest": {
+                  "lower_estimate": 70,
+                  "higher_estimate": 90
+                },
+                "is_container_variety": true,
+                "fruit_color": null,
+                "flower_color": "White",
+                "leaf_color": "Dark Green",
+                "fruit_weight": null,
+                "plant_height": "12-18 inches",
+                "best_uses": ["Culinary", "Garnishes", "Salads"],
+                "needs_support": false,
+                "water_requirement": "Regularly",
+                "feeding_requirement": "Every four weeks",
+                "requires_pruning": true,
+                "fun_fact": "Did you know? Italian Flat Leaf Parsley is rich in vitamins, particularly vitamin K, and is a source of antioxidants.",
+                "planting_tip": "Plant Italian Flat Leaf Parsley in well-drained soil with partial to full sunlight. Water regularly, keeping the soil consistently moist. Fertilize every four weeks to support healthy growth. Prune regularly to encourage a bushy habit and to harvest fresh leaves for culinary use.",
+                "spacing": "8-12 inches"
+            },
+            {
+                "id": 1,
+                "name": "Curly Leaf",
+                "description": "Curly Leaf Parsley is a decorative and flavorful herb with tightly curled, bright green leaves. As a biennial herb, it is a popular choice for garnishing and adding a fresh, crisp texture to dishes. The curly leaves make it an attractive and functional addition to both culinary and ornamental gardens.",
+                "growth_mode": null,
+                "days_to_harvest": {
+                  "lower_estimate": 70,
+                  "higher_estimate": 90
+                },
+                "is_container_variety": true,
+                "fruit_color": null,
+                "flower_color": "White",
+                "leaf_color": "Bright Green",
+                "fruit_weight": null,
+                "plant_height": "12-18 inches",
+                "best_uses": ["Culinary", "Garnishes", "Salads"],
+                "needs_support": false,
+                "water_requirement": "Regularly",
+                "feeding_requirement": "Every four weeks",
+                "requires_pruning": true,
+                "fun_fact": "Did you know? Curly Leaf Parsley is often used as both a culinary herb and an edible garnish in various cuisines.",
+                "planting_tip": "Plant Curly Leaf Parsley in well-drained soil with partial to full sunlight. Water regularly, keeping the soil consistently moist. Fertilize every four weeks to support healthy growth. Prune regularly to encourage a bushy habit and to harvest fresh leaves for culinary use.",
+                "spacing": "8-12 inches"
+            },
+            {
+                "id": 2,
+                "name": "Hamburg Root",
+                "description": "Hamburg Root Parsley, also known as Hamburg Parsley or Turnip-Rooted Parsley, is valued for its edible root and flavorful leaves. This biennial herb features a robust, parsley-like flavor and is a versatile addition to both culinary and root vegetable gardens. The enlarged root is the primary edible part, offering a unique culinary experience.",
+                "growth_mode": null,
+                "days_to_harvest": {
+                  "lower_estimate": 90,
+                  "higher_estimate": 120
+                },
+                "is_container_variety": true,
+                "fruit_color": null,
+                "flower_color": "White",
+                "leaf_color": "Bright Green",
+                "fruit_weight": null,
+                "plant_height": "18-24 inches",
+                "best_uses": ["Culinary", "Root Vegetable", "Leaves"],
+                "needs_support": false,
+                "water_requirement": "Regularly",
+                "feeding_requirement": "Every six weeks",
+                "requires_pruning": true,
+                "fun_fact": "Did you know? Hamburg Root Parsley is prized for its edible root, which has a mild parsley flavor and can be used in various culinary applications.",
+                "planting_tip": "Plant Hamburg Root Parsley in well-drained soil with partial to full sunlight. Water regularly, keeping the soil consistently moist. Fertilize every six weeks to support healthy growth. Prune regularly to encourage leaf production and to harvest roots for culinary use.",
+                "spacing": "10-14 inches"
+            },
+            {
+                "id": 3,
+                "name": "Triple Curled",
+                "description": "Triple Curled Parsley is an ornamental and flavorful herb featuring deeply curled, dark green leaves. As a biennial herb, it is commonly used as a garnish and in various culinary applications. The tightly curled leaves add an elegant touch to dishes, making it a favorite in both home gardens and professional kitchens.",
+                "growth_mode": null,
+                "days_to_harvest": {
+                  "lower_estimate": 70,
+                  "higher_estimate": 90
+                },
+                "is_container_variety": true,
+                "fruit_color": null,
+                "flower_color": "White",
+                "leaf_color": "Dark Green",
+                "fruit_weight": null,
+                "plant_height": "12-18 inches",
+                "best_uses": ["Culinary", "Garnishes", "Salads"],
+                "needs_support": false,
+                "water_requirement": "Regularly",
+                "feeding_requirement": "Every four weeks",
+                "requires_pruning": true,
+                "fun_fact": "Did you know? Triple Curled Parsley is often used not only for its culinary qualities but also as an attractive edging plant in garden beds.",
+                "planting_tip": "Plant Triple Curled Parsley in well-drained soil with partial to full sunlight. Water regularly, keeping the soil consistently moist. Fertilize every four weeks to support healthy growth. Prune regularly to encourage a bushy habit and to harvest fresh leaves for culinary use.",
+                "spacing": "8-12 inches"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "cilantro",
+        "varieties_common_features": {
+            "sunlight_requirement": "Full Sun to Partial Shade",
+            "propagation_methods": ["Seeds"],
+            "soil_acidity_range": {
+              "lower_bound": 6.0,
+              "upper_bound": 7.5
+            },
+            "days_to_germination": "7-14 days",
+            "frost_tolerance": false,
+            "planting_depth": "1/4 inch",
+            "spacing": "8-12 inches",
+            "life_cycle": "Annual",
+            "season": "Cold"
+        },
+        "varieties": [
+            {
+                "id": 0,
+                "name": "Slow Bolt",
+                "description": "Slow Bolt Cilantro is a cilantro variety known for its slower bolting tendencies, allowing for a more extended harvest period. With fresh and vibrant leaves, this annual herb is a popular choice for culinary use in various cuisines. Slow Bolt Cilantro is valued for its ability to resist premature flowering, ensuring a longer availability of flavorful leaves.",
+                "growth_mode": null,
+                "days_to_harvest": {
+                  "lower_estimate": 45,
+                  "higher_estimate": 70
+                },
+                "is_container_variety": true,
+                "fruit_color": null,
+                "flower_color": "White",
+                "leaf_color": "Bright Green",
+                "fruit_weight": null,
+                "plant_height": "12-18 inches",
+                "best_uses": ["Culinary", "Salsas", "Soups"],
+                "needs_support": false,
+                "water_requirement": "Regularly",
+                "feeding_requirement": "Every four weeks",
+                "requires_pruning": true,
+                "fun_fact": "Did you know? Slow Bolt Cilantro is favored by gardeners for its resistance to bolting, providing a more extended harvest window for fresh leaves.",
+                "planting_tip": "Plant Slow Bolt Cilantro in well-drained soil with partial to full sunlight. Water regularly, keeping the soil consistently moist. Fertilize every four weeks to support healthy growth. Prune regularly to encourage leaf production and prevent premature flowering.",
+                "spacing": "6-8 inches"
+            },
+            {
+                "id": 1,
+                "name": "Delfino",
+                "description": "Delfino Cilantro, also known as Fernleaf Cilantro, is a unique cilantro variety with finely cut, feathery leaves. This annual herb offers a distinct appearance and is prized for its fresh and aromatic flavor. With a compact growth habit, Delfino Cilantro is well-suited for containers and small garden spaces.",
+                "growth_mode": null,
+                "days_to_harvest": {
+                  "lower_estimate": 40,
+                  "higher_estimate": 60
+                },
+                "is_container_variety": true,
+                "fruit_color": null,
+                "flower_color": "White",
+                "leaf_color": "Bright Green",
+                "fruit_weight": null,
+                "plant_height": "12-18 inches",
+                "best_uses": ["Culinary", "Garnishes", "Containers"],
+                "needs_support": false,
+                "water_requirement": "Regularly",
+                "feeding_requirement": "Every four weeks",
+                "requires_pruning": true,
+                "fun_fact": "Did you know? Delfino Cilantro is well-suited for small spaces and container gardening due to its compact and airy growth habit.",
+                "planting_tip": "Plant Delfino Cilantro in well-drained soil with partial to full sunlight. Water regularly, keeping the soil consistently moist. Fertilize every four weeks to support healthy growth. Prune regularly to encourage leaf production and maintain a compact shape.",
+                "spacing": "6-8 inches"
+            },
+            {
+                "id": 2,
+                "name": "Santo",
+                "description": "Santo Cilantro is a classic cilantro variety known for its robust and traditional flavor. This annual herb is a popular choice for culinary use in a wide range of dishes, including salsas, salads, and soups. With a standard cilantro appearance, Santo Cilantro is a reliable and flavorful addition to herb gardens.",
+                "growth_mode": null,
+                "days_to_harvest": {
+                  "lower_estimate": 40,
+                  "higher_estimate": 60
+                },
+                "is_container_variety": true,
+                "fruit_color": null,
+                "flower_color": "White",
+                "leaf_color": "Bright Green",
+                "fruit_weight": null,
+                "plant_height": "18-24 inches",
+                "best_uses": ["Culinary", "Salsas", "Soups"],
+                "needs_support": false,
+                "water_requirement": "Regularly",
+                "feeding_requirement": "Every four weeks",
+                "requires_pruning": true,
+                "fun_fact": "Did you know? Santo Cilantro is widely used in many cuisines for its distinctive flavor, often described as fresh and citrusy.",
+                "planting_tip": "Plant Santo Cilantro in well-drained soil with partial to full sunlight. Water regularly, keeping the soil consistently moist. Fertilize every four weeks to support healthy growth. Prune regularly to encourage leaf production and prevent premature flowering.",
+                "spacing": "6-8 inches"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "thyme",
+        "varieties_common_features": {
+            "sunlight_requirement": "Full Sun",
+            "propagation_methods": ["Seeds", "Cuttings"],
+            "soil_acidity_range": {
+              "lower_bound": 6.0,
+              "upper_bound": 7.5
+            },
+            "days_to_germination": "14-21 days",
+            "frost_tolerance": true,
+            "planting_depth": "1/4 inch",
+            "spacing": "8-12 inches",
+            "life_cycle": "Perennial",
+            "season": "Warm"
+        },
+        "varieties": [
+            {
+                "id": 0,
+                "name": "English",
+                "description": "English Thyme is a classic and versatile herb with small, aromatic leaves. This perennial herb is well-known for its culinary uses and is a key ingredient in various cuisines. With a low-growing and spreading habit, English Thyme is often used in both cooking and ornamental landscaping.",
+                "growth_mode": null,
+                "days_to_harvest": {
+                  "lower_estimate": 60,
+                  "higher_estimate": 90
+                },
+                "is_container_variety": true,
+                "fruit_color": null,
+                "flower_color": "Purple",
+                "leaf_color": "Green",
+                "fruit_weight": null,
+                "plant_height": "6-12 inches",
+                "best_uses": ["Culinary", "Ground Cover", "Containers"],
+                "needs_support": false,
+                "water_requirement": "Moderate",
+                "feeding_requirement": "Every six weeks",
+                "requires_pruning": true,
+                "fun_fact": "Did you know? English Thyme is a popular herb in traditional English cooking and is often used in stews, soups, and roasts.",
+                "planting_tip": "Plant English Thyme in well-drained soil with full sunlight. Water moderately, allowing the soil to dry out between watering. Fertilize every six weeks to promote healthy growth. Prune regularly to maintain a compact shape and harvest fresh leaves for culinary use.",
+                "spacing": "8-12 inches"
+            },
+            {
+                "id": 1,
+                "name": "Lemon",
+                "description": "Lemon Thyme is a fragrant and flavorful herb known for its citrusy aroma and taste. This perennial herb adds a unique twist to both savory and sweet dishes. With small, green leaves and a prostrate growth habit, Lemon Thyme is a delightful addition to herb gardens, borders, and containers.",
+                "growth_mode": null,
+                "days_to_harvest": {
+                  "lower_estimate": 60,
+                  "higher_estimate": 90
+                },
+                "is_container_variety": true,
+                "fruit_color": null,
+                "flower_color": "Purple",
+                "leaf_color": "Green",
+                "fruit_weight": null,
+                "plant_height": "6-12 inches",
+                "best_uses": ["Culinary", "Aromatherapy", "Containers"],
+                "needs_support": false,
+                "water_requirement": "Moderate",
+                "feeding_requirement": "Every six weeks",
+                "requires_pruning": true,
+                "fun_fact": "Did you know? Lemon Thyme is not only valued in cooking but also for its aromatic oils, which are used in aromatherapy and herbal teas.",
+                "planting_tip": "Plant Lemon Thyme in well-drained soil with full sunlight. Water moderately, allowing the soil to dry out between watering. Fertilize every six weeks to promote healthy growth. Prune regularly to maintain a compact shape and harvest fresh leaves for culinary and aromatic use.",
+                "spacing": "6-10 inches"
+            },
+            
+            {
+                "id": 2,
+                "name": "French",
+                "description": "French Thyme, also known as Summer Thyme, is a culinary herb with aromatic leaves that are commonly used in French cuisine. This perennial herb has a bushy growth habit and adds a savory flavor to various dishes. With its versatility and culinary appeal, French Thyme is a popular choice for herb gardens and kitchen windowsills.",
+                "growth_mode": null,
+                "days_to_harvest": {
+                  "lower_estimate": 60,
+                  "higher_estimate": 90
+                },
+                "is_container_variety": true,
+                "fruit_color": null,
+                "flower_color": "Purple",
+                "leaf_color": "Green",
+                "fruit_weight": null,
+                "plant_height": "12-18 inches",
+                "best_uses": ["Culinary", "Herb Gardens", "Containers"],
+                "needs_support": false,
+                "water_requirement": "Moderate",
+                "feeding_requirement": "Every six weeks",
+                "requires_pruning": true,
+                "fun_fact": "Did you know? French Thyme is a key ingredient in the classic French herb blend 'Herbes de Provence,' which is used in a variety of Mediterranean dishes.",
+                "planting_tip": "Plant French Thyme in well-drained soil with full sunlight. Water moderately, allowing the soil to dry out between watering. Fertilize every six weeks to promote healthy growth. Prune regularly to maintain a bushy habit and harvest fresh leaves for culinary use.",
+                "spacing": "8-12 inches"
+            }
 
+        ]
+    }
 ]
