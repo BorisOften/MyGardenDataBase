@@ -879,5 +879,160 @@
             }
 
         ]
+    },
+    {
+        "id": 5,
+        "name": "thyme",
+        "varieties_common_features": {
+            "sunlight_requirement": "Full Sun to Partial Shade",
+            "propagation_methods": ["Seeds", "Cuttings"],
+            "soil_acidity_range": {
+              "lower_bound": 6.0,
+              "upper_bound": 7.5
+            },
+            "days_to_germination": "10-14 days",
+            "frost_tolerance": true,
+            "planting_depth": "1/4 inch",
+            "spacing": "8-12 inches",
+            "life_cycle": "Perennial",
+            "season": "Cool to Warm"
+        },
+        "varieties": [
+            {
+                "id": 0,
+                "name": "Peppermint",
+                "description": "Peppermint is a popular and aromatic mint variety known for its strong, refreshing flavor. This perennial herb has dark green leaves with a hint of purple and is widely used in culinary applications, teas, and aromatherapy. Peppermint's invigorating scent and taste make it a versatile and beloved addition to herb gardens.",
+                "growth_mode": null,
+                "days_to_harvest": {
+                  "lower_estimate": 60,
+                  "higher_estimate": 90
+                },
+                "is_container_variety": true,
+                "fruit_color": null,
+                "flower_color": "Purple",
+                "leaf_color": "Dark Green with Purple Stems",
+                "fruit_weight": null,
+                "plant_height": "12-24 inches",
+                "best_uses": ["Culinary", "Teas", "Aromatherapy"],
+                "needs_support": false,
+                "water_requirement": "Regularly",
+                "feeding_requirement": "Every four weeks",
+                "requires_pruning": true,
+                "fun_fact": "Did you know? Peppermint is a natural hybrid of spearmint and watermint, known for its strong menthol flavor.",
+                "planting_tip": "Plant Peppermint in well-drained soil with partial to full sunlight. Water regularly, keeping the soil consistently moist. Fertilize every four weeks to support healthy growth. Prune regularly to prevent leggy growth and encourage bushiness. Harvest leaves for culinary and aromatic use.",
+                "spacing": "12-18 inches",
+                "overwrite_common_features": {
+                    "propagation_methods": ["Cuttings"]
+                }
+            },
+            {
+                "id": 1,
+                "name": "Spearmint",
+                "description": "Spearmint is a classic mint variety known for its mild and sweet flavor. This perennial herb has bright green, serrated leaves and is widely used in culinary applications, beverages, and medicinal preparations. Spearmint's refreshing taste makes it a popular choice for both culinary and aromatic uses.",
+                "growth_mode": null,
+                "days_to_harvest": {
+                  "lower_estimate": 60,
+                  "higher_estimate": 90
+                },
+                "is_container_variety": true,
+                "fruit_color": null,
+                "flower_color": "Pink to Lavender",
+                "leaf_color": "Bright Green",
+                "fruit_weight": null,
+                "plant_height": "12-24 inches",
+                "best_uses": ["Culinary", "Teas", "Medicinal"],
+                "needs_support": false,
+                "water_requirement": "Regularly",
+                "feeding_requirement": "Every four weeks",
+                "requires_pruning": true,
+                "fun_fact": "Did you know? Spearmint has been used for centuries in traditional medicine for its potential digestive and respiratory benefits.",
+                "planting_tip": "Plant Spearmint in well-drained soil with partial to full sunlight. Water regularly, keeping the soil consistently moist. Fertilize every four weeks to support healthy growth. Prune regularly to prevent leggy growth and encourage bushiness. Harvest leaves for culinary and aromatic use.",
+                "spacing": "12-18 inches",
+                "overwrite_common_features": {
+                    "propagation_methods": ["Cuttings"]
+                }
+            },
+            {
+                "id": 2,
+                "name": "Chocolate",
+                "description": "Chocolate Mint is a delightful mint variety with a unique chocolatey flavor and aroma. This perennial herb features dark green leaves with a hint of purple and is a favorite for culinary uses, desserts, and aromatic purposes. Chocolate Mint adds a sweet and refreshing twist to various dishes and beverages.",
+                "growth_mode": null,
+                "days_to_harvest": {
+                  "lower_estimate": 60,
+                  "higher_estimate": 90
+                },
+                "is_container_variety": true,
+                "fruit_color": null,
+                "flower_color": "Purple",
+                "leaf_color": "Dark Green with Purple Stems",
+                "fruit_weight": null,
+                "plant_height": "12-24 inches",
+                "best_uses": ["Culinary", "Desserts", "Aromatherapy"],
+                "needs_support": false,
+                "water_requirement": "Regularly",
+                "feeding_requirement": "Every four weeks",
+                "requires_pruning": true,
+                "fun_fact": "Did you know? Chocolate Mint is a natural hybrid of spearmint and peppermint, known for its distinctive chocolate flavor.",
+                "planting_tip": "Plant Chocolate Mint in well-drained soil with partial to full sunlight. Water regularly, keeping the soil consistently moist. Fertilize every four weeks to support healthy growth. Prune regularly to prevent leggy growth and encourage bushiness. Harvest leaves for culinary and aromatic use.",
+                "spacing": "12-18 inches",
+                "overwrite_common_features": {
+                    "propagation_methods": ["Cuttings"]
+                }
+            },
+            {
+                "id": 3,
+                "name": "Apple",
+                "description": "Apple Mint, also known as Pineapple Mint, is a mint variety with a fruity and refreshing flavor. This perennial herb has bright green leaves and is popular for culinary uses, beverages, and garnishes. Apple Mint adds a delightful twist to salads, desserts, and drinks with its apple-like taste and aroma.",
+                "growth_mode": null,
+                "days_to_harvest": {
+                  "lower_estimate": 60,
+                  "higher_estimate": 90
+                },
+                "is_container_variety": true,
+                "fruit_color": null,
+                "flower_color": "Pink to Lavender",
+                "leaf_color": "Bright Green",
+                "fruit_weight": null,
+                "plant_height": "12-24 inches",
+                "best_uses": ["Culinary", "Teas", "Garnishes"],
+                "needs_support": false,
+                "water_requirement": "Regularly",
+                "feeding_requirement": "Every four weeks",
+                "requires_pruning": true,
+                "fun_fact": "Did you know? Apple Mint gets its name from its fruity flavor, reminiscent of apples or pineapples.",
+                "planting_tip": "Plant Apple Mint in well-drained soil with partial to full sunlight. Water regularly, keeping the soil consistently moist. Fertilize every four weeks to support healthy growth. Prune regularly to prevent leggy growth and encourage bushiness. Harvest leaves for culinary and aromatic use.",
+                "spacing": "12-18 inches",
+                "overwrite_common_features": {
+                    "propagation_methods": ["Cuttings"]
+                }
+            },
+            {
+                "id": 3,
+                "name": "Lemon Balm",
+                "description": "Lemon Balm is a fragrant herb with a mild lemon scent and flavor. This perennial herb, also known as Melissa, is valued for its culinary uses, teas, and medicinal properties. Lemon Balm has bright green, heart-shaped leaves and is a delightful addition to herb gardens and relaxation blends.",
+                "growth_mode": null,
+                "days_to_harvest": {
+                  "lower_estimate": 60,
+                  "higher_estimate": 90
+                },
+                "is_container_variety": true,
+                "fruit_color": null,
+                "flower_color": "White to Yellow",
+                "leaf_color": "Bright Green",
+                "fruit_weight": null,
+                "plant_height": "12-24 inches",
+                "best_uses": ["Culinary", "Teas", "Medicinal"],
+                "needs_support": false,
+                "water_requirement": "Regularly",
+                "feeding_requirement": "Every four weeks",
+                "requires_pruning": true,
+                "fun_fact": "Did you know? Lemon Balm has been traditionally used to promote relaxation and improve mood.",
+                "planting_tip": "Plant Lemon Balm in well-drained soil with partial to full sunlight. Water regularly, keeping the soil consistently moist. Fertilize every four weeks to support healthy growth. Prune regularly to prevent leggy growth and encourage bushiness. Harvest leaves for culinary and aromatic use.",
+                "spacing": "12-18 inches",
+                "overwrite_common_features": {
+                    "propagation_methods": ["Cuttings"]
+                }
+            }
+        ]
     }
 ]
