@@ -1034,5 +1034,202 @@
                 }
             }
         ]
+    },
+    {
+        "id": 6,
+        "name": "dill",
+        "varieties_common_features": {
+            "sunlight_requirement": "Full Sun",
+            "propagation_methods": ["Seeds"],
+            "soil_acidity_range": {
+              "lower_bound": 6.0,
+              "upper_bound": 7.5
+            },
+            "days_to_germination": "14-21 days",
+            "frost_tolerance": true,
+            "planting_depth": "1/4 inch",
+            "spacing": "12-18 inches"
+            "life_cycle": "Annual",
+            "season": "Cool to Warm"
+        },
+        "varieties": [
+            {
+                "id": 0,
+                "name": "Bouquet",
+                "description": "Bouquet Dill is a popular dill variety known for its feathery foliage and strong, aromatic flavor. This annual herb is commonly used in culinary applications, pickling, and as a garnish. With its upright growth habit and delicate leaves, Bouquet Dill is a versatile and flavorful addition to herb gardens and kitchen windowsills.",
+                "growth_mode": null,
+                "days_to_harvest": {
+                  "lower_estimate": 40,
+                  "higher_estimate": 60
+                },
+                "is_container_variety": true,
+                "fruit_color": null,
+                "leaf_color": "Green",
+                "flower_color": "Yellow",
+                "fruit_weight": null,
+                "plant_height": "18-24 inches",
+                "best_uses": ["Culinary", "Pickling", "Garnishes"],
+                "needs_support": false,
+                "water_requirement": "Moderate",
+                "feeding_requirement": "Every six weeks",
+                "requires_pruning": true,
+                "fun_fact": "Did you know? Bouquet Dill is named for its abundant and attractive flower heads, making it a favorite for both culinary and ornamental use.",
+                "planting_tip": "Plant Bouquet Dill in well-drained soil with full sunlight. Water moderately, allowing the soil to dry out between watering. Fertilize every six weeks to promote healthy growth. Prune regularly to encourage bushiness and prevent flowering too soon. Harvest leaves and flower heads for culinary use.",
+                "spacing": "12-18 inches"
+                "overwrite_common_features": {
+                }
+            },
+            {
+                "id": 1,
+                "name": "Fernleaf",
+                "description": "Fernleaf Dill is a compact and dwarf dill variety known for its finely cut, fern-like foliage. This annual herb is prized for its culinary uses, especially in salads, sauces, and fish dishes. With its compact growth habit, Fernleaf Dill is suitable for small gardens, containers, and indoor herb gardens.",
+                "growth_mode": null,
+                "days_to_harvest": {
+                  "lower_estimate": 35,
+                  "higher_estimate": 55
+                },
+                "is_container_variety": true,
+                "fruit_color": null,
+                "leaf_color": "Green",
+                "flower_color": "Yellow",
+                "fruit_weight": null,
+                "plant_height": "12-18 inches",
+                "best_uses": ["Culinary", "Salads", "Containers"],
+                "needs_support": false,
+                "water_requirement": "Moderate",
+                "feeding_requirement": "Every six weeks",
+                "requires_pruning": true,
+                "fun_fact": "Did you know? Fernleaf Dill is well-suited for compact spaces and container gardening due to its compact and attractive growth habit.",
+                "planting_tip": "Plant Fernleaf Dill in well-drained soil with full sunlight. Water moderately, allowing the soil to dry out between watering. Fertilize every six weeks to promote healthy growth. Prune regularly to maintain a compact shape and harvest leaves for culinary use.",
+                "spacing": "6-12 inches"
+                "overwrite_common_features": {
+                }
+            },
+            {
+                "id": 2,
+                "name": "Mammoth",
+                "description": "Mammoth Dill is a tall and vigorous dill variety known for its large, umbrella-like flower heads. This annual herb is valued for its culinary uses, especially in pickling and flavoring various dishes. With its robust growth habit, Mammoth Dill is a classic choice for larger herb gardens and farm plantings.",
+                "growth_mode": null,
+                "days_to_harvest": {
+                  "lower_estimate": 45,
+                  "higher_estimate": 65
+                },
+                "is_container_variety": true,
+                "fruit_color": null,
+                "leaf_color": "Green",
+                "flower_color": "Yellow",
+                "fruit_weight": null,
+                "plant_height": "24-36 inches",
+                "best_uses": ["Culinary", "Pickling", "Herb Gardens"],
+                "needs_support": false,
+                "water_requirement": "Moderate",
+                "feeding_requirement": "Every six weeks",
+                "requires_pruning": true,
+                "fun_fact": "Did you know? Mammoth Dill is prized for its large and showy flower heads, making it a favorite for both culinary and ornamental purposes.",
+                "planting_tip": "Plant Mammoth Dill in well-drained soil with full sunlight. Water moderately, allowing the soil to dry out between watering. Fertilize every six weeks to promote healthy growth. Prune regularly to prevent leggy growth and encourage bushiness. Harvest leaves and flower heads for culinary use.",
+                "spacing": "18-24 inches"
+                "overwrite_common_features": {
+                }
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "sage",
+        "varieties_common_features": {
+            "sunlight_requirement": "Full Sun",
+            "propagation_methods": ["Seeds", "Cuttings"],
+            "soil_acidity_range": {
+              "lower_bound": 6.0,
+              "upper_bound": 7.5
+            },
+            "days_to_germination": "14-21 days",
+            "frost_tolerance": true,
+            "planting_depth": "1/4 inch",
+            "spacing": "12-18 inches"
+            "life_cycle": "Perennial",
+            "season": "Warm"
+        },
+        "varieties": [
+            {
+                "id": 0,
+                "name": "Common",
+                "description": "Common Sage, also known as Garden Sage, is a well-known and versatile herb with gray-green leaves and a distinct earthy flavor. This perennial herb is widely used in culinary applications, teas, and for its aromatic properties. Common Sage is known for its hardiness and can be a valuable addition to herb gardens and landscapes.",
+                "growth_mode": null,
+                "days_to_harvest": {
+                  "lower_estimate": 60,
+                  "higher_estimate": 90
+                },
+                "is_container_variety": true,
+                "fruit_color": null,
+                "leaf_color": "Gray-Green",
+                "flower_color": "Purple",
+                "fruit_weight": null,
+                "plant_height": "18-24 inches",
+                "best_uses": ["Culinary", "Teas", "Landscaping"],
+                "needs_support": false,
+                "water_requirement": "Low to Moderate",
+                "feeding_requirement": "Once a month",
+                "requires_pruning": true,
+                "fun_fact": "Did you know? Common Sage has been traditionally used for its medicinal properties, including its potential to support digestion.",
+                "planting_tip": "Plant Common Sage in well-drained soil with full sunlight. Water sparingly, allowing the soil to dry out between watering. Fertilize once a month during the growing season. Prune regularly to maintain shape and encourage bushiness. Harvest leaves for culinary and medicinal use.",
+                "spacing": "12-18 inches"
+                "overwrite_common_features": {
+                }
+            },
+            {
+                "id": 1,
+                "name": "Pineapple",
+                "description": "Pineapple Sage is a unique and aromatic sage variety with bright green leaves and a sweet pineapple fragrance. This perennial herb is valued for its culinary uses, teas, and ornamental appeal. Pineapple Sage is known for attracting pollinators with its vibrant red tubular flowers and is a delightful addition to herb gardens and landscape borders.",
+                "growth_mode": null,
+                "days_to_harvest": {
+                  "lower_estimate": 60,
+                  "higher_estimate": 90
+                },
+                "is_container_variety": true,
+                "fruit_color": null,
+                "leaf_color": "Bright Green",
+                "flower_color": "Red",
+                "fruit_weight": null,
+                "plant_height": "24-36 inches",
+                "best_uses": ["Culinary", "Teas", "Ornamental"],
+                "needs_support": false,
+                "water_requirement": "Low to Moderate",
+                "feeding_requirement": "Once a month",
+                "requires_pruning": true,
+                "fun_fact": "Did you know? Pineapple Sage is often used in both sweet and savory dishes, and its leaves can add a pineapple-like flavor to recipes.",
+                "planting_tip": "Plant Pineapple Sage in well-drained soil with full to partial sunlight. Water moderately, keeping the soil consistently moist. Fertilize once a month during the growing season. Prune regularly to maintain shape and encourage bushiness. Harvest leaves and flowers for culinary and ornamental use.",
+                "spacing": "12-18 inches"
+                "overwrite_common_features": {
+                }
+            },
+            {
+                "id": 2,
+                "name": "Tricolor",
+                "description": "Tricolor Sage is a visually stunning sage variety with variegated leaves featuring shades of green, purple, and white. This perennial herb is not only prized for its ornamental appeal but also for its culinary uses. Tricolor Sage adds a burst of color to herb gardens and is an excellent choice for decorative containers.",
+                "growth_mode": null,
+                "days_to_harvest": {
+                  "lower_estimate": 60,
+                  "higher_estimate": 90
+                },
+                "is_container_variety": true,
+                "fruit_color": null,
+                "leaf_color": "Variegated (Green, Purple, White)",
+                "flower_color": "Purple",
+                "fruit_weight": null,
+                "plant_height": "12-18 inches",
+                "best_uses": ["Culinary", "Ornamental", "Containers"],
+                "needs_support": false,
+                "water_requirement": "Low to Moderate",
+                "feeding_requirement": "Once a month",
+                "requires_pruning": true,
+                "fun_fact": "Did you know? Tricolor Sage not only adds flavor to dishes but also serves as an attractive garnish due to its vibrant foliage.",
+                "planting_tip": "Plant Tricolor Sage in well-drained soil with full sunlight. Water moderately, allowing the soil to dry out between watering. Fertilize once a month during the growing season. Prune regularly to maintain shape and encourage bushiness. Harvest leaves for culinary and decorative use.",
+                "spacing": "12-18 inches"
+                "overwrite_common_features": {
+                }
+            }
+        ]
     }
+
 ]
