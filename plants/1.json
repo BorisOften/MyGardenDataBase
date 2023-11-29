@@ -1428,5 +1428,205 @@
             }
 
         ]
+    },
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    {
+        "id": 10,
+        "name": "lettuce",
+        "varieties_common_features": {
+            "sunlight_requirement": "Partial Shade",
+            "propagation_methods": ["Seeds"],
+            "soil_acidity_range": {
+              "lower_bound": 6.0,
+              "upper_bound": 7.0
+            },
+            "days_to_germination": "7-14 days",
+            "frost_tolerance": true,
+            "planting_depth": "1/4 inch",
+            "spacing": "6-12 inches",
+            "life_cycle": "Annual",
+            "season": "Cool"
+        },
+        "varieties": [
+            {
+                "id": 0,
+                "name": "Butterhead",
+                "description": "Butterhead Lettuce, known for its loose, tender leaves and mild flavor, is a popular choice in salads and sandwiches. This cool-season annual is characterized by its soft, buttery-textured leaves that form a loosely folded head. Butterhead Lettuce is prized for its delicate taste and is a staple in gourmet salads.",
+                "growth_mode": null,
+                "days_to_harvest": {
+                  "lower_estimate": 50,
+                  "higher_estimate": 70
+                },
+                "is_container_variety": true,
+                "fruit_color": null,
+                "leaf_color": "Green",
+                "flower_color": "Yellow",
+                "fruit_weight": null,
+                "plant_height": "8-12 inches",
+                "best_uses": ["Salads", "Sandwiches", "Gourmet Dishes"],
+                "needs_support": false,
+                "water_requirement": "Moderate",
+                "feeding_requirement": "Every two weeks",
+                "requires_pruning": false,
+                "fun_fact": "Did you know? Butterhead Lettuce gets its name from the sweet, buttery flavor of its leaves.",
+                "planting_tip": "Plant Butterhead Lettuce in well-drained soil with consistent moisture. Provide shade during hot periods to prevent bolting. Harvest outer leaves as needed, or cut the entire head when mature."
+                "spacing": "8-12 inches",
+                "overwrite_common_features": {
+                }
+            },
+            {
+                "id": 1,
+              "name": "Romaine",
+              "description": "Romaine Lettuce, also known as Cos Lettuce, is recognized for its long, sturdy leaves and crisp texture. This cool-season annual forms an upright head with dark green leaves. Romaine Lettuce is a favorite in Caesar salads and provides a satisfying crunch in various culinary creations.",
+              "growth_mode": null,
+              "days_to_harvest": {
+                "lower_estimate": 60,
+                "higher_estimate": 80
+              },
+              "is_container_variety": true,
+              "fruit_color": null,
+              "leaf_color": "Dark Green",
+              "flower_color": "Yellow",
+              "fruit_weight": null,
+              "plant_height": "10-16 inches",
+              "best_uses": ["Caesar Salads", "Sandwiches", "Wraps"],
+              "water_requirement": "Moderate",
+              "feeding_requirement": "Every three weeks",
+              "requires_pruning": false,
+              "fun_fact": "Did you know? Romaine Lettuce is an excellent source of vitamins A and K.",
+              "planting_tip": "Plant Romaine Lettuce in well-drained soil with full sunlight. Water consistently to keep soil evenly moist. Harvest outer leaves as needed, or cut the entire head when mature.",
+              "spacing": "8-12 inches"
+            },
+            {
+                "id": 2,
+              "name": "Iceberg",
+              "description": "Iceberg Lettuce, with its crisp and tightly packed leaves, is a classic choice for salads and sandwiches. This cool-season annual forms a compact, round head with pale green leaves. Iceberg Lettuce is known for its refreshing taste and is a versatile ingredient in various culinary dishes.",
+              "days_to_harvest": {
+                "lower_estimate": 70,
+                "higher_estimate": 90
+              },
+              "is_container_variety": true,
+              "fruit_color": null,
+              "leaf_color": "Pale Green",
+              "flower_color": "Yellow-Green",
+              "fruit_weight": null,
+              "plant_height": "8-12 inches",
+              "best_uses": ["Salads", "Burgers", "Tacos"],
+              "water_requirement": "Moderate",
+              "feeding_requirement": "Every three weeks",
+              "requires_pruning": false,
+              "fun_fact": "Did you know? Iceberg Lettuce gets its name because it was historically transported on ice beds to keep it fresh.",
+              "planting_tip": "Plant Iceberg Lettuce in well-drained soil with full sunlight. Water consistently, keeping the soil evenly moist. Harvest heads when they are firm and fully developed.",
+              "spacing": "12-18 inches"
+            },
+            {
+                "id": 3,
+              "name": "Looseleaf",
+              "description": "Looseleaf Lettuce is characterized by its loose arrangement of tender leaves and a variety of leaf colors and shapes. This cool-season annual is known for its easy cultivation and continuous harvesting. Looseleaf Lettuce adds color and texture to salads and is a popular choice for home gardeners.",
+              "days_to_harvest": {
+                "lower_estimate": 45,
+                "higher_estimate": 60
+              },
+              "is_container_variety": true,
+              "fruit_color": null,
+              "leaf_color": "Green, Red, Bronze",
+              "flower_color": "Yellow",
+              "fruit_weight": null,
+              "plant_height": "6-12 inches",
+              "best_uses": ["Salads", "Wraps", "Garden Beds"],
+              "water_requirement": "Moderate",
+              "feeding_requirement": "Every two weeks",
+              "requires_pruning": false,
+              "fun_fact": "Did you know? Looseleaf Lettuce comes in a variety of colors, including green, red, and bronze.",
+              "planting_tip": "Plant Looseleaf Lettuce in well-drained soil with partial to full sunlight. Water consistently, and harvest leaves as needed. This variety is perfect for continuous cutting.",
+              "spacing": "8-12 inches"
+            },
+            {
+                "id": 4,
+              "name": "Arugula",
+              "description": "Arugula Lettuce, also known as Rocket or Roquette, is a peppery-flavored green that adds a distinctive taste to salads. This cool-season annual is characterized by its lobed leaves and rapid growth. Arugula Lettuce is a popular choice for those seeking a bold and zesty flavor in their culinary creations.",
+              "days_to_harvest": {
+                "lower_estimate": 30,
+                "higher_estimate": 40
+              },
+              "is_container_variety": true,
+              "fruit_color": null,
+              "leaf_color": "Green",
+              "flower_color": "White",
+              "fruit_weight": null,
+              "plant_height": "12-18 inches",
+              "best_uses": ["Salads", "Pizzas", "Pasta"],
+              "water_requirement": "Low to Moderate",
+              "feeding_requirement": "Every three weeks",
+              "requires_pruning": false,
+              "fun_fact": "Did you know? Arugula Lettuce is a member of the mustard family and is known for its peppery flavor.",
+              "planting_tip": "Plant Arugula Lettuce in well-drained soil with partial shade to full sunlight. Water sparingly, as it prefers drier conditions. Harvest leaves when they are young and tender.",
+              "spacing": "6-12 inches"
+            },
+            {
+                "id": 5,
+              "name": "Red Leaf",
+              "description": "Red Leaf Lettuce is known for its vibrant red or burgundy-colored leaves and mild flavor. This cool-season annual forms loose heads with frilly or curly leaves. Red Leaf Lettuce adds a splash of color to salads and is a nutritious addition to a variety of dishes.",
+              "days_to_harvest": {
+                "lower_estimate": 50,
+                "higher_estimate": 70
+              },
+              "is_container_variety": true,
+              "fruit_color": null,
+              "leaf_color": "Red",
+              "flower_color": "Yellow",
+              "fruit_weight": null,
+              "plant_height": "8-14 inches",
+              "best_uses": ["Salads", "Wraps", "Garnish"],
+              "water_requirement": "Moderate",
+              "feeding_requirement": "Every two weeks",
+              "requires_pruning": false,
+              "fun_fact": "Did you know? Red Leaf Lettuce contains anthocyanins, the same antioxidants found in red cabbage and red wine.",
+              "planting_tip": "Plant Red Leaf Lettuce in well-drained soil with partial shade to full sunlight. Water consistently, and harvest leaves as needed. This variety is ideal for adding color to salads.",
+              "spacing": "8-12 inches"
+            },
+            {
+                "id": 6,
+              "name": "Little Gem",
+              "description": "Little Gem Lettuce is a miniature variety with small, compact heads and a sweet flavor. This cool-season annual is often referred to as a 'baby romaine' and is perfect for individual servings. Little Gem Lettuce is a popular choice for gourmet salads and is well-suited for small gardens.",
+              "days_to_harvest": {
+                "lower_estimate": 50,
+                "higher_estimate": 70
+              },
+              "is_container_variety": true,
+              "fruit_color": null,
+              "leaf_color": "Green",
+              "flower_color": "Yellow",
+              "fruit_weight": null,
+              "plant_height": "6-10 inches",
+              "best_uses": ["Gourmet Salads", "Containers", "Individual Servings"],
+              "water_requirement": "Moderate",
+              "feeding_requirement": "Every two weeks",
+              "requires_pruning": false,
+              "fun_fact": "Did you know? Little Gem Lettuce is a cross between romaine and butterhead lettuce, combining the best of both varieties.",
+              "planting_tip": "Plant Little Gem Lettuce in well-drained soil with full sunlight. Water consistently, and harvest individual heads when they are small and compact.",
+              "spacing": "6-10 inches"
+            }
+
+
+
+
+
+
+
+        ]
     }
 ]
