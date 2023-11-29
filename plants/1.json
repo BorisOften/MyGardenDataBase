@@ -1674,7 +1674,7 @@
                 "feeding_requirement": "Balanced fertilizer",
                 "requires_pruning": false,
                 "fun_fact": "Did you know? The origin of the name 'Blue Lake' is a nod to the crystal-clear lakes where this bean variety is believed to have originated. Its 'bush' growth habit also makes it an excellent space-saving choice for home gardeners.",
-                "planting_tip": "To ensure a bountiful harvest, sow Bush Blue Lake 274 seeds in well-drained, nutrient-rich soil. Provide consistent moisture, especially during the flowering and pod-setting stages. Consider adding organic matter to enhance soil fertility. Additionally, mulching around the base of the plants helps retain moisture and suppress weeds. Enjoy a continuous harvest by picking pods when they are young and tender."
+                "planting_tip": "To ensure a bountiful harvest, sow Bush Blue Lake 274 seeds in well-drained, nutrient-rich soil. Provide consistent moisture, especially during the flowering and pod-setting stages. Consider adding organic matter to enhance soil fertility. Additionally, mulching around the base of the plants helps retain moisture and suppress weeds. Enjoy a continuous harvest by picking pods when they are young and tender.",
                 "spacing": "4-6 inches",
                 "overwrite_common_features": {
                 }
@@ -1701,7 +1701,9 @@
                 "feeding_requirement": "Balanced fertilizer",
                 "requires_pruning": false,
                 "fun_fact": "Fun Fact: The Provider bean is an heirloom variety that has been cherished by generations of gardeners for its consistent performance and classic flavor. It traces its heritage back to the early 1960s, making it a piece of living horticultural history.",
-                "planting_tip": "For a successful harvest, plant Provider bean seeds in well-draining soil and provide consistent moisture. Fertilize with a balanced fertilizer and harvest regularly to encourage continuous pod production. Consider interplanting with companion plants to enhance overall garden health."
+                "planting_tip": "For a successful harvest, plant Provider bean seeds in well-draining soil and provide consistent moisture. Fertilize with a balanced fertilizer and harvest regularly to encourage continuous pod production. Consider interplanting with companion plants to enhance overall garden health.",
+                "overwrite_common_features": {
+                }
             },
             {
                 "id": 2,
@@ -1725,7 +1727,9 @@
                 "feeding_requirement": "Balanced fertilizer",
                 "requires_pruning": true,
                 "fun_fact": "Kentucky Wonder has been a staple in American gardens since the late 1800s, making it one of the oldest and most cherished heirloom bean varieties. Its enduring popularity is a testament to its exceptional taste and adaptability.",
-                "planting_tip": "When planting Kentucky Wonder beans, provide sturdy trellising or stakes for support. Plant in well-drained soil, and prune if necessary to maintain a tidy and productive garden. Harvest regularly to promote continuous pod development. Consider companion planting with nitrogen-fixing plants for improved soil fertility."
+                "planting_tip": "When planting Kentucky Wonder beans, provide sturdy trellising or stakes for support. Plant in well-drained soil, and prune if necessary to maintain a tidy and productive garden. Harvest regularly to promote continuous pod development. Consider companion planting with nitrogen-fixing plants for improved soil fertility.",
+                "overwrite_common_features": {
+                }
             },
             {
                 "id": 3,
@@ -1749,7 +1753,9 @@
                 "feeding_requirement": "Balanced fertilizer",
                 "requires_pruning": false,
                 "fun_fact": "Dragon Tongue beans get their name from their unique appearance, resembling the scales of a dragon with their distinctive yellow and purple coloring. They are also sometimes referred to as 'Dragon's Langerie' due to the pattern on the pods.",
-                "planting_tip": "For optimal growth, plant Dragon Tongue beans in well-drained soil with a sunny exposure. Provide regular watering, and harvest when the pods are young for the best flavor and tenderness. Consider companion planting with herbs and flowers to create a visually appealing and diverse garden."
+                "planting_tip": "For optimal growth, plant Dragon Tongue beans in well-drained soil with a sunny exposure. Provide regular watering, and harvest when the pods are young for the best flavor and tenderness. Consider companion planting with herbs and flowers to create a visually appealing and diverse garden.",
+                "overwrite_common_features": {
+                }
             },
               {
                   "id": 4,
@@ -1773,7 +1779,9 @@
                 "feeding_requirement": "Balanced fertilizer",
                 "requires_pruning": false,
                 "fun_fact": "Fun Fact: Golden Wax beans are recognized for their historical significance and have been cultivated since the early 20th century. They are a classic heirloom variety that has stood the test of time.",
-                "planting_tip": "For successful cultivation, plant Golden Wax seeds in well-drained soil with good sunlight. Water consistently to keep the soil evenly moist, especially during the flowering and pod-setting stages. Mulching around the plants helps retain moisture and suppress weeds. Harvest the pods when they are young and tender for the best flavor and texture."
+                "planting_tip": "For successful cultivation, plant Golden Wax seeds in well-drained soil with good sunlight. Water consistently to keep the soil evenly moist, especially during the flowering and pod-setting stages. Mulching around the plants helps retain moisture and suppress weeds. Harvest the pods when they are young and tender for the best flavor and texture.",
+                "overwrite_common_features": {
+                }
               },
               {
                   "id": 5,
@@ -1797,7 +1805,9 @@
                 "feeding_requirement": "Balanced fertilizer",
                 "requires_pruning": true,
                 "fun_fact": "Fun Fact: Rattlesnake beans are also known as Preacher Beans due to their use in Appalachian sermons as an analogy for the shaking and rattling of a snake. They have cultural significance in certain regions of the United States.",
-                "planting_tip": "For optimal growth, plant Rattlesnake beans in well-drained soil and provide sturdy trellising or stakes for support. Water consistently, and consider mulching to retain soil moisture. Prune the vines as needed to maintain a tidy and productive garden. Harvest when the pods are firm and vibrant for the best flavor."
+                "planting_tip": "For optimal growth, plant Rattlesnake beans in well-drained soil and provide sturdy trellising or stakes for support. Water consistently, and consider mulching to retain soil moisture. Prune the vines as needed to maintain a tidy and productive garden. Harvest when the pods are firm and vibrant for the best flavor.",
+                "overwrite_common_features": {
+                }
               },
               {
                   "id": 6,
@@ -1821,7 +1831,9 @@
                 "feeding_requirement": "Balanced fertilizer",
                 "requires_pruning": true,
                 "fun_fact": "Fun Fact: Scarlet Runner beans have a rich history and were cultivated by Native American tribes for centuries. They are not only prized for their culinary uses but are also cultivated for their ecological benefits, attracting pollinators and beneficial insects.",
-                "planting_tip": "For successful cultivation, plant Scarlet Runner beans in well-drained soil and provide sturdy trellising or support. Water consistently and deadhead faded flowers to encourage continuous blooming. Harvest the young pods for culinary use, and let some mature for saving seeds. Consider interplanting with pollinator-friendly flowers for enhanced garden biodiversity."
+                "planting_tip": "For successful cultivation, plant Scarlet Runner beans in well-drained soil and provide sturdy trellising or support. Water consistently and deadhead faded flowers to encourage continuous blooming. Harvest the young pods for culinary use, and let some mature for saving seeds. Consider interplanting with pollinator-friendly flowers for enhanced garden biodiversity.",
+                "overwrite_common_features": {
+                }
               },
               {
                   "id": 7,
@@ -1845,7 +1857,9 @@
                 "feeding_requirement": "Balanced fertilizer",
                 "requires_pruning": false,
                 "fun_fact": "Fun Fact: French Horticultural beans have a global culinary presence and are a staple in Italian and Mediterranean cuisines. They are often used in traditional dishes such as minestrone soup and salads, adding a delightful flavor and texture.",
-                "planting_tip": "For successful cultivation, plant French Horticultural beans in well-drained soil with good sunlight. Provide regular watering, especially during dry periods, to ensure optimal pod development. Harvest young pods for fresh use, and leave some on the plant to mature for drying. To enjoy them as dry beans, allow the pods to fully mature on the plant and harvest before the first frost."
+                "planting_tip": "For successful cultivation, plant French Horticultural beans in well-drained soil with good sunlight. Provide regular watering, especially during dry periods, to ensure optimal pod development. Harvest young pods for fresh use, and leave some on the plant to mature for drying. To enjoy them as dry beans, allow the pods to fully mature on the plant and harvest before the first frost.",
+                "overwrite_common_features": {
+                }
               },
                 {
                     "id": 8,
@@ -1869,7 +1883,9 @@
                   "feeding_requirement": "Balanced fertilizer",
                   "requires_pruning": false,
                   "fun_fact": "Fun Fact: Black Valentine beans are sometimes referred to as 'Midnight Beans' due to their deep, dark color. In some cultures, they are associated with mystery and folklore.",
-                  "planting_tip": "For successful cultivation, plant Black Valentine beans in well-drained soil with good sunlight. Provide regular watering, especially during dry periods, to ensure optimal pod development. Harvest the young pods for fresh use, and allow some to mature for culinary applications requiring longer cooking times."
+                  "planting_tip": "For successful cultivation, plant Black Valentine beans in well-drained soil with good sunlight. Provide regular watering, especially during dry periods, to ensure optimal pod development. Harvest the young pods for fresh use, and allow some to mature for culinary applications requiring longer cooking times.",
+                  "overwrite_common_features": {
+                  }
                 },
                 {
                     "id": 9,
@@ -1893,7 +1909,9 @@
                   "feeding_requirement": "Balanced fertilizer",
                   "requires_pruning": false,
                   "fun_fact": "Fun Fact: Tendergreen beans are renowned for their adaptability and wide range of culinary uses. They are a favorite among chefs and home cooks alike, known for their ability to complement a variety of dishes.",
-                  "planting_tip": "For successful cultivation, plant Tendergreen beans in well-drained soil with good sunlight. Provide consistent moisture, especially during the flowering and pod-setting stages. Harvest the young pods regularly to encourage continuous production. Consider interplanting with companion plants to enhance overall garden health."
+                  "planting_tip": "For successful cultivation, plant Tendergreen beans in well-drained soil with good sunlight. Provide consistent moisture, especially during the flowering and pod-setting stages. Harvest the young pods regularly to encourage continuous production. Consider interplanting with companion plants to enhance overall garden health.",
+                  "overwrite_common_features": {
+                  }
                 },
                 {
                     "id": 10,
@@ -1917,7 +1935,9 @@
                   "feeding_requirement": "Balanced fertilizer",
                   "requires_pruning": true,
                   "fun_fact": "Fun Fact: Purple Podded Pole beans have a rich heritage and are considered heirloom beans. They have been cultivated for generations and are valued for both their ornamental appeal and culinary uses.",
-                  "planting_tip": "For optimal growth, plant Purple Podded Pole beans in well-drained soil with good sunlight. Provide sturdy trellising or stakes for support and ensure adequate spacing between plants. Water consistently, and harvest the pods when they are young and tender for the best flavor. Consider companion planting with herbs and flowers to create a visually appealing garden."
+                  "planting_tip": "For optimal growth, plant Purple Podded Pole beans in well-drained soil with good sunlight. Provide sturdy trellising or stakes for support and ensure adequate spacing between plants. Water consistently, and harvest the pods when they are young and tender for the best flavor. Consider companion planting with herbs and flowers to create a visually appealing garden.",
+                  "overwrite_common_features": {
+                  }
                 },
                 {
                     "id": 11,
@@ -1941,7 +1961,9 @@
                   "feeding_requirement": "Balanced fertilizer",
                   "requires_pruning": false,
                   "fun_fact": "Fun Fact: Royal Burgundy beans were introduced in the 1970s and quickly gained popularity for their novelty and culinary appeal. They are often used to add a splash of color to salads and side dishes.",
-                  "planting_tip": "For successful cultivation, plant Royal Burgundy beans in well-drained soil with good sunlight. Provide consistent moisture, especially during dry periods, to ensure optimal pod development. Harvest the young pods for fresh use, and enjoy their vibrant color in salads or as a steamed side dish. Consider companion planting with other colorful vegetables for a visually appealing garden."
+                  "planting_tip": "For successful cultivation, plant Royal Burgundy beans in well-drained soil with good sunlight. Provide consistent moisture, especially during dry periods, to ensure optimal pod development. Harvest the young pods for fresh use, and enjoy their vibrant color in salads or as a steamed side dish. Consider companion planting with other colorful vegetables for a visually appealing garden.",
+                  "overwrite_common_features": {
+                  }
                 }
         ]
     }
