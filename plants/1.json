@@ -1146,7 +1146,7 @@
             "days_to_germination": "14-21 days",
             "frost_tolerance": true,
             "planting_depth": "1/4 inch",
-            "spacing": "12-18 inches"
+            "spacing": "12-18 inches",
             "life_cycle": "Perennial",
             "season": "Warm"
         },
@@ -1230,6 +1230,203 @@
                 }
             }
         ]
-    }
+    },
+    {
+        "id": 8,
+        "name": "sage",
+        "varieties_common_features": {
+            "sunlight_requirement": "Full Sun",
+            "propagation_methods": ["seeds","Cuttings"],
+            "soil_acidity_range": {
+              "lower_bound": 6.0,
+              "upper_bound": 7.5
+            },
+            "days_to_germination": "21-28 days",
+            "frost_tolerance": true,
+            "planting_depth": "1/4 inch",
+            "spacing": "18-24 inches",
+            "life_cycle": "Perennial",
+            "season": "Warm"
+        },
+        "varieties": [
+            {
+                "id": 0,
+                "name": "Tuscan Blue",
+                "description": "Tuscan Blue Rosemary is a popular and aromatic rosemary variety with needle-like leaves and a robust, pine-like fragrance. This perennial herb is known for its culinary uses, especially in Mediterranean dishes, and its ornamental appeal. Tuscan Blue Rosemary is a versatile herb that adds flavor to various recipes and beauty to gardens.",
+                "growth_mode": null,
+                "days_to_harvest": {
+                  "lower_estimate": 60,
+                  "higher_estimate": 90
+                },
+                "is_container_variety": true,
+                "fruit_color": null,
+                "leaf_color": "Green",
+                "flower_color": "Blue",
+                "fruit_weight": null,
+                "plant_height": "24-36 inches",
+                "best_uses": ["Culinary", "Landscaping", "Containers"],
+                "needs_support": false,
+                "water_requirement": "Low to Moderate",
+                "feeding_requirement": "Once a month",
+                "requires_pruning": true,
+                "fun_fact": "Did you know? Tuscan Blue Rosemary is often used in roasts, stews, and grilled dishes, imparting a distinct flavor to the food.",
+                "planting_tip": "Plant Tuscan Blue Rosemary in well-drained soil with full sunlight. Water sparingly, allowing the soil to dry out between watering. Fertilize once a month during the growing season. Prune regularly to maintain shape and encourage bushiness. Harvest leaves for culinary use.",
+                "spacing": "12-18 inches"
+                "overwrite_common_features": {
+                }
+            },
+            {
+                "id": 1,
+                "name": "Arp",
+                "description": "Arp Rosemary is a cold-hardy and aromatic rosemary variety with silvery-green leaves and a pine-like scent. This perennial herb is prized for its culinary uses, especially in roasts, marinades, and bread. Arp Rosemary is well-suited for various climates and is an excellent choice for both herb gardens and container planting.",
+                "growth_mode": null,
+                "days_to_harvest": {
+                  "lower_estimate": 60,
+                  "higher_estimate": 90
+                },
+                "is_container_variety": true,
+                "fruit_color": null,
+                "leaf_color": "Silvery-Green",
+                "flower_color": "Blue",
+                "fruit_weight": null,
+                "plant_height": "24-36 inches",
+                "best_uses": ["Culinary", "Containers"],
+                "needs_support": false,
+                "water_requirement": "Low to Moderate",
+                "feeding_requirement": "Once a month",
+                "requires_pruning": true,
+                "fun_fact": "Did you know? Arp Rosemary is one of the cold-hardiest rosemary varieties and can withstand colder temperatures better than other types.",
+                "planting_tip": "Plant Arp Rosemary in well-drained soil with full sunlight. Water sparingly, allowing the soil to dry out between watering. Fertilize once a month during the growing season. Prune regularly to maintain shape and encourage bushiness. Harvest leaves for culinary use.",
+                "spacing": "18-24 inches"
+                "overwrite_common_features": {
+                }
+            },
+            {
+                "id": 2,
+                "name": "Barbecue",
+                "description": "Barbecue Rosemary is a robust and flavorful rosemary variety with dark green leaves and a strong aromatic profile. This perennial herb is specially bred for its culinary uses, particularly in grilling and barbecuing. Barbecue Rosemary adds a savory touch to meat and vegetable dishes, making it a favorite for outdoor cooking enthusiasts.",
+                "growth_mode": null,
+                "days_to_harvest": {
+                  "lower_estimate": 60,
+                  "higher_estimate": 90
+                },
+                "is_container_variety": true,
+                "fruit_color": null,
+                "leaf_color": "Dark Green",
+                "flower_color": "Blue",
+                "fruit_weight": null,
+                "plant_height": "24-36 inches",
+                "best_uses": ["Culinary", "Grilling", "Barbecuing"],
+                "needs_support": false,
+                "water_requirement": "Low to Moderate",
+                "feeding_requirement": "Once a month",
+                "requires_pruning": true,
+                "fun_fact": "Did you know? Barbecue Rosemary is specifically bred for its robust flavor, making it an excellent choice for enhancing the taste of grilled foods.",
+                "planting_tip": "Plant Barbecue Rosemary in well-drained soil with full sunlight. Water sparingly, allowing the soil to dry out between watering. Fertilize once a month during the growing season. Prune regularly to maintain shape and encourage bushiness. Harvest leaves for culinary use.",
+                "spacing": "18-24 inches"
+                "overwrite_common_features": {
+                }
+            }
 
+        ]
+    },
+    {
+        "id": 9,
+        "name": "chives",
+        "varieties_common_features": {
+            "sunlight_requirement": "Full Sun to Partial Shade",
+            "propagation_methods": ["Seeds", "Division"],
+            "soil_acidity_range": {
+              "lower_bound": 6.0,
+              "upper_bound": 7.5
+            },
+            "days_to_germination": "14-21 days",
+            "frost_tolerance": true,
+            "planting_depth": "1/4 inch",
+            "spacing": "6-12 inches"
+            "life_cycle": "Perennial",
+            "season": "Cool"
+        },
+        "varieties": [
+            {
+                "id": 0,
+                "name": "Common",
+                "description": "Common Chives, also known as Allium schoenoprasum, are a classic and versatile herb with slender, hollow leaves and a mild onion flavor. This perennial herb is popular in culinary applications, adding a fresh and subtle onion taste to a variety of dishes. Common Chives are easy to grow and are a staple in herb gardens and kitchen windowsills.",
+                "growth_mode": null,
+                "days_to_harvest": {
+                  "lower_estimate": 30,
+                  "higher_estimate": 60
+                },
+                "is_container_variety": true,
+                "fruit_color": null,
+                "leaf_color": "Green",
+                "flower_color": "Purple",
+                "fruit_weight": null,
+                "plant_height": "12-18 inches",
+                "best_uses": ["Culinary", "Landscaping", "Containers"],
+                "needs_support": false,
+                "water_requirement": "Moderate",
+                "feeding_requirement": "Every four weeks",
+                "requires_pruning": true,
+                "fun_fact": "Did you know? Common Chives belong to the Allium family, which includes onions, garlic, and leeks.",
+                "planting_tip": "Plant Common Chives in well-drained soil with full to partial sunlight. Water moderately, keeping the soil consistently moist. Fertilize every four weeks during the growing season. Prune regularly to encourage new growth. Harvest leaves for culinary use, and use the attractive purple flowers as garnishes.",
+                "spacing": "6-12 inches"
+                "overwrite_common_features": {
+                }
+            },
+            {
+                "id": 1,
+                "name": "Garlic",
+                "description": "Garlic Chives, also known as Allium tuberosum, are a flavorful herb with flat, strap-like leaves and a distinct garlic taste. This perennial herb is widely used in culinary dishes, providing a mild garlic flavor without the intensity of fresh garlic. Garlic Chives are valued for their versatility and are a popular choice for both herb gardens and Asian cuisines.",
+                "growth_mode": null,
+                "days_to_harvest": {
+                  "lower_estimate": 30,
+                  "higher_estimate": 60
+                },
+                "is_container_variety": true,
+                "fruit_color": null,
+                "leaf_color": "Green",
+                "flower_color": "White",
+                "fruit_weight": null,
+                "plant_height": "12-18 inches",
+                "best_uses": ["Culinary", "Asian Cuisines", "Containers"],
+                "needs_support": false,
+                "water_requirement": "Moderate",
+                "feeding_requirement": "Every four weeks",
+                "requires_pruning": true,
+                "fun_fact": "Did you know? Garlic Chives are a staple in Chinese cuisine, often used in dumplings, stir-fries, and savory pancakes.",
+                "planting_tip": "Plant Garlic Chives in well-drained soil with full to partial sunlight. Water moderately, allowing the soil to dry out between watering. Fertilize every four weeks during the growing season. Prune regularly to encourage new growth. Harvest leaves for culinary use, and use the delicate white flowers as an edible garnish.",
+                "spacing": "6-12 inches"
+                "overwrite_common_features": {
+                }
+            },
+            {
+                "id": 2,
+                "name": "Society Garlic",
+                "description": "Society Garlic Chives, also known as Tulbaghia violacea, are a unique chives variety with narrow, strap-like leaves and a mild garlic flavor. This perennial herb is valued for its ornamental appeal and culinary uses. Society Garlic Chives are known for their pretty lilac flowers and are suitable for both herb gardens and landscape borders.",
+                "growth_mode": null,
+                "days_to_harvest": {
+                  "lower_estimate": 30,
+                  "higher_estimate": 60
+                },
+                "is_container_variety": true,
+                "fruit_color": null,
+                "leaf_color": "Green",
+                "flower_color": "Lilac",
+                "fruit_weight": null,
+                "plant_height": "12-18 inches",
+                "best_uses": ["Culinary", "Ornamental", "Landscaping"],
+                "needs_support": false,
+                "water_requirement": "Moderate",
+                "feeding_requirement": "Every four weeks",
+                "requires_pruning": true,
+                "fun_fact": "Did you know? Society Garlic Chives are not only used in cooking but are also cultivated for their attractive flowers and landscape use.",
+                "planting_tip": "Plant Society Garlic Chives in well-drained soil with full to partial sunlight. Water moderately, allowing the soil to dry out between watering. Fertilize every four weeks during the growing season. Prune regularly to encourage new growth. Harvest leaves for culinary use, and enjoy the clusters of lilac flowers as an ornamental addition.",
+                "spacing": "6-12 inches"
+                "overwrite_common_features": {
+                }
+            }
+
+        ]
+    }
 ]
