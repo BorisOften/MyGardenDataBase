@@ -626,6 +626,509 @@
                     }
                   }
         ]
-    }
+    },
+    {
+        "id": 12,
+        "name": "cucumber",
+        "varieties_common_features": {
+            "sunlight_requirement": "Full Sun",
+            "propagation_methods": ["Seeds"],
+            "soil_acidity_range": {
+              "lower_bound": 6.0,
+              "upper_bound": 7.5
+            },
+            "days_to_germination": "7-14 days",
+            "frost_tolerance": false,
+            "planting_depth": "1 inch",
+            "spacing": "12-18 inches",
+            "life_cycle": "Annual",
+            "season": "Warm"
+        },
+        "varieties": [
+            {
+                "id": 0,
+                "English Telegraph",
+                "description": "English Telegraph cucumbers are a classic English cucumber variety known for their long, slender shape and refreshing flavor. These cucumbers have a smooth, thin skin and minimal seeds, making them ideal for fresh eating, salads, and even pickling. With a vining growth habit, English Telegraph cucumbers require sturdy support and create a lush, green backdrop in the garden.",
+                "growth_mode": null,
+                "days_to_harvest": {
+                  "lower_estimate": 55,
+                  "higher_estimate": 65
+                },
+                "is_container_variety": false,
+                "fruit_color": "Green",
+                "leaf_color": "Green",
+                "fruit_length": "8-10 inches",
+                "flower_color": "Yellow",
+                "fruit_weight": null,
+                "plant_height": "18-24 inches",
+                "best_uses": ["Fresh Eating", "Salads", "Pickling"],
+                "needs_support": true,
+                "water_requirement": "Consistent watering",
+                "feeding_requirement": "Balanced fertilizer",
+                "requires_pruning": true,
+                "fun_fact": "English Telegraph cucumbers are often referred to as 'burpless' cucumbers. The term 'burpless' indicates that these cucumbers tend to produce fewer indigestible compounds, reducing the likelihood of causing burping after consumption.",
+                "planting_tip": "For successful cultivation, plant English Telegraph cucumber seeds in well-drained, fertile soil with good sunlight. Provide sturdy trellising or stakes for support to encourage straight and uniform fruit development. Water consistently to keep the soil evenly moist, especially during the flowering and fruiting stages. Prune the vines as needed to maintain a tidy and productive garden. Harvest the cucumbers when they reach 8-10 inches in length for the best flavor and texture."
+                "spacing": "8-12 inches",
+                "overwrite_common_features": {
+                }
+            },
+              {
+                  "id": 1,
+                "name": "Lemon Cucumber",
+                "description": "Lemon Cucumber is a unique and refreshing variety known for its round, yellow fruit that resembles a lemon in both color and shape. This cucumber has a mild, sweet flavor and a thin, tender skin. Ideal for fresh eating, pickling, and garnishing, Lemon Cucumber adds a delightful touch to salads and summer dishes. With a compact growth habit, it is well-suited for both gardens and containers.",
+                "spacing": "12-18 inches",
+                "growth_mode": null,
+                "days_to_harvest": {
+                  "lower_estimate": 50,
+                  "higher_estimate": 60
+                },
+                "is_container_variety": false,
+                "fruit_color": "Yellow",
+                "fruit_length": "2-3 inches",
+                "plant_height": "18-24 inches",
+                "leaf_color": "Green",
+                "flower_color": "Yellow",
+                "fruit_weight": "4-6 ounces",
+                "best_uses": ["Fresh Eating", "Pickling", "Garnish"],
+                "needs_support": true,
+                "water_requirement": "Regular watering",
+                "feeding_requirement": "Balanced fertilizer",
+                "requires_pruning": false,
+                "fun_fact": "Fun Fact: Despite its appearance, Lemon Cucumber is a true cucumber and not a lemon. The name comes from its visual similarity to lemons, especially when the fruits are small and round.",
+                "planting_tip": "For successful cultivation, plant Lemon Cucumber seeds in well-drained soil with good sunlight. Water consistently, especially during dry periods, to ensure even moisture. Harvest the cucumbers when they are 2-3 inches in diameter for the best flavor and texture.",
+                "overwrite_common_features": {
+                }
+              },
+              {
+                  "id": 2,
+                "name": "Marketmore 76",
+                "description": "Marketmore 76 is a classic cucumber variety valued for its reliable production and excellent flavor. These dark green cucumbers have a traditional appearance and a crisp, refreshing taste. Well-suited for fresh eating, salads, and slicing, Marketmore 76 is a popular choice for home gardeners and market growers alike.",
+                "spacing": "12-18 inches",
+                "growth_mode": null,
+                "days_to_harvest": {
+                  "lower_estimate": 55,
+                  "higher_estimate": 65
+                },
+                "is_container_variety": true,
+                "fruit_color": "Dark Green",
+                "fruit_length": "6-8 inches",
+                "plant_height": "18-24 inches",
+                "leaf_color": "Green",
+                "flower_color": "Yellow",
+                "fruit_weight": "8-10 ounces",
+                "best_uses": ["Fresh Eating", "Salads", "Slicing"],
+                "needs_support": true,
+                "water_requirement": "Regular watering",
+                "feeding_requirement": "Balanced fertilizer",
+                "requires_pruning": false,
+                "fun_fact": "Fun Fact: Marketmore 76 is an improved variety of the Marketmore series, known for its disease resistance and consistent performance. It has become a standard for many cucumber enthusiasts.",
+                "planting_tip": "For successful cultivation, plant Marketmore 76 cucumber seeds in well-drained soil with good sunlight. Water consistently to maintain even soil moisture, especially during hot weather. Harvest the cucumbers when they reach 6-8 inches in length for optimal flavor and texture.",
+                "overwrite_common_features": {
+                }
+              },
+              {
+                  "id": 3,
+                "name": "Armenian",
+                "description": "Armenian Cucumber, also known as Snake Melon, is a unique cucumber variety with long, slender fruits and a mild, crisp texture. The pale green cucumbers have a subtle flavor, making them ideal for fresh eating, salads, and spiralizing. With a vining growth habit, Armenian Cucumber requires sturdy support and adds an interesting twist to cucumber selections.",
+                "spacing": "12-18 inches",
+                "growth_mode": null,
+                "days_to_harvest": {
+                  "lower_estimate": 60,
+                  "higher_estimate": 70
+                },
+                "is_container_variety": true,
+                "fruit_color": "Pale Green",
+                "fruit_length": "12-18 inches",
+                "plant_height": "24-36 inches",
+                "leaf_color": "Green",
+                "flower_color": "Yellow",
+                "fruit_weight": "10-12 ounces",
+                "best_uses": ["Fresh Eating", "Salads", "Spiralizing"],
+                "needs_support": true,
+                "water_requirement": "Regular watering",
+                "feeding_requirement": "Balanced fertilizer",
+                "requires_pruning": true,
+                "fun_fact": "Fun Fact: Armenian Cucumbers are technically a type of melon and belong to the same botanical family as cantaloupes. Despite their melon classification, they are enjoyed as cucumbers.",
+                "planting_tip": "For successful cultivation, plant Armenian Cucumber seeds in well-drained soil with good sunlight. Provide sturdy trellising or stakes for support to encourage straight and uniform fruit development. Water consistently, especially during hot weather, and harvest the cucumbers when they reach 12-18 inches in length for the best texture.",
+                "overwrite_common_features": {
+                }
+              },
+              {
+                  "id": 4,
+                "name": "Diva",
+                "description": "Diva is a compact and high-yielding cucumber variety, perfect for small gardens and container gardening. These cucumbers have a smooth, tender skin and a mild, sweet flavor. Diva cucumbers are excellent for fresh eating, and their smaller size makes them ideal for pickling. With a bushy growth habit, Diva is a versatile choice for various gardening spaces.",
+                "spacing": "12-18 inches",
+                "growth_mode": null,
+                "days_to_harvest": {
+                  "lower_estimate": 50,
+                  "higher_estimate": 60
+                },
+                "is_container_variety": true,
+                "fruit_color": "Light Green",
+                "fruit_length": "6-8 inches",
+                "plant_height": "12-18 inches",
+                "leaf_color": "Green",
+                "flower_color": "Yellow",
+                "fruit_weight": "2-4 ounces",
+                "best_uses": ["Fresh Eating", "Container Gardening", "Pickle-sized"],
+                "needs_support": false,
+                "water_requirement": "Regular watering",
+                "feeding_requirement": "Balanced fertilizer",
+                "requires_pruning": false,
+                "fun_fact": "Fun Fact: Diva cucumbers are known for their 'burpless' quality, making them well-tolerated by individuals who may experience indigestion after consuming traditional cucumbers.",
+                "planting_tip": "For successful cultivation, plant Diva cucumber seeds in well-drained soil with good sunlight. Water consistently to maintain even soil moisture, especially during hot weather. Harvest the cucumbers when they reach 6-8 inches in length for optimal flavor and tenderness. Consider growing Diva cucumbers in containers for convenient and space-efficient gardening.",
+                "overwrite_common_features": {
+                }
+              },
+              {
+                  "id": 5,
+                "name": "Japanese Climbing",
+                "description": "Japanese Climbing cucumber is a vigorous climbing variety with long, slender fruits and a distinct, crisp texture. The dark green cucumbers have a refreshing flavor, making them suitable for fresh eating, stir-fries, and Asian cuisine. With a climbing growth habit, Japanese Climbing cucumbers require sturdy support and create an impressive vertical display in the garden.",
+                "spacing": "12-18 inches",
+                "growth_mode": null,
+                "days_to_harvest": {
+                  "lower_estimate": 60,
+                  "higher_estimate": 70
+                },
+                "is_container_variety": true,
+                "fruit_color": "Dark Green",
+                "fruit_length": "10-12 inches",
+                "plant_height": "72-96 inches",
+                "leaf_color": "Green",
+                "flower_color": "Yellow",
+                "fruit_weight": "6-8 ounces",
+                "best_uses": ["Fresh Eating", "Stir-Fries", "Asian Cuisine"],
+                "needs_support": true,
+                "water_requirement": "Regular watering",
+                "feeding_requirement": "Balanced fertilizer",
+                "requires_pruning": true,
+                "fun_fact": "Fun Fact: Japanese Climbing cucumbers are often grown on trellises or arbors to maximize space and improve air circulation, resulting in healthier plants and higher yields.",
+                "planting_tip": "For successful cultivation, plant Japanese Climbing cucumber seeds in well-drained soil with good sunlight. Provide sturdy trellising or vertical support for the vines to climb. Water consistently, especially during hot weather, and harvest the cucumbers when they reach 10-12 inches in length for optimal flavor and texture.",
+                "overwrite_common_features": {
+                }
+              },
+              
+                {
+                    "id": 6,
+                  "name": "Straight Eight",
+                  "description": "Straight Eight is a classic cucumber variety known for its straight, uniform fruits and excellent flavor. The dark green cucumbers have a crisp texture and are perfect for fresh eating, salads, and slicing. With an upright growth habit, Straight Eight is easy to cultivate in gardens and provides a reliable harvest of high-quality cucumbers.",
+                  "spacing": "12-18 inches",
+                  "days_to_harvest": {
+                    "lower_estimate": 55,
+                    "higher_estimate": 65
+                  },
+                  "is_container_variety": false,
+                  "fruit_color": "Dark Green",
+                  "fruit_length": "8-10 inches",
+                  "fruit_weight": "8-10 ounces",
+                  "plant_height": "18-24 inches",
+                  "leaf_color": "Green",
+                  "flower_color": "Yellow",
+                  "growth_mode": null,
+                  "best_uses": ["Fresh Eating", "Salads", "Slicing"],
+                  "needs_support": false,
+                  "water_requirement": "Regular watering",
+                  "feeding_requirement": "Balanced fertilizer",
+                  "requires_pruning": false,
+                  "fun_fact": "Straight Eight cucumbers are widely popular for their straight shape and consistent size, making them a favorite choice for market growers and home gardeners alike.",
+                  "planting_tip": "For successful cultivation, plant Straight Eight cucumber seeds in well-drained soil with good sunlight. Provide consistent watering and feed with a balanced fertilizer throughout the growing season. Harvest the cucumbers when they reach 8-10 inches in length for optimal taste and texture.",
+                  "overwrite_common_features": {
+                  }
+                },
+                {
+                    "id": 7,
+                  "name": "Bush Champion",
+                  "description": "Bush Champion is a compact and productive cucumber variety suitable for small gardens and container gardening. These dark green cucumbers have a delicious flavor and are perfect for fresh eating and pickling. With a bushy growth habit, Bush Champion is an excellent choice for limited gardening space and provides a steady supply of tasty cucumbers.",
+                  "spacing": "12-18 inches",
+                  "days_to_harvest": {
+                    "lower_estimate": 50,
+                    "higher_estimate": 60
+                  },
+                  "is_container_variety": true,
+                  "fruit_color": "Dark Green",
+                  "fruit_length": "6-8 inches",
+                  "fruit_weight": "4-6 ounces",
+                  "plant_height": "12-18 inches",
+                  "leaf_color": "Green",
+                  "flower_color": "Yellow",
+                  "growth_mode": null,
+                  "best_uses": ["Fresh Eating", "Container Gardening", "Pickle-sized"],
+                  "needs_support": false,
+                  "water_requirement": "Regular watering",
+                  "feeding_requirement": "Balanced fertilizer",
+                  "requires_pruning": false,
+                  "fun_fact": "Fun Fact: Bush Champion cucumbers are well-adapted for container gardening and can thrive on patios, balconies, or any small outdoor space.",
+                  "planting_tip": "For successful cultivation, plant Bush Champion cucumber seeds in well-drained soil with good sunlight. Water consistently to maintain even soil moisture, especially during hot weather. Harvest the cucumbers when they reach 6-8 inches in length for optimal flavor and tenderness.",
+                  "overwrite_common_features": {
+                  }
+                },
+                {
+                    "id": 8,
+                  "name": "Picklebush",
+                  "description": "Picklebush is a compact and early-maturing cucumber variety specifically bred for pickling. These medium green cucumbers are crisp and flavorful, making them perfect for homemade pickles. With a compact growth habit, Picklebush is well-suited for container gardening and provides a convenient option for pickle enthusiasts.",
+                  "spacing": "12-18 inches",
+                  "days_to_harvest": {
+                    "lower_estimate": 45,
+                    "higher_estimate": 55
+                  },
+                  "is_container_variety": true,
+                  "fruit_color": "Medium Green",
+                  "fruit_length": "3-5 inches",
+                  "fruit_weight": "2-4 ounces",
+                  "plant_height": "12-18 inches",
+                  "leaf_color": "Green",
+                  "flower_color": "Yellow",
+                  "growth_mode": "Compact",
+                  "best_uses": ["Pickling", "Container Gardening", "Snacking"],
+                  "needs_support": false,
+                  "water_requirement": "Regular watering",
+                  "feeding_requirement": "Balanced fertilizer",
+                  "requires_pruning": false,
+                  "fun_fact": "Fun Fact: Picklebush cucumbers are known for their versatility and are equally enjoyable for snacking or adding to salads. Their small size makes them an excellent choice for quick pickling.",
+                  "planting_tip": "For successful cultivation, plant Picklebush cucumber seeds in well-drained soil with good sunlight. Water consistently to maintain even soil moisture. Harvest the cucumbers when they reach 3-5 inches in length for pickling or snacking purposes.",
+                  "overwrite_common_features": {
+                  }
+                }
+        ]
+    },
+    {
+        "id": 13,
+        "name": "okra",
+        "varieties_common_features": {
+            "sunlight_requirement": "Full Sun",
+            "propagation_methods": ["Seeds"],
+            "soil_acidity_range": {
+              "lower_bound": 6.0,
+              "upper_bound": 7.5
+            },
+            "days_to_germination": "7-14 days",
+            "frost_tolerance": false,
+            "planting_depth": "1 inch",
+            "spacing": "12-18 inches",
+            "life_cycle": "Annual",
+            "season": "Warm"
+        },
+        "varieties": [
+            {
+                "id": 0,
+              "name": "Clemson Spineless",
+              "description": "Clemson Spineless is a popular okra variety known for its tender pods and high productivity. The bright green pods are spineless, making them easy to harvest. With an upright growth habit, Clemson Spineless is an excellent choice for gardens and is widely used in various culinary applications, including fresh cooking, gumbo, and frying.",
+              "spacing": "12-18 inches",
+              "days_to_harvest": {
+                "lower_estimate": 50,
+                "higher_estimate": 60
+              },
+              "is_container_variety": false,
+              "fruit_color": "Green",
+              "fruit_length": "6-8 inches",
+              "fruit_weight": "1-2 ounces",
+              "plant_height": "24-36 inches",
+              "leaf_color": "Green",
+              "flower_color": "Cream",
+              "growth_mode": null,
+              "best_uses": ["Fresh Cooking", "Gumbo", "Frying"],
+              "needs_support": false,
+              "water_requirement": "Regular watering",
+              "feeding_requirement": "Balanced fertilizer",
+              "requires_pruning": false,
+              "fun_fact": "Clemson Spineless is a classic okra variety that has been a favorite among gardeners for its reliable performance and versatile use in cooking.",
+              "planting_tip": "For successful cultivation, plant Clemson Spineless okra seeds in well-drained soil with good sunlight. Water consistently to keep the soil evenly moist. Harvest the pods when they are 6-8 inches in length for optimal tenderness and flavor.",
+              "overwrite_common_features": {
+              }
+            },
+            {
+                "id": 1,
+              "name": "Burgundy",
+              "description": "Burgundy okra is prized for its unique, deep burgundy-colored pods that add a splash of color to both gardens and dishes. The pods are tender and flavorful, suitable for various culinary uses. With an upright growth habit, Burgundy is not only a delicious addition to recipes but also a visually striking plant for ornamental gardens.",
+              "spacing": "12-18 inches",
+              "days_to_harvest": {
+                "lower_estimate": 55,
+                "higher_estimate": 65
+              },
+              "is_container_variety": false,
+              "fruit_color": "Burgundy",
+              "fruit_length": "4-6 inches",
+              "fruit_weight": "1-2 ounces",
+              "plant_height": "24-36 inches",
+              "leaf_color": "Green",
+              "flower_color": "Cream",
+              "growth_mode": null,
+              "best_uses": ["Colorful Cuisine", "Ornamental Gardens", "Fresh Cooking"],
+              "needs_support": false,
+              "water_requirement": "Regular watering",
+              "feeding_requirement": "Balanced fertilizer",
+              "requires_pruning": false,
+              "fun_fact": "Fun Fact: Burgundy okra is not only known for its culinary appeal but is also appreciated for its decorative value, making it a dual-purpose choice for gardeners.",
+              "planting_tip": "For successful cultivation, plant Burgundy okra seeds in well-drained soil with good sunlight. Water consistently and provide support if needed as the plant grows. Harvest the pods when they are 4-6 inches in length for the best color and flavor.",
+              "overwrite_common_features": {
+              }
+            },
+            {
+                "id": 2,
+              "name": "Emerald",
+              "description": "Emerald okra is a traditional variety with vibrant green pods that are both tender and flavorful. Widely used in Southern cuisine, Emerald okra is versatile in the kitchen, suitable for grilling, frying, and pickling. With an upright growth habit, this variety is a reliable choice for okra enthusiasts.",
+              "spacing": "12-18 inches",
+              "days_to_harvest": {
+                "lower_estimate": 50,
+                "higher_estimate": 60
+              },
+              "is_container_variety": false,
+              "fruit_color": "Green",
+              "fruit_length": "5-7 inches",
+              "fruit_weight": "1-2 ounces",
+              "plant_height": "24-36 inches",
+              "leaf_color": "Green",
+              "flower_color": "Cream",
+              "growth_mode": null,
+              "best_uses": ["Southern Cuisine", "Grilling", "Pickling"],
+              "needs_support": false,
+              "water_requirement": "Regular watering",
+              "feeding_requirement": "Balanced fertilizer",
+              "requires_pruning": false,
+              "fun_fact": "Fun Fact: Emerald okra is a staple in traditional Southern dishes and is celebrated for its delicious flavor and culinary versatility.",
+              "planting_tip": "For successful cultivation, plant Emerald okra seeds in well-drained soil with good sunlight. Water consistently to keep the soil evenly moist. Harvest the pods when they are 5-7 inches in length for optimal tenderness and flavor.",
+              "overwrite_common_features": {
+              }
+            },
+            
+              {
+                  "id": 3,
+                  "description": "Annie Oakley II is a reliable okra variety known for its consistent performance and delicious pods. The bright green pods are tender and flavorful, making them suitable for various culinary applications. With an upright growth habit, Annie Oakley II is a versatile choice for gardens, offering excellent yield and taste.",
+                "name": "Annie Oakley II",
+                "spacing": "12-18 inches",
+                "days_to_harvest": {
+                  "lower_estimate": 55,
+                  "higher_estimate": 65
+                },
+                "is_container_variety": false,
+                "fruit_color": "Green",
+                "fruit_length": "6-8 inches",
+                "fruit_weight": "1-2 ounces",
+                "plant_height": "24-36 inches",
+                "leaf_color": "Green",
+                "flower_color": "Cream",
+                "growth_mode": null,
+                "best_uses": ["Fresh Cooking", "Grilling", "Gumbo"],
+                "needs_support": false,
+                "water_requirement": "Regular watering",
+                "feeding_requirement": "Balanced fertilizer",
+                "requires_pruning": false,
+                "fun_fact": "Fun Fact: Annie Oakley II okra is named after the famous sharpshooter Annie Oakley, reflecting its precision in delivering a bountiful harvest of flavorful pods.",
+                "planting_tip": "For successful cultivation, plant Annie Oakley II okra seeds in well-drained soil with good sunlight. Water consistently to maintain soil moisture. Harvest the pods when they are 6-8 inches in length for optimal tenderness and flavor.",
+                "overwrite_common_features": {
+                }
+              },
+              {
+                  "id": 4,
+                "name": "Red Velvet",
+                "description": "Red Velvet okra is a visually stunning variety with vibrant red pods that add a colorful touch to gardens and dishes. The pods are tender and flavorful, suitable for various culinary uses. With an upright growth habit, Red Velvet is a unique and attractive choice for both ornamental and edible gardens.",
+                "spacing": "12-18 inches",
+                "days_to_harvest": {
+                  "lower_estimate": 60,
+                  "higher_estimate": 70
+                },
+                "is_container_variety": false,
+                "fruit_color": "Red",
+                "fruit_length": "4-6 inches",
+                "fruit_weight": "1-2 ounces",
+                "plant_height": "24-36 inches",
+                "leaf_color": "Green",
+                "flower_color": "Cream",
+                "growth_mode": null,
+                "best_uses": ["Colorful Cuisine", "Grilling", "Fresh Cooking"],
+                "needs_support": false,
+                "water_requirement": "Regular watering",
+                "feeding_requirement": "Balanced fertilizer",
+                "requires_pruning": false,
+                "fun_fact": "Fun Fact: Red Velvet okra's striking red color makes it a standout choice in garden landscapes, and its flavor adds a delightful twist to culinary creations.",
+                "planting_tip": "For successful cultivation, plant Red Velvet okra seeds in well-drained soil with good sunlight. Water consistently and provide support if needed. Harvest the pods when they are 4-6 inches in length for the best color and flavor.",
+                "overwrite_common_features": {
+                }
+              },
+              {
+                  "id": 4,
+                "name": "Jambalaya",
+                "description": "Jambalaya okra is a flavorful variety often used in Southern cuisine, especially in dishes like gumbo. The green pods are tender and versatile, suitable for various cooking methods. With an upright growth habit, Jambalaya is a go-to choice for those seeking authentic flavors in their culinary creations.",
+                "spacing": "12-18 inches",
+                "days_to_harvest": {
+                  "lower_estimate": 50,
+                  "higher_estimate": 60
+                },
+                "is_container_variety": false,
+                "fruit_color": "Green",
+                "fruit_length": "5-7 inches",
+                "fruit_weight": "1-2 ounces",
+                "plant_height": "24-36 inches",
+                "leaf_color": "Green",
+                "flower_color": "Cream",
+                "growth_mode": null,
+                "best_uses": ["Gumbo", "Fresh Cooking", "Pickling"],
+                "needs_support": false,
+                "water_requirement": "Regular watering",
+                "feeding_requirement": "Balanced fertilizer",
+                "requires_pruning": false,
+                "fun_fact": "Fun Fact: Jambalaya okra is named after the famous Louisiana dish, reflecting its popularity and culinary significance in the region.",
+                "planting_tip": "For successful cultivation, plant Jambalaya okra seeds in well-drained soil with good sunlight. Water consistently to keep the soil evenly moist. Harvest the pods when they are 5-7 inches in length for optimal tenderness and flavor.",
+                "overwrite_common_features": {
+                }
+              },
+              {
+                  "id": 5,
+                "name": "Star of David",
+                "description": "Star of David okra is a distinctive variety known for its unique, star-shaped pods. The bright green pods are tender and flavorful, making them suitable for various cooking methods. With an upright growth habit, Star of David is not only a culinary delight but also an eye-catching addition to garden landscapes.",
+                "spacing": "12-18 inches",
+                "days_to_harvest": {
+                  "lower_estimate": 55,
+                  "higher_estimate": 65
+                },
+                "is_container_variety": false,
+                "fruit_color": "Green",
+                "fruit_length": "6-8 inches",
+                "fruit_weight": "1-2 ounces",
+                "plant_height": "24-36 inches",
+                "leaf_color": "Green",
+                "flower_color": "Cream",
+                "growth_mode": null,
+                "best_uses": ["Fresh Cooking", "Grilling", "Sautéing"],
+                "needs_support": false,
+                "water_requirement": "Regular watering",
+                "feeding_requirement": "Balanced fertilizer",
+                "requires_pruning": false,
+                "fun_fact": "Fun Fact: Star of David okra gets its name from the distinctive shape of its pods, resembling the Star of David, adding a touch of symbolism to the garden.",
+                "planting_tip": "For successful cultivation, plant Star of David okra seeds in well-drained soil with good sunlight. Water consistently and provide support if needed. Harvest the pods when they are 6-8 inches in length for optimal tenderness and flavor.",
+                "overwrite_common_features": {
+                }
+              },
+              {
+                  "id": 6,
+                "name": "Louisiana Green Velvet",
+                "description": "Louisiana Green Velvet okra is a classic variety with vibrant green pods that have a velvety texture. The tender pods are ideal for various cooking methods, including gumbo, fresh cooking, and frying. With an upright growth habit, Louisiana Green Velvet is a beloved choice for traditional Southern dishes.",
+                "spacing": "12-18 inches",
+                "days_to_harvest": {
+                  "lower_estimate": 60,
+                  "higher_estimate": 70
+                },
+                "is_container_variety": false,
+                "fruit_color": "Green",
+                "fruit_length": "4-6 inches",
+                "fruit_weight": "1-2 ounces",
+                "plant_height": "24-36 inches",
+                "leaf_color": "Green",
+                "flower_color": "Cream",
+                "growth_mode": null,
+                "best_uses": ["Gumbo", "Fresh Cooking", "Frying"],
+                "needs_support": false,
+                "water_requirement": "Regular watering",
+                "feeding_requirement": "Balanced fertilizer",
+                "requires_pruning": false,
+                "fun_fact": "Fun Fact: Louisiana Green Velvet okra is cherished for its velvety pods, adding a unique texture to dishes and contributing to the rich culinary heritage of Louisiana.",
+                "planting_tip": "For successful cultivation, plant Louisiana Green Velvet okra seeds in well-drained soil with good sunlight. Water consistently and provide support if needed. Harvest the pods when they are 4-6 inches in length for optimal tenderness and flavor.",
+                "overwrite_common_features": {
+                }
+              }
+
+          ]
+
+   
 ]
 
