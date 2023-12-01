@@ -23,6 +23,7 @@
                 {
                     "id": 0,
                   "name": "Roma",
+                  "varieties_common_features": 78,
                   "description": "Roma tomatoes, scientifically known as Solanum lycopersicum 'Roma,' are a cherished cultivar celebrated for their distinctive attributes and culinary versatility. These determinate tomatoes boast a classic plum shape, characterized by their elongated, oval form and vibrant red color when fully ripened. Renowned for their exceptional flavor, Roma tomatoes are a popular choice among gardeners and chefs alike, particularly prized for their low seed content and dense, meaty texture.",
                   "growth_mode": "determinate",
                   "days_to_harvest": {
