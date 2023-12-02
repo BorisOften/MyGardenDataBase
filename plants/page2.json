@@ -650,7 +650,7 @@
             "varieties": [
                 {
                     "id": 0,
-                    "English Telegraph",
+                    "name": "English Telegraph",
                     "description": "English Telegraph cucumbers are a classic English cucumber variety known for their long, slender shape and refreshing flavor. These cucumbers have a smooth, thin skin and minimal seeds, making them ideal for fresh eating, salads, and even pickling. With a vining growth habit, English Telegraph cucumbers require sturdy support and create a lush, green backdrop in the garden.",
                     "growth_mode": null,
                     "days_to_harvest": {
