@@ -1492,6 +1492,7 @@
                     "id": 0,
                   "name": "Sugar Baby",
                   "description": "Sugar Baby Watermelon is a popular and compact variety known for its sweet and juicy flesh. The dark green rind with light green stripes makes it easily recognizable. With a trailing growth habit, it is suitable for gardens with limited space.",
+                  "spacing": "3-5 feet",
                   "days_to_harvest": {
                     "lower_estimate": 80,
                     "higher_estimate": 90
@@ -1752,6 +1753,153 @@
 
 
 
+            ]
+        },
+        
+        
+        
+        
+        
+        
+        {
+            "id": 17,
+            "name": "cantaloupe",
+            "varieties_common_features": {
+                "sunlight_requirement": "Full Sun",
+                "propagation_methods": ["Seeds"],
+                "soil_acidity_range": {
+                  "lower_bound": 6.0,
+                  "upper_bound": 7.5
+                },
+                "days_to_germination": "7-14 days",
+                "frost_tolerance": false,
+                "planting_depth": "1-2 inches",
+                "spacing": "3-5 feet",
+                "life_cycle": "Annual",
+                "season": "Warm",
+                "growing_type": "Vining"
+            },
+            "varieties": [
+                {
+                    "id": 0,
+                  "name": "Hale's Best Jumbo",
+                  "description": "Hale's Best Jumbo Cantaloupe is a classic melon variety known for its sweet and aromatic orange flesh. The netted beige skin with green stripes adds to its visual appeal. With a vining growth habit, it produces large and flavorful fruits.",
+                  "spacing": "3-5 feet",
+                  "days_to_harvest": {
+                    "lower_estimate": 90,
+                    "higher_estimate": 100
+                  },
+                  "is_container_variety": false,
+                  "fruit_color": "Netted Beige with Green Stripes",
+                  "flower_color": "Yellow",
+                  "leaf_color": "Green",
+                  "fruit_weight": "3-5 pounds",
+                  "plant_height": "12-18 inches",
+                  "growth_mode": null,
+                  "best_uses": ["Fresh Eating", "Fruit Salads", "Smoothies"],
+                  "water_requirement": "Regular watering",
+                  "feeding_requirement": "Balanced fertilizer",
+                  "requires_pruning": false,
+                  "needs_support": true,
+                  "fun_fact": "Hale's Best Jumbo Cantaloupe is named after the famous seed company Hale and Company, which introduced this melon in the late 19th century. It quickly became a favorite for its taste and size.",
+                  "planting_tip": "For successful cultivation, plant Hale's Best Jumbo Cantaloupe seeds in well-drained soil with a pH between 6.0 and 7.5. Provide full sun exposure and consistent moisture. Support the vines as the fruit develops, and harvest when the fruit slips easily from the stem."
+                },
+                {
+                    "id": 1,
+                  "name": "Crenshaw",
+                  "description": "Crenshaw Cantaloupe is a unique melon variety with sweet and succulent peach-colored flesh. The pale green skin with smooth texture makes it stand out. With a vining growth habit, it produces large and flavorful fruits with a hint of spiciness.",
+                  "spacing": "3-4 feet",
+                  "days_to_harvest": {
+                    "lower_estimate": 85,
+                    "higher_estimate": 95
+                  },
+                  "is_container_variety": false,
+                  "fruit_color": "Pale Green with Smooth Skin",
+                  "flower_color": "Yellow",
+                  "leaf_color": "Green",
+                  "fruit_weight": "4-7 pounds",
+                  "plant_height": "18-24 inches",
+                  "growth_mode": null,
+                  "best_uses": ["Fresh Eating", "Fruit Salads", "Sorbet"],
+                  "water_requirement": "Regular watering",
+                  "feeding_requirement": "Balanced fertilizer",
+                  "requires_pruning": false,
+                  "needs_support": true,
+                  "fun_fact": "Crenshaw Cantaloupe is believed to be a hybrid between a Casaba melon and a Persian melon, resulting in its distinctive flavor and appearance.",
+                  "planting_tip": "For successful cultivation, plant Crenshaw Cantaloupe seeds in well-drained soil. Provide consistent moisture and support the vines as the fruit develops. Harvest when the fruit easily separates from the stem and the aroma is strong."
+                },
+                {
+                    "id": 2,
+                  "name": "Honeydew",
+                  "description": "Honeydew Cantaloupe is a refreshing and sweet melon variety with pale green, smooth skin and light green flesh. Known for its mild and subtle flavor, it complements various culinary applications. With a vining growth habit, it produces medium-sized fruits.",
+                  "spacing": "3-4 feet",
+                  "days_to_harvest": {
+                    "lower_estimate": 80,
+                    "higher_estimate": 90
+                  },
+                  "is_container_variety": false,
+                  "fruit_color": "Pale Green with Smooth Skin",
+                  "flower_color": "Yellow",
+                  "leaf_color": "Green",
+                  "fruit_weight": "4-6 pounds",
+                  "plant_height": "18-24 inches",
+                  "growth_mode": null,
+                  "best_uses": ["Fresh Eating", "Fruit Salads", "Smoothies"],
+                  "water_requirement": "Regular watering",
+                  "feeding_requirement": "Balanced fertilizer",
+                  "requires_pruning": false,
+                  "needs_support": true,
+                  "fun_fact": "Honeydew Cantaloupe is part of the Cucumis melo family, which includes muskmelons and cantaloupes. It is prized for its juicy and hydrating properties.",
+                  "planting_tip": "For successful cultivation, plant Honeydew Cantaloupe seeds in well-drained soil. Provide consistent moisture and support the vines as the fruit develops. Harvest when the fruit easily separates from the stem, and the skin develops a waxy appearance."
+                },
+                {
+                    "id": 3,
+                  "name": "Ambrosia Cantaloupe",
+                  "description": "Ambrosia Cantaloupe is a renowned melon variety celebrated for its exquisite sweetness and aromatic orange flesh. The creamy netted beige skin adds an element of elegance to this delectable fruit. With a vining growth habit, Ambrosia Cantaloupe produces medium-sized, flavorful fruits that embody the essence of summertime indulgence.",
+                  "spacing": "3-4 feet",
+                  "days_to_harvest": {
+                    "lower_estimate": 80,
+                    "higher_estimate": 90
+                  },
+                  "is_container_variety": false,
+                  "fruit_color": "Creamy Netted Beige",
+                  "flower_color": "Yellow",
+                  "leaf_color": "Green",
+                  "fruit_weight": "3-5 pounds",
+                  "plant_height": "18-24 inches",
+                  "growth_mode": null,
+                  "best_uses": ["Fresh Eating", "Fruit Salads", "Smoothies"],
+                  "water_requirement": "Regular watering",
+                  "feeding_requirement": "Balanced fertilizer",
+                  "requires_pruning": false,
+                  "needs_support": true,
+                  "fun_fact": "Ambrosia Cantaloupe, often referred to as the 'Ambrosia' melon, derives its name from the ancient Greek term for the food of the gods. Its divine taste has earned it a place as a favorite among melon enthusiasts.",
+                  "planting_tip": "For successful cultivation of Ambrosia Cantaloupe, begin by planting seeds in well-drained soil with a pH between 6.0 and 7.5. Provide consistent moisture throughout the growing season, ensuring the soil is evenly moist but not waterlogged. Support the vigorous vines as the fruit develops, and apply a balanced fertilizer to encourage healthy growth. Harvest Ambrosia Cantaloupe when the fruit easily slips from the stem and the heavenly aroma is at its peak."
+                },
+                {
+                    "id": 4,
+                  "name": "Athena Cantaloupe",
+                  "description": "Athena Cantaloupe stands out as a delightful melon variety with its sweet and juicy orange flesh. The golden netted beige skin not only adds visual appeal but also hints at the delectable flavors within. Exhibiting a vining growth habit, Athena Cantaloupe produces small to medium-sized fruits, making it a charming addition to gardens seeking exceptional taste in a compact package.",
+                  "spacing": "3-4 feet",
+                  "days_to_harvest": {
+                    "lower_estimate": 75,
+                    "higher_estimate": 85
+                  },
+                  "is_container_variety": false,
+                  "fruit_color": "Golden Netted Beige",
+                  "flower_color": "Yellow",
+                  "leaf_color": "Green",
+                  "fruit_weight": "2-4 pounds",
+                  "plant_height": "18-24 inches",
+                  "growth_mode": null,
+                  "best_uses": ["Fresh Eating", "Fruit Salads", "Sorbet"],
+                  "water_requirement": "Regular watering",
+                  "feeding_requirement": "Balanced fertilizer",
+                  "requires_pruning": false,
+                  "needs_support": true,
+                  "fun_fact": "Fun Fact: Athena Cantaloupe, named after the Greek goddess of wisdom, reflects its early maturity and sweet nature. It has gained a reputation for being a wise choice among gardeners for its reliable yields and scrumptious taste.",
+                  "planting_tip": "For successful cultivation of Athena Cantaloupe, start by planting seeds in well-drained soil with a pH between 6.0 and 7.5. Ensure adequate spacing to allow the vines to sprawl comfortably. Provide regular watering, especially during dry spells, and offer support to the vines as the fruit develops. Apply a balanced fertilizer to promote robust growth. Harvest Athena Cantaloupe when the fruit easily detaches from the stem, and the skin takes on a golden hue, accompanied by a fragrant aroma."
+                }
             ]
         }
     ]
