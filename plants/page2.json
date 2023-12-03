@@ -1632,18 +1632,52 @@
                   "fun_fact": "Moon and Stars Watermelon gained popularity in the 1920s and became a symbol of heirloom varieties. The yellow spots on the skin are a natural genetic variation.",
                   "planting_tip": "For successful cultivation, plant Moon and Stars Watermelon seeds in well-drained soil. Provide consistent moisture during the growing season, especially when the fruit is setting. Support the vines as they grow and consider pruning to manage vine length. Harvest when the fruit develops a uniform dark green color, and the yellow spots are visible, and the tendrils near the stem dry out."
                 }
-
-
-
-
-
-                
-                
-                
-                
+            ]
+        },
+        {
+            "id": 17,
+            "name": "squash",
+            "varieties_common_features": {
+                "sunlight_requirement": "Full Sun",
+                "propagation_methods": ["Seeds"],
+                "soil_acidity_range": {
+                  "lower_bound": 6.0,
+                  "upper_bound": 7.5
+                },
+                "days_to_germination": "7-14 days",
+                "frost_tolerance": false,
+                "planting_depth": "1-2 inches",
+                "spacing": "3-5 feet",
+                "life_cycle": "Annual",
+                "season": "Warm",
+                "growing_type": "Bushy"
+            },
+            "varieties": [
+                {
+                    "id": 0,
+                  "name": "Buttercup Squash",
+                  "description": "Buttercup Squash is a winter squash variety with a sweet and creamy orange flesh. The dark green skin is hard and ridged, making it a durable choice for storage. The bushy growth habit is well-suited for home gardens.",
+                  "days_to_harvest": {
+                    "lower_estimate": 90,
+                    "higher_estimate": 100
+                  },
+                  "is_container_variety": false,
+                  "fruit_color": "Dark Green",
+                  "flower_color": "Yellow",
+                  "leaf_color": "Green",
+                  "fruit_weight": "2-5 pounds",
+                  "plant_height": "18-24 inches",
+                  "growth_mode": null,
+                  "best_uses": ["Roasting", "Baking", "Mashing"],
+                  "water_requirement": "Regular watering",
+                  "feeding_requirement": "Balanced fertilizer",
+                  "requires_pruning": false,
+                  "needs_support": true,
+                  "fun_fact": "Buttercup Squash belongs to the Cucurbita maxima species and is known for its rich flavor, making it a favorite for both sweet and savory dishes.",
+                  "planting_tip": "For successful cultivation, plant Buttercup Squash seeds in well-drained soil with a pH between 6.0 and 7.5. Provide full sun exposure and consistent moisture. Support the vines as the fruit develops and harvest when the skin hardens and turns a deep green color."
+                }
             ]
         }
-
     ]
 }
 
