@@ -1468,10 +1468,181 @@
                   }
                 }
             ]
+        },
+        {
+            "id": 16,
+            "name": "watermelon",
+            "varieties_common_features": {
+                "sunlight_requirement": "Full Sun",
+                "propagation_methods": ["Seeds"],
+                "soil_acidity_range": {
+                  "lower_bound": 6.0,
+                  "upper_bound": 7.5
+                },
+                "days_to_germination": "4-10 days",
+                "frost_tolerance": false,
+                "planting_depth": "1 inch",
+                "spacing": "3-5 feet",
+                "life_cycle": "Annual",
+                "season": "Warm",
+                "growing_type": "Trailing"
+            },
+            "varieties": [
+                {
+                    "id": 0,
+                  "name": "Sugar Baby",
+                  "description": "Sugar Baby Watermelon is a popular and compact variety known for its sweet and juicy flesh. The dark green rind with light green stripes makes it easily recognizable. With a trailing growth habit, it is suitable for gardens with limited space.",
+                  "days_to_harvest": {
+                    "lower_estimate": 80,
+                    "higher_estimate": 90
+                  },
+                  "is_container_variety": false,
+                  "fruit_weight": "8-12 pounds",
+                  "fruit_color": "Dark Green with Light Green Stripes",
+                  "flower_color": "Yellow",
+                  "leaf_color": "Green",
+                  "plant_height": "12-18 inches",
+                  "growth_mode": null,
+                  "best_uses": ["Fresh Eating", "Juicing", "Fruit Salads"],
+                  "water_requirement": "Regular, Deep Watering",
+                  "feeding_requirement": "Balanced fertilizer",
+                  "requires_pruning": true,
+                  "needs_support": true,
+                  "fun_fact": "Sugar Baby Watermelon is a small-sized variety that fits well in refrigerators, making it a favorite choice for picnics and small households.",
+                  "planting_tip": "For successful cultivation, plant Sugar Baby Watermelon seeds in well-drained, loamy soil. Provide consistent moisture, especially during the fruiting stage. Support the vines as they grow and consider pruning to encourage airflow. Harvest when the underside turns creamy yellow and the tendrils near the stem dry out."
+                },
+                {
+                    "id": 1,
+                  "name": "Crimson Sweet",
+                  "description": "Crimson Sweet Watermelon is a classic variety with large, sweet, and crisp red flesh. The dark green rind with light green stripes makes it visually appealing. With a trailing growth habit, it is suitable for larger gardens and produces sizable fruits.",
+                  "spacing": "4-6 feet",
+                  "days_to_harvest": {
+                    "lower_estimate": 85,
+                    "higher_estimate": 95
+                  },
+                  "is_container_variety": false,
+                  "fruit_weight": "15-25 pounds",
+                  "fruit_color": "Dark Green with Light Green Stripes",
+                  "flower_color": "Yellow",
+                  "leaf_color": "Green",
+                  "plant_height": "12-18 inches",
+                  "growth_mode": null,
+                  "growing_type": "Trailing",
+                  "best_uses": ["Fresh Eating", "Juicing", "Fruit Salads"],
+                  "water_requirement": "Regular, Deep Watering",
+                  "feeding_requirement": "Balanced fertilizer",
+                  "requires_pruning": true,
+                  "needs_support": true,
+                  "fun_fact": "Crimson Sweet Watermelon is known for its high sugar content and refreshing taste, making it a popular choice for summer picnics.",
+                  "planting_tip": "For successful cultivation, plant Crimson Sweet Watermelon seeds in well-drained, loamy soil. Provide consistent moisture during the growing season, especially when the fruit is setting. Support the vines as they grow and consider pruning to manage vine length. Harvest when the fruit develops a uniform dark green color and the tendrils near the stem dry out."
+                },
+                {
+                    "id": 2,
+                  "name": "Jubilee",
+                  "description": "Jubilee Watermelon is a large, round variety with sweet and juicy red flesh. The light green rind with dark green stripes gives it a distinctive appearance. With a trailing growth habit, it is well-suited for home gardens and produces flavorful fruits.",
+                  "spacing": "4-6 feet",
+                  "days_to_harvest": {
+                    "lower_estimate": 80,
+                    "higher_estimate": 90
+                  },
+                  "is_container_variety": false,
+                  "fruit_weight": "25-40 pounds",
+                  "fruit_color": "Light Green with Dark Green Stripes",
+                  "flower_color": "Yellow",
+                  "leaf_color": "Green",
+                  "plant_height": "18-24 inches",
+                  "growth_mode": null,
+                  "needs_support": true,
+                  "best_uses": ["Fresh Eating", "Juicing", "Fruit Salads"],
+                  "water_requirement": "Regular, Deep Watering",
+                  "feeding_requirement": "Balanced fertilizer",
+                  "requires_pruning": true,
+                  "fun_fact": "Jubilee Watermelon is named for the celebration of the United States Bicentennial in 1976 and has since become a classic variety cherished for its taste and size.",
+                  "planting_tip": "For successful cultivation, plant Jubilee Watermelon seeds in well-drained soil. Provide consistent moisture during the growing season, especially when the fruit is setting. Support the vines as they grow and consider pruning to manage vine length. Harvest when the fruit develops a uniform light green color and the tendrils near the stem dry out."
+                },
+                {
+                    "id": 3,
+                  "name": "Charleston Gray",
+                  "description": "Charleston Gray Watermelon is a classic heirloom variety known for its oblong shape and sweet, red flesh. The light green rind with dark green stripes makes it easily recognizable. With a trailing growth habit, it is suitable for larger gardens and produces flavorful fruits.",
+                  "spacing": "4-6 feet",
+                  "days_to_harvest": {
+                    "lower_estimate": 85,
+                    "higher_estimate": 95
+                  },
+                  "is_container_variety": false,
+                  "fruit_weight": "20-30 pounds",
+                  "fruit_color": "Light Green with Dark Green Stripes",
+                  "flower_color": "Yellow",
+                  "leaf_color": "Green",
+                  "plant_height": "18-24 inches",
+                  "growth_mode": null,
+                  "needs_support": true,
+                  "best_uses": ["Fresh Eating", "Juicing", "Fruit Salads"],
+                  "water_requirement": "Regular, Deep Watering",
+                  "feeding_requirement": "Balanced fertilizer",
+                  "requires_pruning": true,
+                  "fun_fact": "Charleston Gray Watermelon was introduced in the 1950s and quickly gained popularity for its excellent taste and size, making it a favorite among growers.",
+                  "planting_tip": "For successful cultivation, plant Charleston Gray Watermelon seeds in well-drained soil. Provide consistent moisture during the growing season, especially when the fruit is setting. Support the vines as they grow and consider pruning to manage vine length. Harvest when the fruit develops a uniform light green color and the tendrils near the stem dry out."
+                },
+                {
+                    "id": 4,
+                  "name": "Yellow Doll",
+                  "description": "Yellow Doll Watermelon is a unique variety with bright yellow flesh that is sweet and refreshing. The yellow rind makes it stand out from traditional watermelon varieties. With a trailing growth habit, it is well-suited for home gardens and adds a pop of color to fruit salads.",
+                  "spacing": "4-6 feet",
+                  "days_to_harvest": {
+                    "lower_estimate": 75,
+                    "higher_estimate": 85
+                  },
+                  "is_container_variety": false,
+                  "fruit_weight": "8-12 pounds",
+                  "fruit_color": "Yellow",
+                  "flower_color": "Yellow",
+                  "leaf_color": "Green",
+                  "plant_height": "12-18 inches",
+                  "growth_mode": null,
+                  "needs_support": true,
+                  "best_uses": ["Fresh Eating", "Juicing", "Fruit Salads"],
+                  "water_requirement": "Regular, Deep Watering",
+                  "feeding_requirement": "Balanced fertilizer",
+                  "requires_pruning": true,
+                  "fun_fact": "Yellow Doll Watermelon is prized for its novelty and mild, honey-like flavor. It offers a refreshing twist to the classic watermelon experience.",
+                  "planting_tip": "For successful cultivation, plant Yellow Doll Watermelon seeds in well-drained soil. Provide consistent moisture during the growing season, especially when the fruit is setting. Support the vines as they grow and consider pruning to manage vine length. Harvest when the fruit develops a uniform yellow color and the tendrils near the stem dry out."
+                },
+                {
+                    "id": 5,
+                  "name": "Moon and Stars",
+                  "description": "Moon and Stars Watermelon is a unique heirloom variety with dark green skin and distinctive yellow spots resembling moons and stars. The sweet, red flesh adds to its appeal. With a trailing growth habit, it is a captivating addition to garden landscapes.",
+                  "spacing": "4-6 feet",
+                  "days_to_harvest": {
+                    "lower_estimate": 90,
+                    "higher_estimate": 100
+                  },
+                  "is_container_variety": false,
+                  "fruit_weight": "15-25 pounds",
+                  "fruit_color": "Dark Green with Yellow Spots",
+                  "flower_color": "Yellow",
+                  "leaf_color": "Green",
+                  "plant_height": "18-24 inches",
+                  "growth_mode": null,
+                  "best_uses": ["Fresh Eating", "Juicing", "Fruit Salads"],
+                  "water_requirement": "Regular, Deep Watering",
+                  "feeding_requirement": "Balanced fertilizer",
+                  "requires_pruning": true,
+                  "needs_support": true,
+                  "fun_fact": "Moon and Stars Watermelon gained popularity in the 1920s and became a symbol of heirloom varieties. The yellow spots on the skin are a natural genetic variation.",
+                  "planting_tip": "For successful cultivation, plant Moon and Stars Watermelon seeds in well-drained soil. Provide consistent moisture during the growing season, especially when the fruit is setting. Support the vines as they grow and consider pruning to manage vine length. Harvest when the fruit develops a uniform dark green color, and the yellow spots are visible, and the tendrils near the stem dry out."
+                }
+
+
+
+
+
+                
+                
+                
+                
+            ]
         }
-        
-        
-        
 
     ]
 }
