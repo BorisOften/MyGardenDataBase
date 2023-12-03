@@ -1130,7 +1130,349 @@
                 }
             ]
             
-            }
+            },
+        {
+            "id": 14,
+            "name": "corn",
+            "varieties_common_features": {
+                "sunlight_requirement": "Full Sun",
+                "propagation_methods": ["Seeds"],
+                "soil_acidity_range": {
+                  "lower_bound": 6.0,
+                  "upper_bound": 7.5
+                },
+                "days_to_germination": "7-10 days",
+                "frost_tolerance": false,
+                "planting_depth": "1-2 inches",
+                "spacing": "12-18 inches",
+                "life_cycle": "Annual",
+                "season": "Warm"
+            },
+            "varieties": [
+                {
+                    "id": 0,
+                  "name": "Golden Bantam",
+                  "description": "Golden Bantam is a classic corn variety that has been a favorite among gardeners for its sweet and flavorful kernels. The golden-yellow ears are tender and ideal for fresh eating, grilling, and roasting. With a tall upright growth habit, Golden Bantam corn is a reliable choice for home gardens and provides a delicious addition to summer meals.",
+                  "spacing": "12-18 inches",
+                  "days_to_harvest": {
+                    "lower_estimate": 70,
+                    "higher_estimate": 90
+                  },
+                  "is_container_variety": false,
+                  "fruit_length": "7-8 inches",
+                  "fruit_color": "Golden Yellow",
+                  "fruit_weight": "8-10 ounces",
+                  "plant_height": "5-6 feet",
+                  "leaf_color": "Green",
+                  "flower_color": "Golden Yellow",
+                  "growth_mode": null,
+                  "best_uses": ["Fresh Eating", "Grilling", "Roasting"],
+                  "needs_support": false,
+                  "water_requirement": "Regular watering",
+                  "feeding_requirement": "Nitrogen-rich fertilizer",
+                  "requires_pruning": false,
+                  "fun_fact": "Golden Bantam, introduced in the early 1900s, is one of the first widely popular sweet corn varieties, revolutionizing the way people enjoyed corn on the cob.",
+                  "planting_tip": "For successful cultivation, plant Golden Bantam corn seeds in well-drained soil with good sunlight. Ensure proper spacing between plants and rows. Water consistently, especially during the critical pollination period. Harvest the ears when the silks are brown, and the kernels are plump.",
+                  "overwrite_common_features": {
+                  }
+                },
+                {
+                    "id": 1,
+                  "name": "Peaches and Cream",
+                  "description": "Peaches and Cream corn is a popular bi-color variety known for its sweet and juicy kernels. The ears have a delightful combination of yellow and white kernels, making them visually appealing. With a tall upright growth habit, Peaches and Cream is a versatile choice for various culinary applications.",
+                  "spacing": "12-18 inches",
+                  "days_to_harvest": {
+                    "lower_estimate": 75,
+                    "higher_estimate": 85
+                  },
+                  "is_container_variety": false,
+                  "fruit_length": "8-10 inches",
+                  "fruit_color": "Yellow and White",
+                  "fruit_weight": "10-12 ounces",
+                  "plant_height": "6-7 feet",
+                  "leaf_color": "Green",
+                  "flower_color": "Yellow",
+                  "growth_mode": null,
+                  "best_uses": ["Fresh Eating", "Grilling", "Boiling"],
+                  "needs_support": false,
+                  "water_requirement": "Regular watering",
+                  "feeding_requirement": "Balanced fertilizer",
+                  "requires_pruning": false,
+                  "fun_fact": "Peaches and Cream corn is prized for its deliciously sweet flavor, reminiscent of summer peaches, making it a favorite among corn enthusiasts.",
+                  "planting_tip": "For successful cultivation, plant Peaches and Cream corn seeds in well-drained soil with good sunlight. Ensure proper spacing between plants and rows. Water consistently and provide support if needed. Harvest when ears are plump and tender.",
+                  "overwrite_common_features": {
+                  }
+                },
+                {
+                    "id": 2,
+                  "name": "Country Gentleman",
+                  "description": "Country Gentleman corn is a classic white variety known for its tender and flavorful kernels. The ears have a refined, creamy taste, making them a favorite for fresh eating and culinary applications. With a tall upright growth habit, Country Gentleman is a reliable choice for home gardens.",
+                  "spacing": "12-18 inches",
+                  "days_to_harvest": {
+                    "lower_estimate": 80,
+                    "higher_estimate": 95
+                  },
+                  "is_container_variety": false,
+                  "fruit_length": "6-7 inches",
+                  "fruit_color": "White",
+                  "fruit_weight": "8-10 ounces",
+                  "plant_height": "5-6 feet",
+                  "leaf_color": "Green",
+                  "flower_color": "Yellow",
+                  "growth_mode": null,
+                  "best_uses": ["Fresh Eating", "Grilling", "Steaming"],
+                  "needs_support": false,
+                  "water_requirement": "Regular watering",
+                  "feeding_requirement": "Balanced fertilizer",
+                  "requires_pruning": false,
+                  "fun_fact": "Country Gentleman corn, also known as the 'Shoepeg Corn,' is valued for its unique kernel arrangement, resembling the shape of a shoepeg or shoe nail.",
+                  "planting_tip": "For successful cultivation, plant Country Gentleman corn seeds in well-drained soil with good sunlight. Ensure proper spacing between plants and rows. Water consistently, especially during hot weather. Harvest when ears are plump and tender.",
+                  "overwrite_common_features": {
+                  }
+                },
+                
+                {
+                    "id": 3,
+                  "name": "Glass Gem",
+                  "description": "Glass Gem corn is a unique and stunning variety known for its vibrant and multicolored kernels. The ears resemble a rainbow of colors, making it a popular choice for decorative and ornamental purposes. With a tall upright growth habit, Glass Gem adds a splash of color to garden landscapes.",
+                  "spacing": "12-18 inches",
+                  "days_to_harvest": {
+                    "lower_estimate": 90,
+                    "higher_estimate": 100
+                  },
+                  "is_container_variety": false,
+                  "fruit_length": "6-8 inches",
+                  "fruit_color": "Multicolored (Rainbow)",
+                  "fruit_weight": "10-12 ounces",
+                  "plant_height": "5-6 feet",
+                  "leaf_color": "Green",
+                  "flower_color": "Various Colors",
+                  "growth_mode": null,
+                  "best_uses": ["Decorative Corn", "Ornamental Gardens"],
+                  "needs_support": false,
+                  "water_requirement": "Regular watering",
+                  "feeding_requirement": "Balanced fertilizer",
+                  "requires_pruning": false,
+                  "fun_fact": "Glass Gem corn gained popularity for its breathtakingly beautiful kernels, which can display a wide range of colors, resembling gemstones.",
+                  "planting_tip": "For successful cultivation, plant Glass Gem corn seeds in well-drained soil with good sunlight. Ensure proper spacing between plants and rows. Water consistently and provide support if needed. Harvest when ears are plump and tender.",
+                  "overwrite_common_features": {
+                  }
+                },
+                {
+                    "id": 4,
+                  "name": "Dakota Black",
+                  "description": "Dakota Black corn is a distinctive variety with dark black kernels, adding a unique touch to both culinary dishes and decorative use. The ears have a rich flavor, making them suitable for various culinary applications. With a tall upright growth habit, Dakota Black is a standout choice for gardeners seeking something unique.",
+                  "spacing": "12-18 inches",
+                  "days_to_harvest": {
+                    "lower_estimate": 75,
+                    "higher_estimate": 85
+                  },
+                  "is_container_variety": false,
+                  "fruit_length": "7-9 inches",
+                  "fruit_color": "Black",
+                  "fruit_weight": "8-10 ounces",
+                  "plant_height": "5-6 feet",
+                  "leaf_color": "Green",
+                  "flower_color": "Yellow",
+                  "growth_mode": null,
+                  "best_uses": ["Unique Culinary Dishes", "Decorative Corn"],
+                  "needs_support": false,
+                  "water_requirement": "Regular watering",
+                  "feeding_requirement": "Balanced fertilizer",
+                  "requires_pruning": false,
+                  "fun_fact": "Dakota Black corn is prized for its deep black kernels, which provide a visually striking element to gardens and culinary creations.",
+                  "planting_tip": "For successful cultivation, plant Dakota Black corn seeds in well-drained soil with good sunlight. Ensure proper spacing between plants and rows. Water consistently and provide support if needed. Harvest when ears are plump and tender.",
+                  "overwrite_common_features": {
+                  }
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "carrot",
+            "varieties_common_features": {
+                "sunlight_requirement": "Full Sun",
+                "propagation_methods": ["Seeds"],
+                "soil_acidity_range": {
+                  "lower_bound": 6.0,
+                  "upper_bound": 7.5
+                },
+                "days_to_germination": "12-14 days",
+                "frost_tolerance": true,
+                "planting_depth": "1/4 - 1/2 inch",
+                "spacing": "2-4 inches",
+                "life_cycle": "Biennial",
+                "season": "Cool"
+            },
+            "varieties": [
+                {
+                    "id": 0,
+                  "name": "Orange King",
+                  "description": "Orange King is a classic carrot variety known for its sweet and crunchy roots. The carrots have a vibrant orange color, making them visually appealing and suitable for various culinary uses. With an upright growth habit, Orange King is a reliable choice for home gardens.",
+                  "spacing": "2-4 inches",
+                  "days_to_harvest": {
+                    "lower_estimate": 60,
+                    "higher_estimate": 80
+                  },
+                  "is_container_variety": false,
+                  "fruit_length": "6-8 inches",
+                  "fruit_color": "Orange",
+                  "leaf_color": "Green",
+                  "flower_color": "White",
+                  "plant_height": "12-18 inches",
+                  "needs_support": false,
+                  "fruit_weight": "6-10 ounces",
+                  "growth_mode": null,
+                  "best_uses": ["Fresh Eating", "Cooking", "Juicing"],
+                  "water_requirement": "Regular watering",
+                  "feeding_requirement": "Balanced fertilizer",
+                  "requires_pruning": false,
+                  "fun_fact": "Carrots were first cultivated in Central Asia over a thousand years ago and were originally purple or white. Orange carrots, like Orange King, became popular in the 17th century.",
+                  "planting_tip": "For successful cultivation, plant Orange King carrot seeds in loose, well-drained soil. Ensure consistent moisture, especially during germination. Thin the seedlings as they grow to allow proper spacing. Harvest when the roots are mature, typically 60-80 days after planting.",
+                  "overwrite_common_features": {
+                  }
+                },
+                {
+                    "id": 1,
+                  "name": "Cosmic Purple",
+                  "description": "Cosmic Purple carrots feature deep purple roots with a sweet and earthy flavor. The vibrant color adds a unique touch to dishes, and the carrots are well-suited for various culinary applications. With an upright growth habit, Cosmic Purple is an eye-catching addition to any garden.",
+                  "spacing": "2-4 inches",
+                  "days_to_harvest": {
+                    "lower_estimate": 70,
+                    "higher_estimate": 90
+                  },
+                  "is_container_variety": false,
+                  "fruit_length": "7-9 inches",
+                  "fruit_color": "Purple",
+                  "fruit_weight": "8-12 ounces",
+                  "leaf_color": "Green",
+                  "flower_color": "White",
+                  "plant_height": "12-18 inches",
+                  "growth_mode": null,
+                  "needs_support": false,
+                  "best_uses": ["Fresh Eating", "Salads", "Pickling"],
+                  "water_requirement": "Regular watering",
+                  "feeding_requirement": "Balanced fertilizer",
+                  "requires_pruning": false,
+                  "fun_fact": "Purple carrots are rich in anthocyanins, the same antioxidants found in blueberries and red cabbage, providing potential health benefits.",
+                  "planting_tip": "For successful cultivation, plant Cosmic Purple carrot seeds in loose, well-drained soil. Maintain consistent moisture and provide adequate spacing for the roots to develop. Harvest when the roots reach maturity, typically 70-90 days after planting.",
+                  "overwrite_common_features": {
+                  }
+                },
+                {
+                    "id": 2,
+                  "name": "Napoli",
+                  "description": "Napoli carrots are classic orange roots known for their sweet and crisp texture. With a delicious flavor, Napoli is a versatile carrot variety suitable for various culinary uses. The upright growth habit makes it easy to cultivate in home gardens.",
+                  "spacing": "2-4 inches",
+                  "days_to_harvest": {
+                    "lower_estimate": 65,
+                    "higher_estimate": 80
+                  },
+                  "is_container_variety": false,
+                  "fruit_length": "6-8 inches",
+                  "fruit_color": "Orange",
+                  "fruit_weight": "6-10 ounces",
+                  "plant_height": "12-20 inches",
+                  "leaf_color": "Green",
+                  "flower_color": "White",
+                  "growth_mode": null,
+                  "needs_support": false,
+                  "best_uses": ["Fresh Eating", "Cooking", "Juicing"],
+                  "water_requirement": "Regular watering",
+                  "feeding_requirement": "Balanced fertilizer",
+                  "requires_pruning": false,
+                  "fun_fact": "Fun Fact: Carrots were first cultivated in Afghanistan over a thousand years ago and were initially purple or white. Orange carrots, like Napoli, became popular in the 17th century.",
+                  "planting_tip": "For successful cultivation, plant Napoli carrot seeds in loose, well-drained soil. Ensure consistent moisture during the growing season. Thin the seedlings as they grow to allow space for the roots. Harvest when the roots are mature, typically 65-80 days after planting.",
+                  "overwrite_common_features": {
+                  }
+                },
+                {
+                    "id": 3,
+                  "name": "White Satin",
+                  "description": "White Satin carrots are prized for their ivory-white roots and sweet flavor. These carrots add elegance to dishes and are particularly popular for their aesthetic appeal. With an upright growth habit, White Satin is a delightful addition to home gardens.",
+                  "spacing": "2-4 inches",
+                  "days_to_harvest": {
+                    "lower_estimate": 75,
+                    "higher_estimate": 90
+                  },
+                  "is_container_variety": false,
+                  "fruit_length": "6-8 inches",
+                  "fruit_color": "White",
+                  "fruit_weight": "6-10 ounces",
+                  "plant_height": "14-22 inches",
+                  "leaf_color": "Green",
+                  "flower_color": "White",
+                  "growth_mode": null,
+                  "needs_support": false,
+                  "best_uses": ["Fresh Eating", "Salads", "Roasting"],
+                  "water_requirement": "Regular watering",
+                  "feeding_requirement": "Balanced fertilizer",
+                  "requires_pruning": false,
+                  "fun_fact": "Fun Fact: White carrots are among the oldest carrot varieties and were the predominant color before orange carrots became widespread.",
+                  "planting_tip": "For successful cultivation, plant White Satin carrot seeds in loose, well-drained soil. Provide consistent moisture, especially during dry periods. Thin the seedlings as they grow to allow space for the roots. Harvest when the roots are mature, typically 75-90 days after planting.",
+                  "overwrite_common_features": {
+                  }
+                },
+                {
+                    "id": 4,
+                  "name": "Dragon Purple",
+                  "description": "Dragon Purple carrots boast deep purple roots with a sweet and slightly spicy flavor. The unique color and taste make them a favorite for culinary experimentation. With an upright growth habit, Dragon Purple adds a touch of excitement to home gardens.",
+                  "spacing": "2-4 inches",
+                  "days_to_harvest": {
+                    "lower_estimate": 80,
+                    "higher_estimate": 100
+                  },
+                  "is_container_variety": false,
+                  "fruit_length": "7-9 inches",
+                  "fruit_color": "Purple",
+                  "fruit_weight": "8-12 ounces",
+                  "plant_height": "14-20 inches",
+                  "leaf_color": "Green",
+                  "flower_color": "White",
+                  "growth_mode": null,
+                  "needs_support": false,
+                  "best_uses": ["Fresh Eating", "Pickling", "Stir-Frying"],
+                  "water_requirement": "Regular watering",
+                  "feeding_requirement": "Balanced fertilizer",
+                  "requires_pruning": false,
+                  "fun_fact": "Fun Fact: Purple carrots were originally cultivated in Turkey and Afghanistan and were later brought to Europe, where they gained popularity for their distinct appearance.",
+                  "planting_tip": "For successful cultivation, plant Dragon Purple carrot seeds in loose, well-drained soil. Ensure consistent moisture, especially during the early stages. Thin the seedlings as they grow to allow space for the roots. Harvest when the roots are mature, typically 80-100 days after planting.",
+                  "overwrite_common_features": {
+                  }
+                },
+                {
+                    "id": 5,
+                  "name": "Paris Market",
+                  "description": "Paris Market carrots, also known as 'Thumbelina,' are small, round carrots with a sweet and crisp taste. Their compact size and round shape make them ideal for container gardening and snacking. With a compact growth habit, Paris Market is perfect for small spaces.",
+                  "spacing": "2-4 inches",
+                  "days_to_harvest": {
+                    "lower_estimate": 50,
+                    "higher_estimate": 60
+                  },
+                  "is_container_variety": true,
+                  "fruit_length": "2-3 inches",
+                  "fruit_color": "Orange",
+                  "fruit_weight": "4-6 ounces",
+                  "plant_height": "6-10 inches",
+                  "leaf_color": "Green",
+                  "flower_color": "White",
+                  "growth_mode": null,
+                  "needs_support": false,
+                  "best_uses": ["Fresh Eating", "Container Gardening", "Snacking"],
+                  "water_requirement": "Regular watering",
+                  "feeding_requirement": "Balanced fertilizer",
+                  "requires_pruning": false,
+                  "fun_fact": "Paris Market carrots were popularized in the 19th century in French markets, known for their petite size and sweet flavor.",
+                  "planting_tip": "For successful cultivation, plant Paris Market carrot seeds in well-drained soil, especially in containers. Ensure consistent moisture and provide adequate spacing for the small roots. Harvest when the roots are mature, typically 50-60 days after planting.",
+                  "overwrite_common_features": {
+                  }
+                }
+            ]
+        },
+        
+        
+        
+
     ]
 }
 
