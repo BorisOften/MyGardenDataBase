@@ -1657,6 +1657,7 @@
                     "id": 0,
                   "name": "Buttercup Squash",
                   "description": "Buttercup Squash is a winter squash variety with a sweet and creamy orange flesh. The dark green skin is hard and ridged, making it a durable choice for storage. The bushy growth habit is well-suited for home gardens.",
+                  "spacing": "3-5 feet",
                   "days_to_harvest": {
                     "lower_estimate": 90,
                     "higher_estimate": 100
