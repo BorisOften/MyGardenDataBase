@@ -1,0 +1,251 @@
+{
+    "next": null,
+    "previous": null,
+    "results": [
+        
+        
+        
+        {
+            "id": 13,
+            "name": "okra",
+            "varieties_common_features": {
+                "sunlight_requirement": "Full Sun",
+                "propagation_methods": ["Seeds"],
+                "soil_acidity_range": {
+                  "lower_bound": 6.0,
+                  "upper_bound": 7.5
+                },
+                "days_to_germination": "7-14 days",
+                "frost_tolerance": false,
+                "planting_depth": "1 inch",
+                "spacing": "12-18 inches",
+                "life_cycle": "Annual",
+                "season": "Warm"
+            },
+            "varieties": [
+                {
+                    "id": 0,
+                    "name": "Clemson Spineless",
+                    "description": "Clemson Spineless is a popular okra variety known for its tender pods and high productivity. The bright green pods are spineless, making them easy to harvest. With an upright growth habit, Clemson Spineless is an excellent choice for gardens and is widely used in various culinary applications, including fresh cooking, gumbo, and frying.",
+                    "spacing": "12-18 inches",
+                    "days_to_harvest": {
+                        "lower_estimate": 50,
+                        "higher_estimate": 60
+                    },
+                    "is_container_variety": false,
+                    "fruit_color": "Green",
+                    "fruit_length": "6-8 inches",
+                    "fruit_weight": "1-2 ounces",
+                    "plant_height": "24-36 inches",
+                    "leaf_color": "Green",
+                    "flower_color": "Cream",
+                    "growth_mode": null,
+                    "best_uses": ["Fresh Cooking", "Gumbo", "Frying"],
+                    "needs_support": false,
+                    "water_requirement": "Regular watering",
+                    "feeding_requirement": "Balanced fertilizer",
+                    "requires_pruning": false,
+                    "fun_fact": "Clemson Spineless is a classic okra variety that has been a favorite among gardeners for its reliable performance and versatile use in cooking.",
+                    "planting_tip": "For successful cultivation, plant Clemson Spineless okra seeds in well-drained soil with good sunlight. Water consistently to keep the soil evenly moist. Harvest the pods when they are 6-8 inches in length for optimal tenderness and flavor.",
+                    "overwrite_common_features": {
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "Burgundy",
+                    "description": "Burgundy okra is prized for its unique, deep burgundy-colored pods that add a splash of color to both gardens and dishes. The pods are tender and flavorful, suitable for various culinary uses. With an upright growth habit, Burgundy is not only a delicious addition to recipes but also a visually striking plant for ornamental gardens.",
+                    "spacing": "12-18 inches",
+                    "days_to_harvest": {
+                        "lower_estimate": 55,
+                        "higher_estimate": 65
+                    },
+                    "is_container_variety": false,
+                    "fruit_color": "Burgundy",
+                    "fruit_length": "4-6 inches",
+                    "fruit_weight": "1-2 ounces",
+                    "plant_height": "24-36 inches",
+                    "leaf_color": "Green",
+                    "flower_color": "Cream",
+                    "growth_mode": null,
+                    "best_uses": ["Colorful Cuisine", "Ornamental Gardens", "Fresh Cooking"],
+                    "needs_support": false,
+                    "water_requirement": "Regular watering",
+                    "feeding_requirement": "Balanced fertilizer",
+                    "requires_pruning": false,
+                    "fun_fact": "Fun Fact: Burgundy okra is not only known for its culinary appeal but is also appreciated for its decorative value, making it a dual-purpose choice for gardeners.",
+                    "planting_tip": "For successful cultivation, plant Burgundy okra seeds in well-drained soil with good sunlight. Water consistently and provide support if needed as the plant grows. Harvest the pods when they are 4-6 inches in length for the best color and flavor.",
+                    "overwrite_common_features": {
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "Emerald",
+                    "description": "Emerald okra is a traditional variety with vibrant green pods that are both tender and flavorful. Widely used in Southern cuisine, Emerald okra is versatile in the kitchen, suitable for grilling, frying, and pickling. With an upright growth habit, this variety is a reliable choice for okra enthusiasts.",
+                    "spacing": "12-18 inches",
+                    "days_to_harvest": {
+                        "lower_estimate": 50,
+                        "higher_estimate": 60
+                    },
+                    "is_container_variety": false,
+                    "fruit_color": "Green",
+                    "fruit_length": "5-7 inches",
+                    "fruit_weight": "1-2 ounces",
+                    "plant_height": "24-36 inches",
+                    "leaf_color": "Green",
+                    "flower_color": "Cream",
+                    "growth_mode": null,
+                    "best_uses": ["Southern Cuisine", "Grilling", "Pickling"],
+                    "needs_support": false,
+                    "water_requirement": "Regular watering",
+                    "feeding_requirement": "Balanced fertilizer",
+                    "requires_pruning": false,
+                    "fun_fact": "Fun Fact: Emerald okra is a staple in traditional Southern dishes and is celebrated for its delicious flavor and culinary versatility.",
+                    "planting_tip": "For successful cultivation, plant Emerald okra seeds in well-drained soil with good sunlight. Water consistently to keep the soil evenly moist. Harvest the pods when they are 5-7 inches in length for optimal tenderness and flavor.",
+                    "overwrite_common_features": {
+                    }
+                },
+                {
+                    "id": 3,
+                    "description": "Annie Oakley II is a reliable okra variety known for its consistent performance and delicious pods. The bright green pods are tender and flavorful, making them suitable for various culinary applications. With an upright growth habit, Annie Oakley II is a versatile choice for gardens, offering excellent yield and taste.",
+                    "name": "Annie Oakley II",
+                    "spacing": "12-18 inches",
+                    "days_to_harvest": {
+                        "lower_estimate": 55,
+                        "higher_estimate": 65
+                    },
+                    "is_container_variety": false,
+                    "fruit_color": "Green",
+                    "fruit_length": "6-8 inches",
+                    "fruit_weight": "1-2 ounces",
+                    "plant_height": "24-36 inches",
+                    "leaf_color": "Green",
+                    "flower_color": "Cream",
+                    "growth_mode": null,
+                    "best_uses": ["Fresh Cooking", "Grilling", "Gumbo"],
+                    "needs_support": false,
+                    "water_requirement": "Regular watering",
+                    "feeding_requirement": "Balanced fertilizer",
+                    "requires_pruning": false,
+                    "fun_fact": "Fun Fact: Annie Oakley II okra is named after the famous sharpshooter Annie Oakley, reflecting its precision in delivering a bountiful harvest of flavorful pods.",
+                    "planting_tip": "For successful cultivation, plant Annie Oakley II okra seeds in well-drained soil with good sunlight. Water consistently to maintain soil moisture. Harvest the pods when they are 6-8 inches in length for optimal tenderness and flavor.",
+                    "overwrite_common_features": {
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "Red Velvet",
+                    "description": "Red Velvet okra is a visually stunning variety with vibrant red pods that add a colorful touch to gardens and dishes. The pods are tender and flavorful, suitable for various culinary uses. With an upright growth habit, Red Velvet is a unique and attractive choice for both ornamental and edible gardens.",
+                    "spacing": "12-18 inches",
+                    "days_to_harvest": {
+                        "lower_estimate": 60,
+                        "higher_estimate": 70
+                    },
+                    "is_container_variety": false,
+                    "fruit_color": "Red",
+                    "fruit_length": "4-6 inches",
+                    "fruit_weight": "1-2 ounces",
+                    "plant_height": "24-36 inches",
+                    "leaf_color": "Green",
+                    "flower_color": "Cream",
+                    "growth_mode": null,
+                    "best_uses": ["Colorful Cuisine", "Grilling", "Fresh Cooking"],
+                    "needs_support": false,
+                    "water_requirement": "Regular watering",
+                    "feeding_requirement": "Balanced fertilizer",
+                    "requires_pruning": false,
+                    "fun_fact": "Fun Fact: Red Velvet okra's striking red color makes it a standout choice in garden landscapes, and its flavor adds a delightful twist to culinary creations.",
+                    "planting_tip": "For successful cultivation, plant Red Velvet okra seeds in well-drained soil with good sunlight. Water consistently and provide support if needed. Harvest the pods when they are 4-6 inches in length for the best color and flavor.",
+                    "overwrite_common_features": {
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "Jambalaya",
+                    "description": "Jambalaya okra is a flavorful variety often used in Southern cuisine, especially in dishes like gumbo. The green pods are tender and versatile, suitable for various cooking methods. With an upright growth habit, Jambalaya is a go-to choice for those seeking authentic flavors in their culinary creations.",
+                    "spacing": "12-18 inches",
+                    "days_to_harvest": {
+                        "lower_estimate": 50,
+                        "higher_estimate": 60
+                    },
+                    "is_container_variety": false,
+                    "fruit_color": "Green",
+                    "fruit_length": "5-7 inches",
+                    "fruit_weight": "1-2 ounces",
+                    "plant_height": "24-36 inches",
+                    "leaf_color": "Green",
+                    "flower_color": "Cream",
+                    "growth_mode": null,
+                    "best_uses": ["Gumbo", "Fresh Cooking", "Pickling"],
+                    "needs_support": false,
+                    "water_requirement": "Regular watering",
+                    "feeding_requirement": "Balanced fertilizer",
+                    "requires_pruning": false,
+                    "fun_fact": "Fun Fact: Jambalaya okra is named after the famous Louisiana dish, reflecting its popularity and culinary significance in the region.",
+                    "planting_tip": "For successful cultivation, plant Jambalaya okra seeds in well-drained soil with good sunlight. Water consistently to keep the soil evenly moist. Harvest the pods when they are 5-7 inches in length for optimal tenderness and flavor.",
+                    "overwrite_common_features": {
+                    }
+                },
+                {
+                    "id": 5,
+                    "name": "Star of David",
+                    "description": "Star of David okra is a distinctive variety known for its unique, star-shaped pods. The bright green pods are tender and flavorful, making them suitable for various cooking methods. With an upright growth habit, Star of David is not only a culinary delight but also an eye-catching addition to garden landscapes.",
+                    "spacing": "12-18 inches",
+                    "days_to_harvest": {
+                        "lower_estimate": 55,
+                        "higher_estimate": 65
+                    },
+                    "is_container_variety": false,
+                    "fruit_color": "Green",
+                    "fruit_length": "6-8 inches",
+                    "fruit_weight": "1-2 ounces",
+                    "plant_height": "24-36 inches",
+                    "leaf_color": "Green",
+                    "flower_color": "Cream",
+                    "growth_mode": null,
+                    "best_uses": ["Fresh Cooking", "Grilling", "Sautéing"],
+                    "needs_support": false,
+                    "water_requirement": "Regular watering",
+                    "feeding_requirement": "Balanced fertilizer",
+                    "requires_pruning": false,
+                    "fun_fact": "Fun Fact: Star of David okra gets its name from the distinctive shape of its pods, resembling the Star of David, adding a touch of symbolism to the garden.",
+                    "planting_tip": "For successful cultivation, plant Star of David okra seeds in well-drained soil with good sunlight. Water consistently and provide support if needed. Harvest the pods when they are 6-8 inches in length for optimal tenderness and flavor.",
+                    "overwrite_common_features": {
+                    }
+                },
+                {
+                    "id": 6,
+                    "name": "Louisiana Green Velvet",
+                    "description": "Louisiana Green Velvet okra is a classic variety with vibrant green pods that have a velvety texture. The tender pods are ideal for various cooking methods, including gumbo, fresh cooking, and frying. With an upright growth habit, Louisiana Green Velvet is a beloved choice for traditional Southern dishes.",
+                    "spacing": "12-18 inches",
+                    "days_to_harvest": {
+                        "lower_estimate": 60,
+                        "higher_estimate": 70
+                    },
+                    "is_container_variety": false,
+                    "fruit_color": "Green",
+                    "fruit_length": "4-6 inches",
+                    "fruit_weight": "1-2 ounces",
+                    "plant_height": "24-36 inches",
+                    "leaf_color": "Green",
+                    "flower_color": "Cream",
+                    "growth_mode": null,
+                    "best_uses": ["Gumbo", "Fresh Cooking", "Frying"],
+                    "needs_support": false,
+                    "water_requirement": "Regular watering",
+                    "feeding_requirement": "Balanced fertilizer",
+                    "requires_pruning": false,
+                    "fun_fact": "Fun Fact: Louisiana Green Velvet okra is cherished for its velvety pods, adding a unique texture to dishes and contributing to the rich culinary heritage of Louisiana.",
+                    "planting_tip": "For successful cultivation, plant Louisiana Green Velvet okra seeds in well-drained soil with good sunlight. Water consistently and provide support if needed. Harvest the pods when they are 4-6 inches in length for optimal tenderness and flavor.",
+                    "overwrite_common_features": {
+                    }
+                }
+            ]
+            
+            },
+    ]
+}
+
+
+
+
+
