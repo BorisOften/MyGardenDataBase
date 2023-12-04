@@ -1895,7 +1895,131 @@
                   "planting_tip": "For successful cultivation of Athena Cantaloupe, start by planting seeds in well-drained soil with a pH between 6.0 and 7.5. Ensure adequate spacing to allow the vines to sprawl comfortably. Provide regular watering, especially during dry spells, and offer support to the vines as the fruit develops. Apply a balanced fertilizer to promote robust growth. Harvest Athena Cantaloupe when the fruit easily detaches from the stem, and the skin takes on a golden hue, accompanied by a fragrant aroma."
                 }
             ]
+        },
+        
+        {
+            "id": 19,
+            "name": "peas",
+            "varieties_common_features": {
+                "sunlight_requirement": "Full Sun to Partial Shade",
+                "propagation_methods": ["Seeds"],
+                "soil_acidity_range": {
+                  "lower_bound": 6.0,
+                  "upper_bound": 7.5
+                },
+                "days_to_germination": "7-14 days",
+                "frost_tolerance": true,
+                "planting_depth": "1-2 inches",
+                "spacing": "4-6 inches",
+                "life_cycle": "Annual",
+                "season": "Cool",
+                "growing_type": "Climbing"
+            },
+            "varieties": [
+                {
+                    "id": 0,
+                  "name": "Sugar Snap",
+                  "description": "Sugar Snap Pea is a classic garden pea variety celebrated for its sweet and crisp pods. The vines produce an abundance of delicious peas that are enjoyed both in their pods and shelled. With a climbing growth habit, Sugar Snap Pea is an excellent choice for vertical gardening and container cultivation.",
+                  "spacing": "4-6 inches",
+                  "days_to_harvest": {
+                    "lower_estimate": 55,
+                    "higher_estimate": 70
+                  },
+                  "is_container_variety": true,
+                  "fruit_color": "Green",
+                  "fruit_weight": "0.5-1 ounce",
+                  "flower_color": "White",
+                  "leaf_color": "Green",
+                  "plant_height": "24-36 inches",
+                  "best_uses": ["Fresh Eating", "Stir-fries", "Salads"],
+                  "water_requirement": "Regular watering",
+                  "feeding_requirement": "Balanced fertilizer",
+                  "growth_mode": null,
+                  "requires_pruning": false,
+                  "needs_support": true,
+                  "fun_fact": "Fun Fact: Sugar Snap Peas are a cross between garden peas and snow peas. They were introduced to the market in the late 1970s and quickly gained popularity for their unique combination of sweetness and crunchiness.",
+                  "planting_tip": "For successful cultivation of Sugar Snap Peas, choose a well-drained soil with a pH between 6.0 and 7.5. Plant seeds directly in the garden or in containers, providing support for the climbing vines. Water consistently, especially during flowering and pod development. Harvest Sugar Snap Peas when the pods are plump and the peas inside have reached their desired size. Enjoy them fresh or lightly cooked to savor their natural sweetness and crunch."
+                },
+                {
+                    "id": 1,
+                  "name": "Green Arrow",
+                  "description": "Green Arrow Pea is a popular garden pea variety known for its long, straight pods and sweet, tender peas. The climbing vines make it suitable for trellises or vertical gardening. With a moderate growth height, Green Arrow Pea is a reliable choice for home gardeners.",
+                  "spacing": "4-6 inches",
+                  "days_to_harvest": {
+                    "lower_estimate": 65,
+                    "higher_estimate": 75
+                  },
+                  "is_container_variety": false,
+                  "flower_color": "White",
+                  "leaf_color": "Green",
+                  "plant_height": "24-36 inches",
+                  "growth_mode": null,
+                  "best_uses": ["Fresh Eating", "Cooking", "Freezing"],
+                  "water_requirement": "Regular watering",
+                  "feeding_requirement": "Balanced fertilizer",
+                  "requires_pruning": false,
+                  "fruit_color": "Green",
+                  "fruit_weight": "0.5-0.8 ounce",
+                  "needs_support": true,
+                  "fun_fact": "Green Arrow Pea was awarded the prestigious Royal Horticultural Society's Award of Garden Merit for its outstanding performance and quality.",
+                  "planting_tip": "For successful cultivation of Green Arrow Pea, provide well-drained soil and support for the climbing vines. Water consistently, especially during the flowering and pod-setting stages. Harvest when the pods are well-filled and the peas are plump. Enjoy them fresh, cooked, or frozen for later use."
+                },
+                {
+                    "id": 2,
+                  "name": "Little Marvel",
+                  "description": "Little Marvel Pea is a compact and early-maturing variety ideal for small gardens or container cultivation. The bushy growth habit makes it suitable for ground planting or raised beds. Known for its sweet and petite peas, Little Marvel is a favorite for fresh snacking.",
+                  "spacing": "4-6 inches",
+                  "days_to_harvest": {
+                    "lower_estimate": 60,
+                    "higher_estimate": 70
+                  },
+                  "is_container_variety": true,
+                  "flower_color": "White",
+                  "leaf_color": "Green",
+                  "plant_height": "12-18 inches",
+                  "growth_mode": null,
+                  "best_uses": ["Fresh Eating", "Salads", "Stir-fries"],
+                  "water_requirement": "Regular watering",
+                  "feeding_requirement": "Balanced fertilizer",
+                  "requires_pruning": false,
+                  "needs_support": false,
+                  "fruit_color": "Green",
+                  "fruit_weight": "0.3-0.5 ounce",
+                  "fun_fact": "Little Marvel Pea has been a beloved pea variety since its introduction in the late 19th century. Its dwarf size and delicious peas make it a versatile choice for various garden settings.",
+                  "planting_tip": "For successful cultivation of Little Marvel Pea, choose well-drained soil and provide adequate spacing. Water consistently, especially during dry periods. Consider providing support for container-grown plants. Harvest when the pods are filled but still tender. Enjoy the sweet peas in salads, stir-fries, or as a delightful snack.",
+                  "overwrite_common_features": {
+                      "growing_type": "Bushy",
+                  }
+                },
+                {
+                    "id": 3,
+                  "name": "Wando",
+                  "description": "Wando Pea is a reliable and heat-tolerant variety, making it suitable for late spring and early summer plantings. The climbing vines produce plump, sweet peas that are excellent for both fresh consumption and preservation. Wando Pea is favored for its ability to thrive in warmer climates.",
+                  "spacing": "4-6 inches",
+                  "days_to_harvest": {
+                    "lower_estimate": 70,
+                    "higher_estimate": 80
+                  },
+                  "is_container_variety": false,
+                  "flower_color": "White",
+                  "leaf_color": "Green",
+                  "plant_height": "24-36 inches",
+                  "growth_mode": null,
+                  "best_uses": ["Fresh Eating", "Freezing", "Cooking"],
+                  "water_requirement": "Regular watering",
+                  "feeding_requirement": "Balanced fertilizer",
+                  "requires_pruning": false,
+                  "needs_support": true,
+                  "fruit_color": "Green",
+                  "fruit_weight": "0.6-1.0 ounce",
+                  "fun_fact": "Wando Pea is named after the Wando River in South Carolina. Its heat-tolerance and consistent performance have made it a popular choice for Southern gardeners.",
+                  "planting_tip": "For successful cultivation of Wando Pea, provide well-drained soil and support for the climbing vines. Water consistently, especially during warmer periods. Harvest when the pods are well-filled, and the peas are tender. Consider succession planting for continuous harvest throughout the growing season."
+                }
+            ]
         }
+        
+        
+
     ]
 }
 
