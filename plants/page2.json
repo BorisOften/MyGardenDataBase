@@ -1896,7 +1896,6 @@
                 }
             ]
         },
-        
         {
             "id": 19,
             "name": "peas",
@@ -1988,7 +1987,7 @@
                   "fun_fact": "Little Marvel Pea has been a beloved pea variety since its introduction in the late 19th century. Its dwarf size and delicious peas make it a versatile choice for various garden settings.",
                   "planting_tip": "For successful cultivation of Little Marvel Pea, choose well-drained soil and provide adequate spacing. Water consistently, especially during dry periods. Consider providing support for container-grown plants. Harvest when the pods are filled but still tender. Enjoy the sweet peas in salads, stir-fries, or as a delightful snack.",
                   "overwrite_common_features": {
-                      "growing_type": "Bushy",
+                      "growing_type": "Bushy"
                   }
                 },
                 {
@@ -2017,9 +2016,6 @@
                 }
             ]
         }
-        
-        
-
     ]
 }
 
