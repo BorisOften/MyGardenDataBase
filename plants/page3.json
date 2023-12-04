@@ -2,56 +2,245 @@
     "next": null,
     "previous": null,
     "results": [
-        
-        
-        
         {
             "id": 20,
-            "name": "okra",
+            "name": "celery",
+            "varieties_common_features": {
+                "sunlight_requirement": "Full Sun to Partial Shade",
+                "propagation_methods": ["Seeds"],
+                "soil_acidity_range": {
+                  "lower_bound": 6.0,
+                  "upper_bound": 7.5
+                },
+                "days_to_germination": "10-14 days",
+                "frost_tolerance": false,
+                "planting_depth": "1/8 inch",
+                "spacing": "6-8 inches",
+                "life_cycle": "Biennial",
+                "season": "Cool",
+                "growing_type": "Upright"
+            },
+            "varieties": [
+                {
+                    "id": 0,
+                  "name": "Tall Utah 52-70",
+                  "description": "Tall Utah 52-70 Celery is a classic celery variety known for its crisp and flavorful stalks. With an upright growth habit, it produces tall, dark green celery that is a staple in the kitchen. This biennial plant is typically grown as an annual for its succulent stems.",
+                  "frost_tolerance": false,
+                  "spacing": "6-8 inches",
+                  "life_cycle": "Biennial",
+                  "days_to_harvest": {
+                    "lower_estimate": 120,
+                    "higher_estimate": 150
+                  },
+                  "is_container_variety": false,
+                  "fruit_color": null,
+                  "fruit_length": null,
+                  "fruit_weight": null
+                  "flower_color": "Yellow",
+                  "leaf_color": "Green",
+                  "plant_height": "12-18 inches",
+                  "growth_mode": null,
+                  "best_uses": ["Fresh Eating", "Soups", "Salads"],
+                  "water_requirement": "Consistent moisture",
+                  "feeding_requirement": "Rich, well-composted soil",
+                  "requires_pruning": false,
+                  "needs_support": false,
+                  "fun_fact": "Tall Utah 52-70 Celery is a popular choice among gardeners for its reliability and versatility. It is widely used in culinary applications and is a key ingredient in traditional dishes like soups and stews.",
+                  "planting_tip": "For successful cultivation of Tall Utah 52-70 Celery, start seeds indoors or direct sow in well-drained, fertile soil. Provide consistent moisture, especially during the germination period. Transplant seedlings when they are large enough to handle. Hill soil around the base of the plants to blanch the stalks. Harvest when the celery has reached the desired size, and enjoy the crispness and mild flavor."
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "onion",
             "varieties_common_features": {
                 "sunlight_requirement": "Full Sun",
+                "propagation_methods": ["Seeds", "Sets"],
+                "soil_acidity_range": {
+                  "lower_bound": 6.0,
+                  "upper_bound": 7.5
+                },
+                "days_to_germination": "7-10 days",
+                "frost_tolerance": true,
+                "planting_depth": "1/4 inch",
+                "spacing": "4-6 inches",
+                "life_cycle": "Biennial",
+                "season": "Cool",
+                "growing_type": "Upright"
+            },
+            "varieties": [
+                {
+                    "id": 0,
+                    "name": "Sweet Spanish",
+                  "spacing": "4-6 inches",
+                  "description": "Sweet Spanish Onion is a popular onion variety renowned for its large size and sweet, mild flavor. With an upright growth habit, it produces bulbs that are excellent for fresh consumption, grilling, and various culinary dishes. This biennial plant is typically grown as an annual for its flavorful bulbs.",
+                  "spacing": "6-8 inches",
+                  "life_cycle": "Biennial",
+                  "days_to_harvest": {
+                    "lower_estimate": 100,
+                    "higher_estimate": 120
+                  },
+                  "is_container_variety": false,
+                  "fruit_color": "Golden Brown",
+                  "fruit_length": "2-3 inches",
+                  "fruit_weight": "1-2 pounds",
+                  "flower_color": "White",
+                  "leaf_color": "Green",
+                  "plant_height": "12-18 inches",
+                  "growth_mode": null,
+                  "best_uses": ["Fresh Eating", "Grilling", "Culinary Dishes"],
+                  "water_requirement": "Regular watering",
+                  "feeding_requirement": "Balanced fertilizer",
+                  "requires_pruning": false,
+                  "needs_support": false,
+                  "fun_fact": "Sweet Spanish Onions are known for their low pungency and high sugar content. They are a favorite for slicing onto salads, sandwiches, and enjoying in a variety of cooked dishes.",
+                  "planting_tip": "For successful cultivation of Sweet Spanish Onion, choose a sunny location with well-drained soil. Plant seeds, sets, or transplants at the appropriate depth and spacing. Water consistently, ensuring the soil is kept evenly moist. Mulch around the plants to suppress weeds and retain moisture. Harvest when the tops have fallen over, and the bulbs have reached a desirable size. Allow the bulbs to cure before storing them for extended use."
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "kale",
+            "varieties_common_features": {
+                "sunlight_requirement": "Full Sun to Partial Shade",
                 "propagation_methods": ["Seeds"],
                 "soil_acidity_range": {
                   "lower_bound": 6.0,
                   "upper_bound": 7.5
                 },
                 "days_to_germination": "7-14 days",
-                "frost_tolerance": false,
-                "planting_depth": "1 inch",
+                "frost_tolerance": true,
+                "planting_depth": "1/4 inch",
                 "spacing": "12-18 inches",
-                "life_cycle": "Annual",
-                "season": "Warm"
+                "life_cycle": "Biennial",
+                "season": "Cool",
+                "growing_type": "Upright"
             },
             "varieties": [
                 {
                     "id": 0,
-                    "name": "Clemson Spineless",
-                    "description": "Clemson Spineless is a popular okra variety known for its tender pods and high productivity. The bright green pods are spineless, making them easy to harvest. With an upright growth habit, Clemson Spineless is an excellent choice for gardens and is widely used in various culinary applications, including fresh cooking, gumbo, and frying.",
-                    "spacing": "12-18 inches",
-                    "days_to_harvest": {
-                        "lower_estimate": 50,
-                        "higher_estimate": 60
-                    },
-                    "is_container_variety": false,
-                    "fruit_color": "Green",
-                    "fruit_length": "6-8 inches",
-                    "fruit_weight": "1-2 ounces",
-                    "plant_height": "24-36 inches",
-                    "leaf_color": "Green",
-                    "flower_color": "Cream",
-                    "growth_mode": null,
-                    "best_uses": ["Fresh Cooking", "Gumbo", "Frying"],
-                    "needs_support": false,
-                    "water_requirement": "Regular watering",
-                    "feeding_requirement": "Balanced fertilizer",
-                    "requires_pruning": false,
-                    "fun_fact": "Clemson Spineless is a classic okra variety that has been a favorite among gardeners for its reliable performance and versatile use in cooking.",
-                    "planting_tip": "For successful cultivation, plant Clemson Spineless okra seeds in well-drained soil with good sunlight. Water consistently to keep the soil evenly moist. Harvest the pods when they are 6-8 inches in length for optimal tenderness and flavor.",
-                    "overwrite_common_features": {
-                    }
+                  "name": "Lacinato",
+                  "description": "Lacinato Kale, also known as Dinosaur Kale, is a popular kale variety recognized for its dark green, bumpy leaves. With an upright growth habit, it is a nutritious and versatile leafy green that adds a hearty texture to various dishes. Although technically a biennial, it is often grown as an annual for its abundant and flavorful leaves.",
+                  "spacing": "12-18 inches",
+                  "days_to_harvest": {
+                    "lower_estimate": 50,
+                    "higher_estimate": 70
+                  },
+                  "is_container_variety": false,
+                  "fruit_color": null,
+                  "fruit_length": null,
+                  "fruit_weight": null,
+                  "flower_color": "Yellow",
+                  "leaf_color": "Dark Green",
+                  "plant_height": "18-24 inches",
+                  "growth_mode": null,
+                  "best_uses": ["Salads", "Smoothies", "Stir-fries"],
+                  "water_requirement": "Regular watering",
+                  "feeding_requirement": "Rich, well-draining soil",
+                  "requires_pruning": false,
+                  "needs_support": false
+                  "fun_fact": "Lacinato Kale is named after the Italian word 'lacinato,' meaning 'with leaves.' Its unique appearance and texture make it a favorite among gardeners and chefs alike.",
+                  "planting_tip": "For successful cultivation of Lacinato Kale, plant seeds or transplants in well-draining, nutrient-rich soil. Provide consistent moisture and protect young plants from extreme heat. Harvest the outer leaves when they reach a desirable size, allowing the inner leaves to continue growing. Regular harvesting promotes continuous leaf production throughout the growing season."
                 }
+                
+            ]
+        },
+        {
+            "id": 23,
+            "name": "potato",
+            "varieties_common_features": {
+                "sunlight_requirement": "Full Sun",
+                "propagation_methods": ["Seed Potatoes", "Cuttings"],
+                "soil_acidity_range": {
+                  "lower_bound": 5.8,
+                  "upper_bound": 6.5
+                },
+                "days_to_germination": "2-3 weeks (from seed potatoes)",
+                "frost_tolerance": true,
+                "planting_depth": "4-6 inches",
+                "spacing": "12-15 inches",
+                "life_cycle": "Perennial",
+                "season": "Cool",
+                "growing_type": "Bushy"
+            },
+            "varieties": [
+                {
+                    "id": 0,
+                  "name": "Yukon Gold",
+                  "description": "Yukon Gold Potato is a well-loved potato variety known for its buttery flavor and smooth texture. With a bushy growth habit, it produces attractive tubers with golden-yellow skin and flesh. While technically a perennial, it is commonly grown as an annual for its delectable and versatile culinary uses.",
+                  "spacing": "12-15 inches",
+                  "days_to_harvest": {
+                    "lower_estimate": 70,
+                    "higher_estimate": 90
+                  },
+                  "is_container_variety": false,
+                  "fruit_color": "Golden Yellow",
+                  "fruit_length": "4-5 inches",
+                  "fruit_weight": "5-8 ounces",
+                  "flower_color": "White, Pink, or Purple",
+                  "leaf_color": "Green",
+                  "plant_height": "12-18 inches (foliage)",
+                  "growth_mode": null,
+                  "best_uses": ["Boiling", "Mashing", "Roasting"],
+                  "water_requirement": "Regular watering",
+                  "feeding_requirement": "Well-balanced fertilizer",
+                  "requires_pruning": false,
+                  "needs_support": false,
+                  "fun_fact": "Yukon Gold Potatoes were developed in the 1960s by Canadian researchers. They quickly gained popularity for their rich flavor and ability to hold their shape well during cooking.",
+                  "planting_tip": "For successful cultivation of Yukon Gold Potatoes, start with certified seed potatoes. Plant in loose, well-draining soil with good fertility. Provide consistent moisture, especially during tuber formation. Hill the soil around the base of the plants as they grow to encourage more tuber development. Harvest when the foliage starts to yellow and die back. Allow harvested potatoes to cure before storing in a cool, dark place."
+                }
+                
+            ]
+        },
+        
+        {
+            "id": 24,
+            "name": "sweet potato",
+            "varieties_common_features": {
+                "sunlight_requirement": "Full Sun",
+                "propagation_methods": ["Slips", "Cuttings"],
+                "soil_acidity_range": {
+                  "lower_bound": 5.8,
+                  "upper_bound": 6.5
+                },
+                "days_to_germination": "2-3 weeks (from slips)",
+                "frost_tolerance": false,
+                "planting_depth": "4-6 inches",
+                "spacing": "12-15 inches",
+                "life_cycle": "Perennial",
+                "season": "Warm",
+                "growing_type": "Vining"
+            },
+            "varieties": [
+                {
+                    "id": 0,
+                  "name": "Beauregard Sweet Potato",
+                  "description": "Beauregard Sweet Potato is a popular and widely grown sweet potato variety known for its sweet flavor and vibrant orange flesh. With vining growth, it produces tubers that are excellent for baking, roasting, or mashing. While technically a perennial, it is commonly grown as an annual for its delicious and versatile culinary uses.",
+                  "spacing": "12-15 inches",
+                  "days_to_harvest": {
+                    "lower_estimate": 90,
+                    "higher_estimate": 120
+                  },
+                  "is_container_variety": false,
+                  "flower_color": "Not applicable",
+                  "leaf_color": "Green",
+                  "plant_height": "12-18 inches",
+                  "growth_mode": null,
+                  "best_uses": ["Baking", "Roasting", "Mashing"],
+                  "water_requirement": "Regular watering",
+                  "feeding_requirement": "Well-balanced fertilizer",
+                  "requires_pruning": false,
+                  "needs_support": false,
+                  "fruit_color": "Orange",
+                  "fruit_weight": "8-12 ounces",
+                  "fruit_length": "6-8 inches",
+                  "fun_fact": "Beauregard Sweet Potato was developed by researchers at the Louisiana Agricultural Experiment Station and released in 1987. It quickly became one of the most popular sweet potato varieties due to its excellent taste and high yield.",
+                  "planting_tip": "For successful cultivation of Beauregard Sweet Potato, start with healthy slips. Plant in loose, well-draining soil with a slightly acidic to neutral pH. Provide consistent moisture, especially during the tuber-forming period. Harvest when the leaves start to yellow and the tubers have reached a desirable size. Cure harvested sweet potatoes in a warm, humid place before storing in a cool, dark area."
+                }
+                
             ]
         }
+        
     ]
 }
 
