@@ -330,6 +330,94 @@
                   "planting_tip": "For successful cultivation of Purple Glazer Garlic, plant individual cloves in the fall, a few weeks before the first hard frost. Ensure well-draining soil with good organic content. Plant cloves with the pointed end up and the flat end down. Mulch the garlic bed to protect against winter cold. Harvest when the lower leaves turn brown and the bulbs have reached a good size. Cure harvested garlic bulbs in a dry, well-ventilated area before storing."
                 }
             ]
+        },
+        {
+            "id": 27,
+            "name": "broccoli",
+            "varieties_common_features": {
+                "sunlight_requirement": "Full Sun to Partial Shade",
+                "propagation_methods": ["Seeds"],
+                "soil_acidity_range": {
+                  "lower_bound": 6.0,
+                  "upper_bound": 7.5
+                },
+                "days_to_germination": "5-10 days",
+                "frost_tolerance": true,
+                "planting_depth": "1/4 inch",
+                "spacing": "18-24 inches",
+                "life_cycle": "Annual",
+                "season": "Cool",
+                "growing_type": "Upright"
+            },
+            "varieties": [
+                {
+                    "id": 0,
+                  "name": "Green Magic ",
+                  "description": "Green Magic Broccoli is a classic broccoli variety known for its tender, dark green heads and excellent flavor. With an upright growth habit, it produces compact heads that are perfect for fresh consumption, stir-fries, or steaming. This annual broccoli variety is well-suited for home gardens and is a staple in many kitchens.",
+                  "days_to_harvest": {
+                    "lower_estimate": 60,
+                    "higher_estimate": 80
+                  },
+                  "is_container_variety": false,
+                  "flower_color": "Yellow",
+                  "leaf_color": "Green",
+                  "plant_height": "24-30 inches",
+                  "growth_mode": null,
+                  "best_uses": ["Fresh Eating", "Stir-fries", "Steaming"],
+                  "water_requirement": "Regular watering",
+                  "feeding_requirement": "Balanced fertilizer",
+                  "requires_pruning": false,
+                  "needs_support": false,
+                  "fruit_color": "Dark Green",
+                  "fruit_weight": "1-2 pounds",
+                  "fun_fact": "Broccoli is a member of the cabbage family and is closely related to cauliflower, Brussels sprouts, and kale. It is rich in vitamins, minerals, and antioxidants.",
+                  "planting_tip": "For successful cultivation of Green Magic Broccoli, start seeds indoors or purchase seedlings for transplanting. Plant in well-draining soil with good fertility. Provide consistent moisture, especially during the growing period. Use mulch to retain soil moisture and suppress weeds. Harvest when the broccoli heads are firm and tight, cutting the main head first to encourage side shoots for extended harvest."
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "name": "cauliflower",
+            "varieties_common_features": {
+                "sunlight_requirement": "Full Sun",
+                "propagation_methods": ["Seeds"],
+                "soil_acidity_range": {
+                  "lower_bound": 6.0,
+                  "upper_bound": 7.5
+                },
+                "days_to_germination": "7-14 days",
+                "frost_tolerance": true,
+                "planting_depth": "1/4 inch",
+                "spacing": "18-24 inches",
+                "life_cycle": "Annual",
+                "season": "Cool",
+                "growing_type": "Upright"
+            },
+            "varieties": [
+                {
+                    "id": 0,
+                  "name": "Snow Crown",
+                  "description": "Snow Crown Cauliflower is a popular cauliflower variety known for its snow-white curds and mild, sweet flavor. With an upright growth habit, it produces compact heads that are perfect for fresh consumption, roasting, or creating cauliflower rice. This annual cauliflower variety is well-suited for home gardens and is a versatile addition to various dishes.",
+                  "days_to_harvest": {
+                    "lower_estimate": 65,
+                    "higher_estimate": 85
+                  },
+                  "is_container_variety": false,
+                  "flower_color": "White",
+                  "leaf_color": "Green",
+                  "plant_height": "18-24 inches",
+                  "growth_mode": null,
+                  "best_uses": ["Fresh Eating", "Roasting", "Cauliflower Rice"],
+                  "water_requirement": "Regular watering",
+                  "feeding_requirement": "Balanced fertilizer",
+                  "requires_pruning": false,
+                  "needs_support": false,
+                  "fruit_color": "White",
+                  "fruit_weight": "1.5-2.5 pounds",
+                  "fun_fact": "Cauliflower belongs to the Brassicaceae family, which also includes broccoli, cabbage, and kale. The curd, or head, is actually a mass of underdeveloped flower buds.",
+                  "planting_tip": "For successful cultivation of Snow Crown Cauliflower, start seeds indoors or purchase seedlings for transplanting. Plant in well-draining soil with good fertility. Provide consistent moisture, especially during the growing period. Use mulch to retain soil moisture and moderate soil temperature. Harvest when the cauliflower curds are firm and tight, cutting the head cleanly from the plant."
+                }
+            ]
         }
     ]
 }
