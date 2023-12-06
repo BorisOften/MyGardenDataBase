@@ -354,6 +354,7 @@
                     "id": 0,
                   "name": "Green Magic ",
                   "description": "Green Magic Broccoli is a classic broccoli variety known for its tender, dark green heads and excellent flavor. With an upright growth habit, it produces compact heads that are perfect for fresh consumption, stir-fries, or steaming. This annual broccoli variety is well-suited for home gardens and is a staple in many kitchens.",
+                  "spacing": "18-24 inches",
                   "days_to_harvest": {
                     "lower_estimate": 60,
                     "higher_estimate": 80
@@ -398,6 +399,7 @@
                     "id": 0,
                   "name": "Snow Crown",
                   "description": "Snow Crown Cauliflower is a popular cauliflower variety known for its snow-white curds and mild, sweet flavor. With an upright growth habit, it produces compact heads that are perfect for fresh consumption, roasting, or creating cauliflower rice. This annual cauliflower variety is well-suited for home gardens and is a versatile addition to various dishes.",
+                  "spacing": "18-24 inches",
                   "days_to_harvest": {
                     "lower_estimate": 65,
                     "higher_estimate": 85
