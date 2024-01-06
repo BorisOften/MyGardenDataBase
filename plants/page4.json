@@ -1,0 +1,102 @@
+{
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": 30,
+            "name": "radish",
+            "varieties_common_features": {
+                "sunlight_requirement": "Full Sun to Partial Shade",
+                "propagation_methods": ["Seeds"],
+                "soil_acidity_range": {
+                  "lower_bound": 5.8,
+                  "upper_bound": 7.0
+                },
+                "days_to_germination": "3-7 days",
+                "frost_tolerance": true,
+                "planting_depth": "1/2 inch",
+                "spacing": "1-2 inches",
+                "life_cycle": "Annual",
+                "season": "Cool",
+                "growing_type": "Compact"
+            },
+            "varieties": [
+                {
+                    "id": 0,
+                    "name": "Cherry Belle",
+                    "description": "Cherry Belle Radish is a classic radish variety known for its vibrant red color and crisp, mild flavor. With a compact growth habit, it produces round roots that are perfect for salads, snacking, or pickling. This annual radish variety is well-suited for small gardens and container gardening.",
+                    "spacing": "1-2 inches",
+                  "days_to_harvest": {
+                    "lower_estimate": 20,
+                    "higher_estimate": 30
+                  },
+                  "is_container_variety": true,
+                  "fruit_color": "Bright Red",
+                  "fruit_weight": "1-2 ounces",
+                  "flower_color": "White",
+                  "leaf_color": "Green",
+                  "plant_height": "4-6 inches",
+                  "growth_mode": null,
+                  "best_uses": ["Salads", "Snacking", "Pickling"],
+                  "water_requirement": "Regular watering",
+                  "feeding_requirement": "Moderate fertility",
+                  "requires_pruning": false,
+                  "needs_support": false,
+                  "fun_fact": "Radishes are one of the fastest-growing vegetables and can be ready for harvest in as little as three weeks from planting.",
+                  "planting_tip": "For successful cultivation of Cherry Belle Radish, direct sow seeds in well-draining soil with moderate fertility. Plant in a sunny location for optimal growth. Keep the soil consistently moist to encourage rapid root development. Radishes are best harvested when they are young and tender. Consider successive plantings for a continuous harvest throughout the growing season."
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "name": "beet",
+            "varieties_common_features": {
+                "sunlight_requirement": "Full Sun to Partial Shade",
+                "propagation_methods": ["Seeds"],
+                "soil_acidity_range": {
+                  "lower_bound": 6.0,
+                  "upper_bound": 7.5
+                },
+                "days_to_germination": "7-14 days",
+                "frost_tolerance": true,
+                "planting_depth": "1/2 inch",
+                "spacing": "2-4 inches",
+                "life_cycle": "Annual",
+                "season": "Cool",
+                "growing_type": "Upright"
+            },
+            "varieties": [
+                {
+                    "id": 0,
+                    "name": "Detroit Dark Red",
+                    "description": "Detroit Dark Red Beet is a popular beet variety known for its deep red color, sweet flavor, and versatility in culinary applications. With an upright growth habit, it produces round, globe-shaped roots that are excellent for salads, roasting, or pickling. This annual beet variety is well-suited for small gardens and container gardening.",
+                    "spacing": "1-2 inches",
+                    "days_to_harvest": {
+                      "lower_estimate": 50,
+                      "higher_estimate": 70
+                    },
+                  "is_container_variety": true,
+                  "fruit_color": "Deep Red",
+                  "root_weight": "4-6 ounces",
+                  "flower_color": "Green",
+                  "leaf_color": "Green",
+                  "plant_height": "12-18 inches",
+                  "growth_mode": null,
+                  "best_uses": ["Salads", "Roasting", "Pickling"],
+                  "water_requirement": "Regular watering",
+                  "feeding_requirement": "Moderate fertility",
+                  "requires_pruning": false,
+                  "needs_support": false,
+                  "fun_fact": "Beets are not only valued for their roots but also for their nutritious and edible leaves, known as beet greens. Beet greens can be cooked or eaten raw in salads.",
+                  "planting_tip": "For successful cultivation of Detroit Dark Red Beet, directly sow seeds in well-draining soil with moderate fertility. Plant in a sunny to partially shaded location for optimal growth. Keep the soil consistently moist to encourage tender root development. Harvest beets when they reach the desired size, typically around 2-3 inches in diameter. Beet greens can also be harvested for culinary use."
+                }
+            ]
+        }
+        
+    ]
+}
+
+
+
+
+

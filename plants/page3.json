@@ -1,5 +1,5 @@
 {
-    "next": null,
+    "next": "https://raw.githubusercontent.com/BorisOften/MyGardenDataBase/develop/plants/page4.json",
     "previous": null,
     "results": [
         {
@@ -352,7 +352,7 @@
             "varieties": [
                 {
                     "id": 0,
-                  "name": "Green Magic ",
+                  "name": "Green Magic",
                   "description": "Green Magic Broccoli is a classic broccoli variety known for its tender, dark green heads and excellent flavor. With an upright growth habit, it produces compact heads that are perfect for fresh consumption, stir-fries, or steaming. This annual broccoli variety is well-suited for home gardens and is a staple in many kitchens.",
                   "spacing": "18-24 inches",
                   "days_to_harvest": {
@@ -419,6 +419,52 @@
                   "fun_fact": "Cauliflower belongs to the Brassicaceae family, which also includes broccoli, cabbage, and kale. The curd, or head, is actually a mass of underdeveloped flower buds.",
                   "planting_tip": "For successful cultivation of Snow Crown Cauliflower, start seeds indoors or purchase seedlings for transplanting. Plant in well-draining soil with good fertility. Provide consistent moisture, especially during the growing period. Use mulch to retain soil moisture and moderate soil temperature. Harvest when the cauliflower curds are firm and tight, cutting the head cleanly from the plant."
                 }
+            ]
+        },
+        {
+            "id": 29,
+            "name": "eggplant",
+            "varieties_common_features": {
+                "sunlight_requirement": "Full Sun",
+                "propagation_methods": ["Seeds"],
+                "soil_acidity_range": {
+                  "lower_bound": 5.8,
+                  "upper_bound": 6.5
+                },
+                "days_to_germination": "7-14 days",
+                "frost_tolerance": false,
+                "planting_depth": "1/4 inch",
+                "spacing": "18-24 inches",
+                "life_cycle": "Annual",
+                "season": "Warm",
+                "growing_type": "Upright"
+            },
+            "varieties": [
+                {
+                    "id": 0,
+                  "name": "Black Beauty",
+                  "description": "Black Beauty Eggplant is a classic eggplant variety known for its glossy, deep purple to black fruits and mild flavor. With an upright growth habit, it produces oval-shaped fruits that are perfect for grilling, roasting, or stir-frying. This annual eggplant variety is well-suited for both garden beds and container gardening.",
+                  "spacing": "18-24 inches",
+                  "days_to_harvest": {
+                    "lower_estimate": 60,
+                    "higher_estimate": 80
+                  },
+                  "is_container_variety": true,
+                  "flower_color": "Purple",
+                  "leaf_color": "Green",
+                  "plant_height": "24-36 inches",
+                  "growth_mode": null,
+                  "best_uses": ["Grilling", "Roasting", "Stir-frying"],
+                  "water_requirement": "Regular watering",
+                  "feeding_requirement": "Balanced fertilizer",
+                  "requires_pruning": true,
+                  "needs_support": true,
+                  "fruit_color": "Deep Purple to Black",
+                  "fruit_weight": "1-2 pounds",
+                  "fun_fact": "Eggplants are technically berries and belong to the nightshade family, which also includes tomatoes, bell peppers, and potatoes.",
+                  "planting_tip": "For successful cultivation of Black Beauty Eggplant, start seeds indoors or purchase seedlings for transplanting. Plant in well-draining soil with good fertility. Provide consistent moisture, especially during the growing period. Stake or cage the plants to support heavy fruits. Harvest the eggplants when they are glossy and have reached a desirable size. Use a sharp knife or pruning shears to cut the fruit from the plant."
+                }
+
             ]
         }
     ]
