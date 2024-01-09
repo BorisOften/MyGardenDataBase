@@ -1,0 +1,476 @@
+{
+    "next": "https://raw.githubusercontent.com/BorisOften/MyGardenDataBase/staging/plants/page4.json",
+    "previous": null,
+    "results": [
+        {
+            "id": 20,
+            "name": "pepper",
+            "varieties_common_features": {
+                "sunlight_requirement": "Full Sun",
+                "propagation_methods": ["Seeds"],
+                "soil_acidity_range": {
+                  "lower_bound": 6.0,
+                  "upper_bound": 7.0
+                },
+                "days_to_germination": "7-14 days",
+                "frost_tolerance": false,
+                "planting_depth": "1/4 inch",
+                "spacing": "18-24 inches",
+                "life_cycle": "Annual",
+                "season": "Warm",
+                "growing_type": "Upright"
+            },
+            "varieties": [
+                {
+                    "id": 0,
+                  "name": "Jalapeño",
+                  "description": "Jalapeño Pepper is a popular chili pepper known for its moderate heat and versatility in various culinary applications. With an upright growth habit, it produces elongated, green to red fruits that are widely used in salsas, pickling, and for adding a kick to dishes. This annual pepper variety is well-suited for both garden beds and container gardening.",
+                  "spacing": "18-24 inches",
+                  "days_to_harvest": {
+                    "lower_estimate": 70,
+                    "higher_estimate": 90
+                  },
+                  "is_container_variety": true,
+                  "fruit_color": "Green to Red",
+                  "fruit_length": "2-3 inches",
+                  "fruit_weight": "0.5-1 ounce",
+                  "flower_color": "White",
+                  "leaf_color": "Green",
+                  "plant_height": "24-36 inches",
+                  "growth_mode": null,
+                  "best_uses": ["Fresh Eating", "Salsas", "Pickling"],
+                  "water_requirement": "Regular watering",
+                  "feeding_requirement": "Balanced fertilizer",
+                  "requires_pruning": true,
+                  "needs_support": true,
+                  "fun_fact": "The name 'Jalapeño' is derived from Xalapa, the capital city of Veracruz, Mexico, where these peppers were traditionally cultivated.",
+                  "planting_tip": "For successful cultivation of Jalapeño Pepper, start seeds indoors or purchase seedlings for transplanting. Plant in well-draining soil with good fertility. Provide consistent moisture, especially during hot periods. Support plants with stakes if needed. Harvest peppers when they reach the desired size and color. Be cautious when handling the seeds and avoid touching your face, as jalapeños can be quite spicy."
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "onion",
+            "varieties_common_features": {
+                "sunlight_requirement": "Full Sun",
+                "propagation_methods": ["Seeds", "Sets"],
+                "soil_acidity_range": {
+                  "lower_bound": 6.0,
+                  "upper_bound": 7.5
+                },
+                "days_to_germination": "7-10 days",
+                "frost_tolerance": true,
+                "planting_depth": "1/4 inch",
+                "spacing": "4-6 inches",
+                "life_cycle": "Biennial",
+                "season": "Cool",
+                "growing_type": "Upright"
+            },
+            "varieties": [
+                {
+                    "id": 0,
+                    "name": "Sweet Spanish",
+                  "spacing": "4-6 inches",
+                  "description": "Sweet Spanish Onion is a popular onion variety renowned for its large size and sweet, mild flavor. With an upright growth habit, it produces bulbs that are excellent for fresh consumption, grilling, and various culinary dishes. This biennial plant is typically grown as an annual for its flavorful bulbs.",
+                  "spacing": "6-8 inches",
+                  "life_cycle": "Biennial",
+                  "days_to_harvest": {
+                    "lower_estimate": 100,
+                    "higher_estimate": 120
+                  },
+                  "is_container_variety": false,
+                  "fruit_color": "Golden Brown",
+                  "fruit_length": "2-3 inches",
+                  "fruit_weight": "1-2 pounds",
+                  "flower_color": "White",
+                  "leaf_color": "Green",
+                  "plant_height": "12-18 inches",
+                  "growth_mode": null,
+                  "best_uses": ["Fresh Eating", "Grilling", "Culinary Dishes"],
+                  "water_requirement": "Regular watering",
+                  "feeding_requirement": "Balanced fertilizer",
+                  "requires_pruning": false,
+                  "needs_support": false,
+                  "fun_fact": "Sweet Spanish Onions are known for their low pungency and high sugar content. They are a favorite for slicing onto salads, sandwiches, and enjoying in a variety of cooked dishes.",
+                  "planting_tip": "For successful cultivation of Sweet Spanish Onion, choose a sunny location with well-drained soil. Plant seeds, sets, or transplants at the appropriate depth and spacing. Water consistently, ensuring the soil is kept evenly moist. Mulch around the plants to suppress weeds and retain moisture. Harvest when the tops have fallen over, and the bulbs have reached a desirable size. Allow the bulbs to cure before storing them for extended use."
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "kale",
+            "varieties_common_features": {
+                "sunlight_requirement": "Full Sun to Partial Shade",
+                "propagation_methods": ["Seeds"],
+                "soil_acidity_range": {
+                  "lower_bound": 6.0,
+                  "upper_bound": 7.5
+                },
+                "days_to_germination": "7-14 days",
+                "frost_tolerance": true,
+                "planting_depth": "1/4 inch",
+                "spacing": "12-18 inches",
+                "life_cycle": "Biennial",
+                "season": "Cool",
+                "growing_type": "Upright"
+            },
+            "varieties": [
+                {
+                    "id": 0,
+                  "name": "Lacinato",
+                  "description": "Lacinato Kale, also known as Dinosaur Kale, is a popular kale variety recognized for its dark green, bumpy leaves. With an upright growth habit, it is a nutritious and versatile leafy green that adds a hearty texture to various dishes. Although technically a biennial, it is often grown as an annual for its abundant and flavorful leaves.",
+                  "spacing": "12-18 inches",
+                  "days_to_harvest": {
+                    "lower_estimate": 50,
+                    "higher_estimate": 70
+                  },
+                  "is_container_variety": false,
+                  "fruit_color": null,
+                  "fruit_length": null,
+                  "fruit_weight": null,
+                  "flower_color": "Yellow",
+                  "leaf_color": "Dark Green",
+                  "plant_height": "18-24 inches",
+                  "growth_mode": null,
+                  "best_uses": ["Salads", "Smoothies", "Stir-fries"],
+                  "water_requirement": "Regular watering",
+                  "feeding_requirement": "Rich, well-draining soil",
+                  "requires_pruning": false,
+                  "needs_support": false,
+                  "fun_fact": "Lacinato Kale is named after the Italian word 'lacinato,' meaning 'with leaves.' Its unique appearance and texture make it a favorite among gardeners and chefs alike.",
+                  "planting_tip": "For successful cultivation of Lacinato Kale, plant seeds or transplants in well-draining, nutrient-rich soil. Provide consistent moisture and protect young plants from extreme heat. Harvest the outer leaves when they reach a desirable size, allowing the inner leaves to continue growing. Regular harvesting promotes continuous leaf production throughout the growing season."
+                }
+                
+            ]
+        },
+        {
+            "id": 23,
+            "name": "potato",
+            "varieties_common_features": {
+                "sunlight_requirement": "Full Sun",
+                "propagation_methods": ["Seed Potatoes", "Cuttings"],
+                "soil_acidity_range": {
+                  "lower_bound": 5.8,
+                  "upper_bound": 6.5
+                },
+                "days_to_germination": "2-3 weeks (from seed potatoes)",
+                "frost_tolerance": true,
+                "planting_depth": "4-6 inches",
+                "spacing": "12-15 inches",
+                "life_cycle": "Perennial",
+                "season": "Cool",
+                "growing_type": "Bushy"
+            },
+            "varieties": [
+                {
+                    "id": 0,
+                  "name": "Yukon Gold",
+                  "description": "Yukon Gold Potato is a well-loved potato variety known for its buttery flavor and smooth texture. With a bushy growth habit, it produces attractive tubers with golden-yellow skin and flesh. While technically a perennial, it is commonly grown as an annual for its delectable and versatile culinary uses.",
+                  "spacing": "12-15 inches",
+                  "days_to_harvest": {
+                    "lower_estimate": 70,
+                    "higher_estimate": 90
+                  },
+                  "is_container_variety": false,
+                  "fruit_color": "Golden Yellow",
+                  "fruit_length": "4-5 inches",
+                  "fruit_weight": "5-8 ounces",
+                  "flower_color": "White, Pink, or Purple",
+                  "leaf_color": "Green",
+                  "plant_height": "12-18 inches (foliage)",
+                  "growth_mode": null,
+                  "best_uses": ["Boiling", "Mashing", "Roasting"],
+                  "water_requirement": "Regular watering",
+                  "feeding_requirement": "Well-balanced fertilizer",
+                  "requires_pruning": false,
+                  "needs_support": false,
+                  "fun_fact": "Yukon Gold Potatoes were developed in the 1960s by Canadian researchers. They quickly gained popularity for their rich flavor and ability to hold their shape well during cooking.",
+                  "planting_tip": "For successful cultivation of Yukon Gold Potatoes, start with certified seed potatoes. Plant in loose, well-draining soil with good fertility. Provide consistent moisture, especially during tuber formation. Hill the soil around the base of the plants as they grow to encourage more tuber development. Harvest when the foliage starts to yellow and die back. Allow harvested potatoes to cure before storing in a cool, dark place."
+                }
+                
+            ]
+        },
+        {
+            "id": 24,
+            "name": "sweet potato",
+            "varieties_common_features": {
+                "sunlight_requirement": "Full Sun",
+                "propagation_methods": ["Slips", "Cuttings"],
+                "soil_acidity_range": {
+                  "lower_bound": 5.8,
+                  "upper_bound": 6.5
+                },
+                "days_to_germination": "2-3 weeks (from slips)",
+                "frost_tolerance": false,
+                "planting_depth": "4-6 inches",
+                "spacing": "12-15 inches",
+                "life_cycle": "Perennial",
+                "season": "Warm",
+                "growing_type": "Vining"
+            },
+            "varieties": [
+                {
+                    "id": 0,
+                  "name": "Beauregard",
+                  "description": "Beauregard Sweet Potato is a popular and widely grown sweet potato variety known for its sweet flavor and vibrant orange flesh. With vining growth, it produces tubers that are excellent for baking, roasting, or mashing. While technically a perennial, it is commonly grown as an annual for its delicious and versatile culinary uses.",
+                  "spacing": "12-15 inches",
+                  "days_to_harvest": {
+                    "lower_estimate": 90,
+                    "higher_estimate": 120
+                  },
+                  "is_container_variety": false,
+                  "flower_color": "Not applicable",
+                  "leaf_color": "Green",
+                  "plant_height": "12-18 inches",
+                  "growth_mode": null,
+                  "best_uses": ["Baking", "Roasting", "Mashing"],
+                  "water_requirement": "Regular watering",
+                  "feeding_requirement": "Well-balanced fertilizer",
+                  "requires_pruning": false,
+                  "needs_support": false,
+                  "fruit_color": "Orange",
+                  "fruit_weight": "8-12 ounces",
+                  "fruit_length": "6-8 inches",
+                  "fun_fact": "Beauregard Sweet Potato was developed by researchers at the Louisiana Agricultural Experiment Station and released in 1987. It quickly became one of the most popular sweet potato varieties due to its excellent taste and high yield.",
+                  "planting_tip": "For successful cultivation of Beauregard Sweet Potato, start with healthy slips. Plant in loose, well-draining soil with a slightly acidic to neutral pH. Provide consistent moisture, especially during the tuber-forming period. Harvest when the leaves start to yellow and the tubers have reached a desirable size. Cure harvested sweet potatoes in a warm, humid place before storing in a cool, dark area."
+                }
+                
+            ]
+        },
+        {
+            "id": 25,
+            "name": "celery",
+            "varieties_common_features": {
+                "sunlight_requirement": "Full Sun to Partial Shade",
+                "propagation_methods": ["Seeds"],
+                "soil_acidity_range": {
+                  "lower_bound": 6.0,
+                  "upper_bound": 7.5
+                },
+                "days_to_germination": "10-14 days",
+                "frost_tolerance": false,
+                "planting_depth": "1/8 inch",
+                "spacing": "6-8 inches",
+                "life_cycle": "Biennial",
+                "season": "Cool",
+                "growing_type": "Upright"
+            },
+            "varieties": [
+                {
+                    "id": 0,
+                  "name": "Tall Utah 52-70",
+                  "description": "Tall Utah 52-70 Celery is a classic celery variety known for its crisp and flavorful stalks. With an upright growth habit, it produces tall, dark green celery that is a staple in the kitchen. This biennial plant is typically grown as an annual for its succulent stems.",
+                  "frost_tolerance": false,
+                  "spacing": "6-8 inches",
+                  "days_to_harvest": {
+                    "lower_estimate": 120,
+                    "higher_estimate": 150
+                  },
+                  "is_container_variety": false,
+                  "fruit_color": null,
+                  "fruit_length": null,
+                  "fruit_weight": null,
+                  "flower_color": "Yellow",
+                  "leaf_color": "Green",
+                  "plant_height": "12-18 inches",
+                  "growth_mode": null,
+                  "best_uses": ["Fresh Eating", "Soups", "Salads"],
+                  "water_requirement": "Consistent moisture",
+                  "feeding_requirement": "Rich, well-composted soil",
+                  "requires_pruning": false,
+                  "needs_support": false,
+                  "fun_fact": "Tall Utah 52-70 Celery is a popular choice among gardeners for its reliability and versatility. It is widely used in culinary applications and is a key ingredient in traditional dishes like soups and stews.",
+                  "planting_tip": "For successful cultivation of Tall Utah 52-70 Celery, start seeds indoors or direct sow in well-drained, fertile soil. Provide consistent moisture, especially during the germination period. Transplant seedlings when they are large enough to handle. Hill soil around the base of the plants to blanch the stalks. Harvest when the celery has reached the desired size, and enjoy the crispness and mild flavor."
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "name": "garlic",
+            "varieties_common_features": {
+                "sunlight_requirement": "Full Sun",
+                "propagation_methods": ["Clove Planting"],
+                "soil_acidity_range": {
+                  "lower_bound": 6.0,
+                  "upper_bound": 7.5
+                },
+                "days_to_germination": "None (grown from cloves)",
+                "frost_tolerance": true,
+                "planting_depth": "2 inches",
+                "spacing": "4-6 inches",
+                "life_cycle": "Perennial",
+                "season": "Cool",
+                "growing_type": "Upright"
+            },
+            "varieties": [
+                {
+                    "id": 0,
+                  "name": "Purple Glazer",
+                  "description": "Purple Glazer Garlic is a flavorful garlic variety with striking purple and white bulbs. Grown as an annual, this garlic is known for its rich taste and versatility in both culinary and medicinal applications. It belongs to the hardneck garlic group, characterized by the presence of a central stalk or scape.",
+                  "frost_tolerance": false,
+                  "spacing": "6-8 inches",
+                  "days_to_harvest": {
+                    "lower_estimate": 180,
+                    "higher_estimate": 210
+                  },
+                  "is_container_variety": false,
+                  "flower_color": "Not applicable",
+                  "fruit_length": null,
+                  "fruit_weight": "2-3 ounces",
+                  "flower_color": "Purple and White",
+                  "leaf_color": "Green",
+                  "plant_height": "18-24 inches",
+                  "growth_mode": null,
+                  "best_uses": ["Culinary", "Medicinal"],
+                  "water_requirement": "Moderate watering",
+                  "feeding_requirement": "Balanced fertilizer",
+                  "requires_pruning": false,
+                  "needs_support": false,
+                  "fun_fact": "Purple Glazer Garlic produces garlic scapes, curly green shoots that emerge from the bulb. These scapes are not only edible but also add a mild garlic flavor to dishes.",
+                  "planting_tip": "For successful cultivation of Purple Glazer Garlic, plant individual cloves in the fall, a few weeks before the first hard frost. Ensure well-draining soil with good organic content. Plant cloves with the pointed end up and the flat end down. Mulch the garlic bed to protect against winter cold. Harvest when the lower leaves turn brown and the bulbs have reached a good size. Cure harvested garlic bulbs in a dry, well-ventilated area before storing."
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "name": "broccoli",
+            "varieties_common_features": {
+                "sunlight_requirement": "Full Sun to Partial Shade",
+                "propagation_methods": ["Seeds"],
+                "soil_acidity_range": {
+                  "lower_bound": 6.0,
+                  "upper_bound": 7.5
+                },
+                "days_to_germination": "5-10 days",
+                "frost_tolerance": true,
+                "planting_depth": "1/4 inch",
+                "spacing": "18-24 inches",
+                "life_cycle": "Annual",
+                "season": "Cool",
+                "growing_type": "Upright"
+            },
+            "varieties": [
+                {
+                    "id": 0,
+                  "name": "Green Magic",
+                  "description": "Green Magic Broccoli is a classic broccoli variety known for its tender, dark green heads and excellent flavor. With an upright growth habit, it produces compact heads that are perfect for fresh consumption, stir-fries, or steaming. This annual broccoli variety is well-suited for home gardens and is a staple in many kitchens.",
+                  "spacing": "18-24 inches",
+                  "days_to_harvest": {
+                    "lower_estimate": 60,
+                    "higher_estimate": 80
+                  },
+                  "is_container_variety": false,
+                  "flower_color": "Yellow",
+                  "leaf_color": "Green",
+                  "plant_height": "24-30 inches",
+                  "growth_mode": null,
+                  "best_uses": ["Fresh Eating", "Stir-fries", "Steaming"],
+                  "water_requirement": "Regular watering",
+                  "feeding_requirement": "Balanced fertilizer",
+                  "requires_pruning": false,
+                  "needs_support": false,
+                  "fruit_color": "Dark Green",
+                  "fruit_weight": "1-2 pounds",
+                  "fun_fact": "Broccoli is a member of the cabbage family and is closely related to cauliflower, Brussels sprouts, and kale. It is rich in vitamins, minerals, and antioxidants.",
+                  "planting_tip": "For successful cultivation of Green Magic Broccoli, start seeds indoors or purchase seedlings for transplanting. Plant in well-draining soil with good fertility. Provide consistent moisture, especially during the growing period. Use mulch to retain soil moisture and suppress weeds. Harvest when the broccoli heads are firm and tight, cutting the main head first to encourage side shoots for extended harvest."
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "name": "cauliflower",
+            "varieties_common_features": {
+                "sunlight_requirement": "Full Sun",
+                "propagation_methods": ["Seeds"],
+                "soil_acidity_range": {
+                  "lower_bound": 6.0,
+                  "upper_bound": 7.5
+                },
+                "days_to_germination": "7-14 days",
+                "frost_tolerance": true,
+                "planting_depth": "1/4 inch",
+                "spacing": "18-24 inches",
+                "life_cycle": "Annual",
+                "season": "Cool",
+                "growing_type": "Upright"
+            },
+            "varieties": [
+                {
+                    "id": 0,
+                  "name": "Snow Crown",
+                  "description": "Snow Crown Cauliflower is a popular cauliflower variety known for its snow-white curds and mild, sweet flavor. With an upright growth habit, it produces compact heads that are perfect for fresh consumption, roasting, or creating cauliflower rice. This annual cauliflower variety is well-suited for home gardens and is a versatile addition to various dishes.",
+                  "spacing": "18-24 inches",
+                  "days_to_harvest": {
+                    "lower_estimate": 65,
+                    "higher_estimate": 85
+                  },
+                  "is_container_variety": false,
+                  "flower_color": "White",
+                  "leaf_color": "Green",
+                  "plant_height": "18-24 inches",
+                  "growth_mode": null,
+                  "best_uses": ["Fresh Eating", "Roasting", "Cauliflower Rice"],
+                  "water_requirement": "Regular watering",
+                  "feeding_requirement": "Balanced fertilizer",
+                  "requires_pruning": false,
+                  "needs_support": false,
+                  "fruit_color": "White",
+                  "fruit_weight": "1.5-2.5 pounds",
+                  "fun_fact": "Cauliflower belongs to the Brassicaceae family, which also includes broccoli, cabbage, and kale. The curd, or head, is actually a mass of underdeveloped flower buds.",
+                  "planting_tip": "For successful cultivation of Snow Crown Cauliflower, start seeds indoors or purchase seedlings for transplanting. Plant in well-draining soil with good fertility. Provide consistent moisture, especially during the growing period. Use mulch to retain soil moisture and moderate soil temperature. Harvest when the cauliflower curds are firm and tight, cutting the head cleanly from the plant."
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "name": "eggplant",
+            "varieties_common_features": {
+                "sunlight_requirement": "Full Sun",
+                "propagation_methods": ["Seeds"],
+                "soil_acidity_range": {
+                  "lower_bound": 5.8,
+                  "upper_bound": 6.5
+                },
+                "days_to_germination": "7-14 days",
+                "frost_tolerance": false,
+                "planting_depth": "1/4 inch",
+                "spacing": "18-24 inches",
+                "life_cycle": "Annual",
+                "season": "Warm",
+                "growing_type": "Upright"
+            },
+            "varieties": [
+                {
+                    "id": 0,
+                  "name": "Black Beauty",
+                  "description": "Black Beauty Eggplant is a classic eggplant variety known for its glossy, deep purple to black fruits and mild flavor. With an upright growth habit, it produces oval-shaped fruits that are perfect for grilling, roasting, or stir-frying. This annual eggplant variety is well-suited for both garden beds and container gardening.",
+                  "spacing": "18-24 inches",
+                  "days_to_harvest": {
+                    "lower_estimate": 60,
+                    "higher_estimate": 80
+                  },
+                  "is_container_variety": true,
+                  "flower_color": "Purple",
+                  "leaf_color": "Green",
+                  "plant_height": "24-36 inches",
+                  "growth_mode": null,
+                  "best_uses": ["Grilling", "Roasting", "Stir-frying"],
+                  "water_requirement": "Regular watering",
+                  "feeding_requirement": "Balanced fertilizer",
+                  "requires_pruning": true,
+                  "needs_support": true,
+                  "fruit_color": "Deep Purple to Black",
+                  "fruit_weight": "1-2 pounds",
+                  "fun_fact": "Eggplants are technically berries and belong to the nightshade family, which also includes tomatoes, bell peppers, and potatoes.",
+                  "planting_tip": "For successful cultivation of Black Beauty Eggplant, start seeds indoors or purchase seedlings for transplanting. Plant in well-draining soil with good fertility. Provide consistent moisture, especially during the growing period. Stake or cage the plants to support heavy fruits. Harvest the eggplants when they are glossy and have reached a desirable size. Use a sharp knife or pruning shears to cut the fruit from the plant."
+                }
+
+            ]
+        }
+    ]
+}
+
+
+
+
+

@@ -1,0 +1,2025 @@
+{
+    "next": "https://raw.githubusercontent.com/BorisOften/MyGardenDataBase/staging/plants/page3.json",
+    "previous": null,
+    "results": [
+        {
+            "id": 10,
+            "name": "lettuce",
+            "varieties_common_features": {
+                "sunlight_requirement": "Partial Shade",
+                "propagation_methods": ["Seeds"],
+                "soil_acidity_range": {
+                  "lower_bound": 6.0,
+                  "upper_bound": 7.0
+                },
+                "days_to_germination": "7-14 days",
+                "frost_tolerance": true,
+                "planting_depth": "1/4 inch",
+                "spacing": "6-12 inches",
+                "life_cycle": "Annual",
+                "season": "Cool"
+            },
+            "varieties": [
+                {
+                    "id": 0,
+                    "name": "Butterhead",
+                    "description": "Butterhead Lettuce, known for its loose, tender leaves and mild flavor, is a popular choice in salads and sandwiches. This cool-season annual is characterized by its soft, buttery-textured leaves that form a loosely folded head. Butterhead Lettuce is prized for its delicate taste and is a staple in gourmet salads.",
+                    "growth_mode": null,
+                    "days_to_harvest": {
+                      "lower_estimate": 50,
+                      "higher_estimate": 70
+                    },
+                    "is_container_variety": true,
+                    "fruit_color": null,
+                    "leaf_color": "Green",
+                    "flower_color": "Yellow",
+                    "fruit_weight": null,
+                    "plant_height": "8-12 inches",
+                    "best_uses": ["Salads", "Sandwiches", "Gourmet Dishes"],
+                    "needs_support": false,
+                    "water_requirement": "Moderate",
+                    "feeding_requirement": "Every two weeks",
+                    "requires_pruning": false,
+                    "fun_fact": "Did you know? Butterhead Lettuce gets its name from the sweet, buttery flavor of its leaves.",
+                    "planting_tip": "Plant Butterhead Lettuce in well-drained soil with consistent moisture. Provide shade during hot periods to prevent bolting. Harvest outer leaves as needed, or cut the entire head when mature.",
+                    "spacing": "8-12 inches",
+                    "overwrite_common_features": {
+                    }
+                },
+                {
+                    "id": 1,
+                  "name": "Romaine",
+                  "description": "Romaine Lettuce, also known as Cos Lettuce, is recognized for its long, sturdy leaves and crisp texture. This cool-season annual forms an upright head with dark green leaves. Romaine Lettuce is a favorite in Caesar salads and provides a satisfying crunch in various culinary creations.",
+                  "growth_mode": null,
+                  "days_to_harvest": {
+                    "lower_estimate": 60,
+                    "higher_estimate": 80
+                  },
+                  "is_container_variety": true,
+                  "fruit_color": null,
+                  "leaf_color": "Dark Green",
+                  "flower_color": "Yellow",
+                  "fruit_weight": null,
+                  "plant_height": "10-16 inches",
+                  "best_uses": ["Caesar Salads", "Sandwiches", "Wraps"],
+                  "needs_support": false,
+                  "water_requirement": "Moderate",
+                  "feeding_requirement": "Every three weeks",
+                  "requires_pruning": false,
+                  "fun_fact": "Did you know? Romaine Lettuce is an excellent source of vitamins A and K.",
+                  "planting_tip": "Plant Romaine Lettuce in well-drained soil with full sunlight. Water consistently to keep soil evenly moist. Harvest outer leaves as needed, or cut the entire head when mature.",
+                  "spacing": "8-12 inches"
+                },
+                {
+                    "id": 2,
+                  "name": "Iceberg",
+                  "description": "Iceberg Lettuce, with its crisp and tightly packed leaves, is a classic choice for salads and sandwiches. This cool-season annual forms a compact, round head with pale green leaves. Iceberg Lettuce is known for its refreshing taste and is a versatile ingredient in various culinary dishes.",
+                  "days_to_harvest": {
+                    "lower_estimate": 70,
+                    "higher_estimate": 90
+                  },
+                  "is_container_variety": true,
+                  "fruit_color": null,
+                  "leaf_color": "Pale Green",
+                  "flower_color": "Yellow-Green",
+                  "fruit_weight": null,
+                  "plant_height": "8-12 inches",
+                  "best_uses": ["Salads", "Burgers", "Tacos"],
+                  "needs_support": false,
+                  "water_requirement": "Moderate",
+                  "feeding_requirement": "Every three weeks",
+                  "requires_pruning": false,
+                  "fun_fact": "Did you know? Iceberg Lettuce gets its name because it was historically transported on ice beds to keep it fresh.",
+                  "planting_tip": "Plant Iceberg Lettuce in well-drained soil with full sunlight. Water consistently, keeping the soil evenly moist. Harvest heads when they are firm and fully developed.",
+                  "spacing": "12-18 inches"
+                },
+                {
+                    "id": 3,
+                  "name": "Looseleaf",
+                  "description": "Looseleaf Lettuce is characterized by its loose arrangement of tender leaves and a variety of leaf colors and shapes. This cool-season annual is known for its easy cultivation and continuous harvesting. Looseleaf Lettuce adds color and texture to salads and is a popular choice for home gardeners.",
+                  "days_to_harvest": {
+                    "lower_estimate": 45,
+                    "higher_estimate": 60
+                  },
+                  "is_container_variety": true,
+                  "fruit_color": null,
+                  "leaf_color": "Green, Red, Bronze",
+                  "flower_color": "Yellow",
+                  "fruit_weight": null,
+                  "plant_height": "6-12 inches",
+                  "best_uses": ["Salads", "Wraps", "Garden Beds"],
+                  "needs_support": false,
+                  "water_requirement": "Moderate",
+                  "feeding_requirement": "Every two weeks",
+                  "requires_pruning": false,
+                  "fun_fact": "Did you know? Looseleaf Lettuce comes in a variety of colors, including green, red, and bronze.",
+                  "planting_tip": "Plant Looseleaf Lettuce in well-drained soil with partial to full sunlight. Water consistently, and harvest leaves as needed. This variety is perfect for continuous cutting.",
+                  "spacing": "8-12 inches"
+                },
+                {
+                    "id": 4,
+                  "name": "Arugula",
+                  "description": "Arugula Lettuce, also known as Rocket or Roquette, is a peppery-flavored green that adds a distinctive taste to salads. This cool-season annual is characterized by its lobed leaves and rapid growth. Arugula Lettuce is a popular choice for those seeking a bold and zesty flavor in their culinary creations.",
+                  "days_to_harvest": {
+                    "lower_estimate": 30,
+                    "higher_estimate": 40
+                  },
+                  "is_container_variety": true,
+                  "fruit_color": null,
+                  "leaf_color": "Green",
+                  "flower_color": "White",
+                  "fruit_weight": null,
+                  "plant_height": "12-18 inches",
+                  "best_uses": ["Salads", "Pizzas", "Pasta"],
+                  "needs_support": false,
+                  "water_requirement": "Low to Moderate",
+                  "feeding_requirement": "Every three weeks",
+                  "requires_pruning": false,
+                  "fun_fact": "Did you know? Arugula Lettuce is a member of the mustard family and is known for its peppery flavor.",
+                  "planting_tip": "Plant Arugula Lettuce in well-drained soil with partial shade to full sunlight. Water sparingly, as it prefers drier conditions. Harvest leaves when they are young and tender.",
+                  "spacing": "6-12 inches"
+                },
+                {
+                    "id": 5,
+                  "name": "Red Leaf",
+                  "description": "Red Leaf Lettuce is known for its vibrant red or burgundy-colored leaves and mild flavor. This cool-season annual forms loose heads with frilly or curly leaves. Red Leaf Lettuce adds a splash of color to salads and is a nutritious addition to a variety of dishes.",
+                  "days_to_harvest": {
+                    "lower_estimate": 50,
+                    "higher_estimate": 70
+                  },
+                  "is_container_variety": true,
+                  "fruit_color": null,
+                  "leaf_color": "Red",
+                  "flower_color": "Yellow",
+                  "fruit_weight": null,
+                  "plant_height": "8-14 inches",
+                  "best_uses": ["Salads", "Wraps", "Garnish"],
+                  "needs_support": false,
+                  "water_requirement": "Moderate",
+                  "feeding_requirement": "Every two weeks",
+                  "requires_pruning": false,
+                  "fun_fact": "Did you know? Red Leaf Lettuce contains anthocyanins, the same antioxidants found in red cabbage and red wine.",
+                  "planting_tip": "Plant Red Leaf Lettuce in well-drained soil with partial shade to full sunlight. Water consistently, and harvest leaves as needed. This variety is ideal for adding color to salads.",
+                  "spacing": "8-12 inches"
+                },
+                {
+                    "id": 6,
+                  "name": "Little Gem",
+                  "description": "Little Gem Lettuce is a miniature variety with small, compact heads and a sweet flavor. This cool-season annual is often referred to as a 'baby romaine' and is perfect for individual servings. Little Gem Lettuce is a popular choice for gourmet salads and is well-suited for small gardens.",
+                  "days_to_harvest": {
+                    "lower_estimate": 50,
+                    "higher_estimate": 70
+                  },
+                  "is_container_variety": true,
+                  "fruit_color": null,
+                  "leaf_color": "Green",
+                  "flower_color": "Yellow",
+                  "fruit_weight": null,
+                  "plant_height": "6-10 inches",
+                  "best_uses": ["Gourmet Salads", "Containers", "Individual Servings"],
+                  "needs_support": false,
+                  "water_requirement": "Moderate",
+                  "feeding_requirement": "Every two weeks",
+                  "requires_pruning": false,
+                  "fun_fact": "Did you know? Little Gem Lettuce is a cross between romaine and butterhead lettuce, combining the best of both varieties.",
+                  "planting_tip": "Plant Little Gem Lettuce in well-drained soil with full sunlight. Water consistently, and harvest individual heads when they are small and compact.",
+                  "spacing": "6-10 inches"
+                }
+
+
+
+
+
+
+
+            ]
+        },
+        {
+            "id": 11,
+            "name": "beans",
+            "varieties_common_features": {
+                "sunlight_requirement": "Full Sun",
+                "propagation_methods": ["Seeds"],
+                "soil_acidity_range": {
+                  "lower_bound": 6.0,
+                  "upper_bound": 7.5
+                },
+                "days_to_germination": "7-14 days",
+                "frost_tolerance": false,
+                "planting_depth": "1-2 inches",
+                "spacing": "4-6 inches",
+                "life_cycle": "Annual",
+                "season": "Warm"
+            },
+            "varieties": [
+                {
+                    "id": 0,
+                    "name": "Bush Blue Lake 274",
+                    "description": "Bush Blue Lake 274 is a delightful variety of green beans celebrated for its exceptional flavor, crisp texture, and prolific yield. This bush-type bean is easy to grow, making it a favorite among both novice and experienced gardeners. The plant showcases vibrant green foliage, producing an abundance of tender, stringless pods that are perfect for fresh eating, canning, and freezing.",
+                    "growth_mode": "Bush",
+                    "days_to_harvest": {
+                      "lower_estimate": 50,
+                      "higher_estimate": 60
+                    },
+                    "is_container_variety": true,
+                    "fruit_color": "Green",
+                    "flower_color": "White",
+                    "leaf_color": "Green",
+                    "fruit_weight": "2-4 ounces",
+                    "plant_height": "12-18 inches",
+                    "best_uses": ["Fresh Eating", "Canning", "Freezing"],
+                    "needs_support": false,
+                    "water_requirement": "Regular watering",
+                    "feeding_requirement": "Balanced fertilizer",
+                    "requires_pruning": false,
+                    "fun_fact": "Did you know? The origin of the name 'Blue Lake' is a nod to the crystal-clear lakes where this bean variety is believed to have originated. Its 'bush' growth habit also makes it an excellent space-saving choice for home gardeners.",
+                    "planting_tip": "To ensure a bountiful harvest, sow Bush Blue Lake 274 seeds in well-drained, nutrient-rich soil. Provide consistent moisture, especially during the flowering and pod-setting stages. Consider adding organic matter to enhance soil fertility. Additionally, mulching around the base of the plants helps retain moisture and suppress weeds. Enjoy a continuous harvest by picking pods when they are young and tender.",
+                    "spacing": "4-6 inches",
+                    "overwrite_common_features": {
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "Provider",
+                    "description": "Provider beans are known for their early maturity and high yields. These bush beans produce slender, stringless pods that are exceptionally flavorful. With a compact growth habit, Provider is an excellent choice for small gardens and containers. The reliable and prolific nature of Provider makes it a go-to selection for home gardeners seeking a steady supply of delicious green beans throughout the growing season.",
+                    "spacing": "4-6 inches",
+                    "growth_mode": "Bush",
+                    "days_to_harvest": {
+                        "lower_estimate": 45,
+                        "higher_estimate": 55
+                    },
+                    "is_container_variety": true,
+                    "fruit_color": "Green",
+                    "flower_color": "White",
+                    "leaf_color": "Green",
+                    "fruit_weight": "3-5 ounces",
+                    "plant_height": "12-16 inches",
+                    "best_uses": ["Fresh Eating", "Canning", "Freezing"],
+                    "needs_support": false,
+                    "water_requirement": "Regular watering",
+                    "feeding_requirement": "Balanced fertilizer",
+                    "requires_pruning": false,
+                    "fun_fact": "Fun Fact: The Provider bean is an heirloom variety that has been cherished by generations of gardeners for its consistent performance and classic flavor. It traces its heritage back to the early 1960s, making it a piece of living horticultural history.",
+                    "planting_tip": "For a successful harvest, plant Provider bean seeds in well-draining soil and provide consistent moisture. Fertilize with a balanced fertilizer and harvest regularly to encourage continuous pod production. Consider interplanting with companion plants to enhance overall garden health.",
+                    "overwrite_common_features": {
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "Kentucky Wonder",
+                    "description": "Kentucky Wonder, also known as Old Homestead, is a classic pole bean variety with long, straight pods. This climbing bean is valued for its rich flavor and productivity. It requires trellising or staking for support and is well-suited for larger garden spaces. The vigorous vines of Kentucky Wonder can reach impressive heights, creating a vertical display of lush foliage and prolific pod production.",
+                    "spacing": "6-8 inches",
+                    "growth_mode": "Climbing",
+                    "days_to_harvest": {
+                        "lower_estimate": 60,
+                        "higher_estimate": 70
+                    },
+                    "is_container_variety": false,
+                    "fruit_color": "Green",
+                    "flower_color": "White",
+                    "leaf_color": "Green",
+                    "fruit_weight": "4-6 ounces",
+                    "plant_height": "72-96 inches",
+                    "best_uses": ["Fresh Eating", "Canning", "Pickling"],
+                    "needs_support": true,
+                    "water_requirement": "Regular watering",
+                    "feeding_requirement": "Balanced fertilizer",
+                    "requires_pruning": true,
+                    "fun_fact": "Kentucky Wonder has been a staple in American gardens since the late 1800s, making it one of the oldest and most cherished heirloom bean varieties. Its enduring popularity is a testament to its exceptional taste and adaptability.",
+                    "planting_tip": "When planting Kentucky Wonder beans, provide sturdy trellising or stakes for support. Plant in well-drained soil, and prune if necessary to maintain a tidy and productive garden. Harvest regularly to promote continuous pod development. Consider companion planting with nitrogen-fixing plants for improved soil fertility.",
+                    "overwrite_common_features": {
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "Dragon Tongue",
+                    "description": "Dragon Tongue beans are visually stunning with yellow pods adorned with vibrant purple stripes. These bush beans are tender and sweet, making them a favorite for fresh eating and salads. The unique coloration adds a pop of interest to both the garden and the dinner table. With a compact growth habit, Dragon Tongue beans are well-suited for small gardens and containers.",
+                    "spacing": "4-6 inches",
+                    "growth_mode": "Bush",
+                    "days_to_harvest": {
+                        "lower_estimate": 50,
+                        "higher_estimate": 60
+                    },
+                    "is_container_variety": true,
+                    "fruit_color": "Yellow with Purple Stripes",
+                    "flower_color": "White",
+                    "leaf_color": "Green",
+                    "fruit_weight": "2-3 ounces",
+                    "plant_height": "18-24 inches",
+                    "best_uses": ["Fresh Eating", "Salads"],
+                    "needs_support": false,
+                    "water_requirement": "Regular watering",
+                    "feeding_requirement": "Balanced fertilizer",
+                    "requires_pruning": false,
+                    "fun_fact": "Dragon Tongue beans get their name from their unique appearance, resembling the scales of a dragon with their distinctive yellow and purple coloring. They are also sometimes referred to as 'Dragon's Langerie' due to the pattern on the pods.",
+                    "planting_tip": "For optimal growth, plant Dragon Tongue beans in well-drained soil with a sunny exposure. Provide regular watering, and harvest when the pods are young for the best flavor and tenderness. Consider companion planting with herbs and flowers to create a visually appealing and diverse garden.",
+                    "overwrite_common_features": {
+                    }
+                },
+                  {
+                      "id": 4,
+                    "name": "Golden Wax",
+                    "description": "Golden Wax beans are a popular bush variety known for their vibrant yellow pods and excellent flavor. These beans are a favorite for both home gardeners and chefs alike. The bushy plants produce abundant, tender pods that are perfect for fresh consumption, canning, or pickling. Golden Wax is a reliable choice for small gardens and container growing.",
+                    "spacing": "4-6 inches",
+                    "growth_mode": "Bush",
+                    "days_to_harvest": {
+                      "lower_estimate": 45,
+                      "higher_estimate": 55
+                    },
+                    "is_container_variety": true,
+                    "fruit_color": "Yellow",
+                    "flower_color": "White",
+                    "leaf_color": "Green",
+                    "fruit_weight": "3-5 ounces",
+                    "plant_height": "12-16 inches",
+                    "best_uses": ["Fresh Eating", "Canning", "Pickling"],
+                    "needs_support": false,
+                    "water_requirement": "Regular watering",
+                    "feeding_requirement": "Balanced fertilizer",
+                    "requires_pruning": false,
+                    "fun_fact": "Fun Fact: Golden Wax beans are recognized for their historical significance and have been cultivated since the early 20th century. They are a classic heirloom variety that has stood the test of time.",
+                    "planting_tip": "For successful cultivation, plant Golden Wax seeds in well-drained soil with good sunlight. Water consistently to keep the soil evenly moist, especially during the flowering and pod-setting stages. Mulching around the plants helps retain moisture and suppress weeds. Harvest the pods when they are young and tender for the best flavor and texture.",
+                    "overwrite_common_features": {
+                    }
+                  },
+                  {
+                      "id": 5,
+                    "name": "Rattlesnake",
+                    "description": "Rattlesnake beans, named for their unique appearance, feature green pods with distinctive purple streaks resembling a rattlesnake's markings. This climbing variety is prized for its rich, nutty flavor and firm texture. With a tall and vining growth habit, Rattlesnake beans require sturdy support and are a striking addition to the garden.",
+                    "spacing": "4-6 inches",
+                    "growth_mode": "Climbing",
+                    "days_to_harvest": {
+                      "lower_estimate": 55,
+                      "higher_estimate": 65
+                    },
+                    "is_container_variety": false,
+                    "fruit_color": "Green with Purple Stripes",
+                    "flower_color": "White",
+                    "leaf_color": "Green",
+                    "fruit_weight": "3-6 ounces",
+                    "plant_height": "72-96 inches",
+                    "best_uses": ["Fresh Eating", "Grilling"],
+                    "needs_support": true,
+                    "water_requirement": "Regular watering",
+                    "feeding_requirement": "Balanced fertilizer",
+                    "requires_pruning": true,
+                    "fun_fact": "Fun Fact: Rattlesnake beans are also known as Preacher Beans due to their use in Appalachian sermons as an analogy for the shaking and rattling of a snake. They have cultural significance in certain regions of the United States.",
+                    "planting_tip": "For optimal growth, plant Rattlesnake beans in well-drained soil and provide sturdy trellising or stakes for support. Water consistently, and consider mulching to retain soil moisture. Prune the vines as needed to maintain a tidy and productive garden. Harvest when the pods are firm and vibrant for the best flavor.",
+                    "overwrite_common_features": {
+                    }
+                  },
+                  {
+                      "id": 6,
+                    "name": "Scarlet Runner",
+                    "description": "Scarlet Runner beans are a versatile climbing variety known for their stunning scarlet-red flowers and edible young pods. The beans are dual-purpose, as they are valued for their ornamental appeal and can be harvested for fresh consumption. With a vigorous growth habit, Scarlet Runner beans create a vibrant vertical display in the garden.",
+                    "spacing": "6-8 inches",
+                    "growth_mode": "Climbing",
+                    "days_to_harvest": {
+                      "lower_estimate": 70,
+                      "higher_estimate": 80
+                    },
+                    "is_container_variety": false,
+                    "fruit_color": "Scarlet",
+                    "flower_color": "Red",
+                    "leaf_color": "Green",
+                    "fruit_weight": "4-8 ounces",
+                    "plant_height": "96-120 inches",
+                    "best_uses": ["Edible Flowers", "Ornamental"],
+                    "needs_support": true,
+                    "water_requirement": "Regular watering",
+                    "feeding_requirement": "Balanced fertilizer",
+                    "requires_pruning": true,
+                    "fun_fact": "Fun Fact: Scarlet Runner beans have a rich history and were cultivated by Native American tribes for centuries. They are not only prized for their culinary uses but are also cultivated for their ecological benefits, attracting pollinators and beneficial insects.",
+                    "planting_tip": "For successful cultivation, plant Scarlet Runner beans in well-drained soil and provide sturdy trellising or support. Water consistently and deadhead faded flowers to encourage continuous blooming. Harvest the young pods for culinary use, and let some mature for saving seeds. Consider interplanting with pollinator-friendly flowers for enhanced garden biodiversity.",
+                    "overwrite_common_features": {
+                    }
+                  },
+                  {
+                      "id": 7,
+                    "name": "French Horticultural",
+                    "description": "French Horticultural beans, also known as Borlotti beans, are a bush variety prized for their striking cream-colored pods adorned with vibrant red speckles. These beans are dual-purpose, suitable for both fresh consumption and drying for later use. French Horticultural beans add visual appeal and versatility to home gardens.",
+                    "spacing": "4-6 inches",
+                    "growth_mode": "Bush",
+                    "days_to_harvest": {
+                      "lower_estimate": 50,
+                      "higher_estimate": 60
+                    },
+                    "is_container_variety": true,
+                    "fruit_color": "Cream with Red Speckles",
+                    "flower_color": "White",
+                    "leaf_color": "Green",
+                    "fruit_weight": "3-5 ounces",
+                    "plant_height": "18-24 inches",
+                    "best_uses": ["Dry Beans", "Soups"],
+                    "needs_support": false,
+                    "water_requirement": "Regular watering",
+                    "feeding_requirement": "Balanced fertilizer",
+                    "requires_pruning": false,
+                    "fun_fact": "Fun Fact: French Horticultural beans have a global culinary presence and are a staple in Italian and Mediterranean cuisines. They are often used in traditional dishes such as minestrone soup and salads, adding a delightful flavor and texture.",
+                    "planting_tip": "For successful cultivation, plant French Horticultural beans in well-drained soil with good sunlight. Provide regular watering, especially during dry periods, to ensure optimal pod development. Harvest young pods for fresh use, and leave some on the plant to mature for drying. To enjoy them as dry beans, allow the pods to fully mature on the plant and harvest before the first frost.",
+                    "overwrite_common_features": {
+                    }
+                  },
+                    {
+                        "id": 8,
+                      "name": "Black Valentine",
+                      "description": "Black Valentine beans are a bush variety known for their dark purple pods and excellent flavor. These beans add a unique and striking color to both the garden and the dinner table. With a compact growth habit, Black Valentine is well-suited for small gardens and container planting. The young pods are tender and perfect for fresh consumption, while mature pods can be used for soups and stews.",
+                      "spacing": "4-6 inches",
+                      "growth_mode": "Bush",
+                      "days_to_harvest": {
+                        "lower_estimate": 50,
+                        "higher_estimate": 60
+                      },
+                      "is_container_variety": true,
+                      "fruit_color": "Dark Purple",
+                      "flower_color": "White",
+                      "leaf_color": "Green",
+                      "fruit_weight": "2-4 ounces",
+                      "plant_height": "12-18 inches",
+                      "best_uses": ["Fresh Eating", "Soups"],
+                      "needs_support": false,
+                      "water_requirement": "Regular watering",
+                      "feeding_requirement": "Balanced fertilizer",
+                      "requires_pruning": false,
+                      "fun_fact": "Fun Fact: Black Valentine beans are sometimes referred to as 'Midnight Beans' due to their deep, dark color. In some cultures, they are associated with mystery and folklore.",
+                      "planting_tip": "For successful cultivation, plant Black Valentine beans in well-drained soil with good sunlight. Provide regular watering, especially during dry periods, to ensure optimal pod development. Harvest the young pods for fresh use, and allow some to mature for culinary applications requiring longer cooking times.",
+                      "overwrite_common_features": {
+                      }
+                    },
+                    {
+                        "id": 9,
+                      "name": "Tendergreen",
+                      "description": "Tendergreen beans are a popular bush variety celebrated for their crisp texture and mild flavor. These beans are versatile in the kitchen, suitable for fresh eating and quick cooking methods like stir-fries. With a compact growth habit, Tendergreen is an excellent choice for small gardens and container planting, providing a steady supply of delicious green beans throughout the growing season.",
+                      "spacing": "4-6 inches",
+                      "growth_mode": "Bush",
+                      "days_to_harvest": {
+                        "lower_estimate": 45,
+                        "higher_estimate": 55
+                      },
+                      "is_container_variety": true,
+                      "fruit_color": "Green",
+                      "flower_color": "White",
+                      "leaf_color": "Green",
+                      "fruit_weight": "3-5 ounces",
+                      "plant_height": "12-16 inches",
+                      "best_uses": ["Fresh Eating", "Stir-Fries"],
+                      "needs_support": false,
+                      "water_requirement": "Regular watering",
+                      "feeding_requirement": "Balanced fertilizer",
+                      "requires_pruning": false,
+                      "fun_fact": "Fun Fact: Tendergreen beans are renowned for their adaptability and wide range of culinary uses. They are a favorite among chefs and home cooks alike, known for their ability to complement a variety of dishes.",
+                      "planting_tip": "For successful cultivation, plant Tendergreen beans in well-drained soil with good sunlight. Provide consistent moisture, especially during the flowering and pod-setting stages. Harvest the young pods regularly to encourage continuous production. Consider interplanting with companion plants to enhance overall garden health.",
+                      "overwrite_common_features": {
+                      }
+                    },
+                    {
+                        "id": 10,
+                      "name": "Purple Podded Pole",
+                      "description": "Purple Podded Pole beans are a climbing variety prized for their stunning purple pods and excellent flavor. These beans add a vibrant touch to the garden and are a favorite for fresh consumption and pickling. With a vigorous climbing habit, Purple Podded Pole beans require sturdy support and create an impressive display of color and productivity in larger garden spaces.",
+                      "spacing": "6-8 inches",
+                      "growth_mode": "Climbing",
+                      "days_to_harvest": {
+                        "lower_estimate": 60,
+                        "higher_estimate": 70
+                      },
+                      "is_container_variety": false,
+                      "fruit_color": "Purple",
+                      "flower_color": "White",
+                      "leaf_color": "Green",
+                      "fruit_weight": "4-6 ounces",
+                      "plant_height": "72-96 inches",
+                      "best_uses": ["Fresh Eating", "Pickling"],
+                      "needs_support": true,
+                      "water_requirement": "Regular watering",
+                      "feeding_requirement": "Balanced fertilizer",
+                      "requires_pruning": true,
+                      "fun_fact": "Fun Fact: Purple Podded Pole beans have a rich heritage and are considered heirloom beans. They have been cultivated for generations and are valued for both their ornamental appeal and culinary uses.",
+                      "planting_tip": "For optimal growth, plant Purple Podded Pole beans in well-drained soil with good sunlight. Provide sturdy trellising or stakes for support and ensure adequate spacing between plants. Water consistently, and harvest the pods when they are young and tender for the best flavor. Consider companion planting with herbs and flowers to create a visually appealing garden.",
+                      "overwrite_common_features": {
+                      }
+                    },
+                    {
+                        "id": 11,
+                      "name": "Royal Burgundy",
+                      "description": "Royal Burgundy beans are a bush variety known for their unique burgundy-colored pods and delicious flavor. These beans are not only visually striking but also retain their vibrant color even when cooked. With a compact growth habit, Royal Burgundy is well-suited for small gardens and container planting, adding a touch of elegance to the vegetable garden.",
+                      "spacing": "4-6 inches",
+                      "growth_mode": "Bush",
+                      "days_to_harvest": {
+                        "lower_estimate": 50,
+                        "higher_estimate": 60
+                      },
+                      "is_container_variety": true,
+                      "fruit_color": "Burgundy",
+                      "flower_color": "White",
+                      "leaf_color": "Green",
+                      "fruit_weight": "2-4 ounces",
+                      "plant_height": "12-18 inches",
+                      "best_uses": ["Fresh Eating", "Steaming"],
+                      "needs_support": false,
+                      "water_requirement": "Regular watering",
+                      "feeding_requirement": "Balanced fertilizer",
+                      "requires_pruning": false,
+                      "fun_fact": "Fun Fact: Royal Burgundy beans were introduced in the 1970s and quickly gained popularity for their novelty and culinary appeal. They are often used to add a splash of color to salads and side dishes.",
+                      "planting_tip": "For successful cultivation, plant Royal Burgundy beans in well-drained soil with good sunlight. Provide consistent moisture, especially during dry periods, to ensure optimal pod development. Harvest the young pods for fresh use, and enjoy their vibrant color in salads or as a steamed side dish. Consider companion planting with other colorful vegetables for a visually appealing garden.",
+                      "overwrite_common_features": {
+                      }
+                    },
+                      {
+                          "id": 12,
+                        "name": "Pinto Bush",
+                        "description": "Pinto Bush beans are a compact and bushy variety prized for their mottled tan and brown pods. These beans are well-known for their creamy texture and nutty flavor, making them a staple in various dishes, especially in Mexican cuisine. Pinto Bush beans are suitable for small gardens and container planting, offering a reliable harvest of dried beans for culinary delights.",
+                        "spacing": "4-6 inches",
+                        "growth_mode": "Bush",
+                        "days_to_harvest": {
+                          "lower_estimate": 85,
+                          "higher_estimate": 95
+                        },
+                        "is_container_variety": true,
+                        "fruit_color": "Mottled Tan and Brown",
+                        "flower_color": "White",
+                        "leaf_color": "Green",
+                        "fruit_weight": "3-6 ounces",
+                        "plant_height": "12-16 inches",
+                        "best_uses": ["Dried Beans", "Chili", "Mexican Cuisine"],
+                        "needs_support": false,
+                        "water_requirement": "Regular watering",
+                        "feeding_requirement": "Balanced fertilizer",
+                        "requires_pruning": false,
+                        "fun_fact": "Fun Fact: Pinto beans are one of the most widely consumed beans in the United States and are a key ingredient in traditional dishes such as chili and refried beans. Their popularity extends beyond the culinary world, as they are also valued for their nutritional benefits.",
+                        "planting_tip": "For successful cultivation, plant Pinto Bush beans in well-drained soil with good sunlight. Provide regular watering, especially during dry periods, to ensure healthy pod development. Allow the pods to fully mature on the plant before harvesting for dried beans. Consider interplanting with companion plants to enhance soil fertility.",
+                        "overwrite_common_features": {
+                        }
+                      },
+                      {
+                          "id": 13,
+                        "name": "Anasazi",
+                        "description": "Anasazi beans, also known as New Mexico Appaloosa, are a climbing variety celebrated for their mottled red and white pods. These beans have a mild flavor and creamy texture, making them versatile in various culinary applications, especially in Southwestern cuisine. Anasazi beans require sturdy support due to their climbing habit and are an attractive addition to larger gardens.",
+                        "spacing": "6-8 inches",
+                        "growth_mode": "Climbing",
+                        "days_to_harvest": {
+                          "lower_estimate": 90,
+                          "higher_estimate": 100
+                        },
+                        "is_container_variety": false,
+                        "fruit_color": "Mottled Red and White",
+                        "flower_color": "White",
+                        "leaf_color": "Green",
+                        "fruit_weight": "4-7 ounces",
+                        "plant_height": "72-96 inches",
+                        "best_uses": ["Dried Beans", "Salads", "Southwestern Cuisine"],
+                        "needs_support": true,
+                        "water_requirement": "Regular watering",
+                        "feeding_requirement": "Balanced fertilizer",
+                        "requires_pruning": true,
+                        "fun_fact": "Fun Fact: Anasazi beans are named after the Anasazi people, ancient Native American inhabitants of the Four Corners region of the United States. The beans are often considered a heritage crop with historical significance.",
+                        "planting_tip": "For optimal growth, plant Anasazi beans in well-drained soil with good sunlight. Provide sturdy trellising or stakes for support and ensure adequate spacing between plants. Water consistently, especially during dry periods, and harvest the pods when they are fully mature for dried beans. Consider companion planting with herbs for added pest resistance.",
+                        "overwrite_common_features": {
+                        }
+                      },
+                      {
+                          "id": 14,
+                        "name": "Cranberry",
+                        "description": "Cranberry beans, also known as Borlotti beans, are a bush variety cherished for their mottled red and white pods. These beans are prized for their creamy texture and slightly nutty flavor, making them a favorite in soups, stews, and casseroles. Cranberry beans are well-suited for small gardens and container planting, providing a delightful harvest of dried beans.",
+                        "spacing": "4-6 inches",
+                        "growth_mode": "Bush",
+                        "days_to_harvest": {
+                          "lower_estimate": 80,
+                          "higher_estimate": 90
+                        },
+                        "is_container_variety": true,
+                        "fruit_color": "Mottled Red and White",
+                        "flower_color": "White",
+                        "leaf_color": "Green",
+                        "fruit_weight": "3-5 ounces",
+                        "plant_height": "12-18 inches",
+                        "best_uses": ["Dried Beans", "Soups", "Casseroles"],
+                        "needs_support": false,
+                        "water_requirement": "Regular watering",
+                        "feeding_requirement": "Balanced fertilizer",
+                        "requires_pruning": false,
+                        "fun_fact": "Fun Fact: Cranberry beans are named for their resemblance to cranberries when fresh but change color to beige with red streaks when dried. They are popular in Italian and Mediterranean cuisines.",
+                        "planting_tip": "For successful cultivation, plant Cranberry beans in well-drained soil with good sunlight. Provide regular watering to ensure healthy pod development, especially during dry periods. Harvest the pods when they are fully mature for dried beans. Consider interplanting with companion plants to enhance overall garden health.",
+                        "overwrite_common_features": {
+                        }
+                      },
+                      {
+                          "id": 15,
+                        "name": "Good Mother Stallard",
+                        "description": "Good Mother Stallard beans are a climbing variety known for their large and mottled brown and white pods. These beans have a rich and earthy flavor, making them a preferred choice for hearty dishes such as chili and stews. Good Mother Stallard beans require sturdy support due to their climbing habit and add a touch of rustic elegance to the garden.",
+                        "spacing": "6-8 inches",
+                        "growth_mode": "Climbing",
+                        "days_to_harvest": {
+                          "lower_estimate": 95,
+                          "higher_estimate": 105
+                        },
+                        "is_container_variety": false,
+                        "fruit_color": "Mottled Brown and White",
+                        "flower_color": "White",
+                        "leaf_color": "Green",
+                        "fruit_weight": "5-8 ounces",
+                        "plant_height": "72-96 inches",
+                        "best_uses": ["Dried Beans", "Chili", "Stews"],
+                        "needs_support": true,
+                        "water_requirement": "Regular watering",
+                        "feeding_requirement": "Balanced fertilizer",
+                        "requires_pruning": true,
+                        "fun_fact": "Fun Fact: Good Mother Stallard beans are considered an heirloom variety with a history dating back to the late 1800s. They are valued not only for their culinary attributes but also for their adaptability and resilience.",
+                        "planting_tip": "For optimal growth, plant Good Mother Stallard beans in well-drained soil with good sunlight. Provide sturdy trellising or stakes for support and ensure adequate spacing between plants. Water consistently, especially during dry periods, and harvest the pods when they are fully mature for dried beans. Consider interplanting with nitrogen-fixing plants for improved soil fertility.",
+                        "overwrite_common_features": {
+                        }
+                      }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "cucumber",
+            "varieties_common_features": {
+                "sunlight_requirement": "Full Sun",
+                "propagation_methods": ["Seeds"],
+                "soil_acidity_range": {
+                  "lower_bound": 6.0,
+                  "upper_bound": 7.5
+                },
+                "days_to_germination": "7-14 days",
+                "frost_tolerance": false,
+                "planting_depth": "1 inch",
+                "spacing": "12-18 inches",
+                "life_cycle": "Annual",
+                "season": "Warm"
+            },
+            "varieties": [
+                {
+                    "id": 0,
+                    "name": "English Telegraph",
+                    "description": "English Telegraph cucumbers are a classic English cucumber variety known for their long, slender shape and refreshing flavor. These cucumbers have a smooth, thin skin and minimal seeds, making them ideal for fresh eating, salads, and even pickling. With a vining growth habit, English Telegraph cucumbers require sturdy support and create a lush, green backdrop in the garden.",
+                    "growth_mode": null,
+                    "days_to_harvest": {
+                      "lower_estimate": 55,
+                      "higher_estimate": 65
+                    },
+                    "is_container_variety": false,
+                    "fruit_color": "Green",
+                    "leaf_color": "Green",
+                    "fruit_length": "8-10 inches",
+                    "flower_color": "Yellow",
+                    "fruit_weight": null,
+                    "plant_height": "18-24 inches",
+                    "best_uses": ["Fresh Eating", "Salads", "Pickling"],
+                    "needs_support": true,
+                    "water_requirement": "Consistent watering",
+                    "feeding_requirement": "Balanced fertilizer",
+                    "requires_pruning": true,
+                    "fun_fact": "English Telegraph cucumbers are often referred to as 'burpless' cucumbers. The term 'burpless' indicates that these cucumbers tend to produce fewer indigestible compounds, reducing the likelihood of causing burping after consumption.",
+                    "planting_tip": "For successful cultivation, plant English Telegraph cucumber seeds in well-drained, fertile soil with good sunlight. Provide sturdy trellising or stakes for support to encourage straight and uniform fruit development. Water consistently to keep the soil evenly moist, especially during the flowering and fruiting stages. Prune the vines as needed to maintain a tidy and productive garden. Harvest the cucumbers when they reach 8-10 inches in length for the best flavor and texture.",
+                    "spacing": "8-12 inches",
+                    "overwrite_common_features": {
+                    }
+                },
+                  {
+                      "id": 1,
+                    "name": "Lemon Cucumber",
+                    "description": "Lemon Cucumber is a unique and refreshing variety known for its round, yellow fruit that resembles a lemon in both color and shape. This cucumber has a mild, sweet flavor and a thin, tender skin. Ideal for fresh eating, pickling, and garnishing, Lemon Cucumber adds a delightful touch to salads and summer dishes. With a compact growth habit, it is well-suited for both gardens and containers.",
+                    "spacing": "12-18 inches",
+                    "growth_mode": null,
+                    "days_to_harvest": {
+                      "lower_estimate": 50,
+                      "higher_estimate": 60
+                    },
+                    "is_container_variety": false,
+                    "fruit_color": "Yellow",
+                    "fruit_length": "2-3 inches",
+                    "plant_height": "18-24 inches",
+                    "leaf_color": "Green",
+                    "flower_color": "Yellow",
+                    "fruit_weight": "4-6 ounces",
+                    "best_uses": ["Fresh Eating", "Pickling", "Garnish"],
+                    "needs_support": true,
+                    "water_requirement": "Regular watering",
+                    "feeding_requirement": "Balanced fertilizer",
+                    "requires_pruning": false,
+                    "fun_fact": "Fun Fact: Despite its appearance, Lemon Cucumber is a true cucumber and not a lemon. The name comes from its visual similarity to lemons, especially when the fruits are small and round.",
+                    "planting_tip": "For successful cultivation, plant Lemon Cucumber seeds in well-drained soil with good sunlight. Water consistently, especially during dry periods, to ensure even moisture. Harvest the cucumbers when they are 2-3 inches in diameter for the best flavor and texture.",
+                    "overwrite_common_features": {
+                    }
+                  },
+                  {
+                      "id": 2,
+                    "name": "Marketmore 76",
+                    "description": "Marketmore 76 is a classic cucumber variety valued for its reliable production and excellent flavor. These dark green cucumbers have a traditional appearance and a crisp, refreshing taste. Well-suited for fresh eating, salads, and slicing, Marketmore 76 is a popular choice for home gardeners and market growers alike.",
+                    "spacing": "12-18 inches",
+                    "growth_mode": null,
+                    "days_to_harvest": {
+                      "lower_estimate": 55,
+                      "higher_estimate": 65
+                    },
+                    "is_container_variety": true,
+                    "fruit_color": "Dark Green",
+                    "fruit_length": "6-8 inches",
+                    "plant_height": "18-24 inches",
+                    "leaf_color": "Green",
+                    "flower_color": "Yellow",
+                    "fruit_weight": "8-10 ounces",
+                    "best_uses": ["Fresh Eating", "Salads", "Slicing"],
+                    "needs_support": true,
+                    "water_requirement": "Regular watering",
+                    "feeding_requirement": "Balanced fertilizer",
+                    "requires_pruning": false,
+                    "fun_fact": "Fun Fact: Marketmore 76 is an improved variety of the Marketmore series, known for its disease resistance and consistent performance. It has become a standard for many cucumber enthusiasts.",
+                    "planting_tip": "For successful cultivation, plant Marketmore 76 cucumber seeds in well-drained soil with good sunlight. Water consistently to maintain even soil moisture, especially during hot weather. Harvest the cucumbers when they reach 6-8 inches in length for optimal flavor and texture.",
+                    "overwrite_common_features": {
+                    }
+                  },
+                  {
+                      "id": 3,
+                    "name": "Armenian",
+                    "description": "Armenian Cucumber, also known as Snake Melon, is a unique cucumber variety with long, slender fruits and a mild, crisp texture. The pale green cucumbers have a subtle flavor, making them ideal for fresh eating, salads, and spiralizing. With a vining growth habit, Armenian Cucumber requires sturdy support and adds an interesting twist to cucumber selections.",
+                    "spacing": "12-18 inches",
+                    "growth_mode": null,
+                    "days_to_harvest": {
+                      "lower_estimate": 60,
+                      "higher_estimate": 70
+                    },
+                    "is_container_variety": true,
+                    "fruit_color": "Pale Green",
+                    "fruit_length": "12-18 inches",
+                    "plant_height": "24-36 inches",
+                    "leaf_color": "Green",
+                    "flower_color": "Yellow",
+                    "fruit_weight": "10-12 ounces",
+                    "best_uses": ["Fresh Eating", "Salads", "Spiralizing"],
+                    "needs_support": true,
+                    "water_requirement": "Regular watering",
+                    "feeding_requirement": "Balanced fertilizer",
+                    "requires_pruning": true,
+                    "fun_fact": "Fun Fact: Armenian Cucumbers are technically a type of melon and belong to the same botanical family as cantaloupes. Despite their melon classification, they are enjoyed as cucumbers.",
+                    "planting_tip": "For successful cultivation, plant Armenian Cucumber seeds in well-drained soil with good sunlight. Provide sturdy trellising or stakes for support to encourage straight and uniform fruit development. Water consistently, especially during hot weather, and harvest the cucumbers when they reach 12-18 inches in length for the best texture.",
+                    "overwrite_common_features": {
+                    }
+                  },
+                  {
+                      "id": 4,
+                    "name": "Diva",
+                    "description": "Diva is a compact and high-yielding cucumber variety, perfect for small gardens and container gardening. These cucumbers have a smooth, tender skin and a mild, sweet flavor. Diva cucumbers are excellent for fresh eating, and their smaller size makes them ideal for pickling. With a bushy growth habit, Diva is a versatile choice for various gardening spaces.",
+                    "spacing": "12-18 inches",
+                    "growth_mode": null,
+                    "days_to_harvest": {
+                      "lower_estimate": 50,
+                      "higher_estimate": 60
+                    },
+                    "is_container_variety": true,
+                    "fruit_color": "Light Green",
+                    "fruit_length": "6-8 inches",
+                    "plant_height": "12-18 inches",
+                    "leaf_color": "Green",
+                    "flower_color": "Yellow",
+                    "fruit_weight": "2-4 ounces",
+                    "best_uses": ["Fresh Eating", "Container Gardening", "Pickle-sized"],
+                    "needs_support": false,
+                    "water_requirement": "Regular watering",
+                    "feeding_requirement": "Balanced fertilizer",
+                    "requires_pruning": false,
+                    "fun_fact": "Fun Fact: Diva cucumbers are known for their 'burpless' quality, making them well-tolerated by individuals who may experience indigestion after consuming traditional cucumbers.",
+                    "planting_tip": "For successful cultivation, plant Diva cucumber seeds in well-drained soil with good sunlight. Water consistently to maintain even soil moisture, especially during hot weather. Harvest the cucumbers when they reach 6-8 inches in length for optimal flavor and tenderness. Consider growing Diva cucumbers in containers for convenient and space-efficient gardening.",
+                    "overwrite_common_features": {
+                    }
+                  },
+                  {
+                      "id": 5,
+                    "name": "Japanese Climbing",
+                    "description": "Japanese Climbing cucumber is a vigorous climbing variety with long, slender fruits and a distinct, crisp texture. The dark green cucumbers have a refreshing flavor, making them suitable for fresh eating, stir-fries, and Asian cuisine. With a climbing growth habit, Japanese Climbing cucumbers require sturdy support and create an impressive vertical display in the garden.",
+                    "spacing": "12-18 inches",
+                    "growth_mode": null,
+                    "days_to_harvest": {
+                      "lower_estimate": 60,
+                      "higher_estimate": 70
+                    },
+                    "is_container_variety": true,
+                    "fruit_color": "Dark Green",
+                    "fruit_length": "10-12 inches",
+                    "plant_height": "72-96 inches",
+                    "leaf_color": "Green",
+                    "flower_color": "Yellow",
+                    "fruit_weight": "6-8 ounces",
+                    "best_uses": ["Fresh Eating", "Stir-Fries", "Asian Cuisine"],
+                    "needs_support": true,
+                    "water_requirement": "Regular watering",
+                    "feeding_requirement": "Balanced fertilizer",
+                    "requires_pruning": true,
+                    "fun_fact": "Fun Fact: Japanese Climbing cucumbers are often grown on trellises or arbors to maximize space and improve air circulation, resulting in healthier plants and higher yields.",
+                    "planting_tip": "For successful cultivation, plant Japanese Climbing cucumber seeds in well-drained soil with good sunlight. Provide sturdy trellising or vertical support for the vines to climb. Water consistently, especially during hot weather, and harvest the cucumbers when they reach 10-12 inches in length for optimal flavor and texture.",
+                    "overwrite_common_features": {
+                    }
+                  },
+                  
+                    {
+                        "id": 6,
+                      "name": "Straight Eight",
+                      "description": "Straight Eight is a classic cucumber variety known for its straight, uniform fruits and excellent flavor. The dark green cucumbers have a crisp texture and are perfect for fresh eating, salads, and slicing. With an upright growth habit, Straight Eight is easy to cultivate in gardens and provides a reliable harvest of high-quality cucumbers.",
+                      "spacing": "12-18 inches",
+                      "days_to_harvest": {
+                        "lower_estimate": 55,
+                        "higher_estimate": 65
+                      },
+                      "is_container_variety": false,
+                      "fruit_color": "Dark Green",
+                      "fruit_length": "8-10 inches",
+                      "fruit_weight": "8-10 ounces",
+                      "plant_height": "18-24 inches",
+                      "leaf_color": "Green",
+                      "flower_color": "Yellow",
+                      "growth_mode": null,
+                      "best_uses": ["Fresh Eating", "Salads", "Slicing"],
+                      "needs_support": false,
+                      "water_requirement": "Regular watering",
+                      "feeding_requirement": "Balanced fertilizer",
+                      "requires_pruning": false,
+                      "fun_fact": "Straight Eight cucumbers are widely popular for their straight shape and consistent size, making them a favorite choice for market growers and home gardeners alike.",
+                      "planting_tip": "For successful cultivation, plant Straight Eight cucumber seeds in well-drained soil with good sunlight. Provide consistent watering and feed with a balanced fertilizer throughout the growing season. Harvest the cucumbers when they reach 8-10 inches in length for optimal taste and texture.",
+                      "overwrite_common_features": {
+                      }
+                    },
+                    {
+                        "id": 7,
+                      "name": "Bush Champion",
+                      "description": "Bush Champion is a compact and productive cucumber variety suitable for small gardens and container gardening. These dark green cucumbers have a delicious flavor and are perfect for fresh eating and pickling. With a bushy growth habit, Bush Champion is an excellent choice for limited gardening space and provides a steady supply of tasty cucumbers.",
+                      "spacing": "12-18 inches",
+                      "days_to_harvest": {
+                        "lower_estimate": 50,
+                        "higher_estimate": 60
+                      },
+                      "is_container_variety": true,
+                      "fruit_color": "Dark Green",
+                      "fruit_length": "6-8 inches",
+                      "fruit_weight": "4-6 ounces",
+                      "plant_height": "12-18 inches",
+                      "leaf_color": "Green",
+                      "flower_color": "Yellow",
+                      "growth_mode": null,
+                      "best_uses": ["Fresh Eating", "Container Gardening", "Pickle-sized"],
+                      "needs_support": false,
+                      "water_requirement": "Regular watering",
+                      "feeding_requirement": "Balanced fertilizer",
+                      "requires_pruning": false,
+                      "fun_fact": "Fun Fact: Bush Champion cucumbers are well-adapted for container gardening and can thrive on patios, balconies, or any small outdoor space.",
+                      "planting_tip": "For successful cultivation, plant Bush Champion cucumber seeds in well-drained soil with good sunlight. Water consistently to maintain even soil moisture, especially during hot weather. Harvest the cucumbers when they reach 6-8 inches in length for optimal flavor and tenderness.",
+                      "overwrite_common_features": {
+                      }
+                    },
+                    {
+                        "id": 8,
+                      "name": "Picklebush",
+                      "description": "Picklebush is a compact and early-maturing cucumber variety specifically bred for pickling. These medium green cucumbers are crisp and flavorful, making them perfect for homemade pickles. With a compact growth habit, Picklebush is well-suited for container gardening and provides a convenient option for pickle enthusiasts.",
+                      "spacing": "12-18 inches",
+                      "days_to_harvest": {
+                        "lower_estimate": 45,
+                        "higher_estimate": 55
+                      },
+                      "is_container_variety": true,
+                      "fruit_color": "Medium Green",
+                      "fruit_length": "3-5 inches",
+                      "fruit_weight": "2-4 ounces",
+                      "plant_height": "12-18 inches",
+                      "leaf_color": "Green",
+                      "flower_color": "Yellow",
+                      "growth_mode": "Compact",
+                      "best_uses": ["Pickling", "Container Gardening", "Snacking"],
+                      "needs_support": false,
+                      "water_requirement": "Regular watering",
+                      "feeding_requirement": "Balanced fertilizer",
+                      "requires_pruning": false,
+                      "fun_fact": "Fun Fact: Picklebush cucumbers are known for their versatility and are equally enjoyable for snacking or adding to salads. Their small size makes them an excellent choice for quick pickling.",
+                      "planting_tip": "For successful cultivation, plant Picklebush cucumber seeds in well-drained soil with good sunlight. Water consistently to maintain even soil moisture. Harvest the cucumbers when they reach 3-5 inches in length for pickling or snacking purposes.",
+                      "overwrite_common_features": {
+                      }
+                    }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "okra",
+            "varieties_common_features": {
+                "sunlight_requirement": "Full Sun",
+                "propagation_methods": ["Seeds"],
+                "soil_acidity_range": {
+                  "lower_bound": 6.0,
+                  "upper_bound": 7.5
+                },
+                "days_to_germination": "7-14 days",
+                "frost_tolerance": false,
+                "planting_depth": "1 inch",
+                "spacing": "12-18 inches",
+                "life_cycle": "Annual",
+                "season": "Warm"
+            },
+            "varieties": [
+                {
+                    "id": 0,
+                    "name": "Clemson Spineless",
+                    "description": "Clemson Spineless is a popular okra variety known for its tender pods and high productivity. The bright green pods are spineless, making them easy to harvest. With an upright growth habit, Clemson Spineless is an excellent choice for gardens and is widely used in various culinary applications, including fresh cooking, gumbo, and frying.",
+                    "spacing": "12-18 inches",
+                    "days_to_harvest": {
+                        "lower_estimate": 50,
+                        "higher_estimate": 60
+                    },
+                    "is_container_variety": false,
+                    "fruit_color": "Green",
+                    "fruit_length": "6-8 inches",
+                    "fruit_weight": "1-2 ounces",
+                    "plant_height": "24-36 inches",
+                    "leaf_color": "Green",
+                    "flower_color": "Cream",
+                    "growth_mode": null,
+                    "best_uses": ["Fresh Cooking", "Gumbo", "Frying"],
+                    "needs_support": false,
+                    "water_requirement": "Regular watering",
+                    "feeding_requirement": "Balanced fertilizer",
+                    "requires_pruning": false,
+                    "fun_fact": "Clemson Spineless is a classic okra variety that has been a favorite among gardeners for its reliable performance and versatile use in cooking.",
+                    "planting_tip": "For successful cultivation, plant Clemson Spineless okra seeds in well-drained soil with good sunlight. Water consistently to keep the soil evenly moist. Harvest the pods when they are 6-8 inches in length for optimal tenderness and flavor.",
+                    "overwrite_common_features": {
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "Burgundy",
+                    "description": "Burgundy okra is prized for its unique, deep burgundy-colored pods that add a splash of color to both gardens and dishes. The pods are tender and flavorful, suitable for various culinary uses. With an upright growth habit, Burgundy is not only a delicious addition to recipes but also a visually striking plant for ornamental gardens.",
+                    "spacing": "12-18 inches",
+                    "days_to_harvest": {
+                        "lower_estimate": 55,
+                        "higher_estimate": 65
+                    },
+                    "is_container_variety": false,
+                    "fruit_color": "Burgundy",
+                    "fruit_length": "4-6 inches",
+                    "fruit_weight": "1-2 ounces",
+                    "plant_height": "24-36 inches",
+                    "leaf_color": "Green",
+                    "flower_color": "Cream",
+                    "growth_mode": null,
+                    "best_uses": ["Colorful Cuisine", "Ornamental Gardens", "Fresh Cooking"],
+                    "needs_support": false,
+                    "water_requirement": "Regular watering",
+                    "feeding_requirement": "Balanced fertilizer",
+                    "requires_pruning": false,
+                    "fun_fact": "Fun Fact: Burgundy okra is not only known for its culinary appeal but is also appreciated for its decorative value, making it a dual-purpose choice for gardeners.",
+                    "planting_tip": "For successful cultivation, plant Burgundy okra seeds in well-drained soil with good sunlight. Water consistently and provide support if needed as the plant grows. Harvest the pods when they are 4-6 inches in length for the best color and flavor.",
+                    "overwrite_common_features": {
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "Emerald",
+                    "description": "Emerald okra is a traditional variety with vibrant green pods that are both tender and flavorful. Widely used in Southern cuisine, Emerald okra is versatile in the kitchen, suitable for grilling, frying, and pickling. With an upright growth habit, this variety is a reliable choice for okra enthusiasts.",
+                    "spacing": "12-18 inches",
+                    "days_to_harvest": {
+                        "lower_estimate": 50,
+                        "higher_estimate": 60
+                    },
+                    "is_container_variety": false,
+                    "fruit_color": "Green",
+                    "fruit_length": "5-7 inches",
+                    "fruit_weight": "1-2 ounces",
+                    "plant_height": "24-36 inches",
+                    "leaf_color": "Green",
+                    "flower_color": "Cream",
+                    "growth_mode": null,
+                    "best_uses": ["Southern Cuisine", "Grilling", "Pickling"],
+                    "needs_support": false,
+                    "water_requirement": "Regular watering",
+                    "feeding_requirement": "Balanced fertilizer",
+                    "requires_pruning": false,
+                    "fun_fact": "Fun Fact: Emerald okra is a staple in traditional Southern dishes and is celebrated for its delicious flavor and culinary versatility.",
+                    "planting_tip": "For successful cultivation, plant Emerald okra seeds in well-drained soil with good sunlight. Water consistently to keep the soil evenly moist. Harvest the pods when they are 5-7 inches in length for optimal tenderness and flavor.",
+                    "overwrite_common_features": {
+                    }
+                },
+                {
+                    "id": 3,
+                    "description": "Annie Oakley II is a reliable okra variety known for its consistent performance and delicious pods. The bright green pods are tender and flavorful, making them suitable for various culinary applications. With an upright growth habit, Annie Oakley II is a versatile choice for gardens, offering excellent yield and taste.",
+                    "name": "Annie Oakley II",
+                    "spacing": "12-18 inches",
+                    "days_to_harvest": {
+                        "lower_estimate": 55,
+                        "higher_estimate": 65
+                    },
+                    "is_container_variety": false,
+                    "fruit_color": "Green",
+                    "fruit_length": "6-8 inches",
+                    "fruit_weight": "1-2 ounces",
+                    "plant_height": "24-36 inches",
+                    "leaf_color": "Green",
+                    "flower_color": "Cream",
+                    "growth_mode": null,
+                    "best_uses": ["Fresh Cooking", "Grilling", "Gumbo"],
+                    "needs_support": false,
+                    "water_requirement": "Regular watering",
+                    "feeding_requirement": "Balanced fertilizer",
+                    "requires_pruning": false,
+                    "fun_fact": "Fun Fact: Annie Oakley II okra is named after the famous sharpshooter Annie Oakley, reflecting its precision in delivering a bountiful harvest of flavorful pods.",
+                    "planting_tip": "For successful cultivation, plant Annie Oakley II okra seeds in well-drained soil with good sunlight. Water consistently to maintain soil moisture. Harvest the pods when they are 6-8 inches in length for optimal tenderness and flavor.",
+                    "overwrite_common_features": {
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "Red Velvet",
+                    "description": "Red Velvet okra is a visually stunning variety with vibrant red pods that add a colorful touch to gardens and dishes. The pods are tender and flavorful, suitable for various culinary uses. With an upright growth habit, Red Velvet is a unique and attractive choice for both ornamental and edible gardens.",
+                    "spacing": "12-18 inches",
+                    "days_to_harvest": {
+                        "lower_estimate": 60,
+                        "higher_estimate": 70
+                    },
+                    "is_container_variety": false,
+                    "fruit_color": "Red",
+                    "fruit_length": "4-6 inches",
+                    "fruit_weight": "1-2 ounces",
+                    "plant_height": "24-36 inches",
+                    "leaf_color": "Green",
+                    "flower_color": "Cream",
+                    "growth_mode": null,
+                    "best_uses": ["Colorful Cuisine", "Grilling", "Fresh Cooking"],
+                    "needs_support": false,
+                    "water_requirement": "Regular watering",
+                    "feeding_requirement": "Balanced fertilizer",
+                    "requires_pruning": false,
+                    "fun_fact": "Fun Fact: Red Velvet okra's striking red color makes it a standout choice in garden landscapes, and its flavor adds a delightful twist to culinary creations.",
+                    "planting_tip": "For successful cultivation, plant Red Velvet okra seeds in well-drained soil with good sunlight. Water consistently and provide support if needed. Harvest the pods when they are 4-6 inches in length for the best color and flavor.",
+                    "overwrite_common_features": {
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "Jambalaya",
+                    "description": "Jambalaya okra is a flavorful variety often used in Southern cuisine, especially in dishes like gumbo. The green pods are tender and versatile, suitable for various cooking methods. With an upright growth habit, Jambalaya is a go-to choice for those seeking authentic flavors in their culinary creations.",
+                    "spacing": "12-18 inches",
+                    "days_to_harvest": {
+                        "lower_estimate": 50,
+                        "higher_estimate": 60
+                    },
+                    "is_container_variety": false,
+                    "fruit_color": "Green",
+                    "fruit_length": "5-7 inches",
+                    "fruit_weight": "1-2 ounces",
+                    "plant_height": "24-36 inches",
+                    "leaf_color": "Green",
+                    "flower_color": "Cream",
+                    "growth_mode": null,
+                    "best_uses": ["Gumbo", "Fresh Cooking", "Pickling"],
+                    "needs_support": false,
+                    "water_requirement": "Regular watering",
+                    "feeding_requirement": "Balanced fertilizer",
+                    "requires_pruning": false,
+                    "fun_fact": "Fun Fact: Jambalaya okra is named after the famous Louisiana dish, reflecting its popularity and culinary significance in the region.",
+                    "planting_tip": "For successful cultivation, plant Jambalaya okra seeds in well-drained soil with good sunlight. Water consistently to keep the soil evenly moist. Harvest the pods when they are 5-7 inches in length for optimal tenderness and flavor.",
+                    "overwrite_common_features": {
+                    }
+                },
+                {
+                    "id": 5,
+                    "name": "Star of David",
+                    "description": "Star of David okra is a distinctive variety known for its unique, star-shaped pods. The bright green pods are tender and flavorful, making them suitable for various cooking methods. With an upright growth habit, Star of David is not only a culinary delight but also an eye-catching addition to garden landscapes.",
+                    "spacing": "12-18 inches",
+                    "days_to_harvest": {
+                        "lower_estimate": 55,
+                        "higher_estimate": 65
+                    },
+                    "is_container_variety": false,
+                    "fruit_color": "Green",
+                    "fruit_length": "6-8 inches",
+                    "fruit_weight": "1-2 ounces",
+                    "plant_height": "24-36 inches",
+                    "leaf_color": "Green",
+                    "flower_color": "Cream",
+                    "growth_mode": null,
+                    "best_uses": ["Fresh Cooking", "Grilling", "Sautéing"],
+                    "needs_support": false,
+                    "water_requirement": "Regular watering",
+                    "feeding_requirement": "Balanced fertilizer",
+                    "requires_pruning": false,
+                    "fun_fact": "Fun Fact: Star of David okra gets its name from the distinctive shape of its pods, resembling the Star of David, adding a touch of symbolism to the garden.",
+                    "planting_tip": "For successful cultivation, plant Star of David okra seeds in well-drained soil with good sunlight. Water consistently and provide support if needed. Harvest the pods when they are 6-8 inches in length for optimal tenderness and flavor.",
+                    "overwrite_common_features": {
+                    }
+                },
+                {
+                    "id": 6,
+                    "name": "Louisiana Green Velvet",
+                    "description": "Louisiana Green Velvet okra is a classic variety with vibrant green pods that have a velvety texture. The tender pods are ideal for various cooking methods, including gumbo, fresh cooking, and frying. With an upright growth habit, Louisiana Green Velvet is a beloved choice for traditional Southern dishes.",
+                    "spacing": "12-18 inches",
+                    "days_to_harvest": {
+                        "lower_estimate": 60,
+                        "higher_estimate": 70
+                    },
+                    "is_container_variety": false,
+                    "fruit_color": "Green",
+                    "fruit_length": "4-6 inches",
+                    "fruit_weight": "1-2 ounces",
+                    "plant_height": "24-36 inches",
+                    "leaf_color": "Green",
+                    "flower_color": "Cream",
+                    "growth_mode": null,
+                    "best_uses": ["Gumbo", "Fresh Cooking", "Frying"],
+                    "needs_support": false,
+                    "water_requirement": "Regular watering",
+                    "feeding_requirement": "Balanced fertilizer",
+                    "requires_pruning": false,
+                    "fun_fact": "Fun Fact: Louisiana Green Velvet okra is cherished for its velvety pods, adding a unique texture to dishes and contributing to the rich culinary heritage of Louisiana.",
+                    "planting_tip": "For successful cultivation, plant Louisiana Green Velvet okra seeds in well-drained soil with good sunlight. Water consistently and provide support if needed. Harvest the pods when they are 4-6 inches in length for optimal tenderness and flavor.",
+                    "overwrite_common_features": {
+                    }
+                }
+            ]
+            
+            },
+        {
+            "id": 14,
+            "name": "corn",
+            "varieties_common_features": {
+                "sunlight_requirement": "Full Sun",
+                "propagation_methods": ["Seeds"],
+                "soil_acidity_range": {
+                  "lower_bound": 6.0,
+                  "upper_bound": 7.5
+                },
+                "days_to_germination": "7-10 days",
+                "frost_tolerance": false,
+                "planting_depth": "1-2 inches",
+                "spacing": "12-18 inches",
+                "life_cycle": "Annual",
+                "season": "Warm"
+            },
+            "varieties": [
+                {
+                    "id": 0,
+                  "name": "Golden Bantam",
+                  "description": "Golden Bantam is a classic corn variety that has been a favorite among gardeners for its sweet and flavorful kernels. The golden-yellow ears are tender and ideal for fresh eating, grilling, and roasting. With a tall upright growth habit, Golden Bantam corn is a reliable choice for home gardens and provides a delicious addition to summer meals.",
+                  "spacing": "12-18 inches",
+                  "days_to_harvest": {
+                    "lower_estimate": 70,
+                    "higher_estimate": 90
+                  },
+                  "is_container_variety": false,
+                  "fruit_length": "7-8 inches",
+                  "fruit_color": "Golden Yellow",
+                  "fruit_weight": "8-10 ounces",
+                  "plant_height": "5-6 feet",
+                  "leaf_color": "Green",
+                  "flower_color": "Golden Yellow",
+                  "growth_mode": null,
+                  "best_uses": ["Fresh Eating", "Grilling", "Roasting"],
+                  "needs_support": false,
+                  "water_requirement": "Regular watering",
+                  "feeding_requirement": "Nitrogen-rich fertilizer",
+                  "requires_pruning": false,
+                  "fun_fact": "Golden Bantam, introduced in the early 1900s, is one of the first widely popular sweet corn varieties, revolutionizing the way people enjoyed corn on the cob.",
+                  "planting_tip": "For successful cultivation, plant Golden Bantam corn seeds in well-drained soil with good sunlight. Ensure proper spacing between plants and rows. Water consistently, especially during the critical pollination period. Harvest the ears when the silks are brown, and the kernels are plump.",
+                  "overwrite_common_features": {
+                  }
+                },
+                {
+                    "id": 1,
+                  "name": "Peaches and Cream",
+                  "description": "Peaches and Cream corn is a popular bi-color variety known for its sweet and juicy kernels. The ears have a delightful combination of yellow and white kernels, making them visually appealing. With a tall upright growth habit, Peaches and Cream is a versatile choice for various culinary applications.",
+                  "spacing": "12-18 inches",
+                  "days_to_harvest": {
+                    "lower_estimate": 75,
+                    "higher_estimate": 85
+                  },
+                  "is_container_variety": false,
+                  "fruit_length": "8-10 inches",
+                  "fruit_color": "Yellow and White",
+                  "fruit_weight": "10-12 ounces",
+                  "plant_height": "6-7 feet",
+                  "leaf_color": "Green",
+                  "flower_color": "Yellow",
+                  "growth_mode": null,
+                  "best_uses": ["Fresh Eating", "Grilling", "Boiling"],
+                  "needs_support": false,
+                  "water_requirement": "Regular watering",
+                  "feeding_requirement": "Balanced fertilizer",
+                  "requires_pruning": false,
+                  "fun_fact": "Peaches and Cream corn is prized for its deliciously sweet flavor, reminiscent of summer peaches, making it a favorite among corn enthusiasts.",
+                  "planting_tip": "For successful cultivation, plant Peaches and Cream corn seeds in well-drained soil with good sunlight. Ensure proper spacing between plants and rows. Water consistently and provide support if needed. Harvest when ears are plump and tender.",
+                  "overwrite_common_features": {
+                  }
+                },
+                {
+                    "id": 2,
+                  "name": "Country Gentleman",
+                  "description": "Country Gentleman corn is a classic white variety known for its tender and flavorful kernels. The ears have a refined, creamy taste, making them a favorite for fresh eating and culinary applications. With a tall upright growth habit, Country Gentleman is a reliable choice for home gardens.",
+                  "spacing": "12-18 inches",
+                  "days_to_harvest": {
+                    "lower_estimate": 80,
+                    "higher_estimate": 95
+                  },
+                  "is_container_variety": false,
+                  "fruit_length": "6-7 inches",
+                  "fruit_color": "White",
+                  "fruit_weight": "8-10 ounces",
+                  "plant_height": "5-6 feet",
+                  "leaf_color": "Green",
+                  "flower_color": "Yellow",
+                  "growth_mode": null,
+                  "best_uses": ["Fresh Eating", "Grilling", "Steaming"],
+                  "needs_support": false,
+                  "water_requirement": "Regular watering",
+                  "feeding_requirement": "Balanced fertilizer",
+                  "requires_pruning": false,
+                  "fun_fact": "Country Gentleman corn, also known as the 'Shoepeg Corn,' is valued for its unique kernel arrangement, resembling the shape of a shoepeg or shoe nail.",
+                  "planting_tip": "For successful cultivation, plant Country Gentleman corn seeds in well-drained soil with good sunlight. Ensure proper spacing between plants and rows. Water consistently, especially during hot weather. Harvest when ears are plump and tender.",
+                  "overwrite_common_features": {
+                  }
+                },
+                
+                {
+                    "id": 3,
+                  "name": "Glass Gem",
+                  "description": "Glass Gem corn is a unique and stunning variety known for its vibrant and multicolored kernels. The ears resemble a rainbow of colors, making it a popular choice for decorative and ornamental purposes. With a tall upright growth habit, Glass Gem adds a splash of color to garden landscapes.",
+                  "spacing": "12-18 inches",
+                  "days_to_harvest": {
+                    "lower_estimate": 90,
+                    "higher_estimate": 100
+                  },
+                  "is_container_variety": false,
+                  "fruit_length": "6-8 inches",
+                  "fruit_color": "Multicolored (Rainbow)",
+                  "fruit_weight": "10-12 ounces",
+                  "plant_height": "5-6 feet",
+                  "leaf_color": "Green",
+                  "flower_color": "Various Colors",
+                  "growth_mode": null,
+                  "best_uses": ["Decorative Corn", "Ornamental Gardens"],
+                  "needs_support": false,
+                  "water_requirement": "Regular watering",
+                  "feeding_requirement": "Balanced fertilizer",
+                  "requires_pruning": false,
+                  "fun_fact": "Glass Gem corn gained popularity for its breathtakingly beautiful kernels, which can display a wide range of colors, resembling gemstones.",
+                  "planting_tip": "For successful cultivation, plant Glass Gem corn seeds in well-drained soil with good sunlight. Ensure proper spacing between plants and rows. Water consistently and provide support if needed. Harvest when ears are plump and tender.",
+                  "overwrite_common_features": {
+                  }
+                },
+                {
+                    "id": 4,
+                  "name": "Dakota Black",
+                  "description": "Dakota Black corn is a distinctive variety with dark black kernels, adding a unique touch to both culinary dishes and decorative use. The ears have a rich flavor, making them suitable for various culinary applications. With a tall upright growth habit, Dakota Black is a standout choice for gardeners seeking something unique.",
+                  "spacing": "12-18 inches",
+                  "days_to_harvest": {
+                    "lower_estimate": 75,
+                    "higher_estimate": 85
+                  },
+                  "is_container_variety": false,
+                  "fruit_length": "7-9 inches",
+                  "fruit_color": "Black",
+                  "fruit_weight": "8-10 ounces",
+                  "plant_height": "5-6 feet",
+                  "leaf_color": "Green",
+                  "flower_color": "Yellow",
+                  "growth_mode": null,
+                  "best_uses": ["Unique Culinary Dishes", "Decorative Corn"],
+                  "needs_support": false,
+                  "water_requirement": "Regular watering",
+                  "feeding_requirement": "Balanced fertilizer",
+                  "requires_pruning": false,
+                  "fun_fact": "Dakota Black corn is prized for its deep black kernels, which provide a visually striking element to gardens and culinary creations.",
+                  "planting_tip": "For successful cultivation, plant Dakota Black corn seeds in well-drained soil with good sunlight. Ensure proper spacing between plants and rows. Water consistently and provide support if needed. Harvest when ears are plump and tender.",
+                  "overwrite_common_features": {
+                  }
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "carrot",
+            "varieties_common_features": {
+                "sunlight_requirement": "Full Sun",
+                "propagation_methods": ["Seeds"],
+                "soil_acidity_range": {
+                  "lower_bound": 6.0,
+                  "upper_bound": 7.5
+                },
+                "days_to_germination": "12-14 days",
+                "frost_tolerance": true,
+                "planting_depth": "1/4 - 1/2 inch",
+                "spacing": "2-4 inches",
+                "life_cycle": "Biennial",
+                "season": "Cool"
+            },
+            "varieties": [
+                {
+                    "id": 0,
+                  "name": "Orange King",
+                  "description": "Orange King is a classic carrot variety known for its sweet and crunchy roots. The carrots have a vibrant orange color, making them visually appealing and suitable for various culinary uses. With an upright growth habit, Orange King is a reliable choice for home gardens.",
+                  "spacing": "2-4 inches",
+                  "days_to_harvest": {
+                    "lower_estimate": 60,
+                    "higher_estimate": 80
+                  },
+                  "is_container_variety": false,
+                  "fruit_length": "6-8 inches",
+                  "fruit_color": "Orange",
+                  "leaf_color": "Green",
+                  "flower_color": "White",
+                  "plant_height": "12-18 inches",
+                  "needs_support": false,
+                  "fruit_weight": "6-10 ounces",
+                  "growth_mode": null,
+                  "best_uses": ["Fresh Eating", "Cooking", "Juicing"],
+                  "water_requirement": "Regular watering",
+                  "feeding_requirement": "Balanced fertilizer",
+                  "requires_pruning": false,
+                  "fun_fact": "Carrots were first cultivated in Central Asia over a thousand years ago and were originally purple or white. Orange carrots, like Orange King, became popular in the 17th century.",
+                  "planting_tip": "For successful cultivation, plant Orange King carrot seeds in loose, well-drained soil. Ensure consistent moisture, especially during germination. Thin the seedlings as they grow to allow proper spacing. Harvest when the roots are mature, typically 60-80 days after planting.",
+                  "overwrite_common_features": {
+                  }
+                },
+                {
+                    "id": 1,
+                  "name": "Cosmic Purple",
+                  "description": "Cosmic Purple carrots feature deep purple roots with a sweet and earthy flavor. The vibrant color adds a unique touch to dishes, and the carrots are well-suited for various culinary applications. With an upright growth habit, Cosmic Purple is an eye-catching addition to any garden.",
+                  "spacing": "2-4 inches",
+                  "days_to_harvest": {
+                    "lower_estimate": 70,
+                    "higher_estimate": 90
+                  },
+                  "is_container_variety": false,
+                  "fruit_length": "7-9 inches",
+                  "fruit_color": "Purple",
+                  "fruit_weight": "8-12 ounces",
+                  "leaf_color": "Green",
+                  "flower_color": "White",
+                  "plant_height": "12-18 inches",
+                  "growth_mode": null,
+                  "needs_support": false,
+                  "best_uses": ["Fresh Eating", "Salads", "Pickling"],
+                  "water_requirement": "Regular watering",
+                  "feeding_requirement": "Balanced fertilizer",
+                  "requires_pruning": false,
+                  "fun_fact": "Purple carrots are rich in anthocyanins, the same antioxidants found in blueberries and red cabbage, providing potential health benefits.",
+                  "planting_tip": "For successful cultivation, plant Cosmic Purple carrot seeds in loose, well-drained soil. Maintain consistent moisture and provide adequate spacing for the roots to develop. Harvest when the roots reach maturity, typically 70-90 days after planting.",
+                  "overwrite_common_features": {
+                  }
+                },
+                {
+                    "id": 2,
+                  "name": "Napoli",
+                  "description": "Napoli carrots are classic orange roots known for their sweet and crisp texture. With a delicious flavor, Napoli is a versatile carrot variety suitable for various culinary uses. The upright growth habit makes it easy to cultivate in home gardens.",
+                  "spacing": "2-4 inches",
+                  "days_to_harvest": {
+                    "lower_estimate": 65,
+                    "higher_estimate": 80
+                  },
+                  "is_container_variety": false,
+                  "fruit_length": "6-8 inches",
+                  "fruit_color": "Orange",
+                  "fruit_weight": "6-10 ounces",
+                  "plant_height": "12-20 inches",
+                  "leaf_color": "Green",
+                  "flower_color": "White",
+                  "growth_mode": null,
+                  "needs_support": false,
+                  "best_uses": ["Fresh Eating", "Cooking", "Juicing"],
+                  "water_requirement": "Regular watering",
+                  "feeding_requirement": "Balanced fertilizer",
+                  "requires_pruning": false,
+                  "fun_fact": "Fun Fact: Carrots were first cultivated in Afghanistan over a thousand years ago and were initially purple or white. Orange carrots, like Napoli, became popular in the 17th century.",
+                  "planting_tip": "For successful cultivation, plant Napoli carrot seeds in loose, well-drained soil. Ensure consistent moisture during the growing season. Thin the seedlings as they grow to allow space for the roots. Harvest when the roots are mature, typically 65-80 days after planting.",
+                  "overwrite_common_features": {
+                  }
+                },
+                {
+                    "id": 3,
+                  "name": "White Satin",
+                  "description": "White Satin carrots are prized for their ivory-white roots and sweet flavor. These carrots add elegance to dishes and are particularly popular for their aesthetic appeal. With an upright growth habit, White Satin is a delightful addition to home gardens.",
+                  "spacing": "2-4 inches",
+                  "days_to_harvest": {
+                    "lower_estimate": 75,
+                    "higher_estimate": 90
+                  },
+                  "is_container_variety": false,
+                  "fruit_length": "6-8 inches",
+                  "fruit_color": "White",
+                  "fruit_weight": "6-10 ounces",
+                  "plant_height": "14-22 inches",
+                  "leaf_color": "Green",
+                  "flower_color": "White",
+                  "growth_mode": null,
+                  "needs_support": false,
+                  "best_uses": ["Fresh Eating", "Salads", "Roasting"],
+                  "water_requirement": "Regular watering",
+                  "feeding_requirement": "Balanced fertilizer",
+                  "requires_pruning": false,
+                  "fun_fact": "Fun Fact: White carrots are among the oldest carrot varieties and were the predominant color before orange carrots became widespread.",
+                  "planting_tip": "For successful cultivation, plant White Satin carrot seeds in loose, well-drained soil. Provide consistent moisture, especially during dry periods. Thin the seedlings as they grow to allow space for the roots. Harvest when the roots are mature, typically 75-90 days after planting.",
+                  "overwrite_common_features": {
+                  }
+                },
+                {
+                    "id": 4,
+                  "name": "Dragon Purple",
+                  "description": "Dragon Purple carrots boast deep purple roots with a sweet and slightly spicy flavor. The unique color and taste make them a favorite for culinary experimentation. With an upright growth habit, Dragon Purple adds a touch of excitement to home gardens.",
+                  "spacing": "2-4 inches",
+                  "days_to_harvest": {
+                    "lower_estimate": 80,
+                    "higher_estimate": 100
+                  },
+                  "is_container_variety": false,
+                  "fruit_length": "7-9 inches",
+                  "fruit_color": "Purple",
+                  "fruit_weight": "8-12 ounces",
+                  "plant_height": "14-20 inches",
+                  "leaf_color": "Green",
+                  "flower_color": "White",
+                  "growth_mode": null,
+                  "needs_support": false,
+                  "best_uses": ["Fresh Eating", "Pickling", "Stir-Frying"],
+                  "water_requirement": "Regular watering",
+                  "feeding_requirement": "Balanced fertilizer",
+                  "requires_pruning": false,
+                  "fun_fact": "Fun Fact: Purple carrots were originally cultivated in Turkey and Afghanistan and were later brought to Europe, where they gained popularity for their distinct appearance.",
+                  "planting_tip": "For successful cultivation, plant Dragon Purple carrot seeds in loose, well-drained soil. Ensure consistent moisture, especially during the early stages. Thin the seedlings as they grow to allow space for the roots. Harvest when the roots are mature, typically 80-100 days after planting.",
+                  "overwrite_common_features": {
+                  }
+                },
+                {
+                    "id": 5,
+                  "name": "Paris Market",
+                  "description": "Paris Market carrots, also known as 'Thumbelina,' are small, round carrots with a sweet and crisp taste. Their compact size and round shape make them ideal for container gardening and snacking. With a compact growth habit, Paris Market is perfect for small spaces.",
+                  "spacing": "2-4 inches",
+                  "days_to_harvest": {
+                    "lower_estimate": 50,
+                    "higher_estimate": 60
+                  },
+                  "is_container_variety": true,
+                  "fruit_length": "2-3 inches",
+                  "fruit_color": "Orange",
+                  "fruit_weight": "4-6 ounces",
+                  "plant_height": "6-10 inches",
+                  "leaf_color": "Green",
+                  "flower_color": "White",
+                  "growth_mode": null,
+                  "needs_support": false,
+                  "best_uses": ["Fresh Eating", "Container Gardening", "Snacking"],
+                  "water_requirement": "Regular watering",
+                  "feeding_requirement": "Balanced fertilizer",
+                  "requires_pruning": false,
+                  "fun_fact": "Paris Market carrots were popularized in the 19th century in French markets, known for their petite size and sweet flavor.",
+                  "planting_tip": "For successful cultivation, plant Paris Market carrot seeds in well-drained soil, especially in containers. Ensure consistent moisture and provide adequate spacing for the small roots. Harvest when the roots are mature, typically 50-60 days after planting.",
+                  "overwrite_common_features": {
+                  }
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "watermelon",
+            "varieties_common_features": {
+                "sunlight_requirement": "Full Sun",
+                "propagation_methods": ["Seeds"],
+                "soil_acidity_range": {
+                  "lower_bound": 6.0,
+                  "upper_bound": 7.5
+                },
+                "days_to_germination": "4-10 days",
+                "frost_tolerance": false,
+                "planting_depth": "1 inch",
+                "spacing": "3-5 feet",
+                "life_cycle": "Annual",
+                "season": "Warm",
+                "growing_type": "Trailing"
+            },
+            "varieties": [
+                {
+                    "id": 0,
+                  "name": "Sugar Baby",
+                  "description": "Sugar Baby Watermelon is a popular and compact variety known for its sweet and juicy flesh. The dark green rind with light green stripes makes it easily recognizable. With a trailing growth habit, it is suitable for gardens with limited space.",
+                  "spacing": "3-5 feet",
+                  "days_to_harvest": {
+                    "lower_estimate": 80,
+                    "higher_estimate": 90
+                  },
+                  "is_container_variety": false,
+                  "fruit_weight": "8-12 pounds",
+                  "fruit_color": "Dark Green with Light Green Stripes",
+                  "flower_color": "Yellow",
+                  "leaf_color": "Green",
+                  "plant_height": "12-18 inches",
+                  "growth_mode": null,
+                  "best_uses": ["Fresh Eating", "Juicing", "Fruit Salads"],
+                  "water_requirement": "Regular, Deep Watering",
+                  "feeding_requirement": "Balanced fertilizer",
+                  "requires_pruning": true,
+                  "needs_support": true,
+                  "fun_fact": "Sugar Baby Watermelon is a small-sized variety that fits well in refrigerators, making it a favorite choice for picnics and small households.",
+                  "planting_tip": "For successful cultivation, plant Sugar Baby Watermelon seeds in well-drained, loamy soil. Provide consistent moisture, especially during the fruiting stage. Support the vines as they grow and consider pruning to encourage airflow. Harvest when the underside turns creamy yellow and the tendrils near the stem dry out."
+                },
+                {
+                    "id": 1,
+                  "name": "Crimson Sweet",
+                  "description": "Crimson Sweet Watermelon is a classic variety with large, sweet, and crisp red flesh. The dark green rind with light green stripes makes it visually appealing. With a trailing growth habit, it is suitable for larger gardens and produces sizable fruits.",
+                  "spacing": "4-6 feet",
+                  "days_to_harvest": {
+                    "lower_estimate": 85,
+                    "higher_estimate": 95
+                  },
+                  "is_container_variety": false,
+                  "fruit_weight": "15-25 pounds",
+                  "fruit_color": "Dark Green with Light Green Stripes",
+                  "flower_color": "Yellow",
+                  "leaf_color": "Green",
+                  "plant_height": "12-18 inches",
+                  "growth_mode": null,
+                  "growing_type": "Trailing",
+                  "best_uses": ["Fresh Eating", "Juicing", "Fruit Salads"],
+                  "water_requirement": "Regular, Deep Watering",
+                  "feeding_requirement": "Balanced fertilizer",
+                  "requires_pruning": true,
+                  "needs_support": true,
+                  "fun_fact": "Crimson Sweet Watermelon is known for its high sugar content and refreshing taste, making it a popular choice for summer picnics.",
+                  "planting_tip": "For successful cultivation, plant Crimson Sweet Watermelon seeds in well-drained, loamy soil. Provide consistent moisture during the growing season, especially when the fruit is setting. Support the vines as they grow and consider pruning to manage vine length. Harvest when the fruit develops a uniform dark green color and the tendrils near the stem dry out."
+                },
+                {
+                    "id": 2,
+                  "name": "Jubilee",
+                  "description": "Jubilee Watermelon is a large, round variety with sweet and juicy red flesh. The light green rind with dark green stripes gives it a distinctive appearance. With a trailing growth habit, it is well-suited for home gardens and produces flavorful fruits.",
+                  "spacing": "4-6 feet",
+                  "days_to_harvest": {
+                    "lower_estimate": 80,
+                    "higher_estimate": 90
+                  },
+                  "is_container_variety": false,
+                  "fruit_weight": "25-40 pounds",
+                  "fruit_color": "Light Green with Dark Green Stripes",
+                  "flower_color": "Yellow",
+                  "leaf_color": "Green",
+                  "plant_height": "18-24 inches",
+                  "growth_mode": null,
+                  "needs_support": true,
+                  "best_uses": ["Fresh Eating", "Juicing", "Fruit Salads"],
+                  "water_requirement": "Regular, Deep Watering",
+                  "feeding_requirement": "Balanced fertilizer",
+                  "requires_pruning": true,
+                  "fun_fact": "Jubilee Watermelon is named for the celebration of the United States Bicentennial in 1976 and has since become a classic variety cherished for its taste and size.",
+                  "planting_tip": "For successful cultivation, plant Jubilee Watermelon seeds in well-drained soil. Provide consistent moisture during the growing season, especially when the fruit is setting. Support the vines as they grow and consider pruning to manage vine length. Harvest when the fruit develops a uniform light green color and the tendrils near the stem dry out."
+                },
+                {
+                    "id": 3,
+                  "name": "Charleston Gray",
+                  "description": "Charleston Gray Watermelon is a classic heirloom variety known for its oblong shape and sweet, red flesh. The light green rind with dark green stripes makes it easily recognizable. With a trailing growth habit, it is suitable for larger gardens and produces flavorful fruits.",
+                  "spacing": "4-6 feet",
+                  "days_to_harvest": {
+                    "lower_estimate": 85,
+                    "higher_estimate": 95
+                  },
+                  "is_container_variety": false,
+                  "fruit_weight": "20-30 pounds",
+                  "fruit_color": "Light Green with Dark Green Stripes",
+                  "flower_color": "Yellow",
+                  "leaf_color": "Green",
+                  "plant_height": "18-24 inches",
+                  "growth_mode": null,
+                  "needs_support": true,
+                  "best_uses": ["Fresh Eating", "Juicing", "Fruit Salads"],
+                  "water_requirement": "Regular, Deep Watering",
+                  "feeding_requirement": "Balanced fertilizer",
+                  "requires_pruning": true,
+                  "fun_fact": "Charleston Gray Watermelon was introduced in the 1950s and quickly gained popularity for its excellent taste and size, making it a favorite among growers.",
+                  "planting_tip": "For successful cultivation, plant Charleston Gray Watermelon seeds in well-drained soil. Provide consistent moisture during the growing season, especially when the fruit is setting. Support the vines as they grow and consider pruning to manage vine length. Harvest when the fruit develops a uniform light green color and the tendrils near the stem dry out."
+                },
+                {
+                    "id": 4,
+                  "name": "Yellow Doll",
+                  "description": "Yellow Doll Watermelon is a unique variety with bright yellow flesh that is sweet and refreshing. The yellow rind makes it stand out from traditional watermelon varieties. With a trailing growth habit, it is well-suited for home gardens and adds a pop of color to fruit salads.",
+                  "spacing": "4-6 feet",
+                  "days_to_harvest": {
+                    "lower_estimate": 75,
+                    "higher_estimate": 85
+                  },
+                  "is_container_variety": false,
+                  "fruit_weight": "8-12 pounds",
+                  "fruit_color": "Yellow",
+                  "flower_color": "Yellow",
+                  "leaf_color": "Green",
+                  "plant_height": "12-18 inches",
+                  "growth_mode": null,
+                  "needs_support": true,
+                  "best_uses": ["Fresh Eating", "Juicing", "Fruit Salads"],
+                  "water_requirement": "Regular, Deep Watering",
+                  "feeding_requirement": "Balanced fertilizer",
+                  "requires_pruning": true,
+                  "fun_fact": "Yellow Doll Watermelon is prized for its novelty and mild, honey-like flavor. It offers a refreshing twist to the classic watermelon experience.",
+                  "planting_tip": "For successful cultivation, plant Yellow Doll Watermelon seeds in well-drained soil. Provide consistent moisture during the growing season, especially when the fruit is setting. Support the vines as they grow and consider pruning to manage vine length. Harvest when the fruit develops a uniform yellow color and the tendrils near the stem dry out."
+                },
+                {
+                    "id": 5,
+                  "name": "Moon and Stars",
+                  "description": "Moon and Stars Watermelon is a unique heirloom variety with dark green skin and distinctive yellow spots resembling moons and stars. The sweet, red flesh adds to its appeal. With a trailing growth habit, it is a captivating addition to garden landscapes.",
+                  "spacing": "4-6 feet",
+                  "days_to_harvest": {
+                    "lower_estimate": 90,
+                    "higher_estimate": 100
+                  },
+                  "is_container_variety": false,
+                  "fruit_weight": "15-25 pounds",
+                  "fruit_color": "Dark Green with Yellow Spots",
+                  "flower_color": "Yellow",
+                  "leaf_color": "Green",
+                  "plant_height": "18-24 inches",
+                  "growth_mode": null,
+                  "best_uses": ["Fresh Eating", "Juicing", "Fruit Salads"],
+                  "water_requirement": "Regular, Deep Watering",
+                  "feeding_requirement": "Balanced fertilizer",
+                  "requires_pruning": true,
+                  "needs_support": true,
+                  "fun_fact": "Moon and Stars Watermelon gained popularity in the 1920s and became a symbol of heirloom varieties. The yellow spots on the skin are a natural genetic variation.",
+                  "planting_tip": "For successful cultivation, plant Moon and Stars Watermelon seeds in well-drained soil. Provide consistent moisture during the growing season, especially when the fruit is setting. Support the vines as they grow and consider pruning to manage vine length. Harvest when the fruit develops a uniform dark green color, and the yellow spots are visible, and the tendrils near the stem dry out."
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "squash",
+            "varieties_common_features": {
+                "sunlight_requirement": "Full Sun",
+                "propagation_methods": ["Seeds"],
+                "soil_acidity_range": {
+                  "lower_bound": 6.0,
+                  "upper_bound": 7.5
+                },
+                "days_to_germination": "7-14 days",
+                "frost_tolerance": false,
+                "planting_depth": "1-2 inches",
+                "spacing": "3-5 feet",
+                "life_cycle": "Annual",
+                "season": "Warm",
+                "growing_type": "Bushy"
+            },
+            "varieties": [
+                {
+                    "id": 0,
+                  "name": "Buttercup",
+                  "description": "Buttercup Squash is a winter squash variety with a sweet and creamy orange flesh. The dark green skin is hard and ridged, making it a durable choice for storage. The bushy growth habit is well-suited for home gardens.",
+                  "spacing": "3-5 feet",
+                  "days_to_harvest": {
+                    "lower_estimate": 90,
+                    "higher_estimate": 100
+                  },
+                  "is_container_variety": false,
+                  "fruit_color": "Dark Green",
+                  "flower_color": "Yellow",
+                  "leaf_color": "Green",
+                  "fruit_weight": "2-5 pounds",
+                  "plant_height": "18-24 inches",
+                  "growth_mode": null,
+                  "best_uses": ["Roasting", "Baking", "Mashing"],
+                  "water_requirement": "Regular watering",
+                  "feeding_requirement": "Balanced fertilizer",
+                  "requires_pruning": false,
+                  "needs_support": true,
+                  "fun_fact": "Buttercup Squash belongs to the Cucurbita maxima species and is known for its rich flavor, making it a favorite for both sweet and savory dishes.",
+                  "planting_tip": "For successful cultivation, plant Buttercup Squash seeds in well-drained soil with a pH between 6.0 and 7.5. Provide full sun exposure and consistent moisture. Support the vines as the fruit develops and harvest when the skin hardens and turns a deep green color."
+                },
+                {
+                    "id": 1,
+                  "name": "Acorn",
+                  "description": "Acorn Squash is a winter squash variety with a distinctive acorn-shaped fruit. The dark green skin is hard and ribbed, encasing sweet and nutty orange flesh. With a bushy growth habit, it is a popular choice for various culinary applications.",
+                  "spacing": "3-4 feet",
+                  "days_to_harvest": {
+                    "lower_estimate": 80,
+                    "higher_estimate": 90
+                  },
+                  "is_container_variety": false,
+                  "fruit_color": "Dark Green",
+                  "flower_color": "Yellow",
+                  "leaf_color": "Green",
+                  "fruit_weight": "1-3 pounds",
+                  "plant_height": "12-18 inches",
+                  "growth_mode": null,
+                  "best_uses": ["Baking", "Roasting", "Grilling"],
+                  "water_requirement": "Regular watering",
+                  "feeding_requirement": "Balanced fertilizer",
+                  "requires_pruning": false,
+                  "needs_support": true,
+                  "fun_fact": "Acorn Squash is a good source of vitamins A and C, as well as dietary fiber. It is known for its versatility in both sweet and savory dishes.",
+                  "planting_tip": "For successful cultivation, plant Acorn Squash seeds in well-drained soil. Provide consistent moisture and ensure proper spacing for the spreading vines. Harvest when the fruit develops a deep color and the skin hardens."
+                },
+                {
+                    "id": 2,
+                  "name": "Zucchini",
+                  "description": "Zucchini, also known as summer squash, is a versatile and prolific variety with tender green fruits. The mild flavor and tender texture make it a favorite for various cooking methods. With a bushy growth habit, it is suitable for both traditional gardens and containers.",
+                  "spacing": "2-3 feet",
+                  "days_to_harvest": {
+                    "lower_estimate": 50,
+                    "higher_estimate": 60
+                  },
+                  "is_container_variety": true,
+                  "fruit_color": "Green",
+                  "flower_color": "Yellow",
+                  "leaf_color": "Green",
+                  "fruit_weight": "0.5-1 pound",
+                  "plant_height": "24-36 inches",
+                  "growth_mode": null,
+                  "best_uses": ["Grilling", "Sauteing", "Baking"],
+                  "water_requirement": "Regular watering",
+                  "feeding_requirement": "Balanced fertilizer",
+                  "requires_pruning": false,
+                  "needs_support": false,
+                  "fun_fact": "Zucchini is botanically classified as a fruit but is commonly treated as a vegetable in culinary applications. It is a popular ingredient in savory dishes and baked goods.",
+                  "planting_tip": "For successful cultivation, plant Zucchini seeds in well-drained soil. Provide consistent moisture, especially during the fruiting stage. Harvest when the fruits are young and tender for the best flavor and texture."
+                },
+                {
+                    "id": 2,
+                  "name": "Spaghetti",
+                  "description": "Spaghetti Squash is a unique winter squash variety with stringy, spaghetti-like flesh when cooked. The mild flavor and noodle-like texture make it a popular low-carb alternative to pasta. With a bushy growth habit, it is a delightful addition to home gardens.",
+                  "spacing": "3-4 feet",
+                  "days_to_harvest": {
+                    "lower_estimate": 85,
+                    "higher_estimate": 95
+                  },
+                  "is_container_variety": false,
+                  "fruit_color": "Yellow",
+                  "flower_color": "Yellow",
+                  "leaf_color": "Green",
+                  "fruit_weight": "3-5 pounds",
+                  "plant_height": "18-24 inches",
+                  "growth_mode": null,
+                  "best_uses": ["Roasting", "Baking", "Spiralizing"],
+                  "water_requirement": "Regular watering",
+                  "feeding_requirement": "Balanced fertilizer",
+                  "requires_pruning": false,
+                  "needs_support": false,
+                  "fun_fact": "Spaghetti Squash is rich in vitamins and minerals, providing a healthy and gluten-free option for those looking to reduce traditional pasta consumption.",
+                  "planting_tip": "For successful cultivation, plant Spaghetti Squash seeds in well-drained soil. Provide consistent moisture, especially during the fruiting stage. Harvest when the skin turns a deep yellow color, and the flesh can be easily separated into strands with a fork."
+                }
+
+
+
+            ]
+        },
+        {
+            "id": 18,
+            "name": "cantaloupe",
+            "varieties_common_features": {
+                "sunlight_requirement": "Full Sun",
+                "propagation_methods": ["Seeds"],
+                "soil_acidity_range": {
+                  "lower_bound": 6.0,
+                  "upper_bound": 7.5
+                },
+                "days_to_germination": "7-14 days",
+                "frost_tolerance": false,
+                "planting_depth": "1-2 inches",
+                "spacing": "3-5 feet",
+                "life_cycle": "Annual",
+                "season": "Warm",
+                "growing_type": "Vining"
+            },
+            "varieties": [
+                {
+                    "id": 0,
+                  "name": "Hale's Best Jumbo",
+                  "description": "Hale's Best Jumbo Cantaloupe is a classic melon variety known for its sweet and aromatic orange flesh. The netted beige skin with green stripes adds to its visual appeal. With a vining growth habit, it produces large and flavorful fruits.",
+                  "spacing": "3-5 feet",
+                  "days_to_harvest": {
+                    "lower_estimate": 90,
+                    "higher_estimate": 100
+                  },
+                  "is_container_variety": false,
+                  "fruit_color": "Netted Beige with Green Stripes",
+                  "flower_color": "Yellow",
+                  "leaf_color": "Green",
+                  "fruit_weight": "3-5 pounds",
+                  "plant_height": "12-18 inches",
+                  "growth_mode": null,
+                  "best_uses": ["Fresh Eating", "Fruit Salads", "Smoothies"],
+                  "water_requirement": "Regular watering",
+                  "feeding_requirement": "Balanced fertilizer",
+                  "requires_pruning": false,
+                  "needs_support": true,
+                  "fun_fact": "Hale's Best Jumbo Cantaloupe is named after the famous seed company Hale and Company, which introduced this melon in the late 19th century. It quickly became a favorite for its taste and size.",
+                  "planting_tip": "For successful cultivation, plant Hale's Best Jumbo Cantaloupe seeds in well-drained soil with a pH between 6.0 and 7.5. Provide full sun exposure and consistent moisture. Support the vines as the fruit develops, and harvest when the fruit slips easily from the stem."
+                },
+                {
+                    "id": 1,
+                  "name": "Crenshaw",
+                  "description": "Crenshaw Cantaloupe is a unique melon variety with sweet and succulent peach-colored flesh. The pale green skin with smooth texture makes it stand out. With a vining growth habit, it produces large and flavorful fruits with a hint of spiciness.",
+                  "spacing": "3-4 feet",
+                  "days_to_harvest": {
+                    "lower_estimate": 85,
+                    "higher_estimate": 95
+                  },
+                  "is_container_variety": false,
+                  "fruit_color": "Pale Green with Smooth Skin",
+                  "flower_color": "Yellow",
+                  "leaf_color": "Green",
+                  "fruit_weight": "4-7 pounds",
+                  "plant_height": "18-24 inches",
+                  "growth_mode": null,
+                  "best_uses": ["Fresh Eating", "Fruit Salads", "Sorbet"],
+                  "water_requirement": "Regular watering",
+                  "feeding_requirement": "Balanced fertilizer",
+                  "requires_pruning": false,
+                  "needs_support": true,
+                  "fun_fact": "Crenshaw Cantaloupe is believed to be a hybrid between a Casaba melon and a Persian melon, resulting in its distinctive flavor and appearance.",
+                  "planting_tip": "For successful cultivation, plant Crenshaw Cantaloupe seeds in well-drained soil. Provide consistent moisture and support the vines as the fruit develops. Harvest when the fruit easily separates from the stem and the aroma is strong."
+                },
+                {
+                    "id": 2,
+                  "name": "Honeydew",
+                  "description": "Honeydew Cantaloupe is a refreshing and sweet melon variety with pale green, smooth skin and light green flesh. Known for its mild and subtle flavor, it complements various culinary applications. With a vining growth habit, it produces medium-sized fruits.",
+                  "spacing": "3-4 feet",
+                  "days_to_harvest": {
+                    "lower_estimate": 80,
+                    "higher_estimate": 90
+                  },
+                  "is_container_variety": false,
+                  "fruit_color": "Pale Green with Smooth Skin",
+                  "flower_color": "Yellow",
+                  "leaf_color": "Green",
+                  "fruit_weight": "4-6 pounds",
+                  "plant_height": "18-24 inches",
+                  "growth_mode": null,
+                  "best_uses": ["Fresh Eating", "Fruit Salads", "Smoothies"],
+                  "water_requirement": "Regular watering",
+                  "feeding_requirement": "Balanced fertilizer",
+                  "requires_pruning": false,
+                  "needs_support": true,
+                  "fun_fact": "Honeydew Cantaloupe is part of the Cucumis melo family, which includes muskmelons and cantaloupes. It is prized for its juicy and hydrating properties.",
+                  "planting_tip": "For successful cultivation, plant Honeydew Cantaloupe seeds in well-drained soil. Provide consistent moisture and support the vines as the fruit develops. Harvest when the fruit easily separates from the stem, and the skin develops a waxy appearance."
+                },
+                {
+                    "id": 3,
+                  "name": "Ambrosia Cantaloupe",
+                  "description": "Ambrosia Cantaloupe is a renowned melon variety celebrated for its exquisite sweetness and aromatic orange flesh. The creamy netted beige skin adds an element of elegance to this delectable fruit. With a vining growth habit, Ambrosia Cantaloupe produces medium-sized, flavorful fruits that embody the essence of summertime indulgence.",
+                  "spacing": "3-4 feet",
+                  "days_to_harvest": {
+                    "lower_estimate": 80,
+                    "higher_estimate": 90
+                  },
+                  "is_container_variety": false,
+                  "fruit_color": "Creamy Netted Beige",
+                  "flower_color": "Yellow",
+                  "leaf_color": "Green",
+                  "fruit_weight": "3-5 pounds",
+                  "plant_height": "18-24 inches",
+                  "growth_mode": null,
+                  "best_uses": ["Fresh Eating", "Fruit Salads", "Smoothies"],
+                  "water_requirement": "Regular watering",
+                  "feeding_requirement": "Balanced fertilizer",
+                  "requires_pruning": false,
+                  "needs_support": true,
+                  "fun_fact": "Ambrosia Cantaloupe, often referred to as the 'Ambrosia' melon, derives its name from the ancient Greek term for the food of the gods. Its divine taste has earned it a place as a favorite among melon enthusiasts.",
+                  "planting_tip": "For successful cultivation of Ambrosia Cantaloupe, begin by planting seeds in well-drained soil with a pH between 6.0 and 7.5. Provide consistent moisture throughout the growing season, ensuring the soil is evenly moist but not waterlogged. Support the vigorous vines as the fruit develops, and apply a balanced fertilizer to encourage healthy growth. Harvest Ambrosia Cantaloupe when the fruit easily slips from the stem and the heavenly aroma is at its peak."
+                },
+                {
+                    "id": 4,
+                  "name": "Athena Cantaloupe",
+                  "description": "Athena Cantaloupe stands out as a delightful melon variety with its sweet and juicy orange flesh. The golden netted beige skin not only adds visual appeal but also hints at the delectable flavors within. Exhibiting a vining growth habit, Athena Cantaloupe produces small to medium-sized fruits, making it a charming addition to gardens seeking exceptional taste in a compact package.",
+                  "spacing": "3-4 feet",
+                  "days_to_harvest": {
+                    "lower_estimate": 75,
+                    "higher_estimate": 85
+                  },
+                  "is_container_variety": false,
+                  "fruit_color": "Golden Netted Beige",
+                  "flower_color": "Yellow",
+                  "leaf_color": "Green",
+                  "fruit_weight": "2-4 pounds",
+                  "plant_height": "18-24 inches",
+                  "growth_mode": null,
+                  "best_uses": ["Fresh Eating", "Fruit Salads", "Sorbet"],
+                  "water_requirement": "Regular watering",
+                  "feeding_requirement": "Balanced fertilizer",
+                  "requires_pruning": false,
+                  "needs_support": true,
+                  "fun_fact": "Fun Fact: Athena Cantaloupe, named after the Greek goddess of wisdom, reflects its early maturity and sweet nature. It has gained a reputation for being a wise choice among gardeners for its reliable yields and scrumptious taste.",
+                  "planting_tip": "For successful cultivation of Athena Cantaloupe, start by planting seeds in well-drained soil with a pH between 6.0 and 7.5. Ensure adequate spacing to allow the vines to sprawl comfortably. Provide regular watering, especially during dry spells, and offer support to the vines as the fruit develops. Apply a balanced fertilizer to promote robust growth. Harvest Athena Cantaloupe when the fruit easily detaches from the stem, and the skin takes on a golden hue, accompanied by a fragrant aroma."
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "peas",
+            "varieties_common_features": {
+                "sunlight_requirement": "Full Sun to Partial Shade",
+                "propagation_methods": ["Seeds"],
+                "soil_acidity_range": {
+                  "lower_bound": 6.0,
+                  "upper_bound": 7.5
+                },
+                "days_to_germination": "7-14 days",
+                "frost_tolerance": true,
+                "planting_depth": "1-2 inches",
+                "spacing": "4-6 inches",
+                "life_cycle": "Annual",
+                "season": "Cool",
+                "growing_type": "Climbing"
+            },
+            "varieties": [
+                {
+                    "id": 0,
+                  "name": "Sugar Snap",
+                  "description": "Sugar Snap Pea is a classic garden pea variety celebrated for its sweet and crisp pods. The vines produce an abundance of delicious peas that are enjoyed both in their pods and shelled. With a climbing growth habit, Sugar Snap Pea is an excellent choice for vertical gardening and container cultivation.",
+                  "spacing": "4-6 inches",
+                  "days_to_harvest": {
+                    "lower_estimate": 55,
+                    "higher_estimate": 70
+                  },
+                  "is_container_variety": true,
+                  "fruit_color": "Green",
+                  "fruit_weight": "0.5-1 ounce",
+                  "flower_color": "White",
+                  "leaf_color": "Green",
+                  "plant_height": "24-36 inches",
+                  "best_uses": ["Fresh Eating", "Stir-fries", "Salads"],
+                  "water_requirement": "Regular watering",
+                  "feeding_requirement": "Balanced fertilizer",
+                  "growth_mode": null,
+                  "requires_pruning": false,
+                  "needs_support": true,
+                  "fun_fact": "Fun Fact: Sugar Snap Peas are a cross between garden peas and snow peas. They were introduced to the market in the late 1970s and quickly gained popularity for their unique combination of sweetness and crunchiness.",
+                  "planting_tip": "For successful cultivation of Sugar Snap Peas, choose a well-drained soil with a pH between 6.0 and 7.5. Plant seeds directly in the garden or in containers, providing support for the climbing vines. Water consistently, especially during flowering and pod development. Harvest Sugar Snap Peas when the pods are plump and the peas inside have reached their desired size. Enjoy them fresh or lightly cooked to savor their natural sweetness and crunch."
+                },
+                {
+                    "id": 1,
+                  "name": "Green Arrow",
+                  "description": "Green Arrow Pea is a popular garden pea variety known for its long, straight pods and sweet, tender peas. The climbing vines make it suitable for trellises or vertical gardening. With a moderate growth height, Green Arrow Pea is a reliable choice for home gardeners.",
+                  "spacing": "4-6 inches",
+                  "days_to_harvest": {
+                    "lower_estimate": 65,
+                    "higher_estimate": 75
+                  },
+                  "is_container_variety": false,
+                  "flower_color": "White",
+                  "leaf_color": "Green",
+                  "plant_height": "24-36 inches",
+                  "growth_mode": null,
+                  "best_uses": ["Fresh Eating", "Cooking", "Freezing"],
+                  "water_requirement": "Regular watering",
+                  "feeding_requirement": "Balanced fertilizer",
+                  "requires_pruning": false,
+                  "fruit_color": "Green",
+                  "fruit_weight": "0.5-0.8 ounce",
+                  "needs_support": true,
+                  "fun_fact": "Green Arrow Pea was awarded the prestigious Royal Horticultural Society's Award of Garden Merit for its outstanding performance and quality.",
+                  "planting_tip": "For successful cultivation of Green Arrow Pea, provide well-drained soil and support for the climbing vines. Water consistently, especially during the flowering and pod-setting stages. Harvest when the pods are well-filled and the peas are plump. Enjoy them fresh, cooked, or frozen for later use."
+                },
+                {
+                    "id": 2,
+                  "name": "Little Marvel",
+                  "description": "Little Marvel Pea is a compact and early-maturing variety ideal for small gardens or container cultivation. The bushy growth habit makes it suitable for ground planting or raised beds. Known for its sweet and petite peas, Little Marvel is a favorite for fresh snacking.",
+                  "spacing": "4-6 inches",
+                  "days_to_harvest": {
+                    "lower_estimate": 60,
+                    "higher_estimate": 70
+                  },
+                  "is_container_variety": true,
+                  "flower_color": "White",
+                  "leaf_color": "Green",
+                  "plant_height": "12-18 inches",
+                  "growth_mode": null,
+                  "best_uses": ["Fresh Eating", "Salads", "Stir-fries"],
+                  "water_requirement": "Regular watering",
+                  "feeding_requirement": "Balanced fertilizer",
+                  "requires_pruning": false,
+                  "needs_support": false,
+                  "fruit_color": "Green",
+                  "fruit_weight": "0.3-0.5 ounce",
+                  "fun_fact": "Little Marvel Pea has been a beloved pea variety since its introduction in the late 19th century. Its dwarf size and delicious peas make it a versatile choice for various garden settings.",
+                  "planting_tip": "For successful cultivation of Little Marvel Pea, choose well-drained soil and provide adequate spacing. Water consistently, especially during dry periods. Consider providing support for container-grown plants. Harvest when the pods are filled but still tender. Enjoy the sweet peas in salads, stir-fries, or as a delightful snack.",
+                  "overwrite_common_features": {
+                      "growing_type": "Bushy"
+                  }
+                },
+                {
+                    "id": 3,
+                  "name": "Wando",
+                  "description": "Wando Pea is a reliable and heat-tolerant variety, making it suitable for late spring and early summer plantings. The climbing vines produce plump, sweet peas that are excellent for both fresh consumption and preservation. Wando Pea is favored for its ability to thrive in warmer climates.",
+                  "spacing": "4-6 inches",
+                  "days_to_harvest": {
+                    "lower_estimate": 70,
+                    "higher_estimate": 80
+                  },
+                  "is_container_variety": false,
+                  "flower_color": "White",
+                  "leaf_color": "Green",
+                  "plant_height": "24-36 inches",
+                  "growth_mode": null,
+                  "best_uses": ["Fresh Eating", "Freezing", "Cooking"],
+                  "water_requirement": "Regular watering",
+                  "feeding_requirement": "Balanced fertilizer",
+                  "requires_pruning": false,
+                  "needs_support": true,
+                  "fruit_color": "Green",
+                  "fruit_weight": "0.6-1.0 ounce",
+                  "fun_fact": "Wando Pea is named after the Wando River in South Carolina. Its heat-tolerance and consistent performance have made it a popular choice for Southern gardeners.",
+                  "planting_tip": "For successful cultivation of Wando Pea, provide well-drained soil and support for the climbing vines. Water consistently, especially during warmer periods. Harvest when the pods are well-filled, and the peas are tender. Consider succession planting for continuous harvest throughout the growing season."
+                }
+            ]
+        }
+    ]
+}
+
+
+
+
+
