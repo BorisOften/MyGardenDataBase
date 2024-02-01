@@ -17,7 +17,85 @@
                 "planting_depth": "1/4 - 1/2 inch deep",
                 "spacing": "2-3 feet apart",
                 "life_cycle": "Annual",
-                "season": "Warm"
+                "season": "Warm",
+                "planting_zones_times":
+                    [
+                        {
+                            "zone": ["3a","3b", "4a","4b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["February, March"],
+                                "transplant": ["May,June"],
+                                "start_outdoors": ["May,June"],
+                                "harvest": ["July, August, September"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start seeds indoors 6-8 weeks before the last frost date, typically in late February to mid-March.",
+                                "transplant": "Transplant seedlings outdoors after the danger of frost has passed, usually in late May to early June.",
+                                "start_outdoors": "Once soil temperatures have warmed up and all danger of frost has passed, typically in late May to early June.",
+                                "harvest": "Harvest tomatoes from mid to late summer, starting in July and continuing into August and September."
+                            }
+                        },
+                        {
+                            "zone": ["5a","5b", "6a","6b","7a","7b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["February", "March"],
+                                "transplant": ["May", "June"],
+                                "start_outdoors": ["April","May"],
+                                "harvest": ["July", "August", "September"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start seeds indoors 6-8 weeks before the last frost date, typically in late February to mid-March.",
+                                "transplant": "Transplant seedlings outdoors after the danger of frost has passed, usually in late May to early June.",
+                                "start_outdoors": "Once soil temperatures have warmed up and all danger of frost has passed, typically in late May to early June.",
+                                "harvest": "Harvest tomatoes from mid to late summer, starting in July and continuing into August and September."
+                            }
+                        },
+                        {
+                            "zone": ["8a","8b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["January,February"],
+                                "transplant": ["April,May"],
+                                "start_outdoors": ["April,May"],
+                                "harvest": ["July, August, September"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start seeds indoors 6-8 weeks before the last frost date, typically in late January to early February.",
+                                "transplant": "Transplant seedlings outdoors after the danger of frost has passed, usually in late April to early May.",
+                                "start_outdoors": "Once soil temperatures have warmed up and all danger of frost has passed, typically in late April to early May.",
+                                "harvest": "Harvest tomatoes from mid to late summer, starting in June and continuing into July and August."
+                            }
+                        },
+                        {
+                            "zone": ["9a","9b", "10a","10b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["December","January"],
+                                "transplant": ["February","March","April"],
+                                "start_outdoors": ["March","April"],
+                                "harvest": ["June","July", "August", "September", "October"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start seeds indoors 6-8 weeks before the last frost date, typically in late December to mid-January.",
+                                "transplant": "Transplant seedlings outdoors after the danger of frost has passed, usually in late February to early April.",
+                                "start_outdoors": "Once soil temperatures have warmed up and all danger of frost has passed, typically in early March to late April.",
+                                "harvest": "Harvest tomatoes from late spring to early fall, starting in May and continuing into September and October."
+                            }
+                        },
+                        {
+                            "zone": ["11a","11b","12a","12b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["ALL"],
+                                "transplant": ["ALL"],
+                                "start_outdoors": ["ALL"],
+                                "harvest": ["ALL"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start seeds indoors or sow directly outdoors year-round, depending on local conditions",
+                                "transplant": "Transplant seedlings outdoors as needed, considering optimal growing conditions and temperature.",
+                                "start_outdoors": "Sow seeds or transplant seedlings outdoors as needed, considering optimal growing conditions and temperature.",
+                                "harvest": "Tomatoes can be harvested year-round, depending on the specific tomato variety and local growing conditions."
+                            }
+                        }
+                    ]
             },
             "varieties": [
                 {
@@ -399,7 +477,70 @@
                 "planting_depth": "1/4 inch",
                 "spacing": "8-12 inches",
                 "life_cycle": "Annual",
-                "season": "Warm"
+                "season": "Warm",
+                "planting_zones_times":
+                    [
+                        {
+                            "zone": ["3a","3b", "4a","4b","5a","5b","6a","6b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["March", "April"],
+                                "transplant": ["May,June"],
+                                "start_outdoors": ["May,June"],
+                                "harvest": ["June","July", "August", "September"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start seeds indoors 6-8 weeks before the last frost date, typically from March to late April.",
+                                "transplant": "Transplant seedlings outdoors after the danger of frost has passed, usually in late May to early June.",
+                                "start_outdoors": "Once soil temperatures have warmed up and all danger of frost has passed, typically in late May to early June.",
+                                "harvest": "Harvest basil leaves throughout the summer and early fall."
+                            }
+                        },
+                        {
+                            "zone": ["7a","7b","8a","8b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["February","March"],
+                                "transplant": ["April","May"],
+                                "start_outdoors": ["May"],
+                                "harvest": ["May","June","July", "August", "September"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start seeds indoors 6-8 weeks before the last frost date, typically in late February to early March.",
+                                "transplant": "Transplant seedlings outdoors after the danger of frost has passed, usually in late April to early May.",
+                                "start_outdoors": "Once soil temperatures have warmed up and all danger of frost has passed, typically in late April to early May.",
+                                "harvest": "Harvest basil leaves from late spring to early fall."
+                            }
+                        },
+                        {
+                            "zone": ["9a","9b","10a","10b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["January","February"],
+                                "transplant": ["April"],
+                                "start_outdoors": ["April","May"],
+                                "harvest": ["April","May","June","July", "August", "September", "October"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start seeds indoors 6-8 weeks before the last frost date, typically in early to mid-January",
+                                "transplant": "Transplant seedlings outdoors after the danger of frost has passed, usually in late February to early March.",
+                                "start_outdoors": "Once soil temperatures have warmed up and all danger of frost has passed, typically in late February to early March.",
+                                "harvest": "Harvest basil leaves throughout the spring, summer, and early fall"
+                            }
+                        },
+                        {
+                            "zone": ["11a","11b","12a","12b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["ALL"],
+                                "transplant": ["ALL"],
+                                "start_outdoors": ["ALL"],
+                                "harvest": ["ALL"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start seeds indoors or sow directly outdoors year-round, depending on local conditions",
+                                "transplant": "Transplant seedlings outdoors as needed, considering optimal growing conditions and temperature.",
+                                "start_outdoors": "Sow seeds or transplant seedlings outdoors as needed, considering optimal growing conditions and temperature.",
+                                "harvest": "Harvest basil leaves throughout the year in these warm climates."
+                            }
+                        }
+                    ]
             },
             "varieties": [
                     {
@@ -596,7 +737,70 @@
                 "planting_depth": "1/4 inch",
                 "spacing": "8-12 inches",
                 "life_cycle": "Biennial",
-                "season": "Cool"
+                "season": "Cool",
+                "planting_zones_times":
+                    [
+                        {
+                            "zone": ["3a","3b", "4a","4b","5a","5b","6a","6b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["April", "May"],
+                                "transplant": ["May,June"],
+                                "start_outdoors": ["May,June"],
+                                "harvest": ["June","July", "August", "September"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start seeds indoors 8-10 weeks before the last frost date, typically in early to mid-April.",
+                                "transplant": "Transplant seedlings outdoors after the danger of frost has passed, usually in late May to early June.",
+                                "start_outdoors": "Once soil temperatures have warmed up and all danger of frost has passed, typically in late May to early June.",
+                                "harvest": "Harvest parsley leaves throughout the summer and early fall."
+                            }
+                        },
+                        {
+                            "zone": ["7a","7b","8a","8b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["February","March"],
+                                "transplant": ["April","May"],
+                                "start_outdoors": ["April","May"],
+                                "harvest": ["May","June","July", "August", "September"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start seeds indoors 8-10 weeks before the last frost date, typically in late February to early March.",
+                                "transplant": "Transplant seedlings outdoors after the danger of frost has passed, usually in late April to early May.",
+                                "start_outdoors": "Once soil temperatures have warmed up and all danger of frost has passed, typically in late April to early May.",
+                                "harvest": "Harvest parsley leaves from late spring to early fall."
+                            }
+                        },
+                        {
+                            "zone": ["9a","9b","10a","10b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["January","February"],
+                                "transplant": ["February", "March"],
+                                "start_outdoors": ["February", "March"],
+                                "harvest": ["March","April","May","June","July", "August", "September", "October"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start seeds indoors 8-10 weeks before the last frost date, typically in early to mid-January",
+                                "transplant": "Transplant seedlings outdoors after the danger of frost has passed, usually in late February to early March.",
+                                "start_outdoors": "Once soil temperatures have warmed up and all danger of frost has passed, typically in late February to early March.",
+                                "harvest": "Harvest parsley leaves throughout the spring, summer, and early fall"
+                            }
+                        },
+                        {
+                            "zone": ["11a","11b","12a","12b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["ALL"],
+                                "transplant": ["ALL"],
+                                "start_outdoors": ["ALL"],
+                                "harvest": ["ALL"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start seeds indoors or sow directly outdoors year-round, depending on local conditions",
+                                "transplant": "Transplant seedlings outdoors as needed, considering optimal growing conditions and temperature.",
+                                "start_outdoors": "Sow seeds or transplant seedlings outdoors as needed, considering optimal growing conditions and temperature.",
+                                "harvest": "Harvest parsley leaves throughout the year in these warm climates."
+                            }
+                        }
+                    ]
             },
             "varieties": [
                 {
@@ -712,7 +916,86 @@
                 "planting_depth": "1/4 inch",
                 "spacing": "8-12 inches",
                 "life_cycle": "Annual",
-                "season": "Cool"
+                "season": "Cool",
+                "planting_zones_times":
+                    [
+                        {
+                            "zone": ["3a","3b", "4a","4b"],
+                            "planting_dates_months": {
+                                "start_indoors": [],
+                                "transplant": [],
+                                "start_outdoors": ["April","May"],
+                                "harvest": ["June","July", "August"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start seeds directly outdoors in early to mid-April.",
+                                "transplant": "Not typically transplanted.",
+                                "start_outdoors": "Once soil temperatures have warmed up and all danger of frost has passed, typically in late May to early June.",
+                                "harvest": "Harvest cilantro leaves during the summer months."
+                            }
+                        },
+                        {
+                            "zone": ["5a","5b","6a","6b"],
+                            "planting_dates_months": {
+                                "start_indoors": [],
+                                "transplant": [],
+                                "start_outdoors": ["March", "April"],
+                                "harvest": ["May","June","July", "August"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start seeds directly outdoors in early to mid-March.",
+                                "transplant": "Not typically transplanted.",
+                                "start_outdoors": "Once soil temperatures have warmed up and all danger of frost has passed.",
+                                "harvest": "Harvest cilantro leaves throughout late spring and summer."
+                            }
+                        },
+                        {
+                            "zone": ["7a","7b","8a","8b"],
+                            "planting_dates_months": {
+                                "start_indoors": [],
+                                "transplant": [],
+                                "start_outdoors": ["February","March"],
+                                "harvest": ["April","May","June","July"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start seeds directly outdoors in late February to early March.",
+                                "transplant": "Not typically transplanted.",
+                                "start_outdoors": "Once soil temperatures have warmed up and all danger of frost has passed, typically in late February to early March.",
+                                "harvest": "Harvest cilantro leaves from spring to early summer."
+                            }
+                        },
+                        {
+                            "zone": ["9a","9b","10a","10b"],
+                            "planting_dates_months": {
+                                "start_indoors": [],
+                                "transplant": [],
+                                "start_outdoors": ["January","February"],
+                                "harvest": ["February","March","April","May","June"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start seeds directly outdoors in late February to early March.",
+                                "transplant": "Not typically transplanted.",
+                                "start_outdoors": "Once soil temperatures have warmed up and all danger of frost has passed, typically in late February to early March.",
+                                "harvest": "Harvest cilantro leaves from spring to early summer."
+                            }
+                        }
+                        ,
+                        {
+                            "zone": ["11a","11b","12a","12b"],
+                            "planting_dates_months": {
+                                "start_indoors": [],
+                                "transplant": [],
+                                "start_outdoors": ["ALL"],
+                                "harvest": ["ALL"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start seeds directly outdoors or in containers year-round, considering optimal growing conditions.",
+                                "transplant": "Not typically transplanted.",
+                                "start_outdoors": "Once soil temperatures have warmed up, sow seeds or transplant seedlings outdoors as needed.",
+                                "harvest": "Harvest cilantro leaves throughout the year in these warm climates."
+                            }
+                        }
+                    ]
             },
             "varieties": [
                 {
@@ -804,7 +1087,85 @@
                 "planting_depth": "1/4 inch",
                 "spacing": "8-12 inches",
                 "life_cycle": "Perennial",
-                "season": "Warm"
+                "season": "Warm",
+                "planting_zones_times":
+                [
+                        {
+                            "zone": ["3a","3b","4a","4b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["April", "May"],
+                                "transplant": ["May","June"],
+                                "start_outdoors": ["May","June"],
+                                "harvest": ["June","July","August","September"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start seeds indoors 6-8 weeks before the last frost date, typically in mid to late April.",
+                                "transplant": "Transplant seedlings outdoors after the danger of frost has passed, usually in late May to early June.",
+                                "start_outdoors": "Once soil temperatures have warmed up and all danger of frost has passed, typically in late May to early June.",
+                                "harvest": "Harvest thyme leaves throughout the summer and early fall."
+                            }
+                        },
+                        {
+                            "zone": ["5a","5b","6a","6b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["March", "April"],
+                                "transplant": ["May","June"],
+                                "start_outdoors": ["March","April"],
+                                "harvest": ["June","July","August","September"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start seeds indoors 6-8 weeks before the last frost date, typically in early to mid-March.",
+                                "transplant": "Transplant seedlings outdoors after the danger of frost has passed, usually in late May to early June.",
+                                "start_outdoors": "Once soil temperatures have warmed up and all danger of frost has passed, typically in late March to early April.",
+                                "harvest": "Harvest thyme leaves throughout the summer and early fall."
+                            }
+                        },
+                        {
+                            "zone": ["7a","7b","8a","8b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["February", "March"],
+                                "transplant": ["April","May"],
+                                "start_outdoors": ["February","March"],
+                                "harvest": ["May","June","July","August"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start seeds indoors 6-8 weeks before the last frost date, typically in late February to early March.",
+                                "transplant": "Transplant seedlings outdoors after the danger of frost has passed, usually in late April to early May.",
+                                "start_outdoors": "Once soil temperatures have warmed up and all danger of frost has passed, typically in late February to early March.",
+                                "harvest": "Harvest thyme leaves from late spring to early summer."
+                            }
+                        },
+                        {
+                            "zone": ["9a","9b","10a","10b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["January", "February"],
+                                "transplant": ["February","March"],
+                                "start_outdoors": ["January","February"],
+                                "harvest": ["March","April","May","June","July","August"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start seeds indoors 6-8 weeks before the last frost date, typically in early to mid-January.",
+                                "transplant": "Transplant seedlings outdoors after the danger of frost has passed, usually in late February to early March.",
+                                "start_outdoors": "Once soil temperatures have warmed up and all danger of frost has passed, typically in late January to early February.",
+                                "harvest": "Harvest thyme leaves from late winter to late summer."
+                            }
+                        },
+                        {
+                            "zone": "11-12",
+                            "planting_dates_months": {
+                                "start_indoors": ["ALL"],
+                                "transplant": ["ALL"],
+                                "start_outdoors": ["ALL"],
+                                "harvest": ["ALL"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start seeds indoors or sow directly outdoors year-round, depending on local conditions.",
+                                "transplant": "Transplant seedlings outdoors as needed, considering optimal growing conditions and temperature.",
+                                "start_outdoors": "Sow seeds or transplant seedlings outdoors as needed, considering optimal growing conditions and temperature.",
+                                "harvest": "Harvest thyme leaves throughout the year in these warm climates."
+                            }
+                        }
+                    ]
             },
             "varieties": [
                 {
@@ -898,7 +1259,86 @@
                 "planting_depth": "1/4 inch",
                 "spacing": "8-12 inches",
                 "life_cycle": "Perennial",
-                "season": "Cool to Warm"
+                "season": "Cool to Warm",
+                "planting_zones_times":
+                [
+                        {
+                            "zone": ["3a","3b",
+                                "4a","4b "],
+                            "planting_dates_months": {
+                                "start_indoors": ["April", "May"],
+                                "transplant": ["May", "June"],
+                                "start_outdoors": ["May", "June"],
+                                "harvest": ["June", "July", "August", "September"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start seeds indoors 6-8 weeks before the last frost date, typically in mid to late April.",
+                                "transplant": "Transplant seedlings outdoors after the danger of frost has passed, usually in late May to early June.",
+                                "start_outdoors": "Once soil temperatures have warmed up and all danger of frost has passed, typically in late May to early June.",
+                                "harvest": "Harvest mint leaves throughout the summer and early fall."
+                            }
+                        },
+                        {
+                            "zone": ["5a","5b","6a","6b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["March", "April"],
+                                "transplant": ["May", "June"],
+                                "start_outdoors": ["March", "April"],
+                                "harvest": ["June", "July", "August", "September"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start seeds indoors 6-8 weeks before the last frost date, typically in early to mid-March.",
+                                "transplant": "Transplant seedlings outdoors after the danger of frost has passed, usually in late May to early June.",
+                                "start_outdoors": "Once soil temperatures have warmed up and all danger of frost has passed, typically in late March to early April.",
+                                "harvest": "Harvest mint leaves throughout the summer and early fall."
+                            }
+                        },
+                        {
+                            "zone": ["7a","7b","8a","8b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["February", "March"],
+                                "transplant": ["April", "May"],
+                                "start_outdoors": ["February", "March"],
+                                "harvest": ["May", "June", "July", "August"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start seeds indoors 6-8 weeks before the last frost date, typically in late February to early March.",
+                                "transplant": "Transplant seedlings outdoors after the danger of frost has passed, usually in late April to early May.",
+                                "start_outdoors": "Once soil temperatures have warmed up and all danger of frost has passed, typically in late February to early March.",
+                                "harvest": "Harvest mint leaves from late spring to early summer."
+                            }
+                        },
+                        {
+                            "zone": ["9a","9b","10a","10b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["January", "February"],
+                                "transplant": ["February", "March"],
+                                "start_outdoors": ["January", "February"],
+                                "harvest": ["March", "April", "May", "June", "July", "August"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start seeds indoors 6-8 weeks before the last frost date, typically in early to mid-January.",
+                                "transplant": "Transplant seedlings outdoors after the danger of frost has passed, usually in late February to early March.",
+                                "start_outdoors": "Once soil temperatures have warmed up and all danger of frost has passed, typically in late January to early February.",
+                                "harvest": "Harvest mint leaves from late winter to late summer."
+                            }
+                        },
+                        {
+                            "zone": ["11a","11b","12a","12b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["ALL"],
+                                "transplant": ["ALL"],
+                                "start_outdoors": ["ALL"],
+                                "harvest": ["ALL"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start seeds indoors or sow directly outdoors year-round, depending on local conditions.",
+                                "transplant": "Transplant seedlings outdoors as needed, considering optimal growing conditions and temperature.",
+                                "start_outdoors": "Sow seeds or transplant seedlings outdoors as needed, considering optimal growing conditions and temperature.",
+                                "harvest": "Harvest mint leaves throughout the year in these warm climates."
+                            }
+                        }
+                    ]
             },
             "varieties": [
                 {
@@ -1053,7 +1493,85 @@
                 "planting_depth": "1/4 inch",
                 "spacing": "12-18 inches",
                 "life_cycle": "Annual",
-                "season": "Cool to Warm"
+                "season": "Cool to Warm",
+                "planting_zones_times":
+                [
+                        {
+                            "zone": ["3a","3b","4a","4b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["April", "May"],
+                                "transplant": ["May", "June"],
+                                "start_outdoors": ["May", "June"],
+                                "harvest": ["June", "July", "August", "September"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start seeds indoors 6-8 weeks before the last frost date, typically in mid to late April.",
+                                "transplant": "Transplant seedlings outdoors after the danger of frost has passed, usually in late May to early June.",
+                                "start_outdoors": "Once soil temperatures have warmed up and all danger of frost has passed, typically in late May to early June.",
+                                "harvest": "Harvest dill leaves throughout the summer and early fall."
+                            }
+                        },
+                        {
+                            "zone": ["5a","5b","6a","6b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["March", "April"],
+                                "transplant": ["May", "June"],
+                                "start_outdoors": ["March", "April"],
+                                "harvest": ["June", "July", "August", "September"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start seeds indoors 6-8 weeks before the last frost date, typically in early to mid-March.",
+                                "transplant": "Transplant seedlings outdoors after the danger of frost has passed, usually in late May to early June.",
+                                "start_outdoors": "Once soil temperatures have warmed up and all danger of frost has passed, typically in late March to early April.",
+                                "harvest": "Harvest dill leaves throughout the summer and early fall."
+                            }
+                        },
+                        {
+                            "zone": ["7a","7b","8a","8b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["February", "March"],
+                                "transplant": ["April", "May"],
+                                "start_outdoors": ["February", "March"],
+                                "harvest": ["May", "June", "July", "August"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start seeds indoors 6-8 weeks before the last frost date, typically in late February to early March.",
+                                "transplant": "Transplant seedlings outdoors after the danger of frost has passed, usually in late April to early May.",
+                                "start_outdoors": "Once soil temperatures have warmed up and all danger of frost has passed, typically in late February to early March.",
+                                "harvest": "Harvest dill leaves from late spring to early summer."
+                            }
+                        },
+                        {
+                            "zone": ["9a","9b","10a","10b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["January", "February"],
+                                "transplant": ["February", "March"],
+                                "start_outdoors": ["January", "February"],
+                                "harvest": ["March", "April", "May", "June", "July", "August"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start seeds indoors 6-8 weeks before the last frost date, typically in early to mid-January.",
+                                "transplant": "Transplant seedlings outdoors after the danger of frost has passed, usually in late February to early March.",
+                                "start_outdoors": "Once soil temperatures have warmed up and all danger of frost has passed, typically in late January to early February.",
+                                "harvest": "Harvest dill leaves from late winter to late summer."
+                            }
+                        },
+                        {
+                            "zone": ["11a","11b","12a","12b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["ALL"],
+                                "transplant": ["ALL"],
+                                "start_outdoors": ["ALL"],
+                                "harvest": ["ALL"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start seeds indoors or sow directly outdoors year-round, depending on local conditions.",
+                                "transplant": "Transplant seedlings outdoors as needed, considering optimal growing conditions and temperature.",
+                                "start_outdoors": "Sow seeds or transplant seedlings outdoors as needed, considering optimal growing conditions and temperature.",
+                                "harvest": "Harvest dill leaves throughout the year in these warm climates."
+                            }
+                        }
+                    ]
             },
             "varieties": [
                 {
@@ -1151,7 +1669,85 @@
                 "planting_depth": "1/4 inch",
                 "spacing": "12-18 inches",
                 "life_cycle": "Perennial",
-                "season": "Warm"
+                "season": "Warm",
+                "planting_zones_times":
+                [
+                        {
+                            "zone": ["3a","3b","4a","4b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["April", "May"],
+                                "transplant": ["May", "June"],
+                                "start_outdoors": ["May", "June"],
+                                "harvest": ["June", "July", "August", "September"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start seeds indoors 6-8 weeks before the last frost date, typically in mid to late April.",
+                                "transplant": "Transplant seedlings outdoors after the danger of frost has passed, usually in late May to early June.",
+                                "start_outdoors": "Once soil temperatures have warmed up and all danger of frost has passed, typically in late May to early June.",
+                                "harvest": "Harvest sage leaves throughout the summer and early fall."
+                            }
+                        },
+                        {
+                            "zone": ["5a","5b","6a","6b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["March", "April"],
+                                "transplant": ["May", "June"],
+                                "start_outdoors": ["March", "April"],
+                                "harvest": ["June", "July", "August", "September"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start seeds indoors 6-8 weeks before the last frost date, typically in early to mid-March.",
+                                "transplant": "Transplant seedlings outdoors after the danger of frost has passed, usually in late May to early June.",
+                                "start_outdoors": "Once soil temperatures have warmed up and all danger of frost has passed, typically in late March to early April.",
+                                "harvest": "Harvest sage leaves throughout the summer and early fall."
+                            }
+                        },
+                        {
+                            "zone": ["7a","7b","8a","8b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["February", "March"],
+                                "transplant": ["April", "May"],
+                                "start_outdoors": ["February", "March"],
+                                "harvest": ["May", "June", "July", "August"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start seeds indoors 6-8 weeks before the last frost date, typically in late February to early March.",
+                                "transplant": "Transplant seedlings outdoors after the danger of frost has passed, usually in late April to early May.",
+                                "start_outdoors": "Once soil temperatures have warmed up and all danger of frost has passed, typically in late February to early March.",
+                                "harvest": "Harvest sage leaves from late spring to early summer."
+                            }
+                        },
+                        {
+                            "zone": ["9a","9b","10a","10b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["January", "February"],
+                                "transplant": ["February", "March"],
+                                "start_outdoors": ["January", "February"],
+                                "harvest": ["March", "April", "May", "June", "July", "August"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start seeds indoors 6-8 weeks before the last frost date, typically in early to mid-January.",
+                                "transplant": "Transplant seedlings outdoors after the danger of frost has passed, usually in late February to early March.",
+                                "start_outdoors": "Once soil temperatures have warmed up and all danger of frost has passed, typically in late January to early February.",
+                                "harvest": "Harvest sage leaves from late winter to late summer."
+                            }
+                        },
+                        {
+                            "zone": ["11a", "11b", "12a", "12b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["ALL"],
+                                "transplant": ["ALL"],
+                                "start_outdoors": ["ALL"],
+                                "harvest": ["ALL"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start seeds indoors or sow directly outdoors year-round, depending on local conditions.",
+                                "transplant": "Transplant seedlings outdoors as needed, considering optimal growing conditions and temperature.",
+                                "start_outdoors": "Sow seeds or transplant seedlings outdoors as needed, considering optimal growing conditions and temperature.",
+                                "harvest": "Harvest sage leaves throughout the year in these warm climates."
+                            }
+                        }
+                    ]
             },
             "varieties": [
                 {
@@ -1249,7 +1845,85 @@
                 "planting_depth": "1/4 inch",
                 "spacing": "18-24 inches",
                 "life_cycle": "Perennial",
-                "season": "Warm"
+                "season": "Warm",
+                "planting_zones_times":
+                [
+                        {
+                            "zone": ["3a","3b","4a", "4b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["April", "May"],
+                                "transplant": ["May", "June"],
+                                "start_outdoors": ["May", "June"],
+                                "harvest": ["June", "July", "August", "September"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start seeds indoors 6-8 weeks before the last frost date, typically in mid to late April.",
+                                "transplant": "Transplant seedlings outdoors after the danger of frost has passed, usually in late May to early June.",
+                                "start_outdoors": "Once soil temperatures have warmed up and all danger of frost has passed, typically in late May to early June.",
+                                "harvest": "Harvest rosemary leaves throughout the summer and early fall."
+                            }
+                        },
+                        {
+                            "zone": ["5a","5b","6a", "6b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["March", "April"],
+                                "transplant": ["May", "June"],
+                                "start_outdoors": ["March", "April"],
+                                "harvest": ["June", "July", "August", "September"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start seeds indoors 6-8 weeks before the last frost date, typically in early to mid-March.",
+                                "transplant": "Transplant seedlings outdoors after the danger of frost has passed, usually in late May to early June.",
+                                "start_outdoors": "Once soil temperatures have warmed up and all danger of frost has passed, typically in late March to early April.",
+                                "harvest": "Harvest rosemary leaves throughout the summer and early fall."
+                            }
+                        },
+                        {
+                            "zone": ["7a","7b","8a", "8b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["February", "March"],
+                                "transplant": ["April", "May"],
+                                "start_outdoors": ["February", "March"],
+                                "harvest": ["May", "June", "July", "August"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start seeds indoors 6-8 weeks before the last frost date, typically in late February to early March.",
+                                "transplant": "Transplant seedlings outdoors after the danger of frost has passed, usually in late April to early May.",
+                                "start_outdoors": "Once soil temperatures have warmed up and all danger of frost has passed, typically in late February to early March.",
+                                "harvest": "Harvest rosemary leaves from late spring to early summer."
+                            }
+                        },
+                        {
+                            "zone": ["9a","9b","10a", "10b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["January", "February"],
+                                "transplant": ["February", "March"],
+                                "start_outdoors": ["January", "February"],
+                                "harvest": ["March", "April", "May", "June", "July", "August"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start seeds indoors 6-8 weeks before the last frost date, typically in early to mid-January.",
+                                "transplant": "Transplant seedlings outdoors after the danger of frost has passed, usually in late February to early March.",
+                                "start_outdoors": "Once soil temperatures have warmed up and all danger of frost has passed, typically in late January to early February.",
+                                "harvest": "Harvest rosemary leaves from late winter to late summer."
+                            }
+                        },
+                        {
+                            "zone": ["11a","11b","12a", "12b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["ALL"],
+                                "transplant": ["ALL"],
+                                "start_outdoors": ["ALL"],
+                                "harvest": ["ALL"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start seeds indoors or sow directly outdoors year-round, depending on local conditions.",
+                                "transplant": "Transplant seedlings outdoors as needed, considering optimal growing conditions and temperature.",
+                                "start_outdoors": "Sow seeds or transplant seedlings outdoors as needed, considering optimal growing conditions and temperature.",
+                                "harvest": "Harvest rosemary leaves throughout the year in these warm climates."
+                            }
+                        }
+                    ]
             },
             "varieties": [
                 {
@@ -1348,7 +2022,85 @@
                 "planting_depth": "1/4 inch",
                 "spacing": "6-12 inches",
                 "life_cycle": "Perennial",
-                "season": "Cool"
+                "season": "Cool",
+                "planting_zones_times":
+                [
+                        {
+                            "zone": ["3a","3b","4a","4b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["April", "May"],
+                                "transplant": ["May", "June"],
+                                "start_outdoors": ["May", "June"],
+                                "harvest": ["June", "July", "August", "September"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start seeds indoors 6-8 weeks before the last frost date, typically in mid to late April.",
+                                "transplant": "Transplant seedlings outdoors after the danger of frost has passed, usually in late May to early June.",
+                                "start_outdoors": "Once soil temperatures have warmed up and all danger of frost has passed, typically in late May to early June.",
+                                "harvest": "Harvest chives leaves throughout the summer and early fall."
+                            }
+                        },
+                        {
+                            "zone": ["5a","5b","6a","6b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["March", "April"],
+                                "transplant": ["May", "June"],
+                                "start_outdoors": ["March", "April"],
+                                "harvest": ["June", "July", "August", "September"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start seeds indoors 6-8 weeks before the last frost date, typically in early to mid-March.",
+                                "transplant": "Transplant seedlings outdoors after the danger of frost has passed, usually in late May to early June.",
+                                "start_outdoors": "Once soil temperatures have warmed up and all danger of frost has passed, typically in late March to early April.",
+                                "harvest": "Harvest chives leaves throughout the summer and early fall."
+                            }
+                        },
+                        {
+                            "zone": ["7a","7b","8a","8b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["February", "March"],
+                                "transplant": ["April", "May"],
+                                "start_outdoors": ["February", "March"],
+                                "harvest": ["May", "June", "July", "August"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start seeds indoors 6-8 weeks before the last frost date, typically in late February to early March.",
+                                "transplant": "Transplant seedlings outdoors after the danger of frost has passed, usually in late April to early May.",
+                                "start_outdoors": "Once soil temperatures have warmed up and all danger of frost has passed, typically in late February to early March.",
+                                "harvest": "Harvest chives leaves from late spring to early summer."
+                            }
+                        },
+                        {
+                            "zone": ["9a","9b","10a","10b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["January", "February"],
+                                "transplant": ["February", "March"],
+                                "start_outdoors": ["January", "February"],
+                                "harvest": ["March", "April", "May", "June", "July", "August"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start seeds indoors 6-8 weeks before the last frost date, typically in early to mid-January.",
+                                "transplant": "Transplant seedlings outdoors after the danger of frost has passed, usually in late February to early March.",
+                                "start_outdoors": "Once soil temperatures have warmed up and all danger of frost has passed, typically in late January to early February.",
+                                "harvest": "Harvest chives leaves from late winter to late summer."
+                            }
+                        },
+                        {
+                            "zone": ["11a","11b","12a","12b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["ALL"],
+                                "transplant": ["ALL"],
+                                "start_outdoors": ["ALL"],
+                                "harvest": ["ALL"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start seeds indoors or sow directly outdoors year-round, depending on local conditions.",
+                                "transplant": "Transplant seedlings outdoors as needed, considering optimal growing conditions and temperature.",
+                                "start_outdoors": "Sow seeds or transplant seedlings outdoors as needed, considering optimal growing conditions and temperature.",
+                                "harvest": "Harvest chives leaves throughout the year in these warm climates."
+                            }
+                        }
+                    ]
             },
             "varieties": [
                 {
