@@ -1151,7 +1151,7 @@
                             }
                         },
                         {
-                            "zone": "11-12",
+                            "zone": ["11a","11b","12a","12b"],
                             "planting_dates_months": {
                                 "start_indoors": ["ALL"],
                                 "transplant": ["ALL"],
