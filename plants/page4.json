@@ -18,7 +18,84 @@
                 "spacing": "1-2 inches",
                 "life_cycle": "Annual",
                 "season": "Cool",
-                "growing_type": "Compact"
+                "growing_type": "Compact",
+                "planting_zones_times": [
+                    {
+                        "zone": ["3a","3b","4a","4b"],
+                        "planting_dates_months": {
+                            "start_indoors": [],
+                            "transplant": [],
+                            "start_outdoors": ["April", "May"],
+                            "harvest": ["June", "July"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Not Recommended",
+                            "transplant": "Not Recommended",
+                            "start_outdoors": "Directly sow radish seeds outdoors in well-drained soil with full sun exposure, typically in April to May.",
+                            "harvest": "Harvest radishes in early to mid-summer."
+                        }
+                    },
+                    {
+                        "zone": ["5a","5b","6a","6b"],
+                        "planting_dates_months": {
+                            "start_indoors": [],
+                            "transplant": [],
+                            "start_outdoors": ["March", "April"],
+                            "harvest": ["May", "June"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Not Recommended",
+                            "transplant": "Not Recommended",
+                            "start_outdoors": "Directly sow radish seeds outdoors in well-drained soil with full sun exposure, typically in March to April.",
+                            "harvest": "Harvest radishes in late spring to early summer."
+                        }
+                    },
+                    {
+                        "zone": ["7a","7b","8a","8b"],
+                        "planting_dates_months": {
+                            "start_indoors": [],
+                            "transplant": [],
+                            "start_outdoors": ["February", "March"],
+                            "harvest": ["April", "May"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Not Recommended",
+                            "transplant": "Not Recommended",
+                            "start_outdoors": "Directly sow radish seeds outdoors in well-drained soil with full sun exposure, typically in February to March.",
+                            "harvest": "Harvest radishes in spring."
+                        }
+                    },
+                    {
+                        "zone": ["9a","9b","10a","10b"],
+                        "planting_dates_months": {
+                            "start_indoors": [],
+                            "transplant": [],
+                            "start_outdoors": ["Year-round", "Year-round"],
+                            "harvest": ["Year-round", "Year-round"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Not Recommended",
+                            "transplant": "Not Recommended",
+                            "start_outdoors": "Radish seeds can be sown directly outdoors year-round in warm climates.",
+                            "harvest": "Harvest radishes year-round in warm climates."
+                        }
+                    },
+                    {
+                        "zone": ["11a","11b","12a","12b"],
+                        "planting_dates_months": {
+                            "start_indoors": [],
+                            "transplant": [],
+                            "start_outdoors": ["Year-round", "Year-round"],
+                            "harvest": ["Year-round", "Year-round"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Not Recommended",
+                            "transplant": "Not Recommended",
+                            "start_outdoors": "Radish seeds can be sown directly outdoors year-round in warm climates.",
+                            "harvest": "Harvest radishes year-round in warm climates."
+                        }
+                    }
+                ]
             },
             "varieties": [
                 {
@@ -63,7 +140,84 @@
                 "spacing": "2-4 inches",
                 "life_cycle": "Annual",
                 "season": "Cool",
-                "growing_type": "Upright"
+                "growing_type": "Upright",
+                "planting_zones_times": [
+                        {
+                            "zone": ["3a","3b","4a","4b"],
+                            "planting_dates_months": {
+                                "start_indoors": [],
+                                "transplant": [],
+                                "start_outdoors": ["April", "May"],
+                                "harvest": ["July", "August"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Not Recommended",
+                                "transplant": "Not Recommended",
+                                "start_outdoors": "Directly sow beet seeds outdoors in well-drained soil with full sun exposure, typically in April to May.",
+                                "harvest": "Harvest beets in mid to late summer."
+                            }
+                        },
+                        {
+                            "zone": ["5a","5b","6a","6b"],
+                            "planting_dates_months": {
+                                "start_indoors": [],
+                                "transplant": [],
+                                "start_outdoors": ["March", "April"],
+                                "harvest": ["June", "July"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Not Recommended",
+                                "transplant": "Not Recommended",
+                                "start_outdoors": "Directly sow beet seeds outdoors in well-drained soil with full sun exposure, typically in March to April.",
+                                "harvest": "Harvest beets in early to mid-summer."
+                            }
+                        },
+                        {
+                            "zone": ["7a","7b","8a","8b"],
+                            "planting_dates_months": {
+                                "start_indoors": [],
+                                "transplant": [],
+                                "start_outdoors": ["February", "March"],
+                                "harvest": ["May", "June"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Not Recommended",
+                                "transplant": "Not Recommended",
+                                "start_outdoors": "Directly sow beet seeds outdoors in well-drained soil with full sun exposure, typically in February to March.",
+                                "harvest": "Harvest beets in late spring to early summer."
+                            }
+                        },
+                        {
+                            "zone": ["9a","9b","10a","10b"],
+                            "planting_dates_months": {
+                                "start_indoors": [],
+                                "transplant": [],
+                                "start_outdoors": ["Year-round", "Year-round"],
+                                "harvest": ["Year-round", "Year-round"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Not Recommended",
+                                "transplant": "Not Recommended",
+                                "start_outdoors": "Beet seeds can be sown directly outdoors year-round in warm climates.",
+                                "harvest": "Harvest beets year-round in warm climates."
+                            }
+                        },
+                        {
+                            "zone": ["11a","11b","12a","12b"],
+                            "planting_dates_months": {
+                                "start_indoors": [],
+                                "transplant": [],
+                                "start_outdoors": ["Year-round", "Year-round"],
+                                "harvest": ["Year-round", "Year-round"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Not Recommended",
+                                "transplant": "Not Recommended",
+                                "start_outdoors": "Beet seeds can be sown directly outdoors year-round in warm climates.",
+                                "harvest": "Harvest beets year-round in warm climates."
+                            }
+                        }
+                    ]
             },
             "varieties": [
                 {
