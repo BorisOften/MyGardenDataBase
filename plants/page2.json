@@ -17,7 +17,85 @@
                 "planting_depth": "1/4 inch",
                 "spacing": "6-12 inches",
                 "life_cycle": "Annual",
-                "season": "Cool"
+                "season": "Cool",
+                "planting_zones_times":
+                [
+                        {
+                            "zone": ["3a","3b","4a","4b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["April", "May"],
+                                "transplant": ["May", "June"],
+                                "start_outdoors": ["May", "June"],
+                                "harvest": ["June", "July", "August", "September"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start seeds indoors 4-6 weeks before the last frost date, typically in early to mid-April.",
+                                "transplant": "Transplant seedlings outdoors after the danger of frost has passed, usually in late May to early June.",
+                                "start_outdoors": "Sow seeds directly outdoors when soil temperatures are consistently above 40°F (4°C), typically in late May to early June.",
+                                "harvest": "Harvest lettuce leaves throughout the summer and early fall."
+                            }
+                        },
+                        {
+                            "zone": ["5a","5b","46a","46b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["March", "April"],
+                                "transplant": ["April", "May"],
+                                "start_outdoors": ["April", "May"],
+                                "harvest": ["May", "June", "July", "August"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start seeds indoors 4-6 weeks before the last frost date, typically in early to mid-March.",
+                                "transplant": "Transplant seedlings outdoors after the danger of frost has passed, usually in late April to early May.",
+                                "start_outdoors": "Sow seeds directly outdoors when soil temperatures are consistently above 40°F (4°C), typically in late April to early May.",
+                                "harvest": "Harvest lettuce leaves from late spring to early summer."
+                            }
+                        },
+                        {
+                            "zone": ["7a","7b","8a","8b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["February", "March"],
+                                "transplant": ["March", "April"],
+                                "start_outdoors": ["March", "April"],
+                                "harvest": ["April", "May", "June", "July"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start seeds indoors 4-6 weeks before the last frost date, typically in late February to early March.",
+                                "transplant": "Transplant seedlings outdoors after the danger of frost has passed, usually in late March to early April.",
+                                "start_outdoors": "Sow seeds directly outdoors when soil temperatures are consistently above 40°F (4°C), typically in late March to early April.",
+                                "harvest": "Harvest lettuce leaves from early spring to early summer."
+                            }
+                        },
+                        {
+                            "zone": ["9a","9b","10a","10b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["January", "February"],
+                                "transplant": ["February", "March"],
+                                "start_outdoors": ["February", "March"],
+                                "harvest": ["March", "April", "May", "June"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start seeds indoors 4-6 weeks before the last frost date, typically in early to mid-January.",
+                                "transplant": "Transplant seedlings outdoors after the danger of frost has passed, usually in late February to early March.",
+                                "start_outdoors": "Sow seeds directly outdoors when soil temperatures are consistently above 40°F (4°C), typically in late February to early March.",
+                                "harvest": "Harvest lettuce leaves from late winter to late spring."
+                            }
+                        },
+                        {
+                            "zone": ["11a","11b","12a","12b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["ALL"],
+                                "transplant": ["ALL"],
+                                "start_outdoors": ["ALL"],
+                                "harvest": ["ALL"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start seeds indoors year-round for continuous harvest.",
+                                "transplant": "Transplant seedlings outdoors year-round for continuous harvest.",
+                                "start_outdoors": "Sow seeds directly outdoors year-round for continuous harvest.",
+                                "harvest": "Harvest lettuce leaves year-round for continuous harvest."
+                            }
+                        }
+                    ]
             },
             "varieties": [
                 {
@@ -209,7 +287,85 @@
                 "planting_depth": "1-2 inches",
                 "spacing": "4-6 inches",
                 "life_cycle": "Annual",
-                "season": "Warm"
+                "season": "Warm",
+                "planting_zones_times":
+                [
+                        {
+                            "zone": ["3a","3b","4a","4b"],
+                            "planting_dates_months": {
+                                "start_indoors": [],
+                                "transplant": [],
+                                "start_outdoors": ["May", "June"],
+                                "harvest": ["August", "September", "October"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Not Recommended",
+                                "transplant": "Not Recommended",
+                                "start_outdoors": "Sow bean seeds directly outdoors once the soil has warmed up to at least 60°F (15.5°C), typically in late May to early June.",
+                                "harvest": "Harvest beans in late summer and early fall."
+                            }
+                        },
+                        {
+                            "zone": ["5a","5b","6a","6b"],
+                            "planting_dates_months": {
+                                "start_indoors": [],
+                                "transplant": [],
+                                "start_outdoors": ["April", "May"],
+                                "harvest": ["July", "August", "September"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Not Recommended",
+                                "transplant": "Not Recommended",
+                                "start_outdoors": "Sow bean seeds directly outdoors once the soil has warmed up to at least 60°F (15.5°C), typically in April to May.",
+                                "harvest": "Harvest beans in mid to late summer and early fall."
+                            }
+                        },
+                        {
+                            "zone": ["7a","7b","8a","8b"],
+                            "planting_dates_months": {
+                                "start_indoors": [],
+                                "transplant": [],
+                                "start_outdoors": ["March", "April"],
+                                "harvest": ["June", "July", "August"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Not Recommended",
+                                "transplant": "Not Recommended",
+                                "start_outdoors": "Sow bean seeds directly outdoors once the soil has warmed up to at least 60°F (15.5°C), typically in March to April.",
+                                "harvest": "Harvest beans in mid to late summer."
+                            }
+                        },
+                        {
+                            "zone": ["9a","9b","10a","10b"],
+                            "planting_dates_months": {
+                                "start_indoors": [],
+                                "transplant": [],
+                                "start_outdoors": ["February", "March"],
+                                "harvest": ["May", "June", "July"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Not Recommended",
+                                "transplant": "Not Recommended",
+                                "start_outdoors": "Sow bean seeds directly outdoors once the soil has warmed up to at least 60°F (15.5°C), typically in February to March.",
+                                "harvest": "Harvest beans in late spring to mid-summer."
+                            }
+                        },
+                        {
+                            "zone": ["11a","11b","12a","12b"],
+                            "planting_dates_months": {
+                                "start_indoors": [],
+                                "transplant": [],
+                                "start_outdoors": ["ALL"],
+                                "harvest": ["ALL"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Not Recommended",
+                                "transplant": "Not Recommended",
+                                "start_outdoors": "Sow bean seeds directly outdoors year-round in warm climates.",
+                                "harvest": "Harvest beans year-round in warm climates."
+                            }
+                        }
+                    ]
             },
             "varieties": [
                 {
@@ -645,7 +801,85 @@
                 "planting_depth": "1 inch",
                 "spacing": "12-18 inches",
                 "life_cycle": "Annual",
-                "season": "Warm"
+                "season": "Warm",
+                "planting_zones_times":
+                [
+                        {
+                            "zone": ["3a","3b","4a","4b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["April", "May"],
+                                "transplant": ["May", "June"],
+                                "start_outdoors": ["May", "June"],
+                                "harvest": ["July", "August", "September"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start cucumber seeds indoors 3-4 weeks before the last frost date, typically in early to mid-April.",
+                                "transplant": "Transplant cucumber seedlings outdoors after the danger of frost has passed, usually in late May to early June.",
+                                "start_outdoors": "Sow cucumber seeds directly outdoors when soil temperatures are consistently above 60°F (15.5°C), typically in late May to early June.",
+                                "harvest": "Harvest cucumbers from mid-summer to early fall."
+                            }
+                        },
+                        {
+                            "zone": ["5a","5b","6a","6b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["March", "April"],
+                                "transplant": ["April", "May"],
+                                "start_outdoors": ["April", "May"],
+                                "harvest": ["June", "July", "August"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start cucumber seeds indoors 3-4 weeks before the last frost date, typically in early to mid-March.",
+                                "transplant": "Transplant cucumber seedlings outdoors after the danger of frost has passed, usually in late April to early May.",
+                                "start_outdoors": "Sow cucumber seeds directly outdoors when soil temperatures are consistently above 60°F (15.5°C), typically in April to May.",
+                                "harvest": "Harvest cucumbers from late spring to mid-summer."
+                            }
+                        },
+                        {
+                            "zone": ["7a","7b","8a","8b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["February", "March"],
+                                "transplant": ["March", "April"],
+                                "start_outdoors": ["March", "April"],
+                                "harvest": ["May", "June", "July"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start cucumber seeds indoors 3-4 weeks before the last frost date, typically in late February to early March.",
+                                "transplant": "Transplant cucumber seedlings outdoors after the danger of frost has passed, usually in late March to early April.",
+                                "start_outdoors": "Sow cucumber seeds directly outdoors when soil temperatures are consistently above 60°F (15.5°C), typically in March to April.",
+                                "harvest": "Harvest cucumbers from late spring to mid-summer."
+                            }
+                        },
+                        {
+                            "zone": ["9a","9b","10a","10b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["January", "February"],
+                                "transplant": ["February", "March"],
+                                "start_outdoors": ["February", "March"],
+                                "harvest": ["April", "May", "June"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start cucumber seeds indoors 3-4 weeks before the last frost date, typically in early to mid-January.",
+                                "transplant": "Transplant cucumber seedlings outdoors after the danger of frost has passed, usually in late February to early March.",
+                                "start_outdoors": "Sow cucumber seeds directly outdoors when soil temperatures are consistently above 60°F (15.5°C), typically in late February to early March.",
+                                "harvest": "Harvest cucumbers from late spring to early summer."
+                            }
+                        },
+                        {
+                            "zone": ["11a","11b","12a","12b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["ALL"],
+                                "transplant": ["ALL"],
+                                "start_outdoors": ["ALL"],
+                                "harvest": ["ALL"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start cucumber seeds indoors year-round for continuous harvest.",
+                                "transplant": "Transplant cucumber seedlings outdoors year-round for continuous harvest.",
+                                "start_outdoors": "Sow cucumber seeds directly outdoors year-round for continuous harvest.",
+                                "harvest": "Harvest cucumbers year-round for continuous harvest."
+                            }
+                        }
+                    ]
             },
             "varieties": [
                 {
@@ -909,7 +1143,85 @@
                 "planting_depth": "1 inch",
                 "spacing": "12-18 inches",
                 "life_cycle": "Annual",
-                "season": "Warm"
+                "season": "Warm",
+                "planting_zones_times":
+                [
+                        {
+                            "zone": ["3a","3b","4a","4b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["April", "May"],
+                                "transplant": ["May", "June"],
+                                "start_outdoors": ["June", "July"],
+                                "harvest": ["August", "September", "October"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start okra seeds indoors 4-6 weeks before the last frost date, typically in early to mid-April.",
+                                "transplant": "Transplant okra seedlings outdoors after the danger of frost has passed, usually in late May to early June.",
+                                "start_outdoors": "Sow okra seeds directly outdoors once soil temperatures consistently reach 70°F (21°C), typically in June to July.",
+                                "harvest": "Harvest okra pods in late summer and early fall."
+                            }
+                        },
+                        {
+                            "zone": ["5a","5b","6a","6b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["March", "April"],
+                                "transplant": ["April", "May"],
+                                "start_outdoors": ["May", "June"],
+                                "harvest": ["July", "August", "September"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start okra seeds indoors 4-6 weeks before the last frost date, typically in early to mid-March.",
+                                "transplant": "Transplant okra seedlings outdoors after the danger of frost has passed, usually in late April to early May.",
+                                "start_outdoors": "Sow okra seeds directly outdoors once soil temperatures consistently reach 70°F (21°C), typically in May to June.",
+                                "harvest": "Harvest okra pods from mid-summer to early fall."
+                            }
+                        },
+                        {
+                            "zone": ["7a","7b","8a","8b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["February", "March"],
+                                "transplant": ["March", "April"],
+                                "start_outdoors": ["April", "May"],
+                                "harvest": ["June", "July", "August"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start okra seeds indoors 4-6 weeks before the last frost date, typically in late February to early March.",
+                                "transplant": "Transplant okra seedlings outdoors after the danger of frost has passed, usually in March to April.",
+                                "start_outdoors": "Sow okra seeds directly outdoors once soil temperatures consistently reach 70°F (21°C), typically in April to May.",
+                                "harvest": "Harvest okra pods from late spring to mid-summer."
+                            }
+                        },
+                        {
+                            "zone": ["9a","9b","10a","10b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["January", "February"],
+                                "transplant": ["February", "March"],
+                                "start_outdoors": ["February", "March"],
+                                "harvest": ["April", "May", "June"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start okra seeds indoors 4-6 weeks before the last frost date, typically in early to mid-January.",
+                                "transplant": "Transplant okra seedlings outdoors after the danger of frost has passed, usually in late February to early March.",
+                                "start_outdoors": "Sow okra seeds directly outdoors once soil temperatures consistently reach 70°F (21°C), typically in late February to early March.",
+                                "harvest": "Harvest okra pods from late spring to early summer."
+                            }
+                        },
+                        {
+                            "zone": ["11a","11b","12a","12b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["ALL"],
+                                "transplant": ["ALL"],
+                                "start_outdoors": ["ALL"],
+                                "harvest": ["ALL"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start okra seeds indoors year-round for continuous harvest.",
+                                "transplant": "Transplant okra seedlings outdoors year-round for continuous harvest.",
+                                "start_outdoors": "Sow okra seeds directly outdoors year-round for continuous harvest.",
+                                "harvest": "Harvest okra pods year-round for continuous harvest."
+                            }
+                        }
+                    ]
             },
             "varieties": [
                 {
@@ -1146,7 +1458,85 @@
                 "planting_depth": "1-2 inches",
                 "spacing": "12-18 inches",
                 "life_cycle": "Annual",
-                "season": "Warm"
+                "season": "Warm",
+                "planting_zones_times":
+                [
+                    {
+                        "zone": ["3a","3b","4a","4b"],
+                        "planting_dates_months": {
+                            "start_indoors": [],
+                            "transplant": [],
+                            "start_outdoors": ["May", "June"],
+                            "harvest": ["September", "October"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Not Recommended",
+                            "transplant": "Not Recommended",
+                            "start_outdoors": "Directly sow corn seeds outdoors once soil temperatures consistently reach at least 60°F (15.5°C), typically in late May to early June.",
+                            "harvest": "Harvest corn in late summer and early fall."
+                        }
+                    },
+                    {
+                        "zone": ["5a","5b","6a","6b"],
+                        "planting_dates_months": {
+                            "start_indoors": [],
+                            "transplant": [],
+                            "start_outdoors": ["April", "May"],
+                            "harvest": ["August", "September"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Not Recommended",
+                            "transplant": "Not Recommended",
+                            "start_outdoors": "Directly sow corn seeds outdoors once soil temperatures consistently reach at least 60°F (15.5°C), typically in April to May.",
+                            "harvest": "Harvest corn in late summer and early fall."
+                        }
+                    },
+                    {
+                        "zone": ["7a","7b","8a","8b"],
+                        "planting_dates_months": {
+                            "start_indoors": [],
+                            "transplant": [],
+                            "start_outdoors": ["April", "May"],
+                            "harvest": ["July", "August"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Not Recommended",
+                            "transplant": "Not Recommended",
+                            "start_outdoors": "Directly sow corn seeds outdoors once soil temperatures consistently reach at least 60°F (15.5°C), typically in April to May.",
+                            "harvest": "Harvest corn in mid to late summer."
+                        }
+                    },
+                    {
+                        "zone": ["9a","9b","10a","10b"],
+                        "planting_dates_months": {
+                            "start_indoors": [],
+                            "transplant": [],
+                            "start_outdoors": ["March", "April"],
+                            "harvest": ["June", "July"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Not Recommended",
+                            "transplant": "Not Recommended",
+                            "start_outdoors": "Directly sow corn seeds outdoors once soil temperatures consistently reach at least 60°F (15.5°C), typically in March to April.",
+                            "harvest": "Harvest corn in late spring to mid-summer."
+                        }
+                    },
+                    {
+                        "zone": ["11a","11b","12a","12b"],
+                        "planting_dates_months": {
+                            "start_indoors": [],
+                            "transplant": [],
+                            "start_outdoors": ["Year-round", "Year-round"],
+                            "harvest": ["Year-round", "Year-round"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Not Recommended",
+                            "transplant": "Not Recommended",
+                            "start_outdoors": "Directly sow corn seeds outdoors year-round in warm climates.",
+                            "harvest": "Harvest corn year-round in warm climates."
+                        }
+                    }
+                ]
             },
             "varieties": [
                 {
@@ -1302,7 +1692,85 @@
                 "planting_depth": "1/4 - 1/2 inch",
                 "spacing": "2-4 inches",
                 "life_cycle": "Biennial",
-                "season": "Cool"
+                "season": "Cool",
+                "planting_zones_times":
+                [
+                        {
+                            "zone": ["3a","3b","4a","4b"],
+                            "planting_dates_months": {
+                                "start_indoors": [],
+                                "transplant": [],
+                                "start_outdoors": ["April", "May"],
+                                "harvest": ["August", "September", "October"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Not Recommended",
+                                "transplant": "Not Recommended",
+                                "start_outdoors": "Directly sow carrot seeds outdoors once the soil can be worked in early to mid-April.",
+                                "harvest": "Harvest carrots in late summer and early fall."
+                            }
+                        },
+                        {
+                            "zone": ["5a","5b","6a","6b"],
+                            "planting_dates_months": {
+                                "start_indoors": [],
+                                "transplant": [],
+                                "start_outdoors": ["March", "April"],
+                                "harvest": ["June", "July", "August"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Not Recommended",
+                                "transplant": "Not Recommended",
+                                "start_outdoors": "Directly sow carrot seeds outdoors once the soil can be worked in late March to early April.",
+                                "harvest": "Harvest carrots from mid-summer to early fall."
+                            }
+                        },
+                        {
+                            "zone": ["7a","7b","8a","8b"],
+                            "planting_dates_months": {
+                                "start_indoors": [],
+                                "transplant": [],
+                                "start_outdoors": ["February", "March"],
+                                "harvest": ["May", "June", "July"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Not Recommended",
+                                "transplant": "Not Recommended",
+                                "start_outdoors": "Directly sow carrot seeds outdoors once the soil can be worked in late February to early March.",
+                                "harvest": "Harvest carrots from late spring to mid-summer."
+                            }
+                        },
+                        {
+                            "zone": ["9a","9b","10a","10b"],
+                            "planting_dates_months": {
+                                "start_indoors": [],
+                                "transplant": [],
+                                "start_outdoors": ["January", "February"],
+                                "harvest": ["April", "May", "June"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Not Recommended",
+                                "transplant": "Not Recommended",
+                                "start_outdoors": "Directly sow carrot seeds outdoors once the soil can be worked in January to February.",
+                                "harvest": "Harvest carrots from late spring to early summer."
+                            }
+                        },
+                        {
+                            "zone": ["11a","11b","12a","12b"],
+                            "planting_dates_months": {
+                                "start_indoors": [],
+                                "transplant": [],
+                                "start_outdoors": ["ALL"],
+                                "harvest": ["ALL"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Not Recommended",
+                                "transplant": "Not Recommended",
+                                "start_outdoors": "Directly sow carrot seeds outdoors year-round in warm climates.",
+                                "harvest": "Harvest carrots year-round in warm climates."
+                            }
+                        }
+                    ]
             },
             "varieties": [
                 {
@@ -1485,7 +1953,86 @@
                 "spacing": "3-5 feet",
                 "life_cycle": "Annual",
                 "season": "Warm",
-                "growing_type": "Trailing"
+                "growing_type": "Trailing",
+                "planting_zones_times":
+                [
+                        {
+                            "zone": ["3a","3b","4a","4b"],
+                            "planting_dates_months": {
+                                "start_indoors": [],
+                                "transplant": [],
+                                "start_outdoors": ["May", "June"],
+                                "harvest": ["August", "September", "October"]
+                            },
+                            "planting_dates_description": {
+                                
+                                    "start_indoors": "Not Recommended",
+                                    "transplant": "Not Recommended",
+                                "start_outdoors": "Plant watermelon seeds or seedlings outdoors once soil temperatures consistently reach at least 70°F (21°C), typically in late May to early June.",
+                                "harvest": "Harvest watermelon in late summer and early fall."
+                            }
+                        },
+                        {
+                            "zone": ["5a","5b","6a","6b"],
+                            "planting_dates_months": {
+                                "start_indoors": [],
+                                "transplant": [],
+                                "start_outdoors": ["April", "May"],
+                                "harvest": ["July", "August", "September"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Not Recommended",
+                                "transplant": "Not Recommended",
+                                "start_outdoors": "Plant watermelon seeds or seedlings outdoors once soil temperatures consistently reach at least 70°F (21°C), typically in April to May.",
+                                "harvest": "Harvest watermelon from mid-summer to early fall."
+                            }
+                        },
+                        {
+                            "zone": ["7a","7b","8a","8b"],
+                            "planting_dates_months": {
+                                "start_indoors": [],
+                                "transplant": [],
+                                "start_outdoors": ["April", "May"],
+                                "harvest": ["June", "July", "August"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Not Recommended",
+                                "transplant": "Not Recommended",
+                                "start_outdoors": "Plant watermelon seeds or seedlings outdoors once soil temperatures consistently reach at least 70°F (21°C), typically in April to May.",
+                                "harvest": "Harvest watermelon from mid to late summer."
+                            }
+                        },
+                        {
+                            "zone": ["9a","9b","10a","10b"],
+                            "planting_dates_months": {
+                                "start_indoors": [],
+                                "transplant": [],
+                                "start_outdoors": ["March", "April"],
+                                "harvest": ["May", "June", "July"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Not Recommended",
+                                "transplant": "Not Recommended",
+                                "start_outdoors": "Plant watermelon seeds or seedlings outdoors once soil temperatures consistently reach at least 70°F (21°C), typically in March to April.",
+                                "harvest": "Harvest watermelon from late spring to mid-summer."
+                            }
+                        },
+                        {
+                            "zone": ["11a","11b","12a","12b"],
+                            "planting_dates_months": {
+                                "start_indoors": [],
+                                "transplant": [],
+                                "start_outdoors": ["ALL"],
+                                "harvest": ["ALL"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Not Recommended",
+                                "transplant": "Not Recommended",
+                                "start_outdoors": "Plant watermelon seeds or seedlings outdoors year-round in warm climates.",
+                                "harvest": "Harvest watermelon year-round in warm climates."
+                            }
+                        }
+                    ]
             },
             "varieties": [
                 {
@@ -1651,7 +2198,85 @@
                 "spacing": "3-5 feet",
                 "life_cycle": "Annual",
                 "season": "Warm",
-                "growing_type": "Bushy"
+                "growing_type": "Bushy",
+                "planting_zones_times":
+                [
+                        {
+                            "zone": ["3a","3b","4a","4b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["April", "May"],
+                                "transplant": ["May", "June"],
+                                "start_outdoors": ["June", "July"],
+                                "harvest": ["August", "September", "October"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start squash seeds indoors 3-4 weeks before the last frost date, typically in early to mid-April.",
+                                "transplant": "Transplant squash seedlings outdoors after the danger of frost has passed, usually in late May to early June.",
+                                "start_outdoors": "Sow squash seeds directly outdoors once soil temperatures consistently reach at least 60°F (15.5°C), typically in June to July.",
+                                "harvest": "Harvest squash in late summer and early fall."
+                            }
+                        },
+                        {
+                            "zone": ["5a","5b","6a","6b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["March", "April"],
+                                "transplant": ["April", "May"],
+                                "start_outdoors": ["May", "June"],
+                                "harvest": ["July", "August", "September"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start squash seeds indoors 3-4 weeks before the last frost date, typically in early to mid-March.",
+                                "transplant": "Transplant squash seedlings outdoors after the danger of frost has passed, usually in late April to early May.",
+                                "start_outdoors": "Sow squash seeds directly outdoors once soil temperatures consistently reach at least 60°F (15.5°C), typically in May to June.",
+                                "harvest": "Harvest squash from mid-summer to early fall."
+                            }
+                        },
+                        {
+                            "zone": ["7a","7b","8a","8b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["February", "March"],
+                                "transplant": ["March", "April"],
+                                "start_outdoors": ["April", "May"],
+                                "harvest": ["June", "July", "August"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start squash seeds indoors 3-4 weeks before the last frost date, typically in late February to early March.",
+                                "transplant": "Transplant squash seedlings outdoors after the danger of frost has passed, usually in March to April.",
+                                "start_outdoors": "Sow squash seeds directly outdoors once soil temperatures consistently reach at least 60°F (15.5°C), typically in April to May.",
+                                "harvest": "Harvest squash from late spring to mid-summer."
+                            }
+                        },
+                        {
+                            "zone": ["9a","9b","10a","10b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["January", "February"],
+                                "transplant": ["February", "March"],
+                                "start_outdoors": ["February", "March"],
+                                "harvest": ["April", "May", "June"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start squash seeds indoors 3-4 weeks before the last frost date, typically in early to mid-January.",
+                                "transplant": "Transplant squash seedlings outdoors after the danger of frost has passed, usually in late February to early March.",
+                                "start_outdoors": "Sow squash seeds directly outdoors once soil temperatures consistently reach at least 60°F (15.5°C), typically in late February to early March.",
+                                "harvest": "Harvest squash from late spring to early summer."
+                            }
+                        },
+                        {
+                            "zone": ["11a","11b","12a","12b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["ALL"],
+                                "transplant": ["ALL"],
+                                "start_outdoors": ["ALL"],
+                                "harvest": ["ALL"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start squash seeds indoors year-round for continuous harvest.",
+                                "transplant": "Transplant squash seedlings outdoors year-round for continuous harvest.",
+                                "start_outdoors": "Sow squash seeds directly outdoors year-round for continuous harvest.",
+                                "harvest": "Harvest squash year-round for continuous harvest."
+                            }
+                        }
+                    ]
             },
             "varieties": [
                 {
@@ -1771,7 +2396,85 @@
                 "spacing": "3-5 feet",
                 "life_cycle": "Annual",
                 "season": "Warm",
-                "growing_type": "Vining"
+                "growing_type": "Vining",
+                "planting_zones_times":
+                [
+                        {
+                            "zone": ["3a","3b","4a","4b"],
+                            "planting_dates_months": {
+                                "start_indoors": [],
+                                "transplant": [],
+                                "start_outdoors": ["May", "June"],
+                                "harvest": ["August", "September", "October"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Not Recommended",
+                                "transplant": "Not Recommended",
+                                "start_outdoors": "Directly sow cantaloupe seeds outdoors once soil temperatures consistently reach at least 70°F (21°C), typically in late May to early June.",
+                                "harvest": "Harvest cantaloupe in late summer and early fall."
+                            }
+                        },
+                        {
+                            "zone": ["5a","5b","6a","6b"],
+                            "planting_dates_months": {
+                                "start_indoors": [],
+                                "transplant": [],
+                                "start_outdoors": ["April", "May"],
+                                "harvest": ["July", "August", "September"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Not Recommended",
+                                "transplant": "Not Recommended",
+                                "start_outdoors": "Directly sow cantaloupe seeds outdoors once soil temperatures consistently reach at least 70°F (21°C), typically in April to May.",
+                                "harvest": "Harvest cantaloupe from mid-summer to early fall."
+                            }
+                        },
+                        {
+                            "zone": ["7a","7b","8a","8b"],
+                            "planting_dates_months": {
+                                "start_indoors": [],
+                                "transplant": [],
+                                "start_outdoors": ["April", "May"],
+                                "harvest": ["June", "July", "August"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Not Recommended",
+                                "transplant": "Not Recommended",
+                                "start_outdoors": "Directly sow cantaloupe seeds outdoors once soil temperatures consistently reach at least 70°F (21°C), typically in April to May.",
+                                "harvest": "Harvest cantaloupe from mid to late summer."
+                            }
+                        },
+                        {
+                            "zone": ["9a","9b","10a","10b"],
+                            "planting_dates_months": {
+                                "start_indoors": [],
+                                "transplant": [],
+                                "start_outdoors": ["March", "April"],
+                                "harvest": ["May", "June", "July"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Not Recommended",
+                                "transplant": "Not Recommended",
+                                "start_outdoors": "Directly sow cantaloupe seeds outdoors once soil temperatures consistently reach at least 70°F (21°C), typically in March to April.",
+                                "harvest": "Harvest cantaloupe from late spring to mid-summer."
+                            }
+                        },
+                        {
+                            "zone": ["11a","11b","12a","12b"],
+                            "planting_dates_months": {
+                                "start_indoors": [],
+                                "transplant": [],
+                                "start_outdoors": ["ALL"],
+                                "harvest": ["ALL"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Not Recommended",
+                                "transplant": "Not Recommended",
+                                "start_outdoors": "Directly sow cantaloupe seeds outdoors year-round in warm climates.",
+                                "harvest": "Harvest cantaloupe year-round in warm climates."
+                            }
+                        }
+                    ]
             },
             "varieties": [
                 {
@@ -1912,7 +2615,85 @@
                 "spacing": "4-6 inches",
                 "life_cycle": "Annual",
                 "season": "Cool",
-                "growing_type": "Climbing"
+                "growing_type": "Climbing",
+                "planting_zones_times":
+                [
+                        {
+                            "zone": ["3a","3b","4a","4b"],
+                            "planting_dates_months": {
+                                "start_indoors": [],
+                                "transplant": [],
+                                "start_outdoors": ["March", "April"],
+                                "harvest": ["June", "July"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Not Recommended",
+                                "transplant": "Not Recommended",
+                                "start_outdoors": "Directly sow pea seeds outdoors as soon as the soil can be worked in March to April.",
+                                "harvest": "Harvest peas in late spring to early summer."
+                            }
+                        },
+                        {
+                            "zone": ["5a","5b","6a","6b"],
+                            "planting_dates_months": {
+                                "start_indoors": [],
+                                "transplant": [],
+                                "start_outdoors": ["March", "April"],
+                                "harvest": ["May", "June"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Not Recommended",
+                                "transplant": "Not Recommended",
+                                "start_outdoors": "Directly sow pea seeds outdoors as soon as the soil can be worked in March to April.",
+                                "harvest": "Harvest peas in late spring to early summer."
+                            }
+                        },
+                        {
+                            "zone": ["7a","7b","8a","8b"],
+                            "planting_dates_months": {
+                                "start_indoors": [],
+                                "transplant": [],
+                                "start_outdoors": ["February", "March"],
+                                "harvest": ["April", "May"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Not Recommended",
+                                "transplant": "Not Recommended",
+                                "start_outdoors": "Directly sow pea seeds outdoors as soon as the soil can be worked in February to March.",
+                                "harvest": "Harvest peas in early to mid-spring."
+                            }
+                        },
+                        {
+                            "zone": ["9a","9b","10a","10b"],
+                            "planting_dates_months": {
+                                "start_indoors": [],
+                                "transplant": [],
+                                "start_outdoors": ["January", "February"],
+                                "harvest": ["March", "April"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Not Recommended",
+                                "transplant": "Not Recommended",
+                                "start_outdoors": "Directly sow pea seeds outdoors as soon as the soil can be worked in January to February.",
+                                "harvest": "Harvest peas in late winter to early spring."
+                            }
+                        },
+                        {
+                            "zone": ["11a","11b","12a","12b"],
+                            "planting_dates_months": {
+                                "start_indoors": [],
+                                "transplant": [],
+                                "start_outdoors": ["ALL"],
+                                "harvest": ["ALL"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Not Recommended",
+                                "transplant": "Not Recommended",
+                                "start_outdoors": "Directly sow pea seeds outdoors year-round in warm climates.",
+                                "harvest": "Harvest peas year-round in warm climates."
+                            }
+                        }
+                    ]
             },
             "varieties": [
                 {

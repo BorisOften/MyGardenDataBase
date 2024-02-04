@@ -18,7 +18,85 @@
                 "spacing": "18-24 inches",
                 "life_cycle": "Annual",
                 "season": "Warm",
-                "growing_type": "Upright"
+                "growing_type": "Upright",
+                "planting_zones_times":
+                [
+                        {
+                            "zone": ["3a","3b","4a","4b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["February", "March"],
+                                "transplant": ["May", "June"],
+                                "start_outdoors": ["June", "July"],
+                                "harvest": ["August", "September", "October"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start pepper seeds indoors 8-10 weeks before the last frost date, typically in late February to early March.",
+                                "transplant": "Transplant pepper seedlings outdoors after the danger of frost has passed, usually in late May to early June.",
+                                "start_outdoors": "Plant pepper seedlings outdoors once soil temperatures consistently reach at least 70°F (21°C), typically in June to July.",
+                                "harvest": "Harvest peppers in late summer and early fall."
+                            }
+                        },
+                        {
+                            "zone": ["5a","5b","6a","6b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["January", "February"],
+                                "transplant": ["April", "May"],
+                                "start_outdoors": ["May", "June"],
+                                "harvest": ["July", "August", "September"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start pepper seeds indoors 8-10 weeks before the last frost date, typically in January to February.",
+                                "transplant": "Transplant pepper seedlings outdoors after the danger of frost has passed, usually in April to May.",
+                                "start_outdoors": "Plant pepper seedlings outdoors once soil temperatures consistently reach at least 70°F (21°C), typically in May to June.",
+                                "harvest": "Harvest peppers from mid-summer to early fall."
+                            }
+                        },
+                        {
+                            "zone": ["7a","7b","8a","8b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["December", "January"],
+                                "transplant": ["March", "April"],
+                                "start_outdoors": ["April", "May"],
+                                "harvest": ["June", "July", "August"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start pepper seeds indoors 8-10 weeks before the last frost date, typically in December to January.",
+                                "transplant": "Transplant pepper seedlings outdoors after the danger of frost has passed, usually in March to April.",
+                                "start_outdoors": "Plant pepper seedlings outdoors once soil temperatures consistently reach at least 70°F (21°C), typically in April to May.",
+                                "harvest": "Harvest peppers from late spring to mid-summer."
+                            }
+                        },
+                        {
+                            "zone": ["9a","9b","10a","10b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["October", "November"],
+                                "transplant": ["February", "March"],
+                                "start_outdoors": ["March", "April"],
+                                "harvest": ["May", "June", "July"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start pepper seeds indoors 8-10 weeks before the last frost date, typically in October to November.",
+                                "transplant": "Transplant pepper seedlings outdoors after the danger of frost has passed, usually in February to March.",
+                                "start_outdoors": "Plant pepper seedlings outdoors once soil temperatures consistently reach at least 70°F (21°C), typically in March to April.",
+                                "harvest": "Harvest peppers from late spring to mid-summer."
+                            }
+                        },
+                        {
+                            "zone": ["11a","11b","12a","12b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["ALL"],
+                                "transplant": ["ALL"],
+                                "start_outdoors": ["ALL"],
+                                "harvest": ["ALL"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start pepper seeds indoors year-round for continuous harvest.",
+                                "transplant": "Transplant pepper seedlings outdoors year-round for continuous harvest.",
+                                "start_outdoors": "Plant pepper seedlings outdoors year-round for continuous harvest.",
+                                "harvest": "Harvest peppers year-round for continuous harvest."
+                            }
+                        }
+                    ]
             },
             "varieties": [
                 {
@@ -64,7 +142,84 @@
                 "spacing": "4-6 inches",
                 "life_cycle": "Biennial",
                 "season": "Cool",
-                "growing_type": "Upright"
+                "growing_type": "Upright",
+                "planting_zones_times": [
+                    {
+                        "zone": ["3a","3b","4a", "4b"],
+                        "planting_dates_months": {
+                            "start_indoors": ["February", "March"],
+                            "transplant": [],
+                            "start_outdoors": ["April", "May"],
+                            "harvest": ["August", "September"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Start onion seeds indoors 8-10 weeks before the last frost date, typically in late February to early March.",
+                            "transplant": "Onions are typically directly sown outdoors or started from sets.",
+                            "start_outdoors": "Plant onion sets or seedlings outdoors once soil can be worked in April to May.",
+                            "harvest": "Harvest onions in late summer."
+                        }
+                    },
+                    {
+                        "zone": ["5a","5b","6a", "6b"],
+                        "planting_dates_months": {
+                            "start_indoors": ["January", "February"],
+                            "transplant": [],
+                            "start_outdoors": ["March", "April"],
+                            "harvest": ["July", "August"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Start onion seeds indoors 8-10 weeks before the last frost date, typically in January to February.",
+                            "transplant": "Onions are typically directly sown outdoors or started from sets.",
+                            "start_outdoors": "Plant onion sets or seedlings outdoors once soil can be worked in March to April.",
+                            "harvest": "Harvest onions in mid-summer."
+                        }
+                    },
+                    {
+                        "zone": ["7a","7b","8a", "8b"],
+                        "planting_dates_months": {
+                            "start_indoors": ["December", "January"],
+                            "transplant": [],
+                            "start_outdoors": ["January", "February"],
+                            "harvest": ["June", "July"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Start onion seeds indoors 8-10 weeks before the last frost date, typically in December to January.",
+                            "transplant": "Onions are typically directly sown outdoors or started from sets.",
+                            "start_outdoors": "Plant onion sets or seedlings outdoors once soil can be worked in January to February.",
+                            "harvest": "Harvest onions in late spring to mid-summer."
+                        }
+                    },
+                    {
+                        "zone": ["9a","9b","10a", "10b"],
+                        "planting_dates_months": {
+                            "start_indoors": ["October", "November"],
+                            "transplant": [],
+                            "start_outdoors": ["November", "December"],
+                            "harvest": ["April", "May"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Start onion seeds indoors 8-10 weeks before the last frost date, typically in October to November.",
+                            "transplant": "Onions are typically directly sown outdoors or started from sets.",
+                            "start_outdoors": "Plant onion sets or seedlings outdoors once soil can be worked in November to December.",
+                            "harvest": "Harvest onions in late spring."
+                        }
+                    },
+                    {
+                        "zone": ["11a","11b","12a", "12b"],
+                        "planting_dates_months": {
+                            "start_indoors": ["ALL"],
+                            "transplant": [],
+                            "start_outdoors": ["ALL"],
+                            "harvest": ["ALL"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Onions can be started from seeds indoors year-round.",
+                            "transplant": "Onions are typically directly sown outdoors or started from sets.",
+                            "start_outdoors": "Onion sets or seedlings can be planted outdoors year-round in warm climates.",
+                            "harvest": "Harvest onions year-round in warm climates."
+                        }
+                    }
+                ]
             },
             "varieties": [
                 {
@@ -112,7 +267,84 @@
                 "spacing": "12-18 inches",
                 "life_cycle": "Biennial",
                 "season": "Cool",
-                "growing_type": "Upright"
+                "growing_type": "Upright",
+                "planting_zones_times": [
+                    {
+                        "zone": ["3a","3b", "4a","4b"],
+                        "planting_dates_months": {
+                            "start_indoors": [],
+                            "transplant": [],
+                            "start_outdoors": ["April", "May"],
+                            "harvest": ["July", "August", "September", "October"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Not Recommended",
+                            "transplant": "Not Recommended",
+                            "start_outdoors": "Directly sow kale seeds outdoors as soon as the soil can be worked in April to May.",
+                            "harvest": "Harvest kale in summer and fall months."
+                        }
+                    },
+                    {
+                        "zone": ["5a","5b", "6a","6b"],
+                        "planting_dates_months": {
+                            "start_indoors": [],
+                            "transplant": [],
+                            "start_outdoors": ["March", "April"],
+                            "harvest": ["June", "July", "August", "September"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Not Recommended",
+                            "transplant": "Not Recommended",
+                            "start_outdoors": "Directly sow kale seeds outdoors as soon as the soil can be worked in March to April.",
+                            "harvest": "Harvest kale from late spring to early fall."
+                        }
+                    },
+                    {
+                        "zone": ["7a","7b", "8a","8b"],
+                        "planting_dates_months": {
+                            "start_indoors": [],
+                            "transplant": [],
+                            "start_outdoors": ["February", "March"],
+                            "harvest": ["May", "June", "July", "August"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Not Recommended",
+                            "transplant": "Not Recommended",
+                            "start_outdoors": "Directly sow kale seeds outdoors as soon as the soil can be worked in February to March.",
+                            "harvest": "Harvest kale from spring to mid-summer."
+                        }
+                    },
+                    {
+                        "zone": ["9a","9b", "10a","10b"],
+                        "planting_dates_months": {
+                            "start_indoors": [],
+                            "transplant": [],
+                            "start_outdoors": ["December", "January"],
+                            "harvest": ["March", "April", "May", "June"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Not Recommended",
+                            "transplant": "Not Recommended",
+                            "start_outdoors": "Directly sow kale seeds outdoors as soon as the soil can be worked in December to January.",
+                            "harvest": "Harvest kale from late winter to early summer."
+                        }
+                    },
+                    {
+                        "zone": ["11a","11b", "12a","12b"],
+                        "planting_dates_months": {
+                            "start_indoors": [],
+                            "transplant": [],
+                            "start_outdoors": ["ALL"],
+                            "harvest": ["ALL"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Not Recommended",
+                            "transplant": "Not Recommended",
+                            "start_outdoors": "Directly sow kale seeds outdoors year-round in warm climates.",
+                            "harvest": "Harvest kale year-round in warm climates."
+                        }
+                    }
+                ]
             },
             "varieties": [
                 {
@@ -159,7 +391,85 @@
                 "spacing": "12-15 inches",
                 "life_cycle": "Perennial",
                 "season": "Cool",
-                "growing_type": "Bushy"
+                "growing_type": "Bushy",
+                "planting_zones_times": [
+                    {
+                        "zone": ["3a","3b","4a","4b"],
+                        "planting_dates_months": {
+                            "start_indoors": [],
+                            "transplant": [],
+                            "start_outdoors": ["April", "May"],
+                            "harvest": ["August", "September", "October"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Not Recommended",
+                            "transplant": "Not Recommended",
+                            "start_outdoors": "Plant potatoes outdoors once soil temperatures consistently reach at least 45°F (7°C), typically in April to May.",
+                            "harvest": "Harvest potatoes in late summer and early fall."
+                        }
+                    },
+                    {
+                        "zone": ["5a","5b","6a","6b"],
+                        "planting_dates_months": {
+                            "start_indoors": [],
+                            "transplant": [],
+                            "start_outdoors": ["March", "April"],
+                            "harvest": ["July", "August", "September"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Not Recommended",
+                            "transplant": "Not Recommended",
+                            "start_outdoors": "Plant potatoes outdoors once soil temperatures consistently reach at least 45°F (7°C), typically in March to April.",
+                            "harvest": "Harvest potatoes in mid to late summer."
+                        }
+                    },
+                    {
+                        "zone": ["7a","7b","8a","8b"],
+                        "planting_dates_months": {
+                            "start_indoors": [],
+                            "transplant": [],
+                            "start_outdoors": ["February", "March"],
+                            "harvest": ["June", "July", "August"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Not Recommended",
+                            "transplant": "Not Recommended",
+                            "start_outdoors": "Plant potatoes outdoors once soil temperatures consistently reach at least 45°F (7°C), typically in February to March.",
+                            "harvest": "Harvest potatoes in summer."
+                        }
+                    },
+                    {
+                        "zone": ["9a","9b","10a","10b"],
+                        "planting_dates_months": {
+                            "start_indoors": [],
+                            "transplant": [],
+                            "start_outdoors": ["December", "January"],
+                            "harvest": ["April", "May", "June"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Not Recommended",
+                            "transplant": "Not Recommended",
+                            "start_outdoors": "Plant potatoes outdoors once soil temperatures consistently reach at least 45°F (7°C), typically in December to January.",
+                            "harvest": "Harvest potatoes in spring to early summer."
+                        }
+                    },
+                    {
+                        "zone": ["11a","11b","12a","12b"],
+                        "planting_dates_months": {
+                            "start_indoors": [],
+                            "transplant": [],
+                            "start_outdoors": ["Year-round", "Year-round"],
+                            "harvest": ["Year-round", "Year-round"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Not Recommended",
+                            "transplant": "Not Recommended",
+                            "start_outdoors": "Potatoes can be planted outdoors year-round in warm climates.",
+                            "harvest": "Harvest potatoes year-round in warm climates."
+                        }
+                    }
+                ]
+                
             },
             "varieties": [
                 {
@@ -206,7 +516,84 @@
                 "spacing": "12-15 inches",
                 "life_cycle": "Perennial",
                 "season": "Warm",
-                "growing_type": "Vining"
+                "growing_type": "Vining",
+                "planting_zones_times": [
+                    {
+                        "zone": ["3a","3b","4a","4b"],
+                        "planting_dates_months": {
+                            "start_indoors": [],
+                            "transplant": [],
+                            "start_outdoors": ["May", "June"],
+                            "harvest": ["September", "October"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Not Recommended",
+                            "transplant": "Not Recommended",
+                            "start_outdoors": "Plant sweet potatoes outdoors once soil temperatures consistently reach at least 60°F (15°C), typically in May to June.",
+                            "harvest": "Harvest sweet potatoes in late summer to early fall."
+                        }
+                    },
+                    {
+                        "zone": ["5a","5b","6a","6b"],
+                        "planting_dates_months": {
+                            "start_indoors": [],
+                            "transplant": [],
+                            "start_outdoors": ["April", "May"],
+                            "harvest": ["September", "October"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Not Recommended",
+                            "transplant": "Not Recommended",
+                            "start_outdoors": "Plant sweet potatoes outdoors once soil temperatures consistently reach at least 60°F (15°C), typically in April to May.",
+                            "harvest": "Harvest sweet potatoes in late summer to early fall."
+                        }
+                    },
+                    {
+                        "zone": ["7a","7b","8a","8b"],
+                        "planting_dates_months": {
+                            "start_indoors": [],
+                            "transplant": [],
+                            "start_outdoors": ["April", "May"],
+                            "harvest": ["August", "September"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Not Recommended",
+                            "transplant": "Not Recommended",
+                            "start_outdoors": "Plant sweet potatoes outdoors once soil temperatures consistently reach at least 60°F (15°C), typically in April to May.",
+                            "harvest": "Harvest sweet potatoes in late summer."
+                        }
+                    },
+                    {
+                        "zone": ["9a","9b","10a","10b"],
+                        "planting_dates_months": {
+                            "start_indoors": [],
+                            "transplant": [],
+                            "start_outdoors": ["March", "April"],
+                            "harvest": ["June", "July"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Not Recommended",
+                            "transplant": "Not Recommended",
+                            "start_outdoors": "Plant sweet potatoes outdoors once soil temperatures consistently reach at least 60°F (15°C), typically in March to April.",
+                            "harvest": "Harvest sweet potatoes in summer."
+                        }
+                    },
+                    {
+                        "zone": ["11a","11b","12a","12b"],
+                        "planting_dates_months": {
+                            "start_indoors": [],
+                            "transplant": [],
+                            "start_outdoors": ["Year-round", "Year-round"],
+                            "harvest": ["Year-round", "Year-round"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Not Recommended",
+                            "transplant": "Not Recommended",
+                            "start_outdoors": "Sweet potatoes can be planted outdoors year-round in warm climates.",
+                            "harvest": "Harvest sweet potatoes year-round in warm climates."
+                        }
+                    }
+                ]
             },
             "varieties": [
                 {
@@ -253,7 +640,84 @@
                 "spacing": "6-8 inches",
                 "life_cycle": "Biennial",
                 "season": "Cool",
-                "growing_type": "Upright"
+                "growing_type": "Upright",
+                "planting_zones_times": [
+                    {
+                        "zone": ["3a","3b","4a","4b"],
+                        "planting_dates_months": {
+                            "start_indoors": ["February", "March"],
+                            "transplant": ["May", "June"],
+                            "start_outdoors": ["June", "July"],
+                            "harvest": ["September", "October"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Start celery seeds indoors 10-12 weeks before the last frost date, typically in February to March.",
+                            "transplant": "Transplant celery seedlings outdoors after the danger of frost has passed, usually in late May to early June.",
+                            "start_outdoors": "Plant celery seedlings outdoors once soil temperatures consistently reach at least 50°F (10°C), typically in June to July.",
+                            "harvest": "Harvest celery in late summer to early fall."
+                        }
+                    },
+                    {
+                        "zone": ["5a","5b","6a","6b"],
+                        "planting_dates_months": {
+                            "start_indoors": ["January", "February"],
+                            "transplant": ["April", "May"],
+                            "start_outdoors": ["May", "June"],
+                            "harvest": ["August", "September"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Start celery seeds indoors 10-12 weeks before the last frost date, typically in January to February.",
+                            "transplant": "Transplant celery seedlings outdoors after the danger of frost has passed, usually in April to May.",
+                            "start_outdoors": "Plant celery seedlings outdoors once soil temperatures consistently reach at least 50°F (10°C), typically in May to June.",
+                            "harvest": "Harvest celery in mid to late summer."
+                        }
+                    },
+                    {
+                        "zone": ["7a","7b","8a","8b"],
+                        "planting_dates_months": {
+                            "start_indoors": ["December", "January"],
+                            "transplant": ["March", "April"],
+                            "start_outdoors": ["April", "May"],
+                            "harvest": ["July", "August"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Start celery seeds indoors 10-12 weeks before the last frost date, typically in December to January.",
+                            "transplant": "Transplant celery seedlings outdoors after the danger of frost has passed, usually in March to April.",
+                            "start_outdoors": "Plant celery seedlings outdoors once soil temperatures consistently reach at least 50°F (10°C), typically in April to May.",
+                            "harvest": "Harvest celery in summer."
+                        }
+                    },
+                    {
+                        "zone": ["9a","9b","10a","10b"],
+                        "planting_dates_months": {
+                            "start_indoors": ["October", "November"],
+                            "transplant": ["February", "March"],
+                            "start_outdoors": ["March", "April"],
+                            "harvest": ["June", "July"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Start celery seeds indoors 10-12 weeks before the last frost date, typically in October to November.",
+                            "transplant": "Transplant celery seedlings outdoors after the danger of frost has passed, usually in February to March.",
+                            "start_outdoors": "Plant celery seedlings outdoors once soil temperatures consistently reach at least 50°F (10°C), typically in March to April.",
+                            "harvest": "Harvest celery in summer."
+                        }
+                    },
+                    {
+                        "zone": ["11a","11b","12a","12b"],
+                        "planting_dates_months": {
+                            "start_indoors": ["ALL"],
+                            "transplant": ["ALL"],
+                            "start_outdoors": ["ALL"],
+                            "harvest": ["ALL"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Celery seeds can be started indoors year-round.",
+                            "transplant": "Celery seedlings can be transplanted outdoors year-round in warm climates.",
+                            "start_outdoors": "Celery can be planted outdoors year-round in warm climates.",
+                            "harvest": "Celery can be harvested year-round in warm climates."
+                        }
+                    }
+                ]
             },
             "varieties": [
                 {
@@ -300,7 +764,84 @@
                 "spacing": "4-6 inches",
                 "life_cycle": "Perennial",
                 "season": "Cool",
-                "growing_type": "Upright"
+                "growing_type": "Upright",
+                "planting_zones_times": [
+                    {
+                        "zone": ["3a","3b","4a","4b"],
+                        "planting_dates_months": {
+                            "start_indoors": [],
+                            "transplant": [],
+                            "start_outdoors": ["October", "November"],
+                            "harvest": ["July", "August"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Not Recommended",
+                            "transplant": "Not Recommended",
+                            "start_outdoors": "Plant garlic cloves outdoors in well-drained soil in October to November before the ground freezes.",
+                            "harvest": "Harvest garlic bulbs in mid to late summer."
+                        }
+                    },
+                    {
+                        "zone": ["5a","5b","6a","6b"],
+                        "planting_dates_months": {
+                            "start_indoors": [],
+                            "transplant": [],
+                            "start_outdoors": ["September", "October"],
+                            "harvest": ["June", "July"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Not Recommended",
+                            "transplant": "Not Recommended",
+                            "start_outdoors": "Plant garlic cloves outdoors in well-drained soil in September to October.",
+                            "harvest": "Harvest garlic bulbs in early to mid-summer."
+                        }
+                    },
+                    {
+                        "zone": ["7a","7b","8a","8b"],
+                        "planting_dates_months": {
+                            "start_indoors": [],
+                            "transplant": [],
+                            "start_outdoors": ["September", "October"],
+                            "harvest": ["June", "July"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Not Recommended",
+                            "transplant": "Not Recommended",
+                            "start_outdoors": "Plant garlic cloves outdoors in well-drained soil in September to October.",
+                            "harvest": "Harvest garlic bulbs in early to mid-summer."
+                        }
+                    },
+                    {
+                        "zone": ["9a","9b","10a","10b"],
+                        "planting_dates_months": {
+                            "start_indoors": [],
+                            "transplant": [],
+                            "start_outdoors": ["September", "October"],
+                            "harvest": ["May", "June"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Not Recommended",
+                            "transplant": "Not Recommended",
+                            "start_outdoors": "Plant garlic cloves outdoors in well-drained soil in September to October.",
+                            "harvest": "Harvest garlic bulbs in late spring to early summer."
+                        }
+                    },
+                    {
+                        "zone": ["11a","11b","12a","12b"],
+                        "planting_dates_months": {
+                            "start_indoors": [],
+                            "transplant": [],
+                            "start_outdoors": ["ALL"],
+                            "harvest": ["ALL"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Not Recommended",
+                            "transplant": "Not Recommended",
+                            "start_outdoors": "Garlic can be planted outdoors year-round in warm climates.",
+                            "harvest": "Harvest garlic bulbs year-round in warm climates."
+                        }
+                    }
+                ]
             },
             "varieties": [
                 {
@@ -347,7 +888,84 @@
                 "spacing": "18-24 inches",
                 "life_cycle": "Annual",
                 "season": "Cool",
-                "growing_type": "Upright"
+                "growing_type": "Upright",
+                "planting_zones_times": [
+                    {
+                        "zone": ["3a","3b","4a","4b"],
+                        "planting_dates_months": {
+                            "start_indoors": ["March", "April"],
+                            "transplant": ["May", "June"],
+                            "start_outdoors": ["July", "August"],
+                            "harvest": ["September", "October"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Start broccoli seeds indoors 6-8 weeks before the last frost date, typically in March to April.",
+                            "transplant": "Transplant broccoli seedlings outdoors after the danger of frost has passed, usually in late May to early June.",
+                            "start_outdoors": "Directly sow broccoli seeds outdoors in well-drained soil with full sun exposure, typically in July to August.",
+                            "harvest": "Harvest broccoli heads in late summer to early fall."
+                        }
+                    },
+                    {
+                        "zone": ["5a","5b","6a","6b"],
+                        "planting_dates_months": {
+                            "start_indoors": ["February", "March"],
+                            "transplant": ["April", "May"],
+                            "start_outdoors": ["June", "July"],
+                            "harvest": ["August", "September"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Start broccoli seeds indoors 6-8 weeks before the last frost date, typically in February to March.",
+                            "transplant": "Transplant broccoli seedlings outdoors after the danger of frost has passed, usually in April to May.",
+                            "start_outdoors": "Directly sow broccoli seeds outdoors in well-drained soil with full sun exposure, typically in June to July.",
+                            "harvest": "Harvest broccoli heads in mid to late summer."
+                        }
+                    },
+                    {
+                        "zone": ["7a","7b","8a","8b"],
+                        "planting_dates_months": {
+                            "start_indoors": ["January", "February"],
+                            "transplant": ["March", "April"],
+                            "start_outdoors": ["May", "June"],
+                            "harvest": ["July", "August"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Start broccoli seeds indoors 6-8 weeks before the last frost date, typically in January to February.",
+                            "transplant": "Transplant broccoli seedlings outdoors after the danger of frost has passed, usually in March to April.",
+                            "start_outdoors": "Directly sow broccoli seeds outdoors in well-drained soil with full sun exposure, typically in May to June.",
+                            "harvest": "Harvest broccoli heads in summer."
+                        }
+                    },
+                    {
+                        "zone": ["9a","9b","10a","10b"],
+                        "planting_dates_months": {
+                            "start_indoors": ["December", "January"],
+                            "transplant": ["February", "March"],
+                            "start_outdoors": ["April", "May"],
+                            "harvest": ["June", "July"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Start broccoli seeds indoors 6-8 weeks before the last frost date, typically in December to January.",
+                            "transplant": "Transplant broccoli seedlings outdoors after the danger of frost has passed, usually in February to March.",
+                            "start_outdoors": "Directly sow broccoli seeds outdoors in well-drained soil with full sun exposure, typically in April to May.",
+                            "harvest": "Harvest broccoli heads in summer."
+                        }
+                    },
+                    {
+                        "zone": ["11a","11b","12a","12b"],
+                        "planting_dates_months": {
+                            "start_indoors": ["ALL"],
+                            "transplant": ["ALL"],
+                            "start_outdoors": ["ALL"],
+                            "harvest": ["ALL"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Broccoli seeds can be started indoors year-round.",
+                            "transplant": "Broccoli seedlings can be transplanted outdoors year-round in warm climates.",
+                            "start_outdoors": "Broccoli seeds can be sown directly outdoors year-round in warm climates.",
+                            "harvest": "Harvest broccoli heads year-round in warm climates."
+                        }
+                    }
+                ]
             },
             "varieties": [
                 {
@@ -392,7 +1010,84 @@
                 "spacing": "18-24 inches",
                 "life_cycle": "Annual",
                 "season": "Cool",
-                "growing_type": "Upright"
+                "growing_type": "Upright",
+                "planting_zones_times": [
+                    {
+                        "zone": ["3a","3b","4a","4b"],
+                        "planting_dates_months": {
+                            "start_indoors": ["March", "April"],
+                            "transplant": ["May", "June"],
+                            "start_outdoors": ["July", "August"],
+                            "harvest": ["September", "October"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Start cauliflower seeds indoors 6-8 weeks before the last frost date, typically in March to April.",
+                            "transplant": "Transplant cauliflower seedlings outdoors after the danger of frost has passed, usually in late May to early June.",
+                            "start_outdoors": "Directly sow cauliflower seeds outdoors in well-drained soil with full sun exposure, typically in July to August.",
+                            "harvest": "Harvest cauliflower heads in late summer to early fall."
+                        }
+                    },
+                    {
+                        "zone": ["5a","5b","6a","6b"],
+                        "planting_dates_months": {
+                            "start_indoors": ["February", "March"],
+                            "transplant": ["April", "May"],
+                            "start_outdoors": ["June", "July"],
+                            "harvest": ["August", "September"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Start cauliflower seeds indoors 6-8 weeks before the last frost date, typically in February to March.",
+                            "transplant": "Transplant cauliflower seedlings outdoors after the danger of frost has passed, usually in April to May.",
+                            "start_outdoors": "Directly sow cauliflower seeds outdoors in well-drained soil with full sun exposure, typically in June to July.",
+                            "harvest": "Harvest cauliflower heads in mid to late summer."
+                        }
+                    },
+                    {
+                        "zone": ["7a","7b","8a","8b"],
+                        "planting_dates_months": {
+                            "start_indoors": ["January", "February"],
+                            "transplant": ["March", "April"],
+                            "start_outdoors": ["May", "June"],
+                            "harvest": ["July", "August"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Start cauliflower seeds indoors 6-8 weeks before the last frost date, typically in January to February.",
+                            "transplant": "Transplant cauliflower seedlings outdoors after the danger of frost has passed, usually in March to April.",
+                            "start_outdoors": "Directly sow cauliflower seeds outdoors in well-drained soil with full sun exposure, typically in May to June.",
+                            "harvest": "Harvest cauliflower heads in summer."
+                        }
+                    },
+                    {
+                        "zone": ["9a","9b","10a","10b"],
+                        "planting_dates_months": {
+                            "start_indoors": ["December", "January"],
+                            "transplant": ["February", "March"],
+                            "start_outdoors": ["April", "May"],
+                            "harvest": ["June", "July"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Start cauliflower seeds indoors 6-8 weeks before the last frost date, typically in December to January.",
+                            "transplant": "Transplant cauliflower seedlings outdoors after the danger of frost has passed, usually in February to March.",
+                            "start_outdoors": "Directly sow cauliflower seeds outdoors in well-drained soil with full sun exposure, typically in April to May.",
+                            "harvest": "Harvest cauliflower heads in summer."
+                        }
+                    },
+                    {
+                        "zone": ["11a","11b","12a","12b"],
+                        "planting_dates_months": {
+                            "start_indoors": ["ALL"],
+                            "transplant": ["ALL"],
+                            "start_outdoors": ["ALL"],
+                            "harvest": ["ALL"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Cauliflower seeds can be started indoors year-round.",
+                            "transplant": "Cauliflower seedlings can be transplanted outdoors year-round in warm climates.",
+                            "start_outdoors": "Cauliflower seeds can be sown directly outdoors year-round in warm climates.",
+                            "harvest": "Harvest cauliflower heads year-round in warm climates."
+                        }
+                    }
+                ]
             },
             "varieties": [
                 {
@@ -437,7 +1132,84 @@
                 "spacing": "18-24 inches",
                 "life_cycle": "Annual",
                 "season": "Warm",
-                "growing_type": "Upright"
+                "growing_type": "Upright",
+                "planting_zones_times": [
+                    {
+                        "zone": ["3a","3b","4a","4b"],
+                        "planting_dates_months": {
+                            "start_indoors": ["February", "March"],
+                            "transplant": ["May", "June"],
+                            "start_outdoors": ["June", "July"],
+                            "harvest": ["August", "September"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Start eggplant seeds indoors 8-10 weeks before the last frost date, typically in February to March.",
+                            "transplant": "Transplant eggplant seedlings outdoors after the danger of frost has passed, usually in May to June.",
+                            "start_outdoors": "Directly sow eggplant seeds outdoors in well-drained soil with full sun exposure, typically in June to July.",
+                            "harvest": "Harvest eggplants in late summer to early fall."
+                        }
+                    },
+                    {
+                        "zone": ["5a","5b","6a","6b"],
+                        "planting_dates_months": {
+                            "start_indoors": ["January", "February"],
+                            "transplant": ["April", "May"],
+                            "start_outdoors": ["May", "June"],
+                            "harvest": ["July", "August"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Start eggplant seeds indoors 8-10 weeks before the last frost date, typically in January to February.",
+                            "transplant": "Transplant eggplant seedlings outdoors after the danger of frost has passed, usually in April to May.",
+                            "start_outdoors": "Directly sow eggplant seeds outdoors in well-drained soil with full sun exposure, typically in May to June.",
+                            "harvest": "Harvest eggplants in mid to late summer."
+                        }
+                    },
+                    {
+                        "zone": ["7a","7b","8a","8b"],
+                        "planting_dates_months": {
+                            "start_indoors": ["December", "January"],
+                            "transplant": ["March", "April"],
+                            "start_outdoors": ["April", "May"],
+                            "harvest": ["June", "July"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Start eggplant seeds indoors 8-10 weeks before the last frost date, typically in December to January.",
+                            "transplant": "Transplant eggplant seedlings outdoors after the danger of frost has passed, usually in March to April.",
+                            "start_outdoors": "Directly sow eggplant seeds outdoors in well-drained soil with full sun exposure, typically in April to May.",
+                            "harvest": "Harvest eggplants in summer."
+                        }
+                    },
+                    {
+                        "zone": ["9a","9b","10a","10b"],
+                        "planting_dates_months": {
+                            "start_indoors": ["October", "November"],
+                            "transplant": ["January", "February"],
+                            "start_outdoors": ["February", "March"],
+                            "harvest": ["April", "May"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Start eggplant seeds indoors 8-10 weeks before the last frost date, typically in October to November.",
+                            "transplant": "Transplant eggplant seedlings outdoors after the danger of frost has passed, usually in January to February.",
+                            "start_outdoors": "Directly sow eggplant seeds outdoors in well-drained soil with full sun exposure, typically in February to March.",
+                            "harvest": "Harvest eggplants in spring."
+                        }
+                    },
+                    {
+                        "zone": ["11a","11b","12a","12b"],
+                        "planting_dates_months": {
+                            "start_indoors": ["ALL"],
+                            "transplant": ["ALL"],
+                            "start_outdoors": ["ALL"],
+                            "harvest": ["ALL"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Eggplant seeds can be started indoors year-round.",
+                            "transplant": "Eggplant seedlings can be transplanted outdoors year-round in warm climates.",
+                            "start_outdoors": "Eggplant seeds can be sown directly outdoors year-round in warm climates.",
+                            "harvest": "Harvest eggplants year-round in warm climates."
+                        }
+                    }
+                ]
             },
             "varieties": [
                 {
