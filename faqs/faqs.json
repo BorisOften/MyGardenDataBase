@@ -1,0 +1,119 @@
+[
+    {
+        "id": 0,
+        "category": "Onboarding and Home Screen",
+        "faqs": [
+            {
+                "id": 0,
+                "question": "What is the first thing I see when I start the app for the first time?",
+                "answer": "You'll be greeted with an onboarding screen that guides you through the basics of the app over three pages."
+            },
+            {
+                "id": 1,
+                "question": "How do I get to the Home Screen?",
+                "answer": "Simply tap on 'skip' during the onboarding process, and you'll be taken directly to the Home Screen, which is the 'Garden' tab."
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "category": "Garden Management",
+        "faqs": [
+            {
+                "id": 0,
+                "question": "How do I add a new garden?",
+                "answer": "Tap the plus button at the bottom of the screen in the garden tab. You'll be asked if you want to create a virtual garden or just keep a list of your plants."
+            },
+            {
+                "id": 1,
+                "question": "What options do I have for my virtual garden?",
+                "answer": "You can select a garden size up to 18x8, add plants, delete plants, and view a list of all the plants."
+            },
+            {
+                "id": 2,
+                "question": "What happens when I tap on a garden bed?",
+                "answer": "Tapping on a garden bed cell will take you to either a virtual garden or a garden plant list, depending on your setup."
+            },
+            {
+                "id": 3,
+                "question": "How can I tell the difference between a garden that uses a virtual garden bed versus one that does not?",
+                "answer": "A garden bed that uses a virtual garden bed will have the garden bed size while a garden without a virtual garden bed won't have a bed size"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "category": "Plant Interaction",
+        "faqs": [
+            {
+                "id": 0,
+                "question": "Can I interact with the plants in my virtual garden?",
+                "answer": "Yes, you can replace a plant, add a note, delete the plant, or view the plant's details."
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "category": "Seed Tab",
+        "faqs": [
+            {
+                "id": 0,
+                "question": "How do I add seed packets?",
+                "answer": "In the seed tab, you can add seed packets with details like weight, weight symbol, date added, and the amount left."
+            },
+            {
+                "id": 1,
+                "question": "Are seeds grouped in any way?",
+                "answer": "Yes, seeds are grouped by plant type, such as all tomato seeds together, all basil seeds together, etc."
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "category": "More Tab and Settings",
+        "faqs": [
+            {
+                "id": 0,
+                "question": "What can I do in the 'More' tab?",
+                "answer": "You can try out the premium version, purchase it, select the type of garden bed, add/delete planting zones, and access feedback and support options."
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "category": "Feedback and support",
+        "faqs": [
+            {
+                "id": 0,
+                "question": "How do I provide feedback or report a bug?",
+                "answer": "Tap on the feedback and support button to send an email to the developer at Banye.dev@gmail.com."
+            },
+            {
+                "id": 1,
+                "question": "Can I see upcoming features of the app?",
+                "answer": "Yes, tap on the 'Upcoming Features' button in the more tab to get a sneak peek of what the developers are working on."
+            },
+            {
+                "id": 2,
+                "question": "How do I rate the app?",
+                "answer": "Use the 'Rate App' button to leave a rating or review on the App Store."
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "category": "Premium Version",
+        "faqs": [
+            {
+                "id": 0,
+                "question": "What are the benefits of the premium version?",
+                "answer": "The premium version allows for an unlimited number of gardens and seed packets, multiple notes per plant, no ads, and supports the app's development. "
+            },
+            {
+                "id": 1,
+                "question": "Can I try the premium version first before buying?",
+                "answer": "Yes, My Garden offers a 3 day trial for first time users."
+            }
+        ]
+    }
+]
