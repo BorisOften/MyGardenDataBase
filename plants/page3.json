@@ -1673,6 +1673,7 @@
                       "higher_estimate": 70
                     },
                     "is_container_variety": true,
+                    "flower_color": "White",
                     "fruit_color": "White",
                     "head_size": "6-8 inches in diameter",
                     "fruit_weight": "1.5-2.5 pounds",
@@ -1697,6 +1698,7 @@
                       "higher_estimate": 80
                     },
                     "is_container_variety": true,
+                    "flower_color": "White",
                     "fruit_color": "Purple",
                     "fruit_size": "6-8 inches in diameter",
                     "fruit_weight": "1.5-2.5 pounds",
@@ -1721,6 +1723,7 @@
                       "higher_estimate": 80
                     },
                     "is_container_variety": true,
+                    "flower_color": "White",
                     "fruit_color": "Orange",
                     "fruit_size": "6-8 inches in diameter",
                     "fruit_weight": "1.5-2.5 pounds",
@@ -1745,6 +1748,7 @@
                       "higher_estimate": 90
                     },
                     "is_container_variety": true,
+                    "flower_color": "White",
                     "fruit_color": "Lime-green",
                     "fruit_size": "6-8 inches in diameter",
                     "fruit_weight": "1.5-2.5 pounds",
@@ -1769,6 +1773,7 @@
                       "higher_estimate": 80
                     },
                     "is_container_variety": true,
+                    "flower_color": "White",
                     "fruit_color": "Purple",
                     "fruit_size": "6-8 inches in diameter",
                     "fruit_weight": "1.5-2.5 pounds",
