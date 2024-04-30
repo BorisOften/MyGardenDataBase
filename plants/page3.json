@@ -1540,8 +1540,130 @@
                   "fruit_weight": "1-2 pounds",
                   "fun_fact": "Broccoli is a member of the cabbage family and is closely related to cauliflower, Brussels sprouts, and kale. It is rich in vitamins, minerals, and antioxidants.",
                   "planting_tip": "For successful cultivation of Green Magic Broccoli, start seeds indoors or purchase seedlings for transplanting. Plant in well-draining soil with good fertility. Provide consistent moisture, especially during the growing period. Use mulch to retain soil moisture and suppress weeds. Harvest when the broccoli heads are firm and tight, cutting the main head first to encourage side shoots for extended harvest."
-                }
-            ]
+                },
+                
+                  {
+                      "id": 1,
+                    "name": "Calabrese Broccoli",
+                    "description": "Calabrese Broccoli, also known simply as Broccoli, is the most common and widely cultivated variety of broccoli. It has dark green heads with tightly packed florets and thick stalks. Calabrese Broccoli has a slightly sweet, earthy flavor and is rich in vitamins and minerals. It matures in about 60-70 days and can be used in a variety of dishes, including stir-fries, soups, and salads.",
+                    "spacing": "18 inches",
+                    "days_to_harvest": {
+                      "lower_estimate": 60,
+                      "higher_estimate": 70
+                    },
+                    "is_container_variety": false,
+                    "fruit_color": "Dark green",
+                    "head_size": "6-8 inches in diameter",
+                    "flower_color": "Green",
+                    "leaf_color": "Green",
+                    "plant_height": "18-24 inches",
+                    "growth_mode": null,
+                    "best_uses": ["Stir-fries", "Soups", "Salads"],
+                    "water_requirement": "Every 1 week",
+                    "feeding_requirement": "Rich soil with balanced fertilizer",
+                    "requires_pruning": false,
+                    "needs_support": false,
+                    "fun_fact": "Calabrese Broccoli is named after the Italian province of Calabria, where it is believed to have originated.",
+                    "planting_tip": "Plant Calabrese Broccoli seeds or transplants in well-drained, fertile soil. Choose a sunny location for optimal growth. Keep the soil consistently moist, but not waterlogged. Provide consistent feeding with balanced fertilizer to support healthy growth."
+                  },
+                  {
+                      "id": 2,
+                    "name": "Romanesco Broccoli",
+                    "description": "Romanesco Broccoli, also known as Romanesco Cauliflower or Romanesco Cabbage, is an exotic and visually striking variety with lime-green heads and intricate fractal patterns. It has a slightly nutty flavor and a crunchy texture, similar to cauliflower. Romanesco Broccoli matures in about 80-90 days and can be used in a variety of dishes, including roasted vegetables, salads, and stir-fries.",
+                    "spacing": "18 inches",
+                    "days_to_harvest": {
+                      "lower_estimate": 80,
+                      "higher_estimate": 90
+                    },
+                    "is_container_variety": false,
+                    "fruit_color": "Lime-green",
+                    "head_size": "6-8 inches in diameter",
+                    "flower_color": "Green",
+                    "leaf_color": "Green",
+                    "plant_height": "18-24 inches",
+                    "growth_mode": null,
+                    "best_uses": ["Roasted vegetables", "Salads", "Stir-fries"],
+                    "water_requirement": "Every 1 week",
+                    "feeding_requirement": "Rich soil with balanced fertilizer",
+                    "requires_pruning": false,
+                    "needs_support": false,
+                    "fun_fact": "Romanesco Broccoli's unique appearance is due to its fractal pattern, which is a naturally occurring geometric shape found in nature.",
+                    "planting_tip": "Plant Romanesco Broccoli seeds or transplants in well-drained, fertile soil. Choose a sunny location for optimal growth. Keep the soil consistently moist, but not waterlogged. Provide consistent feeding with balanced fertilizer to support healthy growth."
+                  },
+                  {
+                      "id": 3,
+                    "name": "Purple Sprouting Broccoli",
+                    "description": "Purple Sprouting Broccoli is an heirloom variety known for its vibrant purple heads and tender stalks. It has a slightly sweet flavor and is rich in vitamins and antioxidants. Purple Sprouting Broccoli matures in about 90-100 days and produces small, edible florets that can be used in stir-fries, salads, and pasta dishes.",
+                    "spacing": "18 inches",
+                    "days_to_harvest": {
+                      "lower_estimate": 90,
+                      "higher_estimate": 100
+                    },
+                    "is_container_variety": false,
+                    "fruit_color": "Purple",
+                    "head_size": "4-6 inches in diameter",
+                    "flower_color": "Purple",
+                    "leaf_color": "Green",
+                    "plant_height": "24-30 inches",
+                    "growth_mode": null,
+                    "best_uses": ["Stir-fries", "Salads", "Pasta dishes"],
+                    "water_requirement": "Every 1 week",
+                    "feeding_requirement": "Rich soil with balanced fertilizer",
+                    "requires_pruning": false,
+                    "needs_support": false,
+                    "fun_fact": "Purple Sprouting Broccoli is an ancient variety that has been cultivated since Roman times.",
+                    "planting_tip": "Plant Purple Sprouting Broccoli seeds or transplants in well-drained, fertile soil. Choose a sunny location for optimal growth. Keep the soil consistently moist, but not waterlogged. Provide consistent feeding with balanced fertilizer to support healthy growth."
+                  },
+                  {
+                      "id": 4,
+                    "name": "Broccolini",
+                    "description": "Broccolini, also known as Baby Broccoli or Asparation, is a hybrid variety that is a cross between broccoli and Chinese broccoli. It has long, slender stalks with small, tender florets. Broccolini has a mild, slightly sweet flavor and a delicate texture. It matures in about 50-60 days and can be used in stir-fries, salads, and pasta dishes.",
+                    "spacing": "12 inches",
+                    "days_to_harvest": {
+                      "lower_estimate": 50,
+                      "higher_estimate": 60
+                    },
+                    "is_container_variety": false,
+                    "fruit_color": "Green",
+                    "head_size": "4-6 inches in diameter",
+                    "flower_color": "Green",
+                    "leaf_color": "Green",
+                    "plant_height": "12-18 inches",
+                    "growth_mode": null,
+                    "best_uses": ["Stir-fries", "Salads", "Pasta dishes"],
+                    "water_requirement": "Every 1 week",
+                    "feeding_requirement": "Rich soil with balanced fertilizer",
+                    "requires_pruning": false,
+                    "needs_support": false,
+                    "fun_fact": "Broccolini was developed in Japan in the 1990s and has since become popular in many cuisines around the world.",
+                    "planting_tip": "Plant Broccolini seeds or transplants in well-drained, fertile soil. Choose a sunny location for optimal growth. Keep the soil consistently moist, but not waterlogged. Provide consistent feeding with balanced fertilizer to support healthy growth."
+                  },
+                  {
+                      "id": 5,
+                    "name": "Purple Cape Broccoli",
+                    "description": "Purple Cape Broccoli, also known as Cape Broccoli or Cape Cauliflower, is a unique variety with purple heads and tender florets. It has a slightly sweet flavor and is rich in vitamins and antioxidants. Purple Cape Broccoli matures in about 70-80 days and can be used in a variety of dishes, including soups, stir-fries, and gratins.",
+                    "spacing": "18 inches",
+                    "days_to_harvest": {
+                      "lower_estimate": 70,
+                      "higher_estimate": 80
+                    },
+                    "is_container_variety": false,
+                    "fruit_color": "Purple",
+                    "fruit_size": "6-8 inches in diameter",
+                    "flower_color": "Green",
+                    "leaf_color": "Green",
+                    "plant_height": "18-24 inches",
+                    "growth_mode": null,
+                    "best_uses": ["Soups", "Stir-fries", "Gratins"],
+                    "water_requirement": "Every 1 week",
+                    "feeding_requirement": "Rich soil with balanced fertilizer",
+                    "requires_pruning": false,
+                    "needs_support": false,
+                    "fun_fact": "Purple Cape Broccoli is a traditional variety that has been cultivated in the Cape region of South Africa for centuries.",
+                    "planting_tip": "Plant Purple Cape Broccoli seeds or transplants in well-drained, fertile soil. Choose a sunny location for optimal growth. Keep the soil consistently moist, but not waterlogged. Provide consistent feeding with balanced fertilizer to support healthy growth."
+                  }
+                ]
+
         },
         {
             "id": 28,
