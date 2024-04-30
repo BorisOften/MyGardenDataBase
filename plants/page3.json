@@ -1418,7 +1418,133 @@
                   "needs_support": false,
                   "fun_fact": "Purple Glazer Garlic produces garlic scapes, curly green shoots that emerge from the bulb. These scapes are not only edible but also add a mild garlic flavor to dishes.",
                   "planting_tip": "For successful cultivation of Purple Glazer Garlic, plant individual cloves in the fall, a few weeks before the first hard frost. Ensure well-draining soil with good organic content. Plant cloves with the pointed end up and the flat end down. Mulch the garlic bed to protect against winter cold. Harvest when the lower leaves turn brown and the bulbs have reached a good size. Cure harvested garlic bulbs in a dry, well-ventilated area before storing."
-                }
+                },
+                  {
+                      "id": 1,
+                    "name": "Softneck",
+                    "description": "Softneck Garlic, also known as Artichoke Garlic, is one of the most common and widely cultivated varieties of garlic. It has a soft, pliable stem and produces multiple layers of cloves arranged in a circular pattern. Softneck Garlic has a mild flavor and is commonly used in cooking and for making garlic braids. It stores well and can be kept for several months under proper conditions.",
+                    "spacing": "6 - 8 inches",
+                    "days_to_harvest": {
+                      "lower_estimate": 180,
+                      "higher_estimate": 210
+                    },
+                    "is_container_variety": false,
+                    "flower_color": "Not applicable",
+                    "fruit_length": null,
+                    "fruit_weight": "2-3 ounces",
+                    "clove_color": "White",
+                    "head_size": "Medium to large",
+                    "leaf_color": "Green",
+                    "plant_height": "18-24 inches",
+                    "best_uses": ["Cooking", "Garlic braids"],
+                    "water_requirement": "Every 1 week",
+                    "feeding_requirement": "Rich soil with balanced fertilizer",
+                    "requires_pruning": false,
+                    "needs_support": false,
+                    "fun_fact": "Fun Fact: Softneck Garlic is called \"Artichoke Garlic\" due to the shape of its bulb, which resembles a globe artichoke.",
+                    "planting_tip": "Plant Softneck Garlic cloves in well-drained, fertile soil with plenty of organic matter. Choose a sunny location for optimal growth. Plant cloves with the pointed end facing upwards, about 2 inches deep and 6 inches apart. Keep the soil consistently moist, but not waterlogged."
+                  },
+                  {
+                      "id": 2,
+                    "name": "Hardneck",
+                    "description": "Hardneck Garlic, also known as Rocambole Garlic, is prized for its strong flavor and large cloves. It has a hard, woody stem that produces a single layer of cloves arranged in a circular pattern. Hardneck Garlic varieties often produce \"scapes,\" curly green shoots that emerge from the stem and are harvested for their mild garlic flavor. Hardneck Garlic does not store as well as Softneck Garlic but is favored by chefs for its intense flavor.",
+                    "spacing": "6 inches",
+                    "days_to_harvest": {
+                      "lower_estimate": 150,
+                      "higher_estimate": 180
+                    },
+                    "is_container_variety": false,
+                    "flower_color": "Not applicable",
+                    "fruit_length": null,
+                    "fruit_weight": "2-3 ounces",
+                    "clove_color": "White to purple",
+                    "head_size": "Large",
+                    "leaf_color": "Green",
+                    "plant_height": "18-24 inches",
+                    "best_uses": ["Cooking", "Scapes"],
+                    "water_requirement": "Every 1 week",
+                    "feeding_requirement": "Rich soil with balanced fertilizer",
+                    "requires_pruning": false,
+                    "needs_support": false,
+                    "fun_fact": "Hardneck Garlic is called \"Rocambole Garlic\" after the Rocambole variety, known for its rich flavor and complex aroma.",
+                    "planting_tip": "Plant Hardneck Garlic cloves in well-drained, fertile soil with plenty of organic matter. Choose a sunny location for optimal growth. Plant cloves with the pointed end facing upwards, about 2 inches deep and 6 inches apart. Keep the soil consistently moist, but not waterlogged."
+                  },
+                  {
+                      "id": 3,
+                    "name": "Elephant",
+                    "description": "Elephant Garlic, also known as Great-headed Garlic, is not a true garlic but belongs to the leek family. It produces large, mild-flavored bulbs with a texture similar to garlic. Elephant Garlic cloves are much larger than those of traditional garlic varieties and have a milder, sweeter flavor. They are commonly used in cooking and can be roasted, sautéed, or used raw in salads.",
+                    "spacing": "12 inches",
+                    "days_to_harvest": {
+                      "lower_estimate": 240,
+                      "higher_estimate": 270
+                    },
+                    "is_container_variety": false,
+                    "flower_color": "Not applicable",
+                    "fruit_length": null,
+                    "fruit_weight": "2-3 ounces",
+                    "clove_color": "White to purple",
+                    "head_size": "Very large",
+                    "leaf_color": "Green",
+                    "plant_height": "24-36 inches",
+                    "best_uses": ["Cooking", "Roasting", "Salads"],
+                    "water_requirement": "Every 1 week",
+                    "feeding_requirement": "Rich soil with balanced fertilizer",
+                    "requires_pruning": false,
+                    "needs_support": false,
+                    "fun_fact": "Elephant Garlic is called \"Great-headed Garlic\" due to the large size of its bulbs.",
+                    "planting_tip": "Plant Elephant Garlic cloves in well-drained, fertile soil with plenty of organic matter. Choose a sunny location for optimal growth. Plant cloves with the pointed end facing upwards, about 3 inches deep and 12 inches apart. Keep the soil consistently moist, but not waterlogged."
+                  },
+                  {
+                      "id": 4,
+                    "name": "Creole",
+                    "description": "Creole Garlic is a group of garlic varieties that originated in Spain and were brought to the New World by Spanish explorers. They are known for their spicy, pungent flavor and are favored in Latin American and Creole cuisines. Creole Garlic bulbs have a purple-striped skin and produce medium-sized cloves with a strong flavor. They are often used in salsas, marinades, and spicy dishes.",
+                    "spacing": "6 inches",
+                    "days_to_harvest": {
+                      "lower_estimate": 150,
+                      "higher_estimate": 180
+                    },
+                    "is_container_variety": false,
+                    "flower_color": "Not applicable",
+                    "fruit_length": null,
+                    "fruit_weight": "2-3 ounces",
+                    "clove_color": "White to purple",
+                    "head_size": "Medium",
+                    "leaf_color": "Green",
+                    "plant_height": "18-24 inches",
+                    "best_uses": ["Salsas", "Marinades", "Spicy dishes"],
+                    "water_requirement": "Every 1 week",
+                    "feeding_requirement": "Rich soil with balanced fertilizer",
+                    "requires_pruning": false,
+                    "needs_support": false,
+                    "fun_fact": "Creole Garlic varieties have adapted to the climates and soils of the New World, resulting in unique flavors and characteristics.",
+                    "planting_tip": "Plant Creole Garlic cloves in well-drained, fertile soil with plenty of organic matter. Choose a sunny location for optimal growth. Plant cloves with the pointed end facing upwards, about 2 inches deep and 6 inches apart. Keep the soil consistently moist, but not waterlogged."
+                  },
+                  {
+                      "id": 5,
+                    "name": "Silverskin",
+                    "description": "Silverskin Garlic is a softneck garlic variety known for its long storage life and mild flavor. It produces tight, compact bulbs with a white papery skin. Silverskin Garlic is often used for braiding and can be kept for up to a year under proper conditions. It has a mild flavor and is versatile in cooking, lending itself well to both raw and cooked preparations.",
+                    "spacing": "6 inches",
+                    "days_to_harvest": {
+                      "lower_estimate": 180,
+                      "higher_estimate": 210
+                    },
+                    "is_container_variety": false,
+                    "flower_color": "Not applicable",
+                    "fruit_length": null,
+                    "fruit_weight": "2-3 ounces",
+                    "clove_color": "White",
+                    "head_size": "Medium to large",
+                    "leaf_color": "Green",
+                    "plant_height": "18-24 inches",
+                    "best_uses": ["Cooking", "Garlic braids"],
+                    "water_requirement": "Every 1 week",
+                    "feeding_requirement": "Rich soil with balanced fertilizer",
+                    "requires_pruning": false,
+                    "needs_support": false,
+                    "fun_fact": "Silverskin Garlic is named for the silvery appearance of its outer skin.",
+                    "planting_tip": "Plant Silverskin Garlic cloves in well-drained, fertile soil with plenty of organic matter. Choose a sunny location for optimal growth. Plant cloves with the pointed end facing upwards, about 2 inches deep and 6 inches apart. Keep the soil consistently moist, but not waterlogged."
+                  }
+
             ]
         },
         {
@@ -1544,7 +1670,7 @@
                 
                   {
                       "id": 1,
-                    "name": "Calabrese Broccoli",
+                    "name": "Calabrese",
                     "description": "Calabrese Broccoli, also known simply as Broccoli, is the most common and widely cultivated variety of broccoli. It has dark green heads with tightly packed florets and thick stalks. Calabrese Broccoli has a slightly sweet, earthy flavor and is rich in vitamins and minerals. It matures in about 60-70 days and can be used in a variety of dishes, including stir-fries, soups, and salads.",
                     "spacing": "18 inches",
                     "days_to_harvest": {
@@ -1568,7 +1694,7 @@
                   },
                   {
                       "id": 2,
-                    "name": "Romanesco Broccoli",
+                    "name": "Romanesco",
                     "description": "Romanesco Broccoli, also known as Romanesco Cauliflower or Romanesco Cabbage, is an exotic and visually striking variety with lime-green heads and intricate fractal patterns. It has a slightly nutty flavor and a crunchy texture, similar to cauliflower. Romanesco Broccoli matures in about 80-90 days and can be used in a variety of dishes, including roasted vegetables, salads, and stir-fries.",
                     "spacing": "18 inches",
                     "days_to_harvest": {
@@ -1592,7 +1718,7 @@
                   },
                   {
                       "id": 3,
-                    "name": "Purple Sprouting Broccoli",
+                    "name": "Purple Sprouting",
                     "description": "Purple Sprouting Broccoli is an heirloom variety known for its vibrant purple heads and tender stalks. It has a slightly sweet flavor and is rich in vitamins and antioxidants. Purple Sprouting Broccoli matures in about 90-100 days and produces small, edible florets that can be used in stir-fries, salads, and pasta dishes.",
                     "spacing": "18 inches",
                     "days_to_harvest": {
@@ -1640,7 +1766,7 @@
                   },
                   {
                       "id": 5,
-                    "name": "Purple Cape Broccoli",
+                    "name": "Purple Cape",
                     "description": "Purple Cape Broccoli, also known as Cape Broccoli or Cape Cauliflower, is a unique variety with purple heads and tender florets. It has a slightly sweet flavor and is rich in vitamins and antioxidants. Purple Cape Broccoli matures in about 70-80 days and can be used in a variety of dishes, including soups, stir-fries, and gratins.",
                     "spacing": "18 inches",
                     "days_to_harvest": {
