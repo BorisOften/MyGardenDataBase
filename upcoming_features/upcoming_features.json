@@ -12,14 +12,6 @@
         "feature": "Night Mode"
     },
     {
-        "id": 3,
-        "feature": "Planting Zones"
-    },
-    {
-        "id": 4,
-        "feature": "Adding Notes"
-    },
-    {
         "id": 5,
         "feature": "General App improvement"
     },
@@ -29,7 +21,7 @@
     },
     {
         "id": 7,
-        "feature": "Addind Photos"
+        "feature": "Adding Photos"
     },
     {
         "id": 8,
