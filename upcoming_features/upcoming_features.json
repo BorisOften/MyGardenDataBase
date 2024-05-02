@@ -26,5 +26,13 @@
     {
         "id": 6,
         "feature": "Notifications"
+    },
+    {
+        "id": 7,
+        "feature": "Addind Photos"
+    },
+    {
+        "id": 8,
+        "feature": "Syncing between devices"
     }
 ]
