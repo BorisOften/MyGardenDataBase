@@ -1025,7 +1025,7 @@
                     "id": 0,
                   "name": "Yukon Gold",
                   "description": "Yukon Gold Potato is a well-loved potato variety known for its buttery flavor and smooth texture. With a bushy growth habit, it produces attractive tubers with golden-yellow skin and flesh. While technically a perennial, it is commonly grown as an annual for its delectable and versatile culinary uses.",
-                  "spacing": "12-15 inches",
+                  "spacing": "12 - 15 inches",
                   "days_to_harvest": {
                     "lower_estimate": 70,
                     "higher_estimate": 90
@@ -1045,8 +1045,151 @@
                   "needs_support": false,
                   "fun_fact": "Yukon Gold Potatoes were developed in the 1960s by Canadian researchers. They quickly gained popularity for their rich flavor and ability to hold their shape well during cooking.",
                   "planting_tip": "For successful cultivation of Yukon Gold Potatoes, start with certified seed potatoes. Plant in loose, well-draining soil with good fertility. Provide consistent moisture, especially during tuber formation. Hill the soil around the base of the plants as they grow to encourage more tuber development. Harvest when the foliage starts to yellow and die back. Allow harvested potatoes to cure before storing in a cool, dark place."
-                }
-                
+                },
+                  {
+                      "id": 1,
+                    "name": "Russet Burbank",
+                    "description": "Russet Burbank Potato is a classic potato variety known for its large size, oblong shape, and russeted skin. It has a fluffy texture when cooked, making it ideal for baking, frying, and mashing. Russet Burbank Potato is versatile and is used in a wide range of dishes, including french fries, baked potatoes, and mashed potatoes.",
+                    "spacing": "12 - 15 inches",
+                    "days_to_harvest": {
+                      "lower_estimate": 90,
+                      "higher_estimate": 120
+                    },
+                    "is_container_variety": false,
+                    "skin_color": "Russeted",
+                    "flesh_color": "Creamy white",
+                    "tuber_size": "Large",
+                    "flower_color": "White or light purple",
+                    "plant_height": "12-18 inches (foliage)",
+                    "growth_mode": null,
+                    "best_uses": ["Baking", "Frying", "Mashing"],
+                    "water_requirement": "Every 1 week",
+                    "feeding_requirement": "Rich soil with balanced fertilizer",
+                    "requires_pruning": false,
+                    "needs_support": false,
+                    "fun_fact": "Russet Burbank Potato is the most widely grown potato variety in the United States and is used extensively in the fast-food industry for french fries.",
+                    "planting_tip": "Plant Russet Burbank Potato seed pieces in well-drained, loose soil. Choose a sunny location for optimal growth. Plant seed pieces about 4 inches deep and 12 inches apart in rows spaced 30-36 inches apart. Keep the soil consistently moist but not waterlogged."
+                  },
+                  {
+                      "id": 2,
+                    "name": "Red Pontiac",
+                    "description": "Red Pontiac Potato is a popular red-skinned potato variety known for its vibrant color and creamy texture. It has shallow eyes and a smooth, thin skin. Red Pontiac Potato is versatile and can be used in a variety of dishes, including mashed potatoes, potato salads, and roasted potatoes. It is prized for its attractive appearance and rich flavor.",
+                    "spacing": "10 - 13 inches",
+                    "days_to_harvest": {
+                      "lower_estimate": 80,
+                      "higher_estimate": 100
+                    },
+                    "is_container_variety": false,
+                    "skin_color": "Red",
+                    "flesh_color": "Creamy white",
+                    "tuber_size": "Medium",
+                    "flower_color": "White or light purple",
+                    "plant_height": "12-18 inches (foliage)",
+                    "growth_mode": null,
+                    "best_uses": ["Mashing", "Salads", "Roasting"],
+                    "water_requirement": "Every 1 week",
+                    "feeding_requirement": "Rich soil with balanced fertilizer",
+                    "requires_pruning": false,
+                    "needs_support": false,
+                    "fun_fact": "Red Pontiac Potato is a favorite among home gardeners and is known for its high yields and disease resistance.",
+                    "planting_tip": "Plant Red Pontiac Potato seed pieces in well-drained, loose soil. Choose a sunny location for optimal growth. Plant seed pieces about 4 inches deep and 10 inches apart in rows spaced 24-30 inches apart. Keep the soil consistently moist but not waterlogged."
+                  },
+                  {
+                      "id": 3,
+                    "name": "Kennebec",
+                    "description": "Kennebec Potato is a popular potato variety known for its large size, smooth skin, and white flesh. It has shallow eyes and a uniform shape, making it ideal for processing into french fries and potato chips. Kennebec Potato also works well for mashed potatoes and baked potatoes. It is favored by commercial growers for its high yields and disease resistance.",
+                    "spacing": "12 - 15 inches",
+                    "days_to_harvest": {
+                      "lower_estimate": 85,
+                      "higher_estimate": 100
+                    },
+                    "is_container_variety": false,
+                    "skin_color": "White",
+                    "flesh_color": "Creamy white",
+                    "tuber_size": "Large",
+                    "flower_color": "White, Pink, or Purple",
+                    "plant_height": "12-18 inches (foliage)",
+                    "growth_mode": null,
+                    "best_uses": ["French fries", "Potato chips", "Mashing"],
+                    "water_requirement": "Every 1 week",
+                    "feeding_requirement": "Rich soil with balanced fertilizer",
+                    "requires_pruning": false,
+                    "needs_support": false,
+                    "fun_fact": "Kennebec Potato was developed in Maine in the early 20th century and quickly became popular among commercial growers for its suitability for processing.",
+                    "planting_tip": "Plant Kennebec Potato seed pieces in well-drained, loose soil. Choose a sunny location for optimal growth. Plant seed pieces about 4 inches deep and 12 inches apart in rows spaced 30-36 inches apart. Keep the soil consistently moist but not waterlogged."
+                  },
+                  {
+                      "id": 4,
+                    "name": "All Blue",
+                    "description": "All Blue Potato, also known as Purple Peruvian Potato, is a unique potato variety with deep blue-purple skin and vibrant purple flesh. It has a rich, nutty flavor and creamy texture when cooked, making it ideal for mashed potatoes, salads, and roasted dishes. All Blue Potato is prized for its striking appearance and antioxidant-rich pigments.",
+                    "spacing": "10 - 13 inches",
+                    "days_to_harvest": {
+                      "lower_estimate": 90,
+                      "higher_estimate": 110
+                    },
+                    "is_container_variety": false,
+                    "skin_color": "Deep blue-purple",
+                    "flesh_color": "Vibrant purple",
+                    "tuber_size": "Medium",
+                    "flower_color": "White, Pink, or Purple",
+                    "plant_height": "12-18 inches (foliage)",
+                    "growth_mode": null,
+                    "best_uses": ["Mashing", "Salads", "Roasting"],
+                    "water_requirement": "Every 1 week",
+                    "feeding_requirement": "Rich soil with balanced fertilizer",
+                    "requires_pruning": false,
+                    "needs_support": false,
+                    "fun_fact": "All Blue Potato gets its vibrant color from natural anthocyanin pigments, which also provide antioxidant benefits.",
+                    "planting_tip": "Plant All Blue Potato seed pieces in well-drained, loose soil. Choose a sunny location for optimal growth. Plant seed pieces about 4 inches deep and 10 inches apart in rows spaced 24-30 inches apart. Keep the soil consistently moist but not waterlogged."
+                  },
+                    {
+                        "id": 5,
+                      "name": "Adirondack Blue",
+                      "description": "Adirondack Blue Potato is a unique potato variety with deep blue-purple skin and vibrant blue flesh. It has a rich, earthy flavor and creamy texture when cooked, making it ideal for mashed potatoes, salads, and roasted dishes. Adirondack Blue Potato is prized for its striking appearance and antioxidant-rich pigments.",
+                      "spacing": "10 inches",
+                      "days_to_harvest": {
+                        "lower_estimate": 90,
+                        "higher_estimate": 110
+                      },
+                      "is_container_variety": false,
+                      "skin_color": "Deep blue-purple",
+                      "flesh_color": "Vibrant blue",
+                      "tuber_size": "Medium",
+                      "flower_color": "White, Pink, or Purple",
+                      "plant_height": "12-18 inches (foliage)",
+                      "growth_mode": null,
+                      "best_uses": ["Mashing", "Salads", "Roasting"],
+                      "water_requirement": "Every 1 week",
+                      "feeding_requirement": "Rich soil with balanced fertilizer",
+                      "requires_pruning": false,
+                      "needs_support": false,
+                      "fun_fact": "Adirondack Blue Potato is named after the Adirondack Mountains in New York state, where it was developed by researchers at Cornell University.",
+                      "planting_tip": "Plant Adirondack Blue Potato seed pieces in well-drained, loose soil. Choose a sunny location for optimal growth. Plant seed pieces about 4 inches deep and 10 inches apart in rows spaced 24-30 inches apart. Keep the soil consistently moist but not waterlogged."
+                    },
+                    {
+                        "id": 6,
+                      "name": "German Butterball",
+                      "description": "German Butterball Potato is a heirloom potato variety with golden-yellow skin and rich, buttery flesh. It has a creamy texture and nutty flavor when cooked, making it ideal for mashed potatoes, baked potatoes, and roasting. German Butterball Potato is prized for its smooth skin, uniform shape, and excellent storage qualities.",
+                      "spacing": "10 inches",
+                      "days_to_harvest": {
+                        "lower_estimate": 80,
+                        "higher_estimate": 100
+                      },
+                      "is_container_variety": false,
+                      "skin_color": "Golden yellow",
+                      "flesh_color": "Golden yellow",
+                      "tuber_size": "Medium",
+                      "flower_color": "White, Pink, or Purple",
+                      "plant_height": "12-18 inches (foliage)",
+                      "growth_mode": null,
+                      "best_uses": ["Mashing", "Baking", "Roasting"],
+                      "water_requirement": "Every 1 week",
+                      "feeding_requirement": "Rich soil with balanced fertilizer",
+                      "requires_pruning": false,
+                      "needs_support": false,
+                      "fun_fact": "German Butterball Potato is a favorite among home gardeners and is prized for its rich flavor and smooth texture.",
+                      "planting_tip": "Plant German Butterball Potato seed pieces in well-drained, loose soil. Choose a sunny location for optimal growth. Plant seed pieces about 4 inches deep and 10 inches apart in rows spaced 24-30 inches apart. Keep the soil consistently moist but not waterlogged."
+                    }
             ]
         },
         {
@@ -1155,7 +1298,7 @@
                     "higher_estimate": 120
                   },
                   "is_container_variety": false,
-                  "flower_color": "Not applicable",
+                  "flower_color": "Light purple",
                   "leaf_color": "Green",
                   "plant_height": "12-18 inches",
                   "growth_mode": null,
@@ -1169,8 +1312,145 @@
                   "fruit_length": "6-8 inches",
                   "fun_fact": "Beauregard Sweet Potato was developed by researchers at the Louisiana Agricultural Experiment Station and released in 1987. It quickly became one of the most popular sweet potato varieties due to its excellent taste and high yield.",
                   "planting_tip": "For successful cultivation of Beauregard Sweet Potato, start with healthy slips. Plant in loose, well-draining soil with a slightly acidic to neutral pH. Provide consistent moisture, especially during the tuber-forming period. Harvest when the leaves start to yellow and the tubers have reached a desirable size. Cure harvested sweet potatoes in a warm, humid place before storing in a cool, dark area."
-                }
-                
+                },
+                {
+                      "id": 1,
+                    "name": "Jewel",
+                    "description": "Jewel Sweet Potato is a popular variety known for its vibrant orange flesh and excellent flavor. It has reddish-purple skin and a moist, sweet flavor when cooked. Jewel sweet potatoes are versatile and can be used in a variety of dishes, including soups, salads, and desserts. They are prized for their attractive appearance and rich flavor.",
+                    "spacing": "12 inches",
+                    "days_to_harvest": {
+                      "lower_estimate": 90,
+                      "higher_estimate": 120
+                    },
+                    "is_container_variety": false,
+                    "skin_color": "Reddish-purple",
+                    "flesh_color": "Vibrant orange",
+                    "flower_color": "Light purple",
+                    "plant_height": "12-18 inches",
+                    "growth_mode": null,
+                    "best_uses": ["Soups", "Salads", "Desserts"],
+                    "water_requirement": "Regular watering",
+                    "feeding_requirement": "Rich soil with balanced fertilizer",
+                    "requires_pruning": false,
+                    "needs_support": false,
+                    "fun_fact": "Fun Fact: Jewel Sweet Potato was developed by researchers at Louisiana State University and released in 1965. It is known for its high yields and disease resistance.",
+                    "planting_tip": "Plant Jewel Sweet Potato slips in well-drained, loose soil. Choose a sunny location for optimal growth. Plant slips about 3 inches deep and 12 inches apart in rows spaced 36-42 inches apart. Keep the soil consistently moist but not waterlogged."
+                  },
+                  {
+                      "id": 2,
+                    "name": "Covington",
+                    "description": "Covington Sweet Potato is a popular variety known for its uniform shape, deep orange flesh, and excellent flavor. It has rose-colored skin and a moist, sweet flavor when cooked. Covington sweet potatoes are versatile and can be used in a variety of dishes, including fries, casseroles, and pies. They are prized for their consistent yields and disease resistance.",
+                    "spacing": "12 inches",
+                    "days_to_harvest": {
+                      "lower_estimate": 90,
+                      "higher_estimate": 120
+                    },
+                    "is_container_variety": false,
+                    "skin_color": "Rose",
+                    "flesh_color": "Deep orange",
+                    "flower_color": "Light purple",
+                    "plant_height": "12-18 inches",
+                    "growth_mode": null,
+                    "best_uses": ["Fries", "Casseroles", "Pies"],
+                    "water_requirement": "Regular watering",
+                    "feeding_requirement": "Rich soil with balanced fertilizer",
+                    "requires_pruning": false,
+                    "needs_support": false,
+                    "fun_fact": "Fun Fact: Covington Sweet Potato was developed by researchers at North Carolina State University and released in 2005. It is known for its high yields and disease resistance.",
+                    "planting_tip": "Plant Covington Sweet Potato slips in well-drained, loose soil. Choose a sunny location for optimal growth. Plant slips about 3 inches deep and 12 inches apart in rows spaced 36-42 inches apart. Keep the soil consistently moist but not waterlogged."
+                  },
+                  {
+                      "id": 3,
+                    "name": "Carolina Ruby",
+                    "description": "Carolina Ruby Sweet Potato is a popular heirloom variety known for its deep red-purple skin and moist, sweet flesh. It has a rich flavor and creamy texture when cooked, making it ideal for baking, boiling, or roasting. Carolina Ruby sweet potatoes are versatile and can be used in a variety of dishes, including pies, casseroles, and soups.",
+                    "spacing": "12 inches",
+                    "days_to_harvest": {
+                      "lower_estimate": 90,
+                      "higher_estimate": 120
+                    },
+                    "is_container_variety": false,
+                    "skin_color": "Deep red-purple",
+                    "flesh_color": "Moist, sweet flesh",
+                    "flower_color": "Light purple",
+                    "plant_height": "12-18 inches",
+                    "growth_mode": null,
+                    "best_uses": ["Pies", "Casseroles", "Soups"],
+                    "water_requirement": "Regular watering",
+                    "feeding_requirement": "Rich soil with balanced fertilizer",
+                    "requires_pruning": false,
+                    "needs_support": false,
+                    "fun_fact": "Carolina Ruby Sweet Potato is an heirloom variety that has been grown for generations in the southern United States. It is prized for its flavor and versatility in cooking.",
+                    "planting_tip": "Plant Carolina Ruby Sweet Potato slips in well-drained, loose soil. Choose a sunny location for optimal growth. Plant slips about 3 inches deep and 12 inches apart in rows spaced 36-42 inches apart. Keep the soil consistently moist but not waterlogged."
+                  },
+                  {
+                      "id": 4,
+                    "name": "O'Henry",
+                    "description": "O'Henry Sweet Potato is a popular variety known for its creamy texture and sweet flavor. It has pale copper skin and light cream-colored flesh. O'Henry sweet potatoes are versatile and can be used in a variety of dishes, including fries, casseroles, and pies. They are prized for their smooth texture and excellent flavor.",
+                    "spacing": "12 inches",
+                    "days_to_harvest": {
+                      "lower_estimate": 90,
+                      "higher_estimate": 120
+                    },
+                    "is_container_variety": false,
+                    "skin_color": "Pale copper",
+                    "flesh_color": "Light cream-colored",
+                    "flower_color": "Light purple",
+                    "plant_height": "12-18 inches",
+                    "growth_mode": null,
+                    "best_uses": ["Fries", "Casseroles", "Pies"],
+                    "water_requirement": "Regular watering",
+                    "feeding_requirement": "Rich soil with balanced fertilizer",
+                    "requires_pruning": false,
+                    "needs_support": false,
+                    "fun_fact": "O'Henry Sweet Potato is named after Henry, a laborer who discovered this variety in 1981 while working in a North Carolina field.",
+                    "planting_tip": "Plant O'Henry Sweet Potato slips in well-drained, loose soil. Choose a sunny location for optimal growth. Plant slips about 3 inches deep and 12 inches apart in rows spaced 36-42 inches apart. Keep the soil consistently moist but not waterlogged."
+                  },
+                    {
+                        "id": 5,
+                      "name": "Japanese",
+                      "description": "Japanese Sweet Potato, also known as Satsumaimo, is a popular variety known for its purple skin and creamy white flesh. It has a slightly sweet flavor and moist texture when cooked, making it ideal for baking, steaming, or frying. Japanese Sweet Potato is versatile and can be used in a variety of dishes, including tempura, pies, and soups.",
+                      "spacing": "12 inches",
+                      "days_to_harvest": {
+                        "lower_estimate": 90,
+                        "higher_estimate": 120
+                      },
+                      "is_container_variety": false,
+                      "skin_color": "Purple",
+                      "flesh_color": "Creamy white",
+                      "flower_color": "Light purple",
+                      "plant_height": "12-18 inches",
+                      "growth_mode": null,
+                      "best_uses": ["Baking", "Steaming", "Frying"],
+                      "water_requirement": "Regular watering",
+                      "feeding_requirement": "Rich soil with balanced fertilizer",
+                      "requires_pruning": false,
+                      "needs_support": false,
+                      "fun_fact": "Japanese Sweet Potato is a popular ingredient in Japanese cuisine and is often enjoyed roasted as a street food snack.",
+                      "planting_tip": "Plant Japanese Sweet Potato slips in well-drained, loose soil. Choose a sunny location for optimal growth. Plant slips about 3 inches deep and 12 inches apart in rows spaced 36-42 inches apart. Keep the soil consistently moist but not waterlogged."
+                    },
+                    {
+                        "id": 6,
+                      "name": "Purple",
+                      "description": "Purple Sweet Potato, also known as Okinawan Sweet Potato, is a unique variety known for its vibrant purple flesh and sweet flavor. It has a creamy texture when cooked and can be used in a variety of dishes, including mashed potatoes, pies, and desserts. Purple Sweet Potato is prized for its antioxidant-rich pigments and health benefits.",
+                      "spacing": "12 inches",
+                      "days_to_harvest": {
+                        "lower_estimate": 90,
+                        "higher_estimate": 120
+                      },
+                      "is_container_variety": false,
+                      "skin_color": "Purple",
+                      "flesh_color": "Vibrant purple",
+                      "flower_color": "Light purple",
+                      "plant_height": "12-18 inches",
+                      "growth_mode": null,
+                      "best_uses": ["Mashed potatoes", "Pies", "Desserts"],
+                      "water_requirement": "Regular watering",
+                      "feeding_requirement": "Rich soil with balanced fertilizer",
+                      "requires_pruning": false,
+                      "needs_support": false,
+                      "fun_fact": "Purple Sweet Potato is native to the island of Okinawa in Japan and is a staple food in the Okinawan diet, known for promoting longevity and health.",
+                      "planting_tip": "Plant Purple Sweet Potato slips in well-drained, loose soil. Choose a sunny location for optimal growth. Plant slips about 3 inches deep and 12 inches apart in rows spaced 36-42 inches apart. Keep the soil consistently moist but not waterlogged."
+                    }
             ]
         },
         {
