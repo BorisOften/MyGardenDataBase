@@ -35,7 +35,7 @@
                                 "harvest": "Harvest tomatoes from mid to late summer, starting in July and continuing into August and September."
                             }
                         },
-                        {"
+                        {
                             "zone": ["5a","5b", "6a","6b","7a","7b"],
                             "planting_dates_months": {
                                 "start_indoors": ["February", "March"],
