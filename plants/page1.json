@@ -2,7 +2,7 @@
     "next": "https://raw.githubusercontent.com/BorisOften/MyGardenDataBase/develop/plants/page2.json",
     "previous": null,
     "results": [
-        {"
+        {
             "id": 0,
             "name": "tomato",
             "varieties_common_features": {
