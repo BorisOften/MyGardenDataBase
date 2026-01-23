@@ -1,0 +1,1140 @@
+{
+    "next": "https://raw.githubusercontent.com/BorisOften/MyGardenDataBase/develop/new_plants/page3.json",
+    "previous": "https://raw.githubusercontent.com/BorisOften/MyGardenDataBase/develop/new_plants/page1.json",
+    "results": [
+        {
+          "id": 5,
+          "name": "Mint",
+          "plant_category": "Herb",
+          "varieties_common_features": {
+            "sunlight_requirement": "Full Sun to Partial Shade",
+            "sunlight_hours_min": 4,
+            "sunlight_hours_optimal": 6,
+            "propagation_methods": ["Seeds", "Cuttings", "Division"],
+            "soil_acidity_range": {
+              "lower_bound": 6.0,
+              "upper_bound": 7.5
+            },
+            "soil_type_preference": ["Loamy", "Rich", "Moist"],
+            "drainage_requirement": "Well-drained but moisture-retentive",
+            "days_to_germination": "10-14 days",
+            "frost_tolerance": true,
+            "planting_depth": "1/4 inch",
+            "spacing": "12-18 inches",
+            "life_cycle": "Perennial",
+            "season": "Cool to Warm Season",
+            "typical_yield_range": "Continuous harvest - highly productive",
+            "companion_plants": ["Cabbage", "Tomatoes", "Peas", "Broccoli"],
+            "avoid_planting_with": ["Parsley", "Chamomile"],
+            "common_pests": ["Aphids", "Spider Mites", "Flea Beetles", "Mint Flea Beetle"],
+            "common_diseases": ["Mint Rust", "Verticillium Wilt", "Powdery Mildew", "Root Rot"],
+            "planting_zones_times": [
+              {
+                "zone": ["3a", "3b", "4a", "4b"],
+                "planting_dates_months": {
+                  "start_indoors": ["April", "May"],
+                  "transplant": ["May", "June"],
+                  "start_outdoors": ["May", "June"],
+                  "harvest": ["June", "July", "August", "September"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Start seeds indoors 6-8 weeks before the last frost date, typically in mid to late April.",
+                  "transplant": "Transplant seedlings outdoors after the danger of frost has passed, usually in late May to early June.",
+                  "start_outdoors": "Once soil temperatures have warmed up and all danger of frost has passed, typically in late May to early June.",
+                  "harvest": "Harvest mint leaves throughout the summer and early fall."
+                }
+              },
+              {
+                "zone": ["5a", "5b", "6a", "6b"],
+                "planting_dates_months": {
+                  "start_indoors": ["March", "April"],
+                  "transplant": ["May", "June"],
+                  "start_outdoors": ["March", "April"],
+                  "harvest": ["June", "July", "August", "September"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Start seeds indoors 6-8 weeks before the last frost date, typically in early to mid-March.",
+                  "transplant": "Transplant seedlings outdoors after the danger of frost has passed, usually in late May to early June.",
+                  "start_outdoors": "Once soil temperatures have warmed up and all danger of frost has passed, typically in late March to early April.",
+                  "harvest": "Harvest mint leaves throughout the summer and early fall."
+                }
+              },
+              {
+                "zone": ["7a", "7b", "8a", "8b"],
+                "planting_dates_months": {
+                  "start_indoors": ["February", "March"],
+                  "transplant": ["April", "May"],
+                  "start_outdoors": ["February", "March"],
+                  "harvest": ["May", "June", "July", "August"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Start seeds indoors 6-8 weeks before the last frost date, typically in late February to early March.",
+                  "transplant": "Transplant seedlings outdoors after the danger of frost has passed, usually in late April to early May.",
+                  "start_outdoors": "Once soil temperatures have warmed up and all danger of frost has passed, typically in late February to early March.",
+                  "harvest": "Harvest mint leaves from late spring to early summer."
+                }
+              },
+              {
+                "zone": ["9a", "9b", "10a", "10b"],
+                "planting_dates_months": {
+                  "start_indoors": ["January", "February"],
+                  "transplant": ["February", "March"],
+                  "start_outdoors": ["January", "February"],
+                  "harvest": ["March", "April", "May", "June", "July", "August"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Start seeds indoors 6-8 weeks before the last frost date, typically in early to mid-January.",
+                  "transplant": "Transplant seedlings outdoors after the danger of frost has passed, usually in late February to early March.",
+                  "start_outdoors": "Once soil temperatures have warmed up and all danger of frost has passed, typically in late January to early February.",
+                  "harvest": "Harvest mint leaves from late winter to late summer."
+                }
+              },
+              {
+                "zone": ["11a", "11b", "12a", "12b"],
+                "planting_dates_months": {
+                  "start_indoors": ["ALL"],
+                  "transplant": ["ALL"],
+                  "start_outdoors": ["ALL"],
+                  "harvest": ["ALL"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Start seeds indoors or sow directly outdoors year-round, depending on local conditions.",
+                  "transplant": "Transplant seedlings outdoors as needed, considering optimal growing conditions and temperature.",
+                  "start_outdoors": "Sow seeds or transplant seedlings outdoors as needed, considering optimal growing conditions and temperature.",
+                  "harvest": "Harvest mint leaves throughout the year in these warm climates."
+                }
+              }
+            ]
+          },
+          "varieties": [
+            {
+              "id": 0,
+              "name": "Peppermint",
+              "description": "Peppermint is a popular and aromatic mint variety known for its strong, refreshing flavor. This perennial herb has dark green leaves with a hint of purple and is widely used in culinary applications, teas, and aromatherapy. Peppermint's invigorating scent and taste make it a versatile and beloved addition to herb gardens.",
+              "growth_info": {
+                "growth_mode": "Spreading via rhizomes",
+                "days_to_harvest": {
+                  "lower_estimate": 60,
+                  "higher_estimate": 90
+                },
+                "plant_height": "12-24 inches",
+                "spacing": "12-18 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "12-14 inches deep (to contain spreading)",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Purple",
+                "leaf_color": "Dark Green with Purple Stems"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering to keep soil consistently moist",
+                "feeding_requirement": "Light feeding every four weeks with balanced fertilizer",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "Continuous abundant harvest throughout growing season",
+                "best_uses": ["Culinary", "Teas", "Aromatherapy", "Mojitos", "Desserts", "Essential Oils"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Moderate - prefers cooler conditions",
+                "cold_tolerance": "Very High - hardy perennial",
+                "frost_tolerance": true,
+                "drought_tolerance": "Low - requires consistent moisture",
+                "disease_resistance": []
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Strong, cooling menthol flavor with refreshing, sharp peppery notes"
+              },
+              "herb_characteristics": {
+                "leaf_texture": "Smooth, slightly fuzzy leaves with serrated edges",
+                "aroma_intensity": "Very strong - intense menthol scent",
+                "culinary_strength": "Strong - highly potent",
+                "bolt_resistance": "N/A - perennial herb"
+              },
+              "fun_fact": "Did you know? Peppermint is a natural hybrid of spearmint and watermint, known for its strong menthol flavor.",
+              "planting_tip": "Plant Peppermint in well-drained soil with partial to full sunlight. Water regularly, keeping the soil consistently moist. Fertilize every four weeks to support healthy growth. Prune regularly to prevent leggy growth and encourage bushiness. Harvest leaves for culinary and aromatic use. WARNING: Mint spreads aggressively - consider growing in containers or using root barriers!"
+            },
+            {
+              "id": 1,
+              "name": "Spearmint",
+              "description": "Spearmint is a classic mint variety known for its mild and sweet flavor. This perennial herb has bright green, serrated leaves and is widely used in culinary applications, beverages, and medicinal preparations. Spearmint's refreshing taste makes it a popular choice for both culinary and aromatic uses.",
+              "growth_info": {
+                "growth_mode": "Spreading via rhizomes",
+                "days_to_harvest": {
+                  "lower_estimate": 60,
+                  "higher_estimate": 90
+                },
+                "plant_height": "12-24 inches",
+                "spacing": "12-18 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "12-14 inches deep (to contain spreading)",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Pink to Lavender",
+                "leaf_color": "Bright Green"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering to keep soil consistently moist",
+                "feeding_requirement": "Light feeding every four weeks with balanced fertilizer",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "Continuous abundant harvest throughout growing season",
+                "best_uses": ["Culinary", "Teas", "Medicinal", "Mint Juleps", "Lamb Dishes", "Salads"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Moderate - prefers cooler conditions",
+                "cold_tolerance": "Very High - hardy perennial",
+                "frost_tolerance": true,
+                "drought_tolerance": "Low - requires consistent moisture",
+                "disease_resistance": []
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Mild, sweet mint flavor with subtle cooling effect - less intense than peppermint"
+              },
+              "herb_characteristics": {
+                "leaf_texture": "Bright, crinkled leaves with prominent veins and serrated edges",
+                "aroma_intensity": "Strong and sweet",
+                "culinary_strength": "Medium - gentle and pleasant",
+                "bolt_resistance": "N/A - perennial herb"
+              },
+              "fun_fact": "Did you know? Spearmint has been used for centuries in traditional medicine for its potential digestive and respiratory benefits.",
+              "planting_tip": "Plant Spearmint in well-drained soil with partial to full sunlight. Water regularly, keeping the soil consistently moist. Fertilize every four weeks to support healthy growth. Prune regularly to prevent leggy growth and encourage bushiness. Harvest leaves for culinary and aromatic use. WARNING: Mint spreads aggressively - consider growing in containers!"
+            },
+            {
+              "id": 2,
+              "name": "Chocolate Mint",
+              "description": "Chocolate Mint is a delightful mint variety with a unique chocolatey flavor and aroma. This perennial herb features dark green leaves with a hint of purple and is a favorite for culinary uses, desserts, and aromatic purposes. Chocolate Mint adds a sweet and refreshing twist to various dishes and beverages.",
+              "growth_info": {
+                "growth_mode": "Spreading via rhizomes",
+                "days_to_harvest": {
+                  "lower_estimate": 60,
+                  "higher_estimate": 90
+                },
+                "plant_height": "12-24 inches",
+                "spacing": "12-18 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "12-14 inches deep (to contain spreading)",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Purple",
+                "leaf_color": "Dark Green with Purple Stems"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering to keep soil consistently moist",
+                "feeding_requirement": "Light feeding every four weeks with balanced fertilizer",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "Continuous abundant harvest throughout growing season",
+                "best_uses": ["Culinary", "Desserts", "Aromatherapy", "Hot Chocolate", "Brownies", "Ice Cream"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Moderate - prefers cooler conditions",
+                "cold_tolerance": "Very High - hardy perennial",
+                "frost_tolerance": true,
+                "drought_tolerance": "Low - requires consistent moisture",
+                "disease_resistance": []
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Distinctive chocolate-mint combination with cool minty undertones and subtle cocoa notes"
+              },
+              "herb_characteristics": {
+                "leaf_texture": "Smooth, rounded leaves with serrated edges and purple-tinged stems",
+                "aroma_intensity": "Strong - chocolate and mint blend",
+                "culinary_strength": "Medium-Strong",
+                "bolt_resistance": "N/A - perennial herb"
+              },
+              "fun_fact": "Did you know? Chocolate Mint is a natural hybrid of spearmint and peppermint, known for its distinctive chocolate flavor.",
+              "planting_tip": "Plant Chocolate Mint in well-drained soil with partial to full sunlight. Water regularly, keeping the soil consistently moist. Fertilize every four weeks to support healthy growth. Prune regularly to prevent leggy growth and encourage bushiness. Harvest leaves for culinary and aromatic use. Best grown in containers to control spreading."
+            },
+            {
+              "id": 3,
+              "name": "Apple Mint",
+              "description": "Apple Mint, also known as Pineapple Mint, is a mint variety with a fruity and refreshing flavor. This perennial herb has bright green leaves and is popular for culinary uses, beverages, and garnishes. Apple Mint adds a delightful twist to salads, desserts, and drinks with its apple-like taste and aroma.",
+              "growth_info": {
+                "growth_mode": "Spreading via rhizomes",
+                "days_to_harvest": {
+                  "lower_estimate": 60,
+                  "higher_estimate": 90
+                },
+                "plant_height": "12-24 inches",
+                "spacing": "12-18 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "12-14 inches deep (to contain spreading)",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "White to Pink",
+                "leaf_color": "Bright Green, often with white variegation"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering to keep soil consistently moist",
+                "feeding_requirement": "Light feeding every four weeks with balanced fertilizer",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "Continuous abundant harvest throughout growing season",
+                "best_uses": ["Culinary", "Teas", "Garnishes", "Fruit Salads", "Summer Drinks", "Jellies"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Moderate - prefers cooler conditions",
+                "cold_tolerance": "Very High - hardy perennial",
+                "frost_tolerance": true,
+                "drought_tolerance": "Low - requires consistent moisture",
+                "disease_resistance": []
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Mild, fruity mint flavor with apple and pineapple notes - less menthol than other mints"
+              },
+              "herb_characteristics": {
+                "leaf_texture": "Soft, fuzzy, rounded leaves with woolly appearance",
+                "aroma_intensity": "Medium - fruity and sweet",
+                "culinary_strength": "Mild - gentle and fruity",
+                "bolt_resistance": "N/A - perennial herb"
+              },
+              "fun_fact": "Did you know? Apple Mint gets its name from its fruity flavor, reminiscent of apples or pineapples.",
+              "planting_tip": "Plant Apple Mint in well-drained soil with partial to full sunlight. Water regularly, keeping the soil consistently moist. Fertilize every four weeks to support healthy growth. Prune regularly to prevent leggy growth and encourage bushiness. Harvest leaves for culinary and aromatic use. Grows well in shadier spots than other mints."
+            },
+            {
+              "id": 4,
+              "name": "Lemon Balm",
+              "description": "Lemon Balm is a fragrant herb with a mild lemon scent and flavor. This perennial herb, also known as Melissa, is valued for its culinary uses, teas, and medicinal properties. Lemon Balm has bright green, heart-shaped leaves and is a delightful addition to herb gardens and relaxation blends.",
+              "growth_info": {
+                "growth_mode": "Clumping with moderate spread",
+                "days_to_harvest": {
+                  "lower_estimate": 60,
+                  "higher_estimate": 90
+                },
+                "plant_height": "12-24 inches",
+                "spacing": "12-18 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "10-12 inches deep",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "White to Pale Yellow",
+                "leaf_color": "Bright Green"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering to keep soil consistently moist",
+                "feeding_requirement": "Light feeding every four weeks with balanced fertilizer",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "Continuous abundant harvest throughout growing season",
+                "best_uses": ["Culinary", "Teas", "Medicinal", "Calming Teas", "Fish Dishes", "Salads"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Moderate - tolerates heat better than true mints",
+                "cold_tolerance": "Very High - hardy perennial",
+                "frost_tolerance": true,
+                "drought_tolerance": "Low - requires consistent moisture",
+                "disease_resistance": []
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Light, lemony citrus flavor with mild minty undertones - refreshing and uplifting"
+              },
+              "herb_characteristics": {
+                "leaf_texture": "Heart-shaped, deeply veined leaves with wrinkled texture",
+                "aroma_intensity": "Strong - intense lemon scent",
+                "culinary_strength": "Mild to Medium",
+                "bolt_resistance": "N/A - perennial herb"
+              },
+              "fun_fact": "Did you know? Lemon Balm has been traditionally used to promote relaxation and improve mood, and is a member of the mint family.",
+              "planting_tip": "Plant Lemon Balm in well-drained soil with partial to full sunlight. Water regularly, keeping the soil consistently moist. Fertilize every four weeks to support healthy growth. Prune regularly to prevent leggy growth and encourage bushiness. Harvest leaves for culinary and aromatic use. Cut back before flowering to maintain best flavor."
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "name": "Dill",
+          "plant_category": "Herb",
+          "varieties_common_features": {
+            "sunlight_requirement": "Full Sun",
+            "sunlight_hours_min": 6,
+            "sunlight_hours_optimal": 8,
+            "propagation_methods": ["Seeds"],
+            "soil_acidity_range": {
+              "lower_bound": 6.0,
+              "upper_bound": 7.5
+            },
+            "soil_type_preference": ["Loamy", "Well-draining", "Rich"],
+            "drainage_requirement": "Well-drained",
+            "days_to_germination": "7-14 days",
+            "frost_tolerance": false,
+            "planting_depth": "1/4 inch",
+            "spacing": "12-18 inches",
+            "life_cycle": "Annual",
+            "season": "Cool to Warm Season",
+            "typical_yield_range": "Continuous leaf harvest until flowering, then seed harvest",
+            "companion_plants": ["Cabbage", "Lettuce", "Cucumbers", "Onions", "Broccoli"],
+            "avoid_planting_with": ["Carrots", "Tomatoes", "Fennel"],
+            "common_pests": ["Aphids", "Cutworms", "Hornworms", "Parsley Worms"],
+            "common_diseases": ["Downy Mildew", "Powdery Mildew", "Damping Off", "Leaf Blight"],
+            "planting_zones_times": [
+              {
+                "zone": ["3a", "3b", "4a", "4b"],
+                "planting_dates_months": {
+                  "start_indoors": [],
+                  "transplant": [],
+                  "start_outdoors": ["May", "June"],
+                  "harvest": ["June", "July", "August", "September"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Dill does not transplant well - sow directly outdoors.",
+                  "transplant": "Not recommended - dill has a taproot and dislikes transplanting.",
+                  "start_outdoors": "Sow seeds directly outdoors after all danger of frost has passed, typically in late May to early June. Can succession plant every 2-3 weeks.",
+                  "harvest": "Harvest dill leaves throughout the summer and early fall. Seeds ready 2-3 weeks after flowering."
+                }
+              },
+              {
+                "zone": ["5a", "5b", "6a", "6b"],
+                "planting_dates_months": {
+                  "start_indoors": [],
+                  "transplant": [],
+                  "start_outdoors": ["April", "May"],
+                  "harvest": ["June", "July", "August", "September"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Dill does not transplant well - sow directly outdoors.",
+                  "transplant": "Not recommended - dill has a taproot and dislikes transplanting.",
+                  "start_outdoors": "Sow seeds directly outdoors after soil warms, typically in late April to May. Can succession plant every 2-3 weeks for continuous harvest.",
+                  "harvest": "Harvest dill leaves throughout the summer and early fall."
+                }
+              },
+              {
+                "zone": ["7a", "7b", "8a", "8b"],
+                "planting_dates_months": {
+                  "start_indoors": [],
+                  "transplant": [],
+                  "start_outdoors": ["March", "April", "September", "October"],
+                  "harvest": ["May", "June", "July", "August", "November", "December"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Dill does not transplant well - sow directly outdoors.",
+                  "transplant": "Not recommended - dill has a taproot and dislikes transplanting.",
+                  "start_outdoors": "Sow seeds directly outdoors in early spring (March-April) or fall (September-October) for best results. Succession plant every 2-3 weeks.",
+                  "harvest": "Harvest dill leaves in late spring through summer, and again in fall/winter plantings."
+                }
+              },
+              {
+                "zone": ["9a", "9b", "10a", "10b"],
+                "planting_dates_months": {
+                  "start_indoors": [],
+                  "transplant": [],
+                  "start_outdoors": ["October", "November", "December", "January", "February"],
+                  "harvest": ["December", "January", "February", "March", "April", "May"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Dill does not transplant well - sow directly outdoors.",
+                  "transplant": "Not recommended - dill has a taproot and dislikes transplanting.",
+                  "start_outdoors": "Sow seeds directly outdoors in fall through winter (October-February) when temperatures are cooler. Avoid summer heat.",
+                  "harvest": "Harvest dill leaves from late fall through spring. Dill bolts quickly in hot weather."
+                }
+              },
+              {
+                "zone": ["11a", "11b", "12a", "12b"],
+                "planting_dates_months": {
+                  "start_indoors": [],
+                  "transplant": [],
+                  "start_outdoors": ["November", "December", "January", "February"],
+                  "harvest": ["January", "February", "March", "April"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Dill does not transplant well - sow directly outdoors.",
+                  "transplant": "Not recommended - dill has a taproot and dislikes transplanting.",
+                  "start_outdoors": "Sow seeds directly outdoors during cooler months (November-February). Dill struggles in tropical heat and humidity.",
+                  "harvest": "Harvest dill leaves during the coolest months. Best grown as a winter annual in these zones."
+                }
+              }
+            ]
+          },
+          "varieties": [
+            {
+              "id": 0,
+              "name": "Bouquet Dill",
+              "description": "Bouquet Dill is a popular dill variety known for its feathery foliage and strong, aromatic flavor. This annual herb is commonly used in culinary applications, pickling, and as a garnish. With its upright growth habit and delicate leaves, Bouquet Dill is a versatile and flavorful addition to herb gardens and kitchen windowsills.",
+              "growth_info": {
+                "growth_mode": "Upright, single stem",
+                "days_to_harvest": {
+                  "lower_estimate": 40,
+                  "higher_estimate": 60
+                },
+                "plant_height": "24-36 inches",
+                "spacing": "12-18 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "12 inches deep (for taproot)",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Yellow umbrella-shaped clusters",
+                "leaf_color": "Blue-Green feathery foliage"
+              },
+              "care_requirements": {
+                "water_requirement": "Moderate - keep soil evenly moist but not waterlogged",
+                "feeding_requirement": "Light feeding every six weeks with balanced fertilizer",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "Abundant leaves for 6-8 weeks, then large seed heads",
+                "best_uses": ["Culinary", "Pickling", "Garnishes", "Fish Dishes", "Dill Seeds", "Pickles"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Low - bolts quickly in heat",
+                "cold_tolerance": "Moderate - tolerates light frost",
+                "frost_tolerance": false,
+                "drought_tolerance": "Low - requires consistent moisture",
+                "disease_resistance": []
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Strong, tangy anise-like flavor with fresh grassy notes"
+              },
+              "herb_characteristics": {
+                "leaf_texture": "Fine, feathery, thread-like leaves",
+                "aroma_intensity": "Very strong - pungent and distinctive",
+                "culinary_strength": "Strong",
+                "bolt_resistance": "Low - bolts readily in hot weather"
+              },
+              "fun_fact": "Did you know? Bouquet Dill is named for its abundant and attractive flower heads, making it a favorite for both culinary and ornamental use.",
+              "planting_tip": "Plant Bouquet Dill seeds directly in well-drained soil with full sunlight - dill has a taproot and doesn't transplant well. Water moderately, allowing the soil to dry slightly between watering. Fertilize every six weeks. Succession plant every 2-3 weeks for continuous harvest. Harvest leaves before flowering for best flavor."
+            },
+            {
+              "id": 1,
+              "name": "Fernleaf Dill",
+              "description": "Fernleaf Dill is a compact and dwarf dill variety known for its finely cut, fern-like foliage. This annual herb is prized for its culinary uses, especially in salads, sauces, and fish dishes. With its compact growth habit, Fernleaf Dill is suitable for small gardens, containers, and indoor herb gardens.",
+              "growth_info": {
+                "growth_mode": "Compact, bushy",
+                "days_to_harvest": {
+                  "lower_estimate": 35,
+                  "higher_estimate": 55
+                },
+                "plant_height": "18-24 inches",
+                "spacing": "8-12 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "10-12 inches deep (for taproot)",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Yellow umbrella-shaped clusters",
+                "leaf_color": "Dark Blue-Green feathery foliage"
+              },
+              "care_requirements": {
+                "water_requirement": "Moderate - keep soil evenly moist but not waterlogged",
+                "feeding_requirement": "Light feeding every six weeks with balanced fertilizer",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "Continuous leaf harvest from compact plants",
+                "best_uses": ["Culinary", "Salads", "Containers", "Fresh Use", "Fish Dishes", "Sauces"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Low - bolts in heat",
+                "cold_tolerance": "Moderate - tolerates light frost",
+                "frost_tolerance": false,
+                "drought_tolerance": "Low - requires consistent moisture",
+                "disease_resistance": []
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Mild, sweet dill flavor with delicate anise notes"
+              },
+              "herb_characteristics": {
+                "leaf_texture": "Very fine, densely packed feathery leaves",
+                "aroma_intensity": "Strong - aromatic and fresh",
+                "culinary_strength": "Medium - milder than standard dill",
+                "bolt_resistance": "Moderate - slower to bolt than other varieties"
+              },
+              "fun_fact": "Did you know? Fernleaf Dill is well-suited for compact spaces and container gardening due to its compact and attractive growth habit. It's also slower to bolt than standard dill.",
+              "planting_tip": "Plant Fernleaf Dill seeds directly in well-drained soil with full sunlight - avoid transplanting. Water moderately, allowing the soil to dry slightly between watering. Fertilize every six weeks. Its compact size makes it perfect for containers and small spaces. Pinch back regularly to encourage bushiness."
+            },
+            {
+              "id": 2,
+              "name": "Mammoth Dill",
+              "description": "Mammoth Dill is a tall and vigorous dill variety known for its large, umbrella-like flower heads. This annual herb is valued for its culinary uses, especially in pickling and flavoring various dishes. With its robust growth habit, Mammoth Dill is a classic choice for larger herb gardens and farm plantings.",
+              "growth_info": {
+                "growth_mode": "Tall, upright, vigorous",
+                "days_to_harvest": {
+                  "lower_estimate": 45,
+                  "higher_estimate": 70
+                },
+                "plant_height": "36-48 inches",
+                "spacing": "18-24 inches",
+                "is_container_variety": false,
+                "recommended_container_size": "Not recommended - too tall for containers",
+                "needs_support": true
+              },
+              "appearance": {
+                "flower_color": "Large yellow umbrella-shaped clusters (6-8 inches wide)",
+                "leaf_color": "Blue-Green feathery foliage"
+              },
+              "care_requirements": {
+                "water_requirement": "Moderate - keep soil evenly moist but not waterlogged",
+                "feeding_requirement": "Light feeding every six weeks with balanced fertilizer",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "Abundant leaves and very large seed heads - excellent for pickling",
+                "best_uses": ["Culinary", "Pickling", "Herb Gardens", "Dill Seeds", "Large-scale Pickling", "Dried Dill"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Low - bolts in heat",
+                "cold_tolerance": "Moderate - tolerates light frost",
+                "frost_tolerance": false,
+                "drought_tolerance": "Low - requires consistent moisture",
+                "disease_resistance": []
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Strong, bold dill flavor with pronounced anise notes"
+              },
+              "herb_characteristics": {
+                "leaf_texture": "Coarse, feathery leaves on tall stems",
+                "aroma_intensity": "Very strong - intensely aromatic",
+                "culinary_strength": "Very Strong",
+                "bolt_resistance": "Low - bolts readily in hot weather"
+              },
+              "fun_fact": "Did you know? Mammoth Dill is prized for its large and showy flower heads (up to 8 inches across), making it the go-to choice for pickling enthusiasts and large-scale herb production.",
+              "planting_tip": "Plant Mammoth Dill seeds directly in well-drained soil with full sunlight - do not transplant. Space plants adequately as they grow very tall. May need staking in windy areas. Water moderately. This variety is best for garden beds rather than containers due to its height. Excellent for seed harvest."
+            }
+          ]
+        }
+        // Not Done
+        {
+            "id": 7,
+            "name": "sage",
+            "varieties_common_features": {
+                "sunlight_requirement": "Full Sun",
+                "propagation_methods": ["Seeds", "Cuttings"],
+                "soil_acidity_range": {
+                  "lower_bound": 6.0,
+                  "upper_bound": 7.5
+                },
+                "days_to_germination": "14-21 days",
+                "frost_tolerance": true,
+                "planting_depth": "1/4 inch",
+                "spacing": "12-18 inches",
+                "life_cycle": "Perennial",
+                "season": "Warm",
+                "planting_zones_times":
+                [
+                        {
+                            "zone": ["3a","3b","4a","4b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["April", "May"],
+                                "transplant": ["May", "June"],
+                                "start_outdoors": ["May", "June"],
+                                "harvest": ["June", "July", "August", "September"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start seeds indoors 6-8 weeks before the last frost date, typically in mid to late April.",
+                                "transplant": "Transplant seedlings outdoors after the danger of frost has passed, usually in late May to early June.",
+                                "start_outdoors": "Once soil temperatures have warmed up and all danger of frost has passed, typically in late May to early June.",
+                                "harvest": "Harvest sage leaves throughout the summer and early fall."
+                            }
+                        },
+                        {
+                            "zone": ["5a","5b","6a","6b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["March", "April"],
+                                "transplant": ["May", "June"],
+                                "start_outdoors": ["March", "April"],
+                                "harvest": ["June", "July", "August", "September"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start seeds indoors 6-8 weeks before the last frost date, typically in early to mid-March.",
+                                "transplant": "Transplant seedlings outdoors after the danger of frost has passed, usually in late May to early June.",
+                                "start_outdoors": "Once soil temperatures have warmed up and all danger of frost has passed, typically in late March to early April.",
+                                "harvest": "Harvest sage leaves throughout the summer and early fall."
+                            }
+                        },
+                        {
+                            "zone": ["7a","7b","8a","8b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["February", "March"],
+                                "transplant": ["April", "May"],
+                                "start_outdoors": ["February", "March"],
+                                "harvest": ["May", "June", "July", "August"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start seeds indoors 6-8 weeks before the last frost date, typically in late February to early March.",
+                                "transplant": "Transplant seedlings outdoors after the danger of frost has passed, usually in late April to early May.",
+                                "start_outdoors": "Once soil temperatures have warmed up and all danger of frost has passed, typically in late February to early March.",
+                                "harvest": "Harvest sage leaves from late spring to early summer."
+                            }
+                        },
+                        {
+                            "zone": ["9a","9b","10a","10b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["January", "February"],
+                                "transplant": ["February", "March"],
+                                "start_outdoors": ["January", "February"],
+                                "harvest": ["March", "April", "May", "June", "July", "August"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start seeds indoors 6-8 weeks before the last frost date, typically in early to mid-January.",
+                                "transplant": "Transplant seedlings outdoors after the danger of frost has passed, usually in late February to early March.",
+                                "start_outdoors": "Once soil temperatures have warmed up and all danger of frost has passed, typically in late January to early February.",
+                                "harvest": "Harvest sage leaves from late winter to late summer."
+                            }
+                        },
+                        {
+                            "zone": ["11a", "11b", "12a", "12b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["ALL"],
+                                "transplant": ["ALL"],
+                                "start_outdoors": ["ALL"],
+                                "harvest": ["ALL"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start seeds indoors or sow directly outdoors year-round, depending on local conditions.",
+                                "transplant": "Transplant seedlings outdoors as needed, considering optimal growing conditions and temperature.",
+                                "start_outdoors": "Sow seeds or transplant seedlings outdoors as needed, considering optimal growing conditions and temperature.",
+                                "harvest": "Harvest sage leaves throughout the year in these warm climates."
+                            }
+                        }
+                    ]
+            },
+            "varieties": [
+                {
+                    "id": 0,
+                    "name": "Common",
+                    "description": "Common Sage, also known as Garden Sage, is a well-known and versatile herb with gray-green leaves and a distinct earthy flavor. This perennial herb is widely used in culinary applications, teas, and for its aromatic properties. Common Sage is known for its hardiness and can be a valuable addition to herb gardens and landscapes.",
+                    "growth_mode": null,
+                    "days_to_harvest": {
+                      "lower_estimate": 60,
+                      "higher_estimate": 90
+                    },
+                    "is_container_variety": true,
+                    "fruit_color": null,
+                    "leaf_color": "Gray-Green",
+                    "flower_color": "Purple",
+                    "fruit_weight": null,
+                    "plant_height": "18-24 inches",
+                    "best_uses": ["Culinary", "Teas", "Landscaping"],
+                    "needs_support": false,
+                    "water_requirement": "Low to Moderate",
+                    "feeding_requirement": "Once a month",
+                    "requires_pruning": true,
+                    "fun_fact": "Did you know? Common Sage has been traditionally used for its medicinal properties, including its potential to support digestion.",
+                    "planting_tip": "Plant Common Sage in well-drained soil with full sunlight. Water sparingly, allowing the soil to dry out between watering. Fertilize once a month during the growing season. Prune regularly to maintain shape and encourage bushiness. Harvest leaves for culinary and medicinal use.",
+                    "spacing": "12-18 inches",
+                    "overwrite_common_features": {
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "Pineapple",
+                    "description": "Pineapple Sage is a unique and aromatic sage variety with bright green leaves and a sweet pineapple fragrance. This perennial herb is valued for its culinary uses, teas, and ornamental appeal. Pineapple Sage is known for attracting pollinators with its vibrant red tubular flowers and is a delightful addition to herb gardens and landscape borders.",
+                    "growth_mode": null,
+                    "days_to_harvest": {
+                      "lower_estimate": 60,
+                      "higher_estimate": 90
+                    },
+                    "is_container_variety": true,
+                    "fruit_color": null,
+                    "leaf_color": "Bright Green",
+                    "flower_color": "Red",
+                    "fruit_weight": null,
+                    "plant_height": "24-36 inches",
+                    "best_uses": ["Culinary", "Teas", "Ornamental"],
+                    "needs_support": false,
+                    "water_requirement": "Low to Moderate",
+                    "feeding_requirement": "Once a month",
+                    "requires_pruning": true,
+                    "fun_fact": "Did you know? Pineapple Sage is often used in both sweet and savory dishes, and its leaves can add a pineapple-like flavor to recipes.",
+                    "planting_tip": "Plant Pineapple Sage in well-drained soil with full to partial sunlight. Water moderately, keeping the soil consistently moist. Fertilize once a month during the growing season. Prune regularly to maintain shape and encourage bushiness. Harvest leaves and flowers for culinary and ornamental use.",
+                    "spacing": "12-18 inches",
+                    "overwrite_common_features": {
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "Tricolor",
+                    "description": "Tricolor Sage is a visually stunning sage variety with variegated leaves featuring shades of green, purple, and white. This perennial herb is not only prized for its ornamental appeal but also for its culinary uses. Tricolor Sage adds a burst of color to herb gardens and is an excellent choice for decorative containers.",
+                    "growth_mode": null,
+                    "days_to_harvest": {
+                      "lower_estimate": 60,
+                      "higher_estimate": 90
+                    },
+                    "is_container_variety": true,
+                    "fruit_color": null,
+                    "leaf_color": "Variegated (Green, Purple, White)",
+                    "flower_color": "Purple",
+                    "fruit_weight": null,
+                    "plant_height": "12-18 inches",
+                    "best_uses": ["Culinary", "Ornamental", "Containers"],
+                    "needs_support": false,
+                    "water_requirement": "Low to Moderate",
+                    "feeding_requirement": "Once a month",
+                    "requires_pruning": true,
+                    "fun_fact": "Did you know? Tricolor Sage not only adds flavor to dishes but also serves as an attractive garnish due to its vibrant foliage.",
+                    "planting_tip": "Plant Tricolor Sage in well-drained soil with full sunlight. Water moderately, allowing the soil to dry out between watering. Fertilize once a month during the growing season. Prune regularly to maintain shape and encourage bushiness. Harvest leaves for culinary and decorative use.",
+                    "spacing": "12-18 inches",
+                    "overwrite_common_features": {
+                    }
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "rosemary",
+            "varieties_common_features": {
+                "sunlight_requirement": "Full Sun",
+                "propagation_methods": ["seeds","Cuttings"],
+                "soil_acidity_range": {
+                  "lower_bound": 6.0,
+                  "upper_bound": 7.5
+                },
+                "days_to_germination": "21-28 days",
+                "frost_tolerance": true,
+                "planting_depth": "1/4 inch",
+                "spacing": "18-24 inches",
+                "life_cycle": "Perennial",
+                "season": "Warm",
+                "planting_zones_times":
+                [
+                        {
+                            "zone": ["3a","3b","4a", "4b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["April", "May"],
+                                "transplant": ["May", "June"],
+                                "start_outdoors": ["May", "June"],
+                                "harvest": ["June", "July", "August", "September"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start seeds indoors 6-8 weeks before the last frost date, typically in mid to late April.",
+                                "transplant": "Transplant seedlings outdoors after the danger of frost has passed, usually in late May to early June.",
+                                "start_outdoors": "Once soil temperatures have warmed up and all danger of frost has passed, typically in late May to early June.",
+                                "harvest": "Harvest rosemary leaves throughout the summer and early fall."
+                            }
+                        },
+                        {
+                            "zone": ["5a","5b","6a", "6b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["March", "April"],
+                                "transplant": ["May", "June"],
+                                "start_outdoors": ["March", "April"],
+                                "harvest": ["June", "July", "August", "September"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start seeds indoors 6-8 weeks before the last frost date, typically in early to mid-March.",
+                                "transplant": "Transplant seedlings outdoors after the danger of frost has passed, usually in late May to early June.",
+                                "start_outdoors": "Once soil temperatures have warmed up and all danger of frost has passed, typically in late March to early April.",
+                                "harvest": "Harvest rosemary leaves throughout the summer and early fall."
+                            }
+                        },
+                        {
+                            "zone": ["7a","7b","8a", "8b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["February", "March"],
+                                "transplant": ["April", "May"],
+                                "start_outdoors": ["February", "March"],
+                                "harvest": ["May", "June", "July", "August"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start seeds indoors 6-8 weeks before the last frost date, typically in late February to early March.",
+                                "transplant": "Transplant seedlings outdoors after the danger of frost has passed, usually in late April to early May.",
+                                "start_outdoors": "Once soil temperatures have warmed up and all danger of frost has passed, typically in late February to early March.",
+                                "harvest": "Harvest rosemary leaves from late spring to early summer."
+                            }
+                        },
+                        {
+                            "zone": ["9a","9b","10a", "10b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["January", "February"],
+                                "transplant": ["February", "March"],
+                                "start_outdoors": ["January", "February"],
+                                "harvest": ["March", "April", "May", "June", "July", "August"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start seeds indoors 6-8 weeks before the last frost date, typically in early to mid-January.",
+                                "transplant": "Transplant seedlings outdoors after the danger of frost has passed, usually in late February to early March.",
+                                "start_outdoors": "Once soil temperatures have warmed up and all danger of frost has passed, typically in late January to early February.",
+                                "harvest": "Harvest rosemary leaves from late winter to late summer."
+                            }
+                        },
+                        {
+                            "zone": ["11a","11b","12a", "12b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["ALL"],
+                                "transplant": ["ALL"],
+                                "start_outdoors": ["ALL"],
+                                "harvest": ["ALL"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start seeds indoors or sow directly outdoors year-round, depending on local conditions.",
+                                "transplant": "Transplant seedlings outdoors as needed, considering optimal growing conditions and temperature.",
+                                "start_outdoors": "Sow seeds or transplant seedlings outdoors as needed, considering optimal growing conditions and temperature.",
+                                "harvest": "Harvest rosemary leaves throughout the year in these warm climates."
+                            }
+                        }
+                    ]
+            },
+            "varieties": [
+                {
+                    "id": 0,
+                    "name": "Tuscan Blue",
+                    "description": "Tuscan Blue Rosemary is a popular and aromatic rosemary variety with needle-like leaves and a robust, pine-like fragrance. This perennial herb is known for its culinary uses, especially in Mediterranean dishes, and its ornamental appeal. Tuscan Blue Rosemary is a versatile herb that adds flavor to various recipes and beauty to gardens.",
+                    "growth_mode": null,
+                    "days_to_harvest": {
+                      "lower_estimate": 60,
+                      "higher_estimate": 90
+                    },
+                    "is_container_variety": true,
+                    "fruit_color": null,
+                    "leaf_color": "Green",
+                    "flower_color": "Blue",
+                    "fruit_weight": null,
+                    "plant_height": "24-36 inches",
+                    "best_uses": ["Culinary", "Landscaping", "Containers"],
+                    "needs_support": false,
+                    "water_requirement": "Low to Moderate",
+                    "feeding_requirement": "Once a month",
+                    "requires_pruning": true,
+                    "fun_fact": "Did you know? Tuscan Blue Rosemary is often used in roasts, stews, and grilled dishes, imparting a distinct flavor to the food.",
+                    "planting_tip": "Plant Tuscan Blue Rosemary in well-drained soil with full sunlight. Water sparingly, allowing the soil to dry out between watering. Fertilize once a month during the growing season. Prune regularly to maintain shape and encourage bushiness. Harvest leaves for culinary use.",
+                    "spacing": "12-18 inches",
+                    "overwrite_common_features": {
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "Arp",
+                    "description": "Arp Rosemary is a cold-hardy and aromatic rosemary variety with silvery-green leaves and a pine-like scent. This perennial herb is prized for its culinary uses, especially in roasts, marinades, and bread. Arp Rosemary is well-suited for various climates and is an excellent choice for both herb gardens and container planting.",
+                    "growth_mode": null,
+                    "days_to_harvest": {
+                      "lower_estimate": 60,
+                      "higher_estimate": 90
+                    },
+                    "is_container_variety": true,
+                    "fruit_color": null,
+                    "leaf_color": "Silvery-Green",
+                    "flower_color": "Blue",
+                    "fruit_weight": null,
+                    "plant_height": "24-36 inches",
+                    "best_uses": ["Culinary", "Containers"],
+                    "needs_support": false,
+                    "water_requirement": "Low to Moderate",
+                    "feeding_requirement": "Once a month",
+                    "requires_pruning": true,
+                    "fun_fact": "Did you know? Arp Rosemary is one of the cold-hardiest rosemary varieties and can withstand colder temperatures better than other types.",
+                    "planting_tip": "Plant Arp Rosemary in well-drained soil with full sunlight. Water sparingly, allowing the soil to dry out between watering. Fertilize once a month during the growing season. Prune regularly to maintain shape and encourage bushiness. Harvest leaves for culinary use.",
+                    "spacing": "18-24 inches",
+                    "overwrite_common_features": {
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "Barbecue",
+                    "description": "Barbecue Rosemary is a robust and flavorful rosemary variety with dark green leaves and a strong aromatic profile. This perennial herb is specially bred for its culinary uses, particularly in grilling and barbecuing. Barbecue Rosemary adds a savory touch to meat and vegetable dishes, making it a favorite for outdoor cooking enthusiasts.",
+                    "growth_mode": null,
+                    "days_to_harvest": {
+                      "lower_estimate": 60,
+                      "higher_estimate": 90
+                    },
+                    "is_container_variety": true,
+                    "fruit_color": null,
+                    "leaf_color": "Dark Green",
+                    "flower_color": "Blue",
+                    "fruit_weight": null,
+                    "plant_height": "24-36 inches",
+                    "best_uses": ["Culinary", "Grilling", "Barbecuing"],
+                    "needs_support": false,
+                    "water_requirement": "Low to Moderate",
+                    "feeding_requirement": "Once a month",
+                    "requires_pruning": true,
+                    "fun_fact": "Did you know? Barbecue Rosemary is specifically bred for its robust flavor, making it an excellent choice for enhancing the taste of grilled foods.",
+                    "planting_tip": "Plant Barbecue Rosemary in well-drained soil with full sunlight. Water sparingly, allowing the soil to dry out between watering. Fertilize once a month during the growing season. Prune regularly to maintain shape and encourage bushiness. Harvest leaves for culinary use.",
+                    "spacing": "18-24 inches",
+                    "overwrite_common_features": {
+                    }
+                }
+
+            ]
+        },
+        {
+            "id": 9,
+            "name": "chives",
+            "varieties_common_features": {
+                "sunlight_requirement": "Full Sun to Partial Shade",
+                "propagation_methods": ["Seeds", "Division"],
+                "soil_acidity_range": {
+                  "lower_bound": 6.0,
+                  "upper_bound": 7.5
+                },
+                "days_to_germination": "14-21 days",
+                "frost_tolerance": true,
+                "planting_depth": "1/4 inch",
+                "spacing": "6-12 inches",
+                "life_cycle": "Perennial",
+                "season": "Cool",
+                "planting_zones_times":
+                [
+                        {
+                            "zone": ["3a","3b","4a","4b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["April", "May"],
+                                "transplant": ["May", "June"],
+                                "start_outdoors": ["May", "June"],
+                                "harvest": ["June", "July", "August", "September"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start seeds indoors 6-8 weeks before the last frost date, typically in mid to late April.",
+                                "transplant": "Transplant seedlings outdoors after the danger of frost has passed, usually in late May to early June.",
+                                "start_outdoors": "Once soil temperatures have warmed up and all danger of frost has passed, typically in late May to early June.",
+                                "harvest": "Harvest chives leaves throughout the summer and early fall."
+                            }
+                        },
+                        {
+                            "zone": ["5a","5b","6a","6b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["March", "April"],
+                                "transplant": ["May", "June"],
+                                "start_outdoors": ["March", "April"],
+                                "harvest": ["June", "July", "August", "September"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start seeds indoors 6-8 weeks before the last frost date, typically in early to mid-March.",
+                                "transplant": "Transplant seedlings outdoors after the danger of frost has passed, usually in late May to early June.",
+                                "start_outdoors": "Once soil temperatures have warmed up and all danger of frost has passed, typically in late March to early April.",
+                                "harvest": "Harvest chives leaves throughout the summer and early fall."
+                            }
+                        },
+                        {
+                            "zone": ["7a","7b","8a","8b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["February", "March"],
+                                "transplant": ["April", "May"],
+                                "start_outdoors": ["February", "March"],
+                                "harvest": ["May", "June", "July", "August"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start seeds indoors 6-8 weeks before the last frost date, typically in late February to early March.",
+                                "transplant": "Transplant seedlings outdoors after the danger of frost has passed, usually in late April to early May.",
+                                "start_outdoors": "Once soil temperatures have warmed up and all danger of frost has passed, typically in late February to early March.",
+                                "harvest": "Harvest chives leaves from late spring to early summer."
+                            }
+                        },
+                        {
+                            "zone": ["9a","9b","10a","10b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["January", "February"],
+                                "transplant": ["February", "March"],
+                                "start_outdoors": ["January", "February"],
+                                "harvest": ["March", "April", "May", "June", "July", "August"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start seeds indoors 6-8 weeks before the last frost date, typically in early to mid-January.",
+                                "transplant": "Transplant seedlings outdoors after the danger of frost has passed, usually in late February to early March.",
+                                "start_outdoors": "Once soil temperatures have warmed up and all danger of frost has passed, typically in late January to early February.",
+                                "harvest": "Harvest chives leaves from late winter to late summer."
+                            }
+                        },
+                        {
+                            "zone": ["11a","11b","12a","12b"],
+                            "planting_dates_months": {
+                                "start_indoors": ["ALL"],
+                                "transplant": ["ALL"],
+                                "start_outdoors": ["ALL"],
+                                "harvest": ["ALL"]
+                            },
+                            "planting_dates_description": {
+                                "start_indoors": "Start seeds indoors or sow directly outdoors year-round, depending on local conditions.",
+                                "transplant": "Transplant seedlings outdoors as needed, considering optimal growing conditions and temperature.",
+                                "start_outdoors": "Sow seeds or transplant seedlings outdoors as needed, considering optimal growing conditions and temperature.",
+                                "harvest": "Harvest chives leaves throughout the year in these warm climates."
+                            }
+                        }
+                    ]
+            },
+            "varieties": [
+                {
+                    "id": 0,
+                    "name": "Common",
+                    "description": "Common Chives, also known as Allium schoenoprasum, are a classic and versatile herb with slender, hollow leaves and a mild onion flavor. This perennial herb is popular in culinary applications, adding a fresh and subtle onion taste to a variety of dishes. Common Chives are easy to grow and are a staple in herb gardens and kitchen windowsills.",
+                    "growth_mode": null,
+                    "days_to_harvest": {
+                      "lower_estimate": 30,
+                      "higher_estimate": 60
+                    },
+                    "is_container_variety": true,
+                    "fruit_color": null,
+                    "leaf_color": "Green",
+                    "flower_color": "Purple",
+                    "fruit_weight": null,
+                    "plant_height": "12-18 inches",
+                    "best_uses": ["Culinary", "Landscaping", "Containers"],
+                    "needs_support": false,
+                    "water_requirement": "Moderate",
+                    "feeding_requirement": "Every four weeks",
+                    "requires_pruning": true,
+                    "fun_fact": "Did you know? Common Chives belong to the Allium family, which includes onions, garlic, and leeks.",
+                    "planting_tip": "Plant Common Chives in well-drained soil with full to partial sunlight. Water moderately, keeping the soil consistently moist. Fertilize every four weeks during the growing season. Prune regularly to encourage new growth. Harvest leaves for culinary use, and use the attractive purple flowers as garnishes.",
+                    "spacing": "6-12 inches",
+                    "overwrite_common_features": {
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "Garlic",
+                    "description": "Garlic Chives, also known as Allium tuberosum, are a flavorful herb with flat, strap-like leaves and a distinct garlic taste. This perennial herb is widely used in culinary dishes, providing a mild garlic flavor without the intensity of fresh garlic. Garlic Chives are valued for their versatility and are a popular choice for both herb gardens and Asian cuisines.",
+                    "growth_mode": null,
+                    "days_to_harvest": {
+                      "lower_estimate": 30,
+                      "higher_estimate": 60
+                    },
+                    "is_container_variety": true,
+                    "fruit_color": null,
+                    "leaf_color": "Green",
+                    "flower_color": "White",
+                    "fruit_weight": null,
+                    "plant_height": "12-18 inches",
+                    "best_uses": ["Culinary", "Asian Cuisines", "Containers"],
+                    "needs_support": false,
+                    "water_requirement": "Moderate",
+                    "feeding_requirement": "Every four weeks",
+                    "requires_pruning": true,
+                    "fun_fact": "Did you know? Garlic Chives are a staple in Chinese cuisine, often used in dumplings, stir-fries, and savory pancakes.",
+                    "planting_tip": "Plant Garlic Chives in well-drained soil with full to partial sunlight. Water moderately, allowing the soil to dry out between watering. Fertilize every four weeks during the growing season. Prune regularly to encourage new growth. Harvest leaves for culinary use, and use the delicate white flowers as an edible garnish.",
+                    "spacing": "6-12 inches",
+                    "overwrite_common_features": {
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "Society Garlic",
+                    "description": "Society Garlic Chives, also known as Tulbaghia violacea, are a unique chives variety with narrow, strap-like leaves and a mild garlic flavor. This perennial herb is valued for its ornamental appeal and culinary uses. Society Garlic Chives are known for their pretty lilac flowers and are suitable for both herb gardens and landscape borders.",
+                    "growth_mode": null,
+                    "days_to_harvest": {
+                      "lower_estimate": 30,
+                      "higher_estimate": 60
+                    },
+                    "is_container_variety": true,
+                    "fruit_color": null,
+                    "leaf_color": "Green",
+                    "flower_color": "Lilac",
+                    "fruit_weight": null,
+                    "plant_height": "12-18 inches",
+                    "best_uses": ["Culinary", "Ornamental", "Landscaping"],
+                    "needs_support": false,
+                    "water_requirement": "Moderate",
+                    "feeding_requirement": "Every four weeks",
+                    "requires_pruning": true,
+                    "fun_fact": "Did you know? Society Garlic Chives are not only used in cooking but are also cultivated for their attractive flowers and landscape use.",
+                    "planting_tip": "Plant Society Garlic Chives in well-drained soil with full to partial sunlight. Water moderately, allowing the soil to dry out between watering. Fertilize every four weeks during the growing season. Prune regularly to encourage new growth. Harvest leaves for culinary use, and enjoy the clusters of lilac flowers as an ornamental addition.",
+                    "spacing": "6-12 inches",
+                    "overwrite_common_features": {
+                    }
+                }
+
+            ]
+        }
+    ]
+}
+
+
+
+
+
