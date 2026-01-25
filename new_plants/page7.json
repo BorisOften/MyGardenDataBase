@@ -1229,6 +1229,491 @@
               "planting_tip": "Honeoye is perfect for zones 3-8 and excels in the Northeast. Its early harvest means you can enjoy strawberries before most other varieties. The firm berries freeze exceptionally well for year-round enjoyment."
             }
           ]
+        },
+        {
+          "id": 34,
+          "name": "blueberry",
+          "plant_category": "Fruit",
+          "varieties_common_features": {
+            "sunlight_requirement": "Full Sun to Partial Shade",
+            "sunlight_hours_min": 6,
+            "sunlight_hours_optimal": 8,
+            "propagation_methods": ["Cuttings", "Bare-root plants", "Container plants", "Layering"],
+            "soil_acidity_range": {
+              "lower_bound": 4.5,
+              "upper_bound": 5.5
+            },
+            "soil_type_preference": ["Acidic", "Well-draining", "Rich in organic matter", "Sandy loam", "Peat-based"],
+            "drainage_requirement": "Well-draining, avoid waterlogged soil",
+            "days_to_germination": "30-90 days from seed (not recommended)",
+            "frost_tolerance": true,
+            "planting_depth": "Same depth as container, crown at soil level",
+            "spacing": "4-6 feet apart depending on variety",
+            "life_cycle": "Perennial",
+            "season": "Cool to Warm",
+            "typical_yield_range": "5-20 pounds per mature bush depending on variety and age",
+            "companion_plants": ["Azaleas", "Rhododendrons", "Cranberries", "Strawberries", "Thyme", "Basil"],
+            "avoid_planting_with": ["Plants requiring alkaline soil", "Heavy feeders that need high pH"],
+            "common_pests": ["Blueberry maggot", "Japanese beetles", "Aphids", "Fruit flies", "Birds", "Spotted wing drosophila"],
+            "common_diseases": ["Mummy berry", "Powdery mildew", "Botrytis blight", "Phytophthora root rot", "Anthracnose"],
+            "planting_zones_times": [
+              {
+                "zone": ["3a", "3b", "4a", "4b"],
+                "planting_dates_months": {
+                  "start_indoors": [],
+                  "transplant": ["April", "May", "September", "October"],
+                  "start_outdoors": ["April", "May", "September", "October"],
+                  "harvest": ["July", "August"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Not applicable - blueberries are planted from nursery stock.",
+                  "transplant": "Plant blueberry bushes in spring after last frost (April-May) or fall (September-October) for best establishment.",
+                  "start_outdoors": "Plant bare-root or container blueberries in early spring or fall when plants are dormant.",
+                  "harvest": "Harvest blueberries in mid to late summer when berries are fully blue and sweet."
+                }
+              },
+              {
+                "zone": ["5a", "5b", "6a", "6b"],
+                "planting_dates_months": {
+                  "start_indoors": [],
+                  "transplant": ["March", "April", "October", "November"],
+                  "start_outdoors": ["March", "April", "October", "November"],
+                  "harvest": ["June", "July", "August"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Not applicable - blueberries are planted from nursery stock.",
+                  "transplant": "Plant blueberry bushes in early spring (March-April) or fall (October-November).",
+                  "start_outdoors": "Plant bare-root or container blueberries in early spring or fall for best results.",
+                  "harvest": "Harvest blueberries from early to late summer depending on variety."
+                }
+              },
+              {
+                "zone": ["7a", "7b", "8a", "8b"],
+                "planting_dates_months": {
+                  "start_indoors": [],
+                  "transplant": ["February", "March", "November", "December"],
+                  "start_outdoors": ["February", "March", "November", "December"],
+                  "harvest": ["May", "June", "July"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Not applicable - blueberries are planted from nursery stock.",
+                  "transplant": "Plant blueberry bushes in late winter to early spring (February-March) or late fall (November-December).",
+                  "start_outdoors": "Plant bare-root or container blueberries during dormant season for best establishment.",
+                  "harvest": "Harvest blueberries from late spring through summer."
+                }
+              },
+              {
+                "zone": ["9a", "9b", "10a", "10b"],
+                "planting_dates_months": {
+                  "start_indoors": [],
+                  "transplant": ["January", "February", "November", "December"],
+                  "start_outdoors": ["January", "February", "November", "December"],
+                  "harvest": ["April", "May", "June"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Not applicable - blueberries are planted from nursery stock.",
+                  "transplant": "Plant blueberry bushes during cooler months (January-February or November-December). Choose low-chill varieties.",
+                  "start_outdoors": "Plant Southern Highbush varieties suited for warm climates during the coolest months.",
+                  "harvest": "Harvest blueberries in spring to early summer in warm climates."
+                }
+              },
+              {
+                "zone": ["11a", "11b", "12a", "12b"],
+                "planting_dates_months": {
+                  "start_indoors": [],
+                  "transplant": ["December", "January"],
+                  "start_outdoors": ["December", "January"],
+                  "harvest": ["March", "April", "May"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Not applicable - blueberries are planted from nursery stock.",
+                  "transplant": "Plant low-chill Southern Highbush varieties during the coolest months (December-January).",
+                  "start_outdoors": "Only specific low-chill varieties will produce in tropical climates. Plant during dry season.",
+                  "harvest": "Harvest blueberries in spring in tropical zones with appropriate varieties."
+                }
+              }
+            ]
+          },
+          "varieties": [
+            {
+              "id": 0,
+              "name": "Bluecrop",
+              "description": "Bluecrop is the most widely planted blueberry variety in the world, known for its reliability, high yields, and excellent flavor. This Northern Highbush variety produces large, firm, light blue berries with a sweet-tart flavor. Bluecrop is extremely cold-hardy, disease-resistant, and tolerates a wide range of soil conditions better than most varieties, making it an outstanding choice for home gardeners.",
+              "growth_info": {
+                "growth_mode": "Upright, spreading",
+                "days_to_harvest": {
+                  "lower_estimate": 1095,
+                  "higher_estimate": 1460
+                },
+                "plant_height": "4-6 feet",
+                "spacing": "4-5 feet apart",
+                "is_container_variety": true,
+                "recommended_container_size": "18-24 inches deep, 20-24 inches wide",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "White to pale pink",
+                "leaf_color": "Blue-green, turning red-orange in fall"
+              },
+              "care_requirements": {
+                "water_requirement": "1-2 inches per week, consistent moisture especially during fruiting",
+                "feeding_requirement": "Acid fertilizer in spring, avoid high nitrogen",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "10-20 pounds per mature bush",
+                "best_uses": ["Fresh eating", "Baking", "Freezing", "Preserves", "Smoothies"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Moderate",
+                "cold_tolerance": "Excellent",
+                "frost_tolerance": true,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Mummy berry", "Phytophthora root rot", "Excellent overall disease resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Sweet-tart, well-balanced, classic blueberry flavor"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Light blue with silvery bloom",
+                "fruit_weight": "0.05-0.07 ounces per berry",
+                "skin_thickness": "Firm, medium-thick skin",
+                "seed_cavity_size": "Small seeds",
+                "storage_quality": "Excellent - firm berries store and ship well; refrigerate for up to 2 weeks",
+                "crack_resistance": "Excellent"
+              },
+              "herb_characteristics": null,
+              "root_characteristics": null,
+              "leaf_crop_characteristics": null,
+              "flower_characteristics": null,
+              "fun_fact": "Bluecrop is so reliable and productive that it's been the gold standard for commercial blueberry production since the 1940s! It's estimated that Bluecrop accounts for about a quarter of all blueberries grown in North America.",
+              "planting_tip": "Bluecrop needs 800-1000 chill hours (zones 4-7). Plant at least two varieties for cross-pollination and better yields. Mulch heavily with pine needles or wood chips to maintain soil acidity. Remove flowers the first two years to encourage strong root development."
+            },
+            {
+              "id": 1,
+              "name": "Duke",
+              "description": "Duke is an early-season Northern Highbush blueberry that produces large, firm, light blue berries with excellent flavor. It's known for consistently high yields, good cold hardiness, and resistance to cracking. Duke ripens 7-10 days before Bluecrop, extending the harvest season and providing early-season berries when few other varieties are producing.",
+              "growth_info": {
+                "growth_mode": "Upright, vigorous",
+                "days_to_harvest": {
+                  "lower_estimate": 1095,
+                  "higher_estimate": 1460
+                },
+                "plant_height": "4-6 feet",
+                "spacing": "4-5 feet apart",
+                "is_container_variety": true,
+                "recommended_container_size": "18-24 inches deep, 20-24 inches wide",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "White",
+                "leaf_color": "Medium green, orange-red fall color"
+              },
+              "care_requirements": {
+                "water_requirement": "1-2 inches per week, needs consistent moisture",
+                "feeding_requirement": "Acid fertilizer in early spring",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "10-20 pounds per mature bush",
+                "best_uses": ["Fresh eating", "Baking", "Freezing", "Preserves"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Moderate",
+                "cold_tolerance": "Excellent",
+                "frost_tolerance": true,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Mummy berry", "Phytophthora root rot", "Good disease resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Sweet, mild, slightly tart, aromatic"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Light blue",
+                "fruit_weight": "0.06-0.08 ounces per berry",
+                "skin_thickness": "Firm, thick skin",
+                "seed_cavity_size": "Small seeds",
+                "storage_quality": "Excellent firmness, resists cracking, refrigerate for up to 2 weeks",
+                "crack_resistance": "Excellent"
+              },
+              "herb_characteristics": null,
+              "root_characteristics": null,
+              "leaf_crop_characteristics": null,
+              "flower_characteristics": null,
+              "fun_fact": "Duke was named after Duke University and was released in 1987. Its early ripening makes it a favorite for gardeners who want to enjoy blueberries as early as possible in the season!",
+              "planting_tip": "Duke needs 800-1000 chill hours (zones 5-7). Plant with mid-season varieties like Bluecrop for extended harvest. The upright growth habit makes harvesting easy. Prune annually to maintain productivity and berry size."
+            },
+            {
+              "id": 2,
+              "name": "Legacy",
+              "description": "Legacy is a Northern Highbush variety known for producing exceptionally sweet, aromatic berries that many consider to have the best flavor of any blueberry. The medium to large berries are very firm with excellent keeping quality. Legacy has an upright, attractive growth habit and beautiful fall foliage, making it both productive and ornamental.",
+              "growth_info": {
+                "growth_mode": "Upright, compact",
+                "days_to_harvest": {
+                  "lower_estimate": 1095,
+                  "higher_estimate": 1460
+                },
+                "plant_height": "5-7 feet",
+                "spacing": "4-6 feet apart",
+                "is_container_variety": true,
+                "recommended_container_size": "20-24 inches deep, 22-26 inches wide",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "White",
+                "leaf_color": "Dark green, brilliant red fall color"
+              },
+              "care_requirements": {
+                "water_requirement": "1-2 inches per week, consistent moisture important",
+                "feeding_requirement": "Acid fertilizer in spring, light feeding",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "8-15 pounds per mature bush",
+                "best_uses": ["Fresh eating", "Baking", "Freezing", "Gourmet uses"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Good",
+                "cold_tolerance": "Very good",
+                "frost_tolerance": true,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Mummy berry", "Good disease resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Exceptionally sweet, aromatic, complex flavor with low acidity"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Medium blue",
+                "fruit_weight": "0.05-0.07 ounces per berry",
+                "skin_thickness": "Very firm",
+                "seed_cavity_size": "Small seeds",
+                "storage_quality": "Outstanding - very firm, excellent shelf life, refrigerate for up to 3 weeks",
+                "crack_resistance": "Excellent"
+              },
+              "herb_characteristics": null,
+              "root_characteristics": null,
+              "leaf_crop_characteristics": null,
+              "flower_characteristics": null,
+              "fun_fact": "Legacy berries are so firm and flavorful that they're often used in gourmet applications and command premium prices at farmers markets. The name 'Legacy' reflects its outstanding qualities that will endure for generations!",
+              "planting_tip": "Legacy needs 800-1000 chill hours (zones 5-7). This variety's exceptional flavor makes it worth the wait - berries ripen mid-season. The compact, upright habit makes it excellent for smaller gardens and containers. Spectacular ornamental value with vivid fall color!"
+            },
+            {
+              "id": 3,
+              "name": "Patriot",
+              "description": "Patriot is an extremely cold-hardy Northern Highbush variety that produces large, flavorful berries with excellent quality. It's known for its tolerance of heavy, wet soils better than most varieties, making it ideal for challenging growing conditions. Patriot has good disease resistance and consistent production, with an upright, attractive growth habit.",
+              "growth_info": {
+                "growth_mode": "Upright, vigorous",
+                "days_to_harvest": {
+                  "lower_estimate": 1095,
+                  "higher_estimate": 1460
+                },
+                "plant_height": "4-6 feet",
+                "spacing": "4-5 feet apart",
+                "is_container_variety": true,
+                "recommended_container_size": "18-24 inches deep, 20-24 inches wide",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "White",
+                "leaf_color": "Medium green, red-orange fall color"
+              },
+              "care_requirements": {
+                "water_requirement": "1-2 inches per week, tolerates wet soil better than most",
+                "feeding_requirement": "Acid fertilizer in spring",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "10-20 pounds per mature bush",
+                "best_uses": ["Fresh eating", "Baking", "Freezing", "Preserves"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Moderate",
+                "cold_tolerance": "Excellent",
+                "frost_tolerance": true,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Phytophthora root rot", "Stem canker", "Mummy berry", "Excellent disease resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Sweet, rich, classic blueberry flavor"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Medium to dark blue",
+                "fruit_weight": "0.06-0.09 ounces per berry (extra large)",
+                "skin_thickness": "Medium-firm",
+                "seed_cavity_size": "Small seeds",
+                "storage_quality": "Good, refrigerate for up to 10 days",
+                "crack_resistance": "Good"
+              },
+              "herb_characteristics": null,
+              "root_characteristics": null,
+              "leaf_crop_characteristics": null,
+              "flower_characteristics": null,
+              "fun_fact": "Patriot was released in 1976, during America's bicentennial celebration, hence its patriotic name! It's one of the most cold-hardy blueberry varieties available and can survive temperatures down to -20°F.",
+              "planting_tip": "Patriot needs 800-1000 chill hours (zones 3-7). Perfect for northern gardens and challenging soil conditions. It tolerates heavier, wetter soils better than most blueberries. The large berry size makes it a favorite for fresh eating and baking."
+            },
+            {
+              "id": 4,
+              "name": "O'Neal",
+              "description": "O'Neal is a Southern Highbush variety developed for warmer climates with low chill requirements. It produces very large, firm berries with excellent flavor early in the season. O'Neal is known for its consistent production, disease resistance, and adaptability to warm climates where traditional Northern Highbush varieties won't thrive.",
+              "growth_info": {
+                "growth_mode": "Upright, vigorous",
+                "days_to_harvest": {
+                  "lower_estimate": 1095,
+                  "higher_estimate": 1460
+                },
+                "plant_height": "5-6 feet",
+                "spacing": "4-5 feet apart",
+                "is_container_variety": true,
+                "recommended_container_size": "18-24 inches deep, 20-24 inches wide",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "White to pale pink",
+                "leaf_color": "Medium green, semi-evergreen in mild climates"
+              },
+              "care_requirements": {
+                "water_requirement": "1-2 inches per week, needs consistent moisture in warm climates",
+                "feeding_requirement": "Acid fertilizer in early spring and mid-summer",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "8-15 pounds per mature bush",
+                "best_uses": ["Fresh eating", "Baking", "Freezing", "Preserves"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Excellent",
+                "cold_tolerance": "Moderate",
+                "frost_tolerance": true,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Good disease resistance overall"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Sweet, rich, aromatic with good flavor balance"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Medium blue",
+                "fruit_weight": "0.07-0.10 ounces per berry (very large)",
+                "skin_thickness": "Firm",
+                "seed_cavity_size": "Small seeds",
+                "storage_quality": "Good firmness, refrigerate for up to 10 days",
+                "crack_resistance": "Good"
+              },
+              "herb_characteristics": null,
+              "root_characteristics": null,
+              "leaf_crop_characteristics": null,
+              "flower_characteristics": null,
+              "fun_fact": "O'Neal was one of the first successful Southern Highbush blueberries, opening up blueberry growing to warm climate gardeners! It's named after breeder Dr. Arlen Draper's colleague, D. Scott NeSmith.",
+              "planting_tip": "O'Neal needs only 400-500 chill hours (zones 7-9), making it perfect for warmer climates. It's an early ripening variety that produces before the heat of summer. Plant with other low-chill varieties for cross-pollination. Mulch heavily to keep roots cool."
+            },
+            {
+              "id": 5,
+              "name": "Misty",
+              "description": "Misty is a Southern Highbush variety bred specifically for warm, low-chill climates. It produces medium to large, firm, sweet berries with excellent flavor. Misty is partially evergreen in mild climates and has beautiful pink spring flowers. It's one of the best choices for southern gardens and can even produce in subtropical areas with proper care.",
+              "growth_info": {
+                "growth_mode": "Upright, compact",
+                "days_to_harvest": {
+                  "lower_estimate": 1095,
+                  "higher_estimate": 1460
+                },
+                "plant_height": "3-5 feet",
+                "spacing": "3-4 feet apart",
+                "is_container_variety": true,
+                "recommended_container_size": "16-20 inches deep, 18-22 inches wide",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Pink to white",
+                "leaf_color": "Medium green, semi-evergreen in warm climates"
+              },
+              "care_requirements": {
+                "water_requirement": "1-2 inches per week, consistent moisture crucial in heat",
+                "feeding_requirement": "Acid fertilizer in spring and summer",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "5-10 pounds per mature bush",
+                "best_uses": ["Fresh eating", "Baking", "Freezing", "Smoothies"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Excellent",
+                "cold_tolerance": "Moderate",
+                "frost_tolerance": true,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Moderate disease resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Sweet, mild, pleasant flavor"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Light to medium blue",
+                "fruit_weight": "0.05-0.07 ounces per berry",
+                "skin_thickness": "Firm",
+                "seed_cavity_size": "Small seeds",
+                "storage_quality": "Good, refrigerate for up to 10 days",
+                "crack_resistance": "Good"
+              },
+              "herb_characteristics": null,
+              "root_characteristics": null,
+              "leaf_crop_characteristics": null,
+              "flower_characteristics": null,
+              "fun_fact": "Misty is one of the lowest-chill blueberry varieties available, making it possible to grow blueberries in places like Southern California and Florida where most varieties won't produce fruit!",
+              "planting_tip": "Misty needs only 300-400 chill hours (zones 8-10), making it ideal for warm climates. Its compact size is perfect for containers and small gardens. In very warm areas, provide afternoon shade. The pink flowers add ornamental value!"
+            },
+            {
+              "id": 6,
+              "name": "Chandler",
+              "description": "Chandler is a late-season Northern Highbush variety famous for producing the largest blueberries of any variety - some berries can be as large as a quarter! The berries are firm, sweet, and have excellent flavor. Chandler has an extended harvest period, producing berries over 4-6 weeks, making it ideal for fresh eating throughout the season.",
+              "growth_info": {
+                "growth_mode": "Upright, spreading",
+                "days_to_harvest": {
+                  "lower_estimate": 1095,
+                  "higher_estimate": 1460
+                },
+                "plant_height": "5-6 feet",
+                "spacing": "5-6 feet apart",
+                "is_container_variety": true,
+                "recommended_container_size": "20-24 inches deep, 24-30 inches wide",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "White",
+                "leaf_color": "Medium green, red fall color"
+              },
+              "care_requirements": {
+                "water_requirement": "1-2 inches per week, needs consistent moisture for large berries",
+                "feeding_requirement": "Acid fertilizer in spring, may need additional feeding for large berry production",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "10-20 pounds per mature bush",
+                "best_uses": ["Fresh eating", "Baking", "Freezing", "Gourmet applications"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Moderate",
+                "cold_tolerance": "Very good",
+                "frost_tolerance": true,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Good disease resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Sweet, complex, excellent flavor with aromatic notes"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Medium blue",
+                "fruit_weight": "0.10-0.14 ounces per berry (exceptionally large, some up to 0.20 oz)",
+                "skin_thickness": "Firm",
+                "seed_cavity_size": "Small seeds relative to berry size",
+                "storage_quality": "Very good, refrigerate for up to 2 weeks",
+                "crack_resistance": "Good"
+              },
+              "herb_characteristics": null,
+              "root_characteristics": null,
+              "leaf_crop_characteristics": null,
+              "flower_characteristics": null,
+              "fun_fact": "Chandler berries are so large they're often compared to the size of a quarter! Some berries can weigh as much as 4-5 regular blueberries combined, making them spectacular for fresh eating and impressing visitors.",
+              "planting_tip": "Chandler needs 800-1000 chill hours (zones 5-7). Give it plenty of space - it's a vigorous grower. The extended harvest period means you'll be picking berries for over a month. Heavy pruning maintains berry size. Plant with mid-season varieties for cross-pollination."
+            }
+          ]
         }
         
     ]
