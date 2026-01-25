@@ -495,7 +495,7 @@
         },
         {
           "id": 26,
-          "name": "Garlic",
+          "name": "garlic",
           "plant_category": "Bulb Vegetable",
           "varieties_common_features": {
             "sunlight_requirement": "Full Sun",
@@ -896,7 +896,7 @@
         },
         {
           "id": 27,
-          "name": "Broccoli",
+          "name": "broccoli",
           "plant_category": "Vegetable",
           "varieties_common_features": {
             "sunlight_requirement": "Full Sun to Partial Shade",
@@ -1291,7 +1291,7 @@
         },
         {
           "id": 28,
-          "name": "Cauliflower",
+          "name": "cauliflower",
           "plant_category": "Vegetable",
           "varieties_common_features": {
             "sunlight_requirement": "Full Sun",
@@ -1686,7 +1686,7 @@
         },
         {
             "id": 29,
-            "name": "Eggplant",
+            "name": "eggplant",
             "plant_category": "Vegetable",
             "varieties_common_features": {
                 "sunlight_requirement": "Full Sun",
