@@ -3,1065 +3,1716 @@
     "previous": "https://raw.githubusercontent.com/BorisOften/MyGardenDataBase/develop/new_plants/page5.json",
     "results": [
         {
-            "id": 25,
-            "name": "celery",
-            "varieties_common_features": {
-                "sunlight_requirement": "Full Sun to Partial Shade",
-                "propagation_methods": ["Seeds"],
-                "soil_acidity_range": {
-                  "lower_bound": 6.0,
-                  "upper_bound": 7.5
+          "id": 25,
+          "name": "celery",
+          "plant_category": "Vegetable",
+          "varieties_common_features": {
+            "sunlight_requirement": "Full Sun to Partial Shade",
+            "sunlight_hours_min": 5,
+            "sunlight_hours_optimal": 6,
+            "propagation_methods": ["Seeds"],
+            "soil_acidity_range": {
+              "lower_bound": 6.0,
+              "upper_bound": 7.5
+            },
+            "soil_type_preference": ["Rich loam", "Well-composted", "Moisture-retentive"],
+            "drainage_requirement": "Well-drained but moisture-retentive",
+            "days_to_germination": "10-14 days",
+            "frost_tolerance": false,
+            "planting_depth": "1/8 inch",
+            "spacing": "6-8 inches",
+            "life_cycle": "Biennial (grown as annual)",
+            "season": "Cool",
+            "typical_yield_range": "8-12 stalks per plant",
+            "companion_plants": ["Tomatoes", "Beans", "Cabbage", "Leeks", "Onions"],
+            "avoid_planting_with": ["Carrots", "Parsnips", "Corn"],
+            "common_pests": ["Aphids", "Celery leaf tier", "Carrot fly", "Slugs"],
+            "common_diseases": ["Leaf spot", "Early blight", "Late blight", "Pink rot"],
+            "planting_zones_times": [
+              {
+                "zone": ["3a", "3b", "4a", "4b"],
+                "planting_dates_months": {
+                  "start_indoors": ["February", "March"],
+                  "transplant": ["May", "June"],
+                  "start_outdoors": ["June", "July"],
+                  "harvest": ["September", "October"]
                 },
-                "days_to_germination": "10-14 days",
-                "frost_tolerance": false,
-                "planting_depth": "1/8 inch",
+                "planting_dates_description": {
+                  "start_indoors": "Start celery seeds indoors 10-12 weeks before the last frost date, typically in February to March.",
+                  "transplant": "Transplant celery seedlings outdoors after the danger of frost has passed, usually in late May to early June.",
+                  "start_outdoors": "Plant celery seedlings outdoors once soil temperatures consistently reach at least 50°F (10°C), typically in June to July.",
+                  "harvest": "Harvest celery in late summer to early fall."
+                }
+              },
+              {
+                "zone": ["5a", "5b", "6a", "6b"],
+                "planting_dates_months": {
+                  "start_indoors": ["January", "February"],
+                  "transplant": ["April", "May"],
+                  "start_outdoors": ["May", "June"],
+                  "harvest": ["August", "September"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Start celery seeds indoors 10-12 weeks before the last frost date, typically in January to February.",
+                  "transplant": "Transplant celery seedlings outdoors after the danger of frost has passed, usually in April to May.",
+                  "start_outdoors": "Plant celery seedlings outdoors once soil temperatures consistently reach at least 50°F (10°C), typically in May to June.",
+                  "harvest": "Harvest celery in mid to late summer."
+                }
+              },
+              {
+                "zone": ["7a", "7b", "8a", "8b"],
+                "planting_dates_months": {
+                  "start_indoors": ["December", "January"],
+                  "transplant": ["March", "April"],
+                  "start_outdoors": ["April", "May"],
+                  "harvest": ["July", "August"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Start celery seeds indoors 10-12 weeks before the last frost date, typically in December to January.",
+                  "transplant": "Transplant celery seedlings outdoors after the danger of frost has passed, usually in March to April.",
+                  "start_outdoors": "Plant celery seedlings outdoors once soil temperatures consistently reach at least 50°F (10°C), typically in April to May.",
+                  "harvest": "Harvest celery in summer."
+                }
+              },
+              {
+                "zone": ["9a", "9b", "10a", "10b"],
+                "planting_dates_months": {
+                  "start_indoors": ["October", "November"],
+                  "transplant": ["February", "March"],
+                  "start_outdoors": ["March", "April"],
+                  "harvest": ["June", "July"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Start celery seeds indoors 10-12 weeks before the last frost date, typically in October to November.",
+                  "transplant": "Transplant celery seedlings outdoors after the danger of frost has passed, usually in February to March.",
+                  "start_outdoors": "Plant celery seedlings outdoors once soil temperatures consistently reach at least 50°F (10°C), typically in March to April.",
+                  "harvest": "Harvest celery in summer."
+                }
+              },
+              {
+                "zone": ["11a", "11b", "12a", "12b"],
+                "planting_dates_months": {
+                  "start_indoors": ["ALL"],
+                  "transplant": ["ALL"],
+                  "start_outdoors": ["ALL"],
+                  "harvest": ["ALL"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Celery seeds can be started indoors year-round.",
+                  "transplant": "Celery seedlings can be transplanted outdoors year-round in warm climates.",
+                  "start_outdoors": "Celery can be planted outdoors year-round in warm climates.",
+                  "harvest": "Celery can be harvested year-round in warm climates."
+                }
+              }
+            ]
+          },
+          "varieties": [
+            {
+              "id": 0,
+              "name": "Tall Utah 52-70",
+              "description": "Tall Utah 52-70 Celery is a classic celery variety known for its crisp and flavorful stalks. With an upright growth habit, it produces tall, dark green celery that is a staple in the kitchen. This biennial plant is typically grown as an annual for its succulent stems.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 120,
+                  "higher_estimate": 150
+                },
+                "plant_height": "12-18 inches",
                 "spacing": "6-8 inches",
-                "life_cycle": "Biennial",
-                "season": "Cool",
-                "growing_type": "Upright",
-                "planting_zones_times": [
-                    {
-                        "zone": ["3a","3b","4a","4b"],
-                        "planting_dates_months": {
-                            "start_indoors": ["February", "March"],
-                            "transplant": ["May", "June"],
-                            "start_outdoors": ["June", "July"],
-                            "harvest": ["September", "October"]
-                        },
-                        "planting_dates_description": {
-                            "start_indoors": "Start celery seeds indoors 10-12 weeks before the last frost date, typically in February to March.",
-                            "transplant": "Transplant celery seedlings outdoors after the danger of frost has passed, usually in late May to early June.",
-                            "start_outdoors": "Plant celery seedlings outdoors once soil temperatures consistently reach at least 50°F (10°C), typically in June to July.",
-                            "harvest": "Harvest celery in late summer to early fall."
-                        }
-                    },
-                    {
-                        "zone": ["5a","5b","6a","6b"],
-                        "planting_dates_months": {
-                            "start_indoors": ["January", "February"],
-                            "transplant": ["April", "May"],
-                            "start_outdoors": ["May", "June"],
-                            "harvest": ["August", "September"]
-                        },
-                        "planting_dates_description": {
-                            "start_indoors": "Start celery seeds indoors 10-12 weeks before the last frost date, typically in January to February.",
-                            "transplant": "Transplant celery seedlings outdoors after the danger of frost has passed, usually in April to May.",
-                            "start_outdoors": "Plant celery seedlings outdoors once soil temperatures consistently reach at least 50°F (10°C), typically in May to June.",
-                            "harvest": "Harvest celery in mid to late summer."
-                        }
-                    },
-                    {
-                        "zone": ["7a","7b","8a","8b"],
-                        "planting_dates_months": {
-                            "start_indoors": ["December", "January"],
-                            "transplant": ["March", "April"],
-                            "start_outdoors": ["April", "May"],
-                            "harvest": ["July", "August"]
-                        },
-                        "planting_dates_description": {
-                            "start_indoors": "Start celery seeds indoors 10-12 weeks before the last frost date, typically in December to January.",
-                            "transplant": "Transplant celery seedlings outdoors after the danger of frost has passed, usually in March to April.",
-                            "start_outdoors": "Plant celery seedlings outdoors once soil temperatures consistently reach at least 50°F (10°C), typically in April to May.",
-                            "harvest": "Harvest celery in summer."
-                        }
-                    },
-                    {
-                        "zone": ["9a","9b","10a","10b"],
-                        "planting_dates_months": {
-                            "start_indoors": ["October", "November"],
-                            "transplant": ["February", "March"],
-                            "start_outdoors": ["March", "April"],
-                            "harvest": ["June", "July"]
-                        },
-                        "planting_dates_description": {
-                            "start_indoors": "Start celery seeds indoors 10-12 weeks before the last frost date, typically in October to November.",
-                            "transplant": "Transplant celery seedlings outdoors after the danger of frost has passed, usually in February to March.",
-                            "start_outdoors": "Plant celery seedlings outdoors once soil temperatures consistently reach at least 50°F (10°C), typically in March to April.",
-                            "harvest": "Harvest celery in summer."
-                        }
-                    },
-                    {
-                        "zone": ["11a","11b","12a","12b"],
-                        "planting_dates_months": {
-                            "start_indoors": ["ALL"],
-                            "transplant": ["ALL"],
-                            "start_outdoors": ["ALL"],
-                            "harvest": ["ALL"]
-                        },
-                        "planting_dates_description": {
-                            "start_indoors": "Celery seeds can be started indoors year-round.",
-                            "transplant": "Celery seedlings can be transplanted outdoors year-round in warm climates.",
-                            "start_outdoors": "Celery can be planted outdoors year-round in warm climates.",
-                            "harvest": "Celery can be harvested year-round in warm climates."
-                        }
-                    }
-                ]
+                "is_container_variety": true,
+                "recommended_container_size": "12-14 inches deep",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "White to greenish-white",
+                "leaf_color": "Dark green"
+              },
+              "care_requirements": {
+                "water_requirement": "Consistent moisture, daily in hot weather",
+                "feeding_requirement": "Rich, well-composted soil with regular fertilization",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "8-12 stalks per plant",
+                "best_uses": ["Fresh eating", "Soups", "Salads"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Poor",
+                "cold_tolerance": "Good",
+                "frost_tolerance": false,
+                "drought_tolerance": "Poor",
+                "disease_resistance": ["Moderate disease resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Crisp, mild, and slightly sweet"
+              },
+              "leaf_crop_characteristics": {
+                "head_type": "Stalk bundle",
+                "leaf_texture": "Crisp and fibrous",
+                "days_to_maturity": "120-150 days",
+                "bolt_resistance": "Moderate"
+              },
+              "fun_fact": "Tall Utah 52-70 Celery is a popular choice among gardeners for its reliability and versatility. It is widely used in culinary applications and is a key ingredient in traditional dishes like soups and stews.",
+              "planting_tip": "For successful cultivation of Tall Utah 52-70 Celery, start seeds indoors or direct sow in well-drained, fertile soil. Provide consistent moisture, especially during the germination period. Transplant seedlings when they are large enough to handle. Hill soil around the base of the plants to blanch the stalks. Harvest when the celery has reached the desired size, and enjoy the crispness and mild flavor."
             },
-            "varieties": [
-                {
-                    "id": 0,
-                  "name": "Tall Utah 52-70",
-                  "description": "Tall Utah 52-70 Celery is a classic celery variety known for its crisp and flavorful stalks. With an upright growth habit, it produces tall, dark green celery that is a staple in the kitchen. This biennial plant is typically grown as an annual for its succulent stems.",
-                  "frost_tolerance": false,
-                  "spacing": "6-8 inches",
-                  "days_to_harvest": {
-                    "lower_estimate": 120,
-                    "higher_estimate": 150
-                  },
-                  "is_container_variety": true,
-                  "fruit_color": null,
-                  "fruit_length": null,
-                  "fruit_weight": null,
-                  "flower_color": "Yellow",
-                  "leaf_color": "Green",
-                  "plant_height": "12-18 inches",
-                  "growth_mode": null,
-                  "best_uses": ["Fresh Eating", "Soups", "Salads"],
-                  "water_requirement": "Consistent moisture",
-                  "feeding_requirement": "Rich, well-composted soil",
-                  "requires_pruning": false,
-                  "needs_support": false,
-                  "fun_fact": "Tall Utah 52-70 Celery is a popular choice among gardeners for its reliability and versatility. It is widely used in culinary applications and is a key ingredient in traditional dishes like soups and stews.",
-                  "planting_tip": "For successful cultivation of Tall Utah 52-70 Celery, start seeds indoors or direct sow in well-drained, fertile soil. Provide consistent moisture, especially during the germination period. Transplant seedlings when they are large enough to handle. Hill soil around the base of the plants to blanch the stalks. Harvest when the celery has reached the desired size, and enjoy the crispness and mild flavor."
+            {
+              "id": 1,
+              "name": "Pascal",
+              "description": "Pascal Celery is one of the most common and widely cultivated varieties of celery. It has thick, crisp stalks and dark green leaves. Pascal Celery is known for its mild, slightly sweet flavor and is a staple in soups, salads, and as a snack. It matures in about 90-120 days and is prized for its versatility and long storage life.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 90,
+                  "higher_estimate": 120
                 },
-                  {
-                      "id": 1,
-                    "name": "Pascal",
-                    "description": "Pascal Celery is one of the most common and widely cultivated varieties of celery. It has thick, crisp stalks and dark green leaves. Pascal Celery is known for its mild, slightly sweet flavor and is a staple in soups, salads, and as a snack. It matures in about 90-120 days and is prized for its versatility and long storage life.",
-                    "spacing": "8 - 10 inches",
-                    "days_to_harvest": {
-                      "lower_estimate": 90,
-                      "higher_estimate": 120
-                    },
-                    "is_container_variety": true,
-                    "fruit_color": null,
-                    "fruit_length": null,
-                    "fruit_weight": null,
-                    "flower_color": "Yellow",
-                    "leaf_color": "Dark green",
-                    "plant_height": "18-24 inches",
-                    "growth_mode": null,
-                    "best_uses": ["Soups", "Salads", "Snacking"],
-                    "water_requirement": "Consistent moisture",
-                    "feeding_requirement": "Rich soil with balanced fertilizer",
-                    "requires_pruning": true,
-                    "needs_support": false,
-                    "fun_fact": "Pascal Celery was developed in the late 19th century by a French celery grower named Pascal Blondeau.",
-                    "planting_tip": "Plant Pascal Celery seeds or transplants in well-drained, fertile soil. Choose a sunny location for optimal growth. Keep the soil consistently moist, but not waterlogged. Hill soil around the base of the plants as they grow to blanch the stalks and reduce bitterness."
-                  },
-                  {
-                      "id": 2,
-                    "name": "Golden Self-Blanching",
-                    "description": "Golden Self-Blanching Celery is a popular heirloom variety prized for its tender stalks and mild, nutty flavor. It has pale green stalks that blanch to a golden yellow color as they mature. Golden Self-Blanching Celery is known for its self-blanching habit, which means it naturally turns yellow when exposed to sunlight. It matures in about 85-100 days and is excellent for fresh eating, salads, and garnishes.",
-                    "spacing": "10 inches",
-                    "days_to_harvest": {
-                      "lower_estimate": 85,
-                      "higher_estimate": 100
-                    },
-                    "is_container_variety": true,
-                    "fruit_color": null,
-                    "fruit_length": null,
-                    "fruit_weight": null,
-                    "leaf_color": "Green",
-                    "flower_color": "Yellow",
-                    "plant_height": "18-24 inches",
-                    "growth_mode": null,
-                    "best_uses": ["Fresh eating", "Salads", "Garnishes"],
-                    "water_requirement": "Every 1 week",
-                    "feeding_requirement": "Rich soil with balanced fertilizer",
-                    "requires_pruning": true,
-                    "needs_support": false,
-                    "fun_fact": "Golden Self-Blanching Celery is prized for its self-blanching habit, which reduces the need for manual blanching techniques.",
-                    "planting_tip": "Plant Golden Self-Blanching Celery seeds or transplants in well-drained, fertile soil. Choose a sunny location for optimal growth. Keep the soil consistently moist, but not waterlogged. Hill soil around the base of the plants as they grow to blanch the stalks and reduce bitterness."
-                  },
-                  {
-                      "id": 3,
-                    "name": "Tango",
-                    "description": "Tango Celery is a newer variety known for its vibrant green color and crisp texture. It has slender stalks and a strong, celery flavor. Tango Celery is versatile and can be used in salads, soups, and as a flavoring in cooked dishes. It matures in about 85-100 days and is prized for its uniformity and disease resistance.",
-                    "spacing": "8 inches",
-                    "days_to_harvest": {
-                      "lower_estimate": 85,
-                      "higher_estimate": 100
-                    },
-                    "is_container_variety": true,
-                    "fruit_color": null,
-                    "fruit_length": null,
-                    "fruit_weight": null,
-                    "flower_color": "Yellow",
-                    "leaf_color": "Green",
-                    "plant_height": "18-24 inches",
-                    "growth_mode": null,
-                    "best_uses": ["Salads", "Soups", "Cooked dishes"],
-                    "water_requirement": "Every 1 week",
-                    "feeding_requirement": "Rich soil with balanced fertilizer",
-                    "requires_pruning": true,
-                    "needs_support": false,
-                    "fun_fact": "Tango Celery is bred for its uniformity, disease resistance, and strong celery flavor.",
-                    "planting_tip": "Plant Tango Celery seeds or transplants in well-drained, fertile soil. Choose a sunny location for optimal growth. Keep the soil consistently moist, but not waterlogged. Hill soil around the base of the plants as they grow to blanch the stalks and reduce bitterness."
-                  },
-                  {
-                      "id": 4,
-                    "name": "Redventure",
-                    "description": "Redventure Celery is a unique variety with striking red stalks and dark green leaves. It has a mild, slightly spicy flavor and adds a pop of color to dishes. Redventure Celery is excellent for fresh eating, salads, and as a garnish. It matures in about 90-110 days and is prized for its colorful appearance and disease resistance.",
-                    "spacing": "8 - 10 inches",
-                    "days_to_harvest": {
-                      "lower_estimate": 90,
-                      "higher_estimate": 110
-                    },
-                    "is_container_variety": true,
-                    "fruit_color": null,
-                    "fruit_length": null,
-                    "fruit_weight": null,
-                    "flower_color": "Yellow",
-                    "leaf_color": "Dark green",
-                    "plant_height": "18-24 inches",
-                    "growth_mode": null,
-                    "best_uses": ["Fresh eating", "Salads", "Garnishes"],
-                    "water_requirement": "Every 1 week",
-                    "feeding_requirement": "Rich soil with balanced fertilizer",
-                    "requires_pruning": true,
-                    "needs_support": false,
-                    "fun_fact": "Redventure Celery is known for its vibrant red stalks, which develop their color in response to sunlight.",
-                    "planting_tip": "Plant Redventure Celery seeds or transplants in well-drained, fertile soil. Choose a sunny location for optimal growth. Keep the soil consistently moist, but not waterlogged. Hill soil around the base of the plants as they grow to blanch the stalks and reduce bitterness."
-                  },
-                    {
-                        "id": 5,
-                      "name": "Ventura",
-                      "description": "Ventura Celery is a versatile celery variety known for its tender stalks and mild flavor. It has medium-sized stalks and dark green leaves. Ventura Celery is excellent for fresh eating, salads, and as a flavoring in cooked dishes. It matures in about 85-100 days and is prized for its reliability and disease resistance.",
-                      "spacing": "8 inches",
-                      "days_to_harvest": {
-                        "lower_estimate": 85,
-                        "higher_estimate": 100
-                      },
-                      "is_container_variety": true,
-                      "fruit_color": null,
-                      "fruit_length": null,
-                      "fruit_weight": null,
-                      "leaf_color": "Dark green",
-                      "plant_height": "18-24 inches",
-                      "flower_color": "Yellow",
-                      "growth_mode": null,
-                      "best_uses": ["Fresh eating", "Salads", "Cooked dishes"],
-                      "water_requirement": "Every 1 week",
-                      "feeding_requirement": "Rich soil with balanced fertilizer",
-                      "requires_pruning": true,
-                      "needs_support": false,
-                      "fun_fact": "Ventura Celery is prized for its tender stalks and mild flavor, making it a versatile option for various culinary uses.",
-                      "planting_tip": "Plant Ventura Celery seeds or transplants in well-drained, fertile soil. Choose a sunny location for optimal growth. Keep the soil consistently moist, but not waterlogged. Hill soil around the base of the plants as they grow to blanch the stalks and reduce bitterness."
-                    },
-                    {
-                        "id": 6,
-                      "name": "Chinese",
-                      "description": "Chinese Celery, also known as Cutting Celery, is a unique variety with thin, hollow stalks and delicate leaves. It has a strong, pungent flavor and is commonly used as a flavoring in Asian cuisine. Chinese Celery is excellent for soups, stir-fries, and as a garnish. It matures in about 60-70 days and is prized for its intense flavor and aroma.",
-                      "spacing": "6 inches",
-                      "days_to_harvest": {
-                        "lower_estimate": 60,
-                        "higher_estimate": 70
-                      },
-                      "is_container_variety": true,
-                      "fruit_color": null,
-                      "fruit_length": null,
-                      "fruit_weight": null,
-                      "leaf_color": "Green",
-                      "plant_height": "12-18 inches",
-                      "growth_mode": null,
-                      "flower_color": "Yellow",
-                      "best_uses": ["Soups", "Stir-fries", "Garnishes"],
-                      "water_requirement": "Every 1 week",
-                      "feeding_requirement": "Rich soil with balanced fertilizer",
-                      "requires_pruning": true,
-                      "needs_support": false,
-                      "fun_fact": "Chinese Celery is often used as a flavoring in Asian cuisine due to its strong, pungent flavor and aroma.",
-                      "planting_tip": "Plant Chinese Celery seeds or transplants in well-drained, fertile soil. Choose a sunny location for optimal growth. Keep the soil consistently moist, but not waterlogged."
-                    },
-                    {
-                        "id": 7,
-                      "name": "Safir",
-                      "description": "Safir Celery is a European variety known for its compact growth habit and intense flavor. It has thick, crisp stalks and dark green leaves. Safir Celery is excellent for fresh eating, salads, and as a flavoring in cooked dishes. It matures in about 90-110 days and is prized for its robust flavor and disease resistance.",
-                      "spacing": "8 inches",
-                      "days_to_harvest": {
-                        "lower_estimate": 90,
-                        "higher_estimate": 110
-                      },
-                      "is_container_variety": true,
-                      "fruit_color": null,
-                      "fruit_length": null,
-                      "fruit_weight": null,
-                      "leaf_color": "Dark green",
-                      "plant_height": "18-24 inches",
-                      "flower_color": "Yellow",
-                      "growth_mode": null,
-                      "best_uses": ["Fresh eating", "Salads", "Cooked dishes"],
-                      "water_requirement": "Every 1 week",
-                      "feeding_requirement": "Rich soil with balanced fertilizer",
-                      "requires_pruning": true,
-                      "needs_support": false,
-                      "fun_fact": "Safir Celery is known for its compact growth habit and intense flavor, making it a favorite in European cuisine.",
-                      "planting_tip": "Plant Safir Celery seeds or transplants in well-drained, fertile soil. Choose a sunny location for optimal growth. Keep the soil consistently moist, but not waterlogged. Hill soil around the base of the plants as they grow to blanch the stalks and reduce bitterness."
-                    }
-            ]
+                "plant_height": "18-24 inches",
+                "spacing": "8-10 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "12-14 inches deep",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "White to greenish-white",
+                "leaf_color": "Dark green"
+              },
+              "care_requirements": {
+                "water_requirement": "Consistent moisture",
+                "feeding_requirement": "Rich soil with balanced fertilizer",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "10-14 stalks per plant",
+                "best_uses": ["Soups", "Salads", "Snacking"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Poor",
+                "cold_tolerance": "Good",
+                "frost_tolerance": false,
+                "drought_tolerance": "Poor",
+                "disease_resistance": ["Fusarium yellows resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Mild and slightly sweet"
+              },
+              "leaf_crop_characteristics": {
+                "head_type": "Stalk bundle",
+                "leaf_texture": "Thick and crisp",
+                "days_to_maturity": "90-120 days",
+                "bolt_resistance": "Moderate"
+              },
+              "fun_fact": "Pascal Celery was developed in the late 19th century by a French celery grower named Pascal Blondeau.",
+              "planting_tip": "Plant Pascal Celery seeds or transplants in well-drained, fertile soil. Choose a sunny location for optimal growth. Keep the soil consistently moist, but not waterlogged. Hill soil around the base of the plants as they grow to blanch the stalks and reduce bitterness."
+            },
+            {
+              "id": 2,
+              "name": "Golden Self-Blanching",
+              "description": "Golden Self-Blanching Celery is a popular heirloom variety prized for its tender stalks and mild, nutty flavor. It has pale green stalks that blanch to a golden yellow color as they mature. Golden Self-Blanching Celery is known for its self-blanching habit, which means it naturally turns yellow when exposed to sunlight. It matures in about 85-100 days and is excellent for fresh eating, salads, and garnishes.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 85,
+                  "higher_estimate": 100
+                },
+                "plant_height": "18-24 inches",
+                "spacing": "10 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "12-14 inches deep",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "White to greenish-white",
+                "leaf_color": "Pale green to golden"
+              },
+              "care_requirements": {
+                "water_requirement": "Weekly deep watering",
+                "feeding_requirement": "Rich soil with balanced fertilizer",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "8-10 stalks per plant",
+                "best_uses": ["Fresh eating", "Salads", "Garnishes"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Poor",
+                "cold_tolerance": "Good",
+                "frost_tolerance": false,
+                "drought_tolerance": "Poor",
+                "disease_resistance": ["Moderate disease resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Mild, nutty, and tender"
+              },
+              "leaf_crop_characteristics": {
+                "head_type": "Stalk bundle",
+                "leaf_texture": "Tender and smooth",
+                "days_to_maturity": "85-100 days",
+                "bolt_resistance": "Moderate"
+              },
+              "fun_fact": "Golden Self-Blanching Celery is prized for its self-blanching habit, which reduces the need for manual blanching techniques.",
+              "planting_tip": "Plant Golden Self-Blanching Celery seeds or transplants in well-drained, fertile soil. Choose a sunny location for optimal growth. Keep the soil consistently moist, but not waterlogged. Hill soil around the base of the plants as they grow to blanch the stalks and reduce bitterness."
+            },
+            {
+              "id": 3,
+              "name": "Tango",
+              "description": "Tango Celery is a newer variety known for its vibrant green color and crisp texture. It has slender stalks and a strong, celery flavor. Tango Celery is versatile and can be used in salads, soups, and as a flavoring in cooked dishes. It matures in about 85-100 days and is prized for its uniformity and disease resistance.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 85,
+                  "higher_estimate": 100
+                },
+                "plant_height": "18-24 inches",
+                "spacing": "8 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "12-14 inches deep",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "White to greenish-white",
+                "leaf_color": "Vibrant green"
+              },
+              "care_requirements": {
+                "water_requirement": "Weekly deep watering",
+                "feeding_requirement": "Rich soil with balanced fertilizer",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "8-12 stalks per plant",
+                "best_uses": ["Salads", "Soups", "Cooked dishes"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Poor",
+                "cold_tolerance": "Good",
+                "frost_tolerance": false,
+                "drought_tolerance": "Poor",
+                "disease_resistance": ["Fusarium yellows resistance", "Leaf spot resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Strong celery flavor, crisp"
+              },
+              "leaf_crop_characteristics": {
+                "head_type": "Stalk bundle",
+                "leaf_texture": "Slender and crisp",
+                "days_to_maturity": "85-100 days",
+                "bolt_resistance": "Good"
+              },
+              "fun_fact": "Tango Celery is bred for its uniformity, disease resistance, and strong celery flavor.",
+              "planting_tip": "Plant Tango Celery seeds or transplants in well-drained, fertile soil. Choose a sunny location for optimal growth. Keep the soil consistently moist, but not waterlogged. Hill soil around the base of the plants as they grow to blanch the stalks and reduce bitterness."
+            },
+            {
+              "id": 4,
+              "name": "Redventure",
+              "description": "Redventure Celery is a unique variety with striking red stalks and dark green leaves. It has a mild, slightly spicy flavor and adds a pop of color to dishes. Redventure Celery is excellent for fresh eating, salads, and as a garnish. It matures in about 90-110 days and is prized for its colorful appearance and disease resistance.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 90,
+                  "higher_estimate": 110
+                },
+                "plant_height": "18-24 inches",
+                "spacing": "8-10 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "12-14 inches deep",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "White to greenish-white",
+                "leaf_color": "Dark green with red stalks"
+              },
+              "care_requirements": {
+                "water_requirement": "Weekly deep watering",
+                "feeding_requirement": "Rich soil with balanced fertilizer",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "8-12 stalks per plant",
+                "best_uses": ["Fresh eating", "Salads", "Garnishes"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Poor",
+                "cold_tolerance": "Good",
+                "frost_tolerance": false,
+                "drought_tolerance": "Poor",
+                "disease_resistance": ["Fusarium yellows resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Mild with a slightly spicy note"
+              },
+              "leaf_crop_characteristics": {
+                "head_type": "Stalk bundle",
+                "leaf_texture": "Crisp with red coloring",
+                "days_to_maturity": "90-110 days",
+                "bolt_resistance": "Moderate"
+              },
+              "fun_fact": "Redventure Celery is known for its vibrant red stalks, which develop their color in response to sunlight.",
+              "planting_tip": "Plant Redventure Celery seeds or transplants in well-drained, fertile soil. Choose a sunny location for optimal growth. Keep the soil consistently moist, but not waterlogged. Hill soil around the base of the plants as they grow to blanch the stalks and reduce bitterness."
+            },
+            {
+              "id": 5,
+              "name": "Ventura",
+              "description": "Ventura Celery is a versatile celery variety known for its tender stalks and mild flavor. It has medium-sized stalks and dark green leaves. Ventura Celery is excellent for fresh eating, salads, and as a flavoring in cooked dishes. It matures in about 85-100 days and is prized for its reliability and disease resistance.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 85,
+                  "higher_estimate": 100
+                },
+                "plant_height": "18-24 inches",
+                "spacing": "8 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "12-14 inches deep",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "White to greenish-white",
+                "leaf_color": "Dark green"
+              },
+              "care_requirements": {
+                "water_requirement": "Weekly deep watering",
+                "feeding_requirement": "Rich soil with balanced fertilizer",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "8-12 stalks per plant",
+                "best_uses": ["Fresh eating", "Salads", "Cooked dishes"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Poor",
+                "cold_tolerance": "Good",
+                "frost_tolerance": false,
+                "drought_tolerance": "Poor",
+                "disease_resistance": ["Fusarium yellows resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Tender and mild"
+              },
+              "leaf_crop_characteristics": {
+                "head_type": "Stalk bundle",
+                "leaf_texture": "Medium, tender",
+                "days_to_maturity": "85-100 days",
+                "bolt_resistance": "Good"
+              },
+              "fun_fact": "Ventura Celery is prized for its tender stalks and mild flavor, making it a versatile option for various culinary uses.",
+              "planting_tip": "Plant Ventura Celery seeds or transplants in well-drained, fertile soil. Choose a sunny location for optimal growth. Keep the soil consistently moist, but not waterlogged. Hill soil around the base of the plants as they grow to blanch the stalks and reduce bitterness."
+            },
+            {
+              "id": 6,
+              "name": "Chinese",
+              "description": "Chinese Celery, also known as Cutting Celery, is a unique variety with thin, hollow stalks and delicate leaves. It has a strong, pungent flavor and is commonly used as a flavoring in Asian cuisine. Chinese Celery is excellent for soups, stir-fries, and as a garnish. It matures in about 60-70 days and is prized for its intense flavor and aroma.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 60,
+                  "higher_estimate": 70
+                },
+                "plant_height": "12-18 inches",
+                "spacing": "6 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "10-12 inches deep",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "White to greenish-white",
+                "leaf_color": "Green"
+              },
+              "care_requirements": {
+                "water_requirement": "Weekly deep watering",
+                "feeding_requirement": "Rich soil with balanced fertilizer",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "6-8 stalks per plant",
+                "best_uses": ["Soups", "Stir-fries", "Garnishes"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Moderate",
+                "cold_tolerance": "Good",
+                "frost_tolerance": false,
+                "drought_tolerance": "Poor",
+                "disease_resistance": ["Moderate disease resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Strong, pungent, and aromatic"
+              },
+              "leaf_crop_characteristics": {
+                "head_type": "Thin stalks",
+                "leaf_texture": "Thin and hollow",
+                "days_to_maturity": "60-70 days",
+                "bolt_resistance": "Moderate"
+              },
+              "fun_fact": "Chinese Celery is often used as a flavoring in Asian cuisine due to its strong, pungent flavor and aroma.",
+              "planting_tip": "Plant Chinese Celery seeds or transplants in well-drained, fertile soil. Choose a sunny location for optimal growth. Keep the soil consistently moist, but not waterlogged."
+            },
+            {
+              "id": 7,
+              "name": "Safir",
+              "description": "Safir Celery is a European variety known for its compact growth habit and intense flavor. It has thick, crisp stalks and dark green leaves. Safir Celery is excellent for fresh eating, salads, and as a flavoring in cooked dishes. It matures in about 90-110 days and is prized for its robust flavor and disease resistance.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 90,
+                  "higher_estimate": 110
+                },
+                "plant_height": "18-24 inches",
+                "spacing": "8 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "12-14 inches deep",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "White to greenish-white",
+                "leaf_color": "Dark green"
+              },
+              "care_requirements": {
+                "water_requirement": "Weekly deep watering",
+                "feeding_requirement": "Rich soil with balanced fertilizer",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "8-12 stalks per plant",
+                "best_uses": ["Fresh eating", "Salads", "Cooked dishes"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Poor",
+                "cold_tolerance": "Excellent",
+                "frost_tolerance": false,
+                "drought_tolerance": "Poor",
+                "disease_resistance": ["Fusarium yellows resistance", "Leaf spot resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Intense and robust"
+              },
+              "leaf_crop_characteristics": {
+                "head_type": "Stalk bundle",
+                "leaf_texture": "Thick and crisp",
+                "days_to_maturity": "90-110 days",
+                "bolt_resistance": "Good"
+              },
+              "fun_fact": "Safir Celery is known for its compact growth habit and intense flavor, making it a favorite in European cuisine.",
+              "planting_tip": "Plant Safir Celery seeds or transplants in well-drained, fertile soil. Choose a sunny location for optimal growth. Keep the soil consistently moist, but not waterlogged. Hill soil around the base of the plants as they grow to blanch the stalks and reduce bitterness."
+            }
+          ]
         },
         {
-            "id": 26,
-            "name": "garlic",
-            "varieties_common_features": {
-                "sunlight_requirement": "Full Sun",
-                "propagation_methods": ["Clove Planting"],
-                "soil_acidity_range": {
-                  "lower_bound": 6.0,
-                  "upper_bound": 7.5
-                },
-                "days_to_germination": "None (grown from cloves)",
-                "frost_tolerance": true,
-                "planting_depth": "2 inches",
-                "spacing": "4-6 inches",
-                "life_cycle": "Perennial",
-                "season": "Cool",
-                "growing_type": "Upright",
-                "planting_zones_times": [
-                    {
-                        "zone": ["3a","3b","4a","4b"],
-                        "planting_dates_months": {
-                            "start_indoors": [],
-                            "transplant": [],
-                            "start_outdoors": ["October", "November"],
-                            "harvest": ["July", "August"]
-                        },
-                        "planting_dates_description": {
-                            "start_indoors": "Not Recommended",
-                            "transplant": "Not Recommended",
-                            "start_outdoors": "Plant garlic cloves outdoors in well-drained soil in October to November before the ground freezes.",
-                            "harvest": "Harvest garlic bulbs in mid to late summer."
-                        }
-                    },
-                    {
-                        "zone": ["5a","5b","6a","6b"],
-                        "planting_dates_months": {
-                            "start_indoors": [],
-                            "transplant": [],
-                            "start_outdoors": ["September", "October"],
-                            "harvest": ["June", "July"]
-                        },
-                        "planting_dates_description": {
-                            "start_indoors": "Not Recommended",
-                            "transplant": "Not Recommended",
-                            "start_outdoors": "Plant garlic cloves outdoors in well-drained soil in September to October.",
-                            "harvest": "Harvest garlic bulbs in early to mid-summer."
-                        }
-                    },
-                    {
-                        "zone": ["7a","7b","8a","8b"],
-                        "planting_dates_months": {
-                            "start_indoors": [],
-                            "transplant": [],
-                            "start_outdoors": ["September", "October"],
-                            "harvest": ["June", "July"]
-                        },
-                        "planting_dates_description": {
-                            "start_indoors": "Not Recommended",
-                            "transplant": "Not Recommended",
-                            "start_outdoors": "Plant garlic cloves outdoors in well-drained soil in September to October.",
-                            "harvest": "Harvest garlic bulbs in early to mid-summer."
-                        }
-                    },
-                    {
-                        "zone": ["9a","9b","10a","10b"],
-                        "planting_dates_months": {
-                            "start_indoors": [],
-                            "transplant": [],
-                            "start_outdoors": ["September", "October"],
-                            "harvest": ["May", "June"]
-                        },
-                        "planting_dates_description": {
-                            "start_indoors": "Not Recommended",
-                            "transplant": "Not Recommended",
-                            "start_outdoors": "Plant garlic cloves outdoors in well-drained soil in September to October.",
-                            "harvest": "Harvest garlic bulbs in late spring to early summer."
-                        }
-                    },
-                    {
-                        "zone": ["11a","11b","12a","12b"],
-                        "planting_dates_months": {
-                            "start_indoors": [],
-                            "transplant": [],
-                            "start_outdoors": ["ALL"],
-                            "harvest": ["ALL"]
-                        },
-                        "planting_dates_description": {
-                            "start_indoors": "Not Recommended",
-                            "transplant": "Not Recommended",
-                            "start_outdoors": "Garlic can be planted outdoors year-round in warm climates.",
-                            "harvest": "Harvest garlic bulbs year-round in warm climates."
-                        }
-                    }
-                ]
+          "id": 26,
+          "name": "Garlic",
+          "plant_category": "Bulb Vegetable",
+          "varieties_common_features": {
+            "sunlight_requirement": "Full Sun",
+            "sunlight_hours_min": 6,
+            "sunlight_hours_optimal": 8,
+            "propagation_methods": ["Clove planting"],
+            "soil_acidity_range": {
+              "lower_bound": 6.0,
+              "upper_bound": 7.5
             },
-            "varieties": [
-                {
-                    "id": 0,
-                  "name": "Purple Glazer",
-                  "description": "Purple Glazer Garlic is a flavorful garlic variety with striking purple and white bulbs. Grown as an annual, this garlic is known for its rich taste and versatility in both culinary and medicinal applications. It belongs to the hardneck garlic group, characterized by the presence of a central stalk or scape.",
-                  "frost_tolerance": false,
-                  "spacing": "6-8 inches",
-                  "days_to_harvest": {
-                    "lower_estimate": 180,
-                    "higher_estimate": 210
-                  },
-                  "is_container_variety": false,
-                  "flower_color": "Not applicable",
-                  "fruit_length": null,
-                  "fruit_weight": "2-3 ounces",
-                  "flower_color": "Purple and White",
-                  "leaf_color": "Green",
-                  "plant_height": "18-24 inches",
-                  "growth_mode": null,
-                  "best_uses": ["Culinary", "Medicinal"],
-                  "water_requirement": "Moderate watering",
-                  "feeding_requirement": "Balanced fertilizer",
-                  "requires_pruning": false,
-                  "needs_support": false,
-                  "fun_fact": "Purple Glazer Garlic produces garlic scapes, curly green shoots that emerge from the bulb. These scapes are not only edible but also add a mild garlic flavor to dishes.",
-                  "planting_tip": "For successful cultivation of Purple Glazer Garlic, plant individual cloves in the fall, a few weeks before the first hard frost. Ensure well-draining soil with good organic content. Plant cloves with the pointed end up and the flat end down. Mulch the garlic bed to protect against winter cold. Harvest when the lower leaves turn brown and the bulbs have reached a good size. Cure harvested garlic bulbs in a dry, well-ventilated area before storing."
+            "soil_type_preference": ["Loamy", "Well-drained", "Rich in organic matter"],
+            "drainage_requirement": "Well-drained",
+            "days_to_germination": "7-14 days (sprouting from cloves)",
+            "frost_tolerance": true,
+            "planting_depth": "2 inches",
+            "spacing": "4-6 inches",
+            "life_cycle": "Perennial (grown as annual)",
+            "season": "Cool",
+            "typical_yield_range": "5-10 bulbs per square foot",
+            "companion_plants": ["Tomatoes", "Roses", "Fruit trees", "Beets", "Chamomile"],
+            "avoid_planting_with": ["Beans", "Peas", "Asparagus", "Sage"],
+            "common_pests": ["Onion thrips", "Bulb mites", "Stem and bulb nematodes"],
+            "common_diseases": ["White rot", "Fusarium basal rot", "Botrytis neck rot", "Rust"],
+            "planting_zones_times": [
+              {
+                "zone": ["3a", "3b", "4a", "4b"],
+                "planting_dates_months": {
+                  "start_indoors": [],
+                  "transplant": [],
+                  "start_outdoors": ["October", "November"],
+                  "harvest": ["July", "August"]
                 },
-                  {
-                      "id": 1,
-                    "name": "Softneck",
-                    "description": "Softneck Garlic, also known as Artichoke Garlic, is one of the most common and widely cultivated varieties of garlic. It has a soft, pliable stem and produces multiple layers of cloves arranged in a circular pattern. Softneck Garlic has a mild flavor and is commonly used in cooking and for making garlic braids. It stores well and can be kept for several months under proper conditions.",
-                    "spacing": "6 - 8 inches",
-                    "days_to_harvest": {
-                      "lower_estimate": 180,
-                      "higher_estimate": 210
-                    },
-                    "is_container_variety": false,
-                    "flower_color": "Not applicable",
-                    "fruit_length": null,
-                    "fruit_weight": "2-3 ounces",
-                    "clove_color": "White",
-                    "head_size": "Medium to large",
-                    "leaf_color": "Green",
-                    "plant_height": "18-24 inches",
-                    "best_uses": ["Cooking", "Garlic braids"],
-                    "water_requirement": "Every 1 week",
-                    "feeding_requirement": "Rich soil with balanced fertilizer",
-                    "requires_pruning": false,
-                    "needs_support": false,
-                    "fun_fact": "Fun Fact: Softneck Garlic is called \"Artichoke Garlic\" due to the shape of its bulb, which resembles a globe artichoke.",
-                    "planting_tip": "Plant Softneck Garlic cloves in well-drained, fertile soil with plenty of organic matter. Choose a sunny location for optimal growth. Plant cloves with the pointed end facing upwards, about 2 inches deep and 6 inches apart. Keep the soil consistently moist, but not waterlogged."
-                  },
-                  {
-                      "id": 2,
-                    "name": "Hardneck",
-                    "description": "Hardneck Garlic, also known as Rocambole Garlic, is prized for its strong flavor and large cloves. It has a hard, woody stem that produces a single layer of cloves arranged in a circular pattern. Hardneck Garlic varieties often produce \"scapes,\" curly green shoots that emerge from the stem and are harvested for their mild garlic flavor. Hardneck Garlic does not store as well as Softneck Garlic but is favored by chefs for its intense flavor.",
-                    "spacing": "6 inches",
-                    "days_to_harvest": {
-                      "lower_estimate": 150,
-                      "higher_estimate": 180
-                    },
-                    "is_container_variety": false,
-                    "flower_color": "Not applicable",
-                    "fruit_length": null,
-                    "fruit_weight": "2-3 ounces",
-                    "clove_color": "White to purple",
-                    "head_size": "Large",
-                    "leaf_color": "Green",
-                    "plant_height": "18-24 inches",
-                    "best_uses": ["Cooking", "Scapes"],
-                    "water_requirement": "Every 1 week",
-                    "feeding_requirement": "Rich soil with balanced fertilizer",
-                    "requires_pruning": false,
-                    "needs_support": false,
-                    "fun_fact": "Hardneck Garlic is called \"Rocambole Garlic\" after the Rocambole variety, known for its rich flavor and complex aroma.",
-                    "planting_tip": "Plant Hardneck Garlic cloves in well-drained, fertile soil with plenty of organic matter. Choose a sunny location for optimal growth. Plant cloves with the pointed end facing upwards, about 2 inches deep and 6 inches apart. Keep the soil consistently moist, but not waterlogged."
-                  },
-                  {
-                      "id": 3,
-                    "name": "Elephant",
-                    "description": "Elephant Garlic, also known as Great-headed Garlic, is not a true garlic but belongs to the leek family. It produces large, mild-flavored bulbs with a texture similar to garlic. Elephant Garlic cloves are much larger than those of traditional garlic varieties and have a milder, sweeter flavor. They are commonly used in cooking and can be roasted, sautéed, or used raw in salads.",
-                    "spacing": "12 inches",
-                    "days_to_harvest": {
-                      "lower_estimate": 240,
-                      "higher_estimate": 270
-                    },
-                    "is_container_variety": false,
-                    "flower_color": "Not applicable",
-                    "fruit_length": null,
-                    "fruit_weight": "3-4 ounces",
-                    "clove_color": "White to purple",
-                    "head_size": "Very large",
-                    "leaf_color": "Green",
-                    "plant_height": "24-36 inches",
-                    "best_uses": ["Cooking", "Roasting", "Salads"],
-                    "water_requirement": "Every 1 week",
-                    "feeding_requirement": "Rich soil with balanced fertilizer",
-                    "requires_pruning": false,
-                    "needs_support": false,
-                    "fun_fact": "Elephant Garlic is called \"Great-headed Garlic\" due to the large size of its bulbs.",
-                    "planting_tip": "Plant Elephant Garlic cloves in well-drained, fertile soil with plenty of organic matter. Choose a sunny location for optimal growth. Plant cloves with the pointed end facing upwards, about 3 inches deep and 12 inches apart. Keep the soil consistently moist, but not waterlogged."
-                  },
-                  {
-                      "id": 4,
-                    "name": "Creole",
-                    "description": "Creole Garlic is a group of garlic varieties that originated in Spain and were brought to the New World by Spanish explorers. They are known for their spicy, pungent flavor and are favored in Latin American and Creole cuisines. Creole Garlic bulbs have a purple-striped skin and produce medium-sized cloves with a strong flavor. They are often used in salsas, marinades, and spicy dishes.",
-                    "spacing": "6 inches",
-                    "days_to_harvest": {
-                      "lower_estimate": 150,
-                      "higher_estimate": 180
-                    },
-                    "is_container_variety": false,
-                    "flower_color": "Not applicable",
-                    "fruit_length": null,
-                    "fruit_weight": "2-3 ounces",
-                    "clove_color": "White to purple",
-                    "head_size": "Medium",
-                    "leaf_color": "Green",
-                    "plant_height": "18-24 inches",
-                    "best_uses": ["Salsas", "Marinades", "Spicy dishes"],
-                    "water_requirement": "Every 1 week",
-                    "feeding_requirement": "Rich soil with balanced fertilizer",
-                    "requires_pruning": false,
-                    "needs_support": false,
-                    "fun_fact": "Creole Garlic varieties have adapted to the climates and soils of the New World, resulting in unique flavors and characteristics.",
-                    "planting_tip": "Plant Creole Garlic cloves in well-drained, fertile soil with plenty of organic matter. Choose a sunny location for optimal growth. Plant cloves with the pointed end facing upwards, about 2 inches deep and 6 inches apart. Keep the soil consistently moist, but not waterlogged."
-                  },
-                  {
-                      "id": 5,
-                    "name": "Silverskin",
-                    "description": "Silverskin Garlic is a softneck garlic variety known for its long storage life and mild flavor. It produces tight, compact bulbs with a white papery skin. Silverskin Garlic is often used for braiding and can be kept for up to a year under proper conditions. It has a mild flavor and is versatile in cooking, lending itself well to both raw and cooked preparations.",
-                    "spacing": "6 inches",
-                    "days_to_harvest": {
-                      "lower_estimate": 180,
-                      "higher_estimate": 210
-                    },
-                    "is_container_variety": false,
-                    "flower_color": "Not applicable",
-                    "fruit_length": null,
-                    "fruit_weight": "2-3 ounces",
-                    "clove_color": "White",
-                    "head_size": "Medium to large",
-                    "leaf_color": "Green",
-                    "plant_height": "18-24 inches",
-                    "best_uses": ["Cooking", "Garlic braids"],
-                    "water_requirement": "Every 1 week",
-                    "feeding_requirement": "Rich soil with balanced fertilizer",
-                    "requires_pruning": false,
-                    "needs_support": false,
-                    "fun_fact": "Silverskin Garlic is named for the silvery appearance of its outer skin.",
-                    "planting_tip": "Plant Silverskin Garlic cloves in well-drained, fertile soil with plenty of organic matter. Choose a sunny location for optimal growth. Plant cloves with the pointed end facing upwards, about 2 inches deep and 6 inches apart. Keep the soil consistently moist, but not waterlogged."
-                  }
-
+                "planting_dates_description": {
+                  "start_indoors": "Not recommended for garlic.",
+                  "transplant": "Not recommended for garlic.",
+                  "start_outdoors": "Plant garlic cloves outdoors in well-drained soil in October to November before the ground freezes.",
+                  "harvest": "Harvest garlic bulbs in mid to late summer when lower leaves turn brown."
+                }
+              },
+              {
+                "zone": ["5a", "5b", "6a", "6b"],
+                "planting_dates_months": {
+                  "start_indoors": [],
+                  "transplant": [],
+                  "start_outdoors": ["September", "October"],
+                  "harvest": ["June", "July"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Not recommended for garlic.",
+                  "transplant": "Not recommended for garlic.",
+                  "start_outdoors": "Plant garlic cloves outdoors in well-drained soil in September to October.",
+                  "harvest": "Harvest garlic bulbs in early to mid-summer when lower leaves turn brown."
+                }
+              },
+              {
+                "zone": ["7a", "7b", "8a", "8b"],
+                "planting_dates_months": {
+                  "start_indoors": [],
+                  "transplant": [],
+                  "start_outdoors": ["September", "October"],
+                  "harvest": ["June", "July"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Not recommended for garlic.",
+                  "transplant": "Not recommended for garlic.",
+                  "start_outdoors": "Plant garlic cloves outdoors in well-drained soil in September to October.",
+                  "harvest": "Harvest garlic bulbs in early to mid-summer when lower leaves turn brown."
+                }
+              },
+              {
+                "zone": ["9a", "9b", "10a", "10b"],
+                "planting_dates_months": {
+                  "start_indoors": [],
+                  "transplant": [],
+                  "start_outdoors": ["September", "October"],
+                  "harvest": ["May", "June"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Not recommended for garlic.",
+                  "transplant": "Not recommended for garlic.",
+                  "start_outdoors": "Plant garlic cloves outdoors in well-drained soil in September to October.",
+                  "harvest": "Harvest garlic bulbs in late spring to early summer when lower leaves turn brown."
+                }
+              },
+              {
+                "zone": ["11a", "11b", "12a", "12b"],
+                "planting_dates_months": {
+                  "start_indoors": [],
+                  "transplant": [],
+                  "start_outdoors": ["November", "December"],
+                  "harvest": ["May", "June"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Not recommended for garlic.",
+                  "transplant": "Not recommended for garlic.",
+                  "start_outdoors": "In warm climates, plant garlic in late fall or early winter for a spring harvest.",
+                  "harvest": "Harvest garlic bulbs in late spring to early summer."
+                }
+              }
             ]
+          },
+          "varieties": [
+            {
+              "id": 0,
+              "name": "Purple Glazer",
+              "description": "Purple Glazer Garlic is a flavorful garlic variety with striking purple and white bulbs. Grown as an annual, this garlic is known for its rich taste and versatility in both culinary and medicinal applications. It belongs to the hardneck garlic group, characterized by the presence of a central stalk or scape.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 180,
+                  "higher_estimate": 210
+                },
+                "plant_height": "18-24 inches",
+                "spacing": "6-8 inches",
+                "is_container_variety": false,
+                "recommended_container_size": "Not recommended",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Purple and white (bulb wrapper)",
+                "leaf_color": "Green"
+              },
+              "care_requirements": {
+                "water_requirement": "Moderate watering, reduce before harvest",
+                "feeding_requirement": "Balanced fertilizer in spring",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "1 bulb per clove planted",
+                "best_uses": ["Culinary", "Medicinal", "Scapes"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Moderate",
+                "cold_tolerance": "Excellent",
+                "frost_tolerance": true,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Moderate disease resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Rich, robust, and complex"
+              },
+              "root_characteristics": {
+                "root_color": "Purple and white striped wrapper",
+                "root_shape": "Bulbous with cloves",
+                "root_size": "2-3 ounces per bulb",
+                "texture": "Firm and crisp when fresh",
+                "storage_life": "4-6 months when properly cured"
+              },
+              "fun_fact": "Purple Glazer Garlic produces garlic scapes, curly green shoots that emerge from the bulb. These scapes are not only edible but also add a mild garlic flavor to dishes.",
+              "planting_tip": "For successful cultivation of Purple Glazer Garlic, plant individual cloves in the fall, a few weeks before the first hard frost. Ensure well-draining soil with good organic content. Plant cloves with the pointed end up and the flat end down. Mulch the garlic bed to protect against winter cold. Harvest when the lower leaves turn brown and the bulbs have reached a good size. Cure harvested garlic bulbs in a dry, well-ventilated area before storing."
+            },
+            {
+              "id": 1,
+              "name": "Softneck",
+              "description": "Softneck Garlic, also known as Artichoke Garlic, is one of the most common and widely cultivated varieties of garlic. It has a soft, pliable stem and produces multiple layers of cloves arranged in a circular pattern. Softneck Garlic has a mild flavor and is commonly used in cooking and for making garlic braids. It stores well and can be kept for several months under proper conditions.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 180,
+                  "higher_estimate": 210
+                },
+                "plant_height": "18-24 inches",
+                "spacing": "6-8 inches",
+                "is_container_variety": false,
+                "recommended_container_size": "Not recommended",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Rarely flowers",
+                "leaf_color": "Green"
+              },
+              "care_requirements": {
+                "water_requirement": "Weekly watering, reduce before harvest",
+                "feeding_requirement": "Rich soil with balanced fertilizer",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "1 bulb per clove planted",
+                "best_uses": ["Cooking", "Garlic braids", "Long-term storage"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Good",
+                "cold_tolerance": "Good",
+                "frost_tolerance": true,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Moderate disease resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Mild and mellow"
+              },
+              "root_characteristics": {
+                "root_color": "White papery wrapper",
+                "root_shape": "Bulbous with multiple clove layers",
+                "root_size": "2-3 ounces per bulb, medium to large",
+                "texture": "Firm and layered",
+                "storage_life": "8-12 months when properly cured"
+              },
+              "fun_fact": "Softneck Garlic is called 'Artichoke Garlic' due to the shape of its bulb, which resembles a globe artichoke.",
+              "planting_tip": "Plant Softneck Garlic cloves in well-drained, fertile soil with plenty of organic matter. Choose a sunny location for optimal growth. Plant cloves with the pointed end facing upwards, about 2 inches deep and 6 inches apart. Keep the soil consistently moist, but not waterlogged."
+            },
+            {
+              "id": 2,
+              "name": "Hardneck",
+              "description": "Hardneck Garlic, also known as Rocambole Garlic, is prized for its strong flavor and large cloves. It has a hard, woody stem that produces a single layer of cloves arranged in a circular pattern. Hardneck Garlic varieties often produce 'scapes,' curly green shoots that emerge from the stem and are harvested for their mild garlic flavor. Hardneck Garlic does not store as well as Softneck Garlic but is favored by chefs for its intense flavor.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 150,
+                  "higher_estimate": 180
+                },
+                "plant_height": "18-24 inches",
+                "spacing": "6 inches",
+                "is_container_variety": false,
+                "recommended_container_size": "Not recommended",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Produces flower scape",
+                "leaf_color": "Green"
+              },
+              "care_requirements": {
+                "water_requirement": "Weekly watering, reduce before harvest",
+                "feeding_requirement": "Rich soil with balanced fertilizer",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "1 bulb per clove planted",
+                "best_uses": ["Cooking", "Scapes", "Gourmet dishes"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Moderate",
+                "cold_tolerance": "Excellent",
+                "frost_tolerance": true,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Moderate disease resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Strong, intense, and complex"
+              },
+              "root_characteristics": {
+                "root_color": "White to purple striped wrapper",
+                "root_shape": "Bulbous with single layer of cloves",
+                "root_size": "2-3 ounces per bulb, large cloves",
+                "texture": "Firm with easy-to-peel cloves",
+                "storage_life": "4-6 months when properly cured"
+              },
+              "fun_fact": "Hardneck Garlic is called 'Rocambole Garlic' after the Rocambole variety, known for its rich flavor and complex aroma.",
+              "planting_tip": "Plant Hardneck Garlic cloves in well-drained, fertile soil with plenty of organic matter. Choose a sunny location for optimal growth. Plant cloves with the pointed end facing upwards, about 2 inches deep and 6 inches apart. Keep the soil consistently moist, but not waterlogged."
+            },
+            {
+              "id": 3,
+              "name": "Elephant",
+              "description": "Elephant Garlic, also known as Great-headed Garlic, is not a true garlic but belongs to the leek family. It produces large, mild-flavored bulbs with a texture similar to garlic. Elephant Garlic cloves are much larger than those of traditional garlic varieties and have a milder, sweeter flavor. They are commonly used in cooking and can be roasted, sautéed, or used raw in salads.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 240,
+                  "higher_estimate": 270
+                },
+                "plant_height": "24-36 inches",
+                "spacing": "12 inches",
+                "is_container_variety": false,
+                "recommended_container_size": "Not recommended",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Produces flower scape",
+                "leaf_color": "Green"
+              },
+              "care_requirements": {
+                "water_requirement": "Weekly watering, reduce before harvest",
+                "feeding_requirement": "Rich soil with balanced fertilizer",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "1 large bulb per clove planted",
+                "best_uses": ["Cooking", "Roasting", "Salads"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Good",
+                "cold_tolerance": "Excellent",
+                "frost_tolerance": true,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Moderate disease resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Mild, sweet, and less pungent"
+              },
+              "root_characteristics": {
+                "root_color": "White to purple wrapper",
+                "root_shape": "Very large bulbous",
+                "root_size": "3-4 ounces per bulb, very large",
+                "texture": "Firm and mild",
+                "storage_life": "4-6 months when properly cured"
+              },
+              "fun_fact": "Elephant Garlic is called 'Great-headed Garlic' due to the large size of its bulbs.",
+              "planting_tip": "Plant Elephant Garlic cloves in well-drained, fertile soil with plenty of organic matter. Choose a sunny location for optimal growth. Plant cloves with the pointed end facing upwards, about 3 inches deep and 12 inches apart. Keep the soil consistently moist, but not waterlogged."
+            },
+            {
+              "id": 4,
+              "name": "Creole",
+              "description": "Creole Garlic is a group of garlic varieties that originated in Spain and were brought to the New World by Spanish explorers. They are known for their spicy, pungent flavor and are favored in Latin American and Creole cuisines. Creole Garlic bulbs have a purple-striped skin and produce medium-sized cloves with a strong flavor. They are often used in salsas, marinades, and spicy dishes.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 150,
+                  "higher_estimate": 180
+                },
+                "plant_height": "18-24 inches",
+                "spacing": "6 inches",
+                "is_container_variety": false,
+                "recommended_container_size": "Not recommended",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Produces flower scape",
+                "leaf_color": "Green"
+              },
+              "care_requirements": {
+                "water_requirement": "Weekly watering, reduce before harvest",
+                "feeding_requirement": "Rich soil with balanced fertilizer",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "1 bulb per clove planted",
+                "best_uses": ["Salsas", "Marinades", "Spicy dishes"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Excellent",
+                "cold_tolerance": "Poor to moderate",
+                "frost_tolerance": false,
+                "drought_tolerance": "Good",
+                "disease_resistance": ["Moderate disease resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Spicy, pungent, and intense"
+              },
+              "root_characteristics": {
+                "root_color": "Purple-striped wrapper",
+                "root_shape": "Bulbous with medium cloves",
+                "root_size": "2-3 ounces per bulb, medium",
+                "texture": "Firm and spicy",
+                "storage_life": "3-5 months when properly cured"
+              },
+              "fun_fact": "Creole Garlic varieties have adapted to the climates and soils of the New World, resulting in unique flavors and characteristics.",
+              "planting_tip": "Plant Creole Garlic cloves in well-drained, fertile soil with plenty of organic matter. Choose a sunny location for optimal growth. Plant cloves with the pointed end facing upwards, about 2 inches deep and 6 inches apart. Keep the soil consistently moist, but not waterlogged."
+            },
+            {
+              "id": 5,
+              "name": "Silverskin",
+              "description": "Silverskin Garlic is a softneck garlic variety known for its long storage life and mild flavor. It produces tight, compact bulbs with a white papery skin. Silverskin Garlic is often used for braiding and can be kept for up to a year under proper conditions. It has a mild flavor and is versatile in cooking, lending itself well to both raw and cooked preparations.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 180,
+                  "higher_estimate": 210
+                },
+                "plant_height": "18-24 inches",
+                "spacing": "6 inches",
+                "is_container_variety": false,
+                "recommended_container_size": "Not recommended",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Rarely flowers",
+                "leaf_color": "Green"
+              },
+              "care_requirements": {
+                "water_requirement": "Weekly watering, reduce before harvest",
+                "feeding_requirement": "Rich soil with balanced fertilizer",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "1 bulb per clove planted",
+                "best_uses": ["Cooking", "Garlic braids", "Long-term storage"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Good",
+                "cold_tolerance": "Good",
+                "frost_tolerance": true,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Moderate disease resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Mild and versatile"
+              },
+              "root_characteristics": {
+                "root_color": "Silvery-white wrapper",
+                "root_shape": "Tight, compact bulbs",
+                "root_size": "2-3 ounces per bulb, medium to large",
+                "texture": "Firm and compact",
+                "storage_life": "10-12 months when properly cured"
+              },
+              "fun_fact": "Silverskin Garlic is named for the silvery appearance of its outer skin.",
+              "planting_tip": "Plant Silverskin Garlic cloves in well-drained, fertile soil with plenty of organic matter. Choose a sunny location for optimal growth. Plant cloves with the pointed end facing upwards, about 2 inches deep and 6 inches apart. Keep the soil consistently moist, but not waterlogged."
+            }
+          ]
         },
         {
-            "id": 27,
-            "name": "broccoli",
-            "varieties_common_features": {
-                "sunlight_requirement": "Full Sun to Partial Shade",
-                "propagation_methods": ["Seeds"],
-                "soil_acidity_range": {
-                  "lower_bound": 6.0,
-                  "upper_bound": 7.5
+          "id": 27,
+          "name": "Broccoli",
+          "plant_category": "Vegetable",
+          "varieties_common_features": {
+            "sunlight_requirement": "Full Sun to Partial Shade",
+            "sunlight_hours_min": 5,
+            "sunlight_hours_optimal": 6,
+            "propagation_methods": ["Seeds"],
+            "soil_acidity_range": {
+              "lower_bound": 6.0,
+              "upper_bound": 7.5
+            },
+            "soil_type_preference": ["Loamy", "Well-drained", "Rich in organic matter"],
+            "drainage_requirement": "Well-drained",
+            "days_to_germination": "5-10 days",
+            "frost_tolerance": true,
+            "planting_depth": "1/4 inch",
+            "spacing": "18-24 inches",
+            "life_cycle": "Annual",
+            "season": "Cool",
+            "typical_yield_range": "1-2 pounds per plant",
+            "companion_plants": ["Beets", "Onions", "Spinach", "Lettuce", "Celery", "Potatoes"],
+            "avoid_planting_with": ["Tomatoes", "Peppers", "Strawberries", "Pole beans"],
+            "common_pests": ["Cabbage worms", "Aphids", "Flea beetles", "Cabbage loopers"],
+            "common_diseases": ["Clubroot", "Black rot", "Downy mildew", "Powdery mildew"],
+            "planting_zones_times": [
+              {
+                "zone": ["3a", "3b", "4a", "4b"],
+                "planting_dates_months": {
+                  "start_indoors": ["March", "April"],
+                  "transplant": ["May", "June"],
+                  "start_outdoors": ["July", "August"],
+                  "harvest": ["September", "October"]
                 },
-                "days_to_germination": "5-10 days",
-                "frost_tolerance": true,
-                "planting_depth": "1/4 inch",
+                "planting_dates_description": {
+                  "start_indoors": "Start broccoli seeds indoors 6-8 weeks before the last frost date, typically in March to April.",
+                  "transplant": "Transplant broccoli seedlings outdoors after the danger of frost has passed, usually in late May to early June.",
+                  "start_outdoors": "Directly sow broccoli seeds outdoors in well-drained soil with full sun exposure, typically in July to August for fall harvest.",
+                  "harvest": "Harvest broccoli heads in late summer to early fall."
+                }
+              },
+              {
+                "zone": ["5a", "5b", "6a", "6b"],
+                "planting_dates_months": {
+                  "start_indoors": ["February", "March"],
+                  "transplant": ["April", "May"],
+                  "start_outdoors": ["June", "July"],
+                  "harvest": ["August", "September"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Start broccoli seeds indoors 6-8 weeks before the last frost date, typically in February to March.",
+                  "transplant": "Transplant broccoli seedlings outdoors after the danger of frost has passed, usually in April to May.",
+                  "start_outdoors": "Directly sow broccoli seeds outdoors in well-drained soil with full sun exposure, typically in June to July for fall harvest.",
+                  "harvest": "Harvest broccoli heads in mid to late summer."
+                }
+              },
+              {
+                "zone": ["7a", "7b", "8a", "8b"],
+                "planting_dates_months": {
+                  "start_indoors": ["January", "February"],
+                  "transplant": ["March", "April"],
+                  "start_outdoors": ["May", "June"],
+                  "harvest": ["July", "August"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Start broccoli seeds indoors 6-8 weeks before the last frost date, typically in January to February.",
+                  "transplant": "Transplant broccoli seedlings outdoors after the danger of frost has passed, usually in March to April.",
+                  "start_outdoors": "Directly sow broccoli seeds outdoors in well-drained soil with full sun exposure, typically in May to June.",
+                  "harvest": "Harvest broccoli heads in summer."
+                }
+              },
+              {
+                "zone": ["9a", "9b", "10a", "10b"],
+                "planting_dates_months": {
+                  "start_indoors": ["October", "November"],
+                  "transplant": ["December", "January"],
+                  "start_outdoors": ["February", "March"],
+                  "harvest": ["April", "May"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Start broccoli seeds indoors in fall for winter/spring planting, typically in October to November.",
+                  "transplant": "Transplant broccoli seedlings outdoors in winter, usually in December to January.",
+                  "start_outdoors": "Directly sow broccoli seeds outdoors in late winter, typically in February to March.",
+                  "harvest": "Harvest broccoli heads in spring."
+                }
+              },
+              {
+                "zone": ["11a", "11b", "12a", "12b"],
+                "planting_dates_months": {
+                  "start_indoors": ["October", "November", "December"],
+                  "transplant": ["November", "December", "January"],
+                  "start_outdoors": ["December", "January", "February"],
+                  "harvest": ["February", "March", "April"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Broccoli seeds can be started indoors during cooler months, typically October to December.",
+                  "transplant": "Broccoli seedlings can be transplanted outdoors during cooler months in warm climates.",
+                  "start_outdoors": "Broccoli seeds can be sown directly outdoors during cooler months for best results.",
+                  "harvest": "Harvest broccoli heads during cooler months in warm climates."
+                }
+              }
+            ]
+          },
+          "varieties": [
+            {
+              "id": 0,
+              "name": "Green Magic",
+              "description": "Green Magic Broccoli is a classic broccoli variety known for its tender, dark green heads and excellent flavor. With an upright growth habit, it produces compact heads that are perfect for fresh consumption, stir-fries, or steaming. This annual broccoli variety is well-suited for home gardens and is a staple in many kitchens.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 60,
+                  "higher_estimate": 80
+                },
+                "plant_height": "24-30 inches",
                 "spacing": "18-24 inches",
-                "life_cycle": "Annual",
-                "season": "Cool",
-                "growing_type": "Upright",
-                "planting_zones_times": [
-                    {
-                        "zone": ["3a","3b","4a","4b"],
-                        "planting_dates_months": {
-                            "start_indoors": ["March", "April"],
-                            "transplant": ["May", "June"],
-                            "start_outdoors": ["July", "August"],
-                            "harvest": ["September", "October"]
-                        },
-                        "planting_dates_description": {
-                            "start_indoors": "Start broccoli seeds indoors 6-8 weeks before the last frost date, typically in March to April.",
-                            "transplant": "Transplant broccoli seedlings outdoors after the danger of frost has passed, usually in late May to early June.",
-                            "start_outdoors": "Directly sow broccoli seeds outdoors in well-drained soil with full sun exposure, typically in July to August.",
-                            "harvest": "Harvest broccoli heads in late summer to early fall."
-                        }
-                    },
-                    {
-                        "zone": ["5a","5b","6a","6b"],
-                        "planting_dates_months": {
-                            "start_indoors": ["February", "March"],
-                            "transplant": ["April", "May"],
-                            "start_outdoors": ["June", "July"],
-                            "harvest": ["August", "September"]
-                        },
-                        "planting_dates_description": {
-                            "start_indoors": "Start broccoli seeds indoors 6-8 weeks before the last frost date, typically in February to March.",
-                            "transplant": "Transplant broccoli seedlings outdoors after the danger of frost has passed, usually in April to May.",
-                            "start_outdoors": "Directly sow broccoli seeds outdoors in well-drained soil with full sun exposure, typically in June to July.",
-                            "harvest": "Harvest broccoli heads in mid to late summer."
-                        }
-                    },
-                    {
-                        "zone": ["7a","7b","8a","8b"],
-                        "planting_dates_months": {
-                            "start_indoors": ["January", "February"],
-                            "transplant": ["March", "April"],
-                            "start_outdoors": ["May", "June"],
-                            "harvest": ["July", "August"]
-                        },
-                        "planting_dates_description": {
-                            "start_indoors": "Start broccoli seeds indoors 6-8 weeks before the last frost date, typically in January to February.",
-                            "transplant": "Transplant broccoli seedlings outdoors after the danger of frost has passed, usually in March to April.",
-                            "start_outdoors": "Directly sow broccoli seeds outdoors in well-drained soil with full sun exposure, typically in May to June.",
-                            "harvest": "Harvest broccoli heads in summer."
-                        }
-                    },
-                    {
-                        "zone": ["9a","9b","10a","10b"],
-                        "planting_dates_months": {
-                            "start_indoors": ["December", "January"],
-                            "transplant": ["February", "March"],
-                            "start_outdoors": ["April", "May"],
-                            "harvest": ["June", "July"]
-                        },
-                        "planting_dates_description": {
-                            "start_indoors": "Start broccoli seeds indoors 6-8 weeks before the last frost date, typically in December to January.",
-                            "transplant": "Transplant broccoli seedlings outdoors after the danger of frost has passed, usually in February to March.",
-                            "start_outdoors": "Directly sow broccoli seeds outdoors in well-drained soil with full sun exposure, typically in April to May.",
-                            "harvest": "Harvest broccoli heads in summer."
-                        }
-                    },
-                    {
-                        "zone": ["11a","11b","12a","12b"],
-                        "planting_dates_months": {
-                            "start_indoors": ["ALL"],
-                            "transplant": ["ALL"],
-                            "start_outdoors": ["ALL"],
-                            "harvest": ["ALL"]
-                        },
-                        "planting_dates_description": {
-                            "start_indoors": "Broccoli seeds can be started indoors year-round.",
-                            "transplant": "Broccoli seedlings can be transplanted outdoors year-round in warm climates.",
-                            "start_outdoors": "Broccoli seeds can be sown directly outdoors year-round in warm climates.",
-                            "harvest": "Harvest broccoli heads year-round in warm climates."
-                        }
-                    }
-                ]
+                "is_container_variety": false,
+                "recommended_container_size": "Not recommended",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Yellow (if allowed to bolt)",
+                "leaf_color": "Blue-green"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering, keep soil moist",
+                "feeding_requirement": "Balanced fertilizer every 3-4 weeks",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "1-2 pounds per plant",
+                "best_uses": ["Fresh eating", "Stir-fries", "Steaming"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Poor",
+                "cold_tolerance": "Excellent",
+                "frost_tolerance": true,
+                "drought_tolerance": "Poor",
+                "disease_resistance": ["Downy mildew resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Tender, sweet, and mild"
+              },
+              "leaf_crop_characteristics": {
+                "head_type": "Central head with side shoots",
+                "leaf_texture": "Tender florets",
+                "days_to_maturity": "60-80 days",
+                "bolt_resistance": "Good"
+              },
+              "fun_fact": "Broccoli is a member of the cabbage family and is closely related to cauliflower, Brussels sprouts, and kale. It is rich in vitamins, minerals, and antioxidants.",
+              "planting_tip": "For successful cultivation of Green Magic Broccoli, start seeds indoors or purchase seedlings for transplanting. Plant in well-draining soil with good fertility. Provide consistent moisture, especially during the growing period. Use mulch to retain soil moisture and suppress weeds. Harvest when the broccoli heads are firm and tight, cutting the main head first to encourage side shoots for extended harvest."
             },
-            "varieties": [
-                {
-                    "id": 0,
-                  "name": "Green Magic",
-                  "description": "Green Magic Broccoli is a classic broccoli variety known for its tender, dark green heads and excellent flavor. With an upright growth habit, it produces compact heads that are perfect for fresh consumption, stir-fries, or steaming. This annual broccoli variety is well-suited for home gardens and is a staple in many kitchens.",
-                  "spacing": "18-24 inches",
-                  "days_to_harvest": {
-                    "lower_estimate": 60,
-                    "higher_estimate": 80
-                  },
-                  "is_container_variety": false,
-                  "flower_color": "Yellow",
-                  "leaf_color": "Green",
-                  "plant_height": "24-30 inches",
-                  "growth_mode": null,
-                  "best_uses": ["Fresh Eating", "Stir-fries", "Steaming"],
-                  "water_requirement": "Regular watering",
-                  "feeding_requirement": "Balanced fertilizer",
-                  "requires_pruning": false,
-                  "needs_support": false,
-                  "fruit_color": "Dark Green",
-                  "fruit_weight": "1-2 pounds",
-                  "fun_fact": "Broccoli is a member of the cabbage family and is closely related to cauliflower, Brussels sprouts, and kale. It is rich in vitamins, minerals, and antioxidants.",
-                  "planting_tip": "For successful cultivation of Green Magic Broccoli, start seeds indoors or purchase seedlings for transplanting. Plant in well-draining soil with good fertility. Provide consistent moisture, especially during the growing period. Use mulch to retain soil moisture and suppress weeds. Harvest when the broccoli heads are firm and tight, cutting the main head first to encourage side shoots for extended harvest."
+            {
+              "id": 1,
+              "name": "Calabrese",
+              "description": "Calabrese Broccoli, also known simply as Broccoli, is the most common and widely cultivated variety of broccoli. It has dark green heads with tightly packed florets and thick stalks. Calabrese Broccoli has a slightly sweet, earthy flavor and is rich in vitamins and minerals. It matures in about 60-70 days and can be used in a variety of dishes, including stir-fries, soups, and salads.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 60,
+                  "higher_estimate": 70
                 },
-                
-                  {
-                      "id": 1,
-                    "name": "Calabrese",
-                    "description": "Calabrese Broccoli, also known simply as Broccoli, is the most common and widely cultivated variety of broccoli. It has dark green heads with tightly packed florets and thick stalks. Calabrese Broccoli has a slightly sweet, earthy flavor and is rich in vitamins and minerals. It matures in about 60-70 days and can be used in a variety of dishes, including stir-fries, soups, and salads.",
-                    "spacing": "18 inches",
-                    "days_to_harvest": {
-                      "lower_estimate": 60,
-                      "higher_estimate": 70
-                    },
-                    "is_container_variety": false,
-                    "fruit_color": "Dark green",
-                    "head_size": "6-8 inches in diameter",
-                    "flower_color": "Green",
-                    "leaf_color": "Green",
-                    "plant_height": "18-24 inches",
-                    "growth_mode": null,
-                    "best_uses": ["Stir-fries", "Soups", "Salads"],
-                    "water_requirement": "Every 1 week",
-                    "feeding_requirement": "Rich soil with balanced fertilizer",
-                    "requires_pruning": false,
-                    "needs_support": false,
-                    "fun_fact": "Calabrese Broccoli is named after the Italian province of Calabria, where it is believed to have originated.",
-                    "planting_tip": "Plant Calabrese Broccoli seeds or transplants in well-drained, fertile soil. Choose a sunny location for optimal growth. Keep the soil consistently moist, but not waterlogged. Provide consistent feeding with balanced fertilizer to support healthy growth."
-                  },
-                  {
-                      "id": 2,
-                    "name": "Romanesco",
-                    "description": "Romanesco Broccoli, also known as Romanesco Cauliflower or Romanesco Cabbage, is an exotic and visually striking variety with lime-green heads and intricate fractal patterns. It has a slightly nutty flavor and a crunchy texture, similar to cauliflower. Romanesco Broccoli matures in about 80-90 days and can be used in a variety of dishes, including roasted vegetables, salads, and stir-fries.",
-                    "spacing": "18 inches",
-                    "days_to_harvest": {
-                      "lower_estimate": 80,
-                      "higher_estimate": 90
-                    },
-                    "is_container_variety": false,
-                    "fruit_color": "Lime-green",
-                    "head_size": "6-8 inches in diameter",
-                    "flower_color": "Green",
-                    "leaf_color": "Green",
-                    "plant_height": "18-24 inches",
-                    "growth_mode": null,
-                    "best_uses": ["Roasted vegetables", "Salads", "Stir-fries"],
-                    "water_requirement": "Every 1 week",
-                    "feeding_requirement": "Rich soil with balanced fertilizer",
-                    "requires_pruning": false,
-                    "needs_support": false,
-                    "fun_fact": "Romanesco Broccoli's unique appearance is due to its fractal pattern, which is a naturally occurring geometric shape found in nature.",
-                    "planting_tip": "Plant Romanesco Broccoli seeds or transplants in well-drained, fertile soil. Choose a sunny location for optimal growth. Keep the soil consistently moist, but not waterlogged. Provide consistent feeding with balanced fertilizer to support healthy growth."
-                  },
-                  {
-                      "id": 3,
-                    "name": "Purple Sprouting",
-                    "description": "Purple Sprouting Broccoli is an heirloom variety known for its vibrant purple heads and tender stalks. It has a slightly sweet flavor and is rich in vitamins and antioxidants. Purple Sprouting Broccoli matures in about 90-100 days and produces small, edible florets that can be used in stir-fries, salads, and pasta dishes.",
-                    "spacing": "18 inches",
-                    "days_to_harvest": {
-                      "lower_estimate": 90,
-                      "higher_estimate": 100
-                    },
-                    "is_container_variety": false,
-                    "fruit_color": "Purple",
-                    "head_size": "4-6 inches in diameter",
-                    "flower_color": "Purple",
-                    "leaf_color": "Green",
-                    "plant_height": "24-30 inches",
-                    "growth_mode": null,
-                    "best_uses": ["Stir-fries", "Salads", "Pasta dishes"],
-                    "water_requirement": "Every 1 week",
-                    "feeding_requirement": "Rich soil with balanced fertilizer",
-                    "requires_pruning": false,
-                    "needs_support": false,
-                    "fun_fact": "Purple Sprouting Broccoli is an ancient variety that has been cultivated since Roman times.",
-                    "planting_tip": "Plant Purple Sprouting Broccoli seeds or transplants in well-drained, fertile soil. Choose a sunny location for optimal growth. Keep the soil consistently moist, but not waterlogged. Provide consistent feeding with balanced fertilizer to support healthy growth."
-                  },
-                  {
-                      "id": 4,
-                    "name": "Broccolini",
-                    "description": "Broccolini, also known as Baby Broccoli or Asparation, is a hybrid variety that is a cross between broccoli and Chinese broccoli. It has long, slender stalks with small, tender florets. Broccolini has a mild, slightly sweet flavor and a delicate texture. It matures in about 50-60 days and can be used in stir-fries, salads, and pasta dishes.",
-                    "spacing": "12 inches",
-                    "days_to_harvest": {
-                      "lower_estimate": 50,
-                      "higher_estimate": 60
-                    },
-                    "is_container_variety": false,
-                    "fruit_color": "Green",
-                    "head_size": "4-6 inches in diameter",
-                    "flower_color": "Green",
-                    "leaf_color": "Green",
-                    "plant_height": "12-18 inches",
-                    "growth_mode": null,
-                    "best_uses": ["Stir-fries", "Salads", "Pasta dishes"],
-                    "water_requirement": "Every 1 week",
-                    "feeding_requirement": "Rich soil with balanced fertilizer",
-                    "requires_pruning": false,
-                    "needs_support": false,
-                    "fun_fact": "Broccolini was developed in Japan in the 1990s and has since become popular in many cuisines around the world.",
-                    "planting_tip": "Plant Broccolini seeds or transplants in well-drained, fertile soil. Choose a sunny location for optimal growth. Keep the soil consistently moist, but not waterlogged. Provide consistent feeding with balanced fertilizer to support healthy growth."
-                  },
-                  {
-                      "id": 5,
-                    "name": "Purple Cape",
-                    "description": "Purple Cape Broccoli, also known as Cape Broccoli or Cape Cauliflower, is a unique variety with purple heads and tender florets. It has a slightly sweet flavor and is rich in vitamins and antioxidants. Purple Cape Broccoli matures in about 70-80 days and can be used in a variety of dishes, including soups, stir-fries, and gratins.",
-                    "spacing": "18 inches",
-                    "days_to_harvest": {
-                      "lower_estimate": 70,
-                      "higher_estimate": 80
-                    },
-                    "is_container_variety": false,
-                    "fruit_color": "Purple",
-                    "fruit_size": "6-8 inches in diameter",
-                    "flower_color": "Green",
-                    "leaf_color": "Green",
-                    "plant_height": "18-24 inches",
-                    "growth_mode": null,
-                    "best_uses": ["Soups", "Stir-fries", "Gratins"],
-                    "water_requirement": "Every 1 week",
-                    "feeding_requirement": "Rich soil with balanced fertilizer",
-                    "requires_pruning": false,
-                    "needs_support": false,
-                    "fun_fact": "Purple Cape Broccoli is a traditional variety that has been cultivated in the Cape region of South Africa for centuries.",
-                    "planting_tip": "Plant Purple Cape Broccoli seeds or transplants in well-drained, fertile soil. Choose a sunny location for optimal growth. Keep the soil consistently moist, but not waterlogged. Provide consistent feeding with balanced fertilizer to support healthy growth."
-                  }
-                ]
-
+                "plant_height": "18-24 inches",
+                "spacing": "18 inches",
+                "is_container_variety": false,
+                "recommended_container_size": "Not recommended",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Yellow (if allowed to bolt)",
+                "leaf_color": "Green"
+              },
+              "care_requirements": {
+                "water_requirement": "Weekly deep watering",
+                "feeding_requirement": "Rich soil with balanced fertilizer",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "1-1.5 pounds per plant",
+                "best_uses": ["Stir-fries", "Soups", "Salads"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Poor",
+                "cold_tolerance": "Excellent",
+                "frost_tolerance": true,
+                "drought_tolerance": "Poor",
+                "disease_resistance": ["Moderate disease resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Slightly sweet and earthy"
+              },
+              "leaf_crop_characteristics": {
+                "head_type": "Central head, 6-8 inches diameter",
+                "leaf_texture": "Tightly packed florets",
+                "days_to_maturity": "60-70 days",
+                "bolt_resistance": "Moderate"
+              },
+              "fun_fact": "Calabrese Broccoli is named after the Italian province of Calabria, where it is believed to have originated.",
+              "planting_tip": "Plant Calabrese Broccoli seeds or transplants in well-drained, fertile soil. Choose a sunny location for optimal growth. Keep the soil consistently moist, but not waterlogged. Provide consistent feeding with balanced fertilizer to support healthy growth."
+            },
+            {
+              "id": 2,
+              "name": "Romanesco",
+              "description": "Romanesco Broccoli, also known as Romanesco Cauliflower or Romanesco Cabbage, is an exotic and visually striking variety with lime-green heads and intricate fractal patterns. It has a slightly nutty flavor and a crunchy texture, similar to cauliflower. Romanesco Broccoli matures in about 80-90 days and can be used in a variety of dishes, including roasted vegetables, salads, and stir-fries.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 80,
+                  "higher_estimate": 90
+                },
+                "plant_height": "18-24 inches",
+                "spacing": "18 inches",
+                "is_container_variety": false,
+                "recommended_container_size": "Not recommended",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Lime-green (edible head)",
+                "leaf_color": "Green"
+              },
+              "care_requirements": {
+                "water_requirement": "Weekly deep watering",
+                "feeding_requirement": "Rich soil with balanced fertilizer",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "1-2 pounds per plant",
+                "best_uses": ["Roasted vegetables", "Salads", "Stir-fries"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Poor",
+                "cold_tolerance": "Excellent",
+                "frost_tolerance": true,
+                "drought_tolerance": "Poor",
+                "disease_resistance": ["Moderate disease resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Nutty, delicate, and slightly sweet"
+              },
+              "leaf_crop_characteristics": {
+                "head_type": "Fractal spiral head, 6-8 inches diameter",
+                "leaf_texture": "Crunchy with geometric patterns",
+                "days_to_maturity": "80-90 days",
+                "bolt_resistance": "Moderate"
+              },
+              "fun_fact": "Romanesco Broccoli's unique appearance is due to its fractal pattern, which is a naturally occurring geometric shape found in nature.",
+              "planting_tip": "Plant Romanesco Broccoli seeds or transplants in well-drained, fertile soil. Choose a sunny location for optimal growth. Keep the soil consistently moist, but not waterlogged. Provide consistent feeding with balanced fertilizer to support healthy growth."
+            },
+            {
+              "id": 3,
+              "name": "Purple Sprouting",
+              "description": "Purple Sprouting Broccoli is an heirloom variety known for its vibrant purple heads and tender stalks. It has a slightly sweet flavor and is rich in vitamins and antioxidants. Purple Sprouting Broccoli matures in about 90-100 days and produces small, edible florets that can be used in stir-fries, salads, and pasta dishes.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 90,
+                  "higher_estimate": 100
+                },
+                "plant_height": "24-30 inches",
+                "spacing": "18 inches",
+                "is_container_variety": false,
+                "recommended_container_size": "Not recommended",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Purple",
+                "leaf_color": "Green with purple tinge"
+              },
+              "care_requirements": {
+                "water_requirement": "Weekly deep watering",
+                "feeding_requirement": "Rich soil with balanced fertilizer",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "1-1.5 pounds per plant",
+                "best_uses": ["Stir-fries", "Salads", "Pasta dishes"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Poor",
+                "cold_tolerance": "Excellent",
+                "frost_tolerance": true,
+                "drought_tolerance": "Poor",
+                "disease_resistance": ["Moderate disease resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Slightly sweet with tender texture"
+              },
+              "leaf_crop_characteristics": {
+                "head_type": "Multiple small purple sprouting heads",
+                "leaf_texture": "Tender with small florets",
+                "days_to_maturity": "90-100 days",
+                "bolt_resistance": "Good"
+              },
+              "fun_fact": "Purple Sprouting Broccoli is an ancient variety that has been cultivated since Roman times.",
+              "planting_tip": "Plant Purple Sprouting Broccoli seeds or transplants in well-drained, fertile soil. Choose a sunny location for optimal growth. Keep the soil consistently moist, but not waterlogged. Provide consistent feeding with balanced fertilizer to support healthy growth."
+            },
+            {
+              "id": 4,
+              "name": "Broccolini",
+              "description": "Broccolini, also known as Baby Broccoli or Asparation, is a hybrid variety that is a cross between broccoli and Chinese broccoli. It has long, slender stalks with small, tender florets. Broccolini has a mild, slightly sweet flavor and a delicate texture. It matures in about 50-60 days and can be used in stir-fries, salads, and pasta dishes.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 50,
+                  "higher_estimate": 60
+                },
+                "plant_height": "12-18 inches",
+                "spacing": "12 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "12-14 inches deep",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Yellow-green (small florets)",
+                "leaf_color": "Green"
+              },
+              "care_requirements": {
+                "water_requirement": "Weekly deep watering",
+                "feeding_requirement": "Rich soil with balanced fertilizer",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "0.5-1 pound per plant",
+                "best_uses": ["Stir-fries", "Salads", "Pasta dishes"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Moderate",
+                "cold_tolerance": "Good",
+                "frost_tolerance": true,
+                "drought_tolerance": "Poor",
+                "disease_resistance": ["Good disease resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Mild, sweet, and delicate"
+              },
+              "leaf_crop_characteristics": {
+                "head_type": "Long slender stalks with small heads",
+                "leaf_texture": "Tender and delicate",
+                "days_to_maturity": "50-60 days",
+                "bolt_resistance": "Good"
+              },
+              "fun_fact": "Broccolini was developed in Japan in the 1990s and has since become popular in many cuisines around the world.",
+              "planting_tip": "Plant Broccolini seeds or transplants in well-drained, fertile soil. Choose a sunny location for optimal growth. Keep the soil consistently moist, but not waterlogged. Provide consistent feeding with balanced fertilizer to support healthy growth."
+            },
+            {
+              "id": 5,
+              "name": "Purple Cape",
+              "description": "Purple Cape Broccoli, also known as Cape Broccoli or Cape Cauliflower, is a unique variety with purple heads and tender florets. It has a slightly sweet flavor and is rich in vitamins and antioxidants. Purple Cape Broccoli matures in about 70-80 days and can be used in a variety of dishes, including soups, stir-fries, and gratins.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 70,
+                  "higher_estimate": 80
+                },
+                "plant_height": "18-24 inches",
+                "spacing": "18 inches",
+                "is_container_variety": false,
+                "recommended_container_size": "Not recommended",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Purple",
+                "leaf_color": "Green"
+              },
+              "care_requirements": {
+                "water_requirement": "Weekly deep watering",
+                "feeding_requirement": "Rich soil with balanced fertilizer",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "1-1.5 pounds per plant",
+                "best_uses": ["Soups", "Stir-fries", "Gratins"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Poor",
+                "cold_tolerance": "Excellent",
+                "frost_tolerance": true,
+                "drought_tolerance": "Poor",
+                "disease_resistance": ["Moderate disease resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Slightly sweet and tender"
+              },
+              "leaf_crop_characteristics": {
+                "head_type": "Purple head, 6-8 inches diameter",
+                "leaf_texture": "Tender florets",
+                "days_to_maturity": "70-80 days",
+                "bolt_resistance": "Moderate"
+              },
+              "fun_fact": "Purple Cape Broccoli is a traditional variety that has been cultivated in the Cape region of South Africa for centuries.",
+              "planting_tip": "Plant Purple Cape Broccoli seeds or transplants in well-drained, fertile soil. Choose a sunny location for optimal growth. Keep the soil consistently moist, but not waterlogged. Provide consistent feeding with balanced fertilizer to support healthy growth."
+            }
+          ]
         },
         {
-            "id": 28,
-            "name": "cauliflower",
-            "varieties_common_features": {
-                "sunlight_requirement": "Full Sun",
-                "propagation_methods": ["Seeds"],
-                "soil_acidity_range": {
-                  "lower_bound": 6.0,
-                  "upper_bound": 7.5
-                },
-                "days_to_germination": "7-14 days",
-                "frost_tolerance": true,
-                "planting_depth": "1/4 inch",
-                "spacing": "18-24 inches",
-                "life_cycle": "Annual",
-                "season": "Cool",
-                "growing_type": "Upright",
-                "planting_zones_times": [
-                    {
-                        "zone": ["3a","3b","4a","4b"],
-                        "planting_dates_months": {
-                            "start_indoors": ["March", "April"],
-                            "transplant": ["May", "June"],
-                            "start_outdoors": ["July", "August"],
-                            "harvest": ["September", "October"]
-                        },
-                        "planting_dates_description": {
-                            "start_indoors": "Start cauliflower seeds indoors 6-8 weeks before the last frost date, typically in March to April.",
-                            "transplant": "Transplant cauliflower seedlings outdoors after the danger of frost has passed, usually in late May to early June.",
-                            "start_outdoors": "Directly sow cauliflower seeds outdoors in well-drained soil with full sun exposure, typically in July to August.",
-                            "harvest": "Harvest cauliflower heads in late summer to early fall."
-                        }
-                    },
-                    {
-                        "zone": ["5a","5b","6a","6b"],
-                        "planting_dates_months": {
-                            "start_indoors": ["February", "March"],
-                            "transplant": ["April", "May"],
-                            "start_outdoors": ["June", "July"],
-                            "harvest": ["August", "September"]
-                        },
-                        "planting_dates_description": {
-                            "start_indoors": "Start cauliflower seeds indoors 6-8 weeks before the last frost date, typically in February to March.",
-                            "transplant": "Transplant cauliflower seedlings outdoors after the danger of frost has passed, usually in April to May.",
-                            "start_outdoors": "Directly sow cauliflower seeds outdoors in well-drained soil with full sun exposure, typically in June to July.",
-                            "harvest": "Harvest cauliflower heads in mid to late summer."
-                        }
-                    },
-                    {
-                        "zone": ["7a","7b","8a","8b"],
-                        "planting_dates_months": {
-                            "start_indoors": ["January", "February"],
-                            "transplant": ["March", "April"],
-                            "start_outdoors": ["May", "June"],
-                            "harvest": ["July", "August"]
-                        },
-                        "planting_dates_description": {
-                            "start_indoors": "Start cauliflower seeds indoors 6-8 weeks before the last frost date, typically in January to February.",
-                            "transplant": "Transplant cauliflower seedlings outdoors after the danger of frost has passed, usually in March to April.",
-                            "start_outdoors": "Directly sow cauliflower seeds outdoors in well-drained soil with full sun exposure, typically in May to June.",
-                            "harvest": "Harvest cauliflower heads in summer."
-                        }
-                    },
-                    {
-                        "zone": ["9a","9b","10a","10b"],
-                        "planting_dates_months": {
-                            "start_indoors": ["December", "January"],
-                            "transplant": ["February", "March"],
-                            "start_outdoors": ["April", "May"],
-                            "harvest": ["June", "July"]
-                        },
-                        "planting_dates_description": {
-                            "start_indoors": "Start cauliflower seeds indoors 6-8 weeks before the last frost date, typically in December to January.",
-                            "transplant": "Transplant cauliflower seedlings outdoors after the danger of frost has passed, usually in February to March.",
-                            "start_outdoors": "Directly sow cauliflower seeds outdoors in well-drained soil with full sun exposure, typically in April to May.",
-                            "harvest": "Harvest cauliflower heads in summer."
-                        }
-                    },
-                    {
-                        "zone": ["11a","11b","12a","12b"],
-                        "planting_dates_months": {
-                            "start_indoors": ["ALL"],
-                            "transplant": ["ALL"],
-                            "start_outdoors": ["ALL"],
-                            "harvest": ["ALL"]
-                        },
-                        "planting_dates_description": {
-                            "start_indoors": "Cauliflower seeds can be started indoors year-round.",
-                            "transplant": "Cauliflower seedlings can be transplanted outdoors year-round in warm climates.",
-                            "start_outdoors": "Cauliflower seeds can be sown directly outdoors year-round in warm climates.",
-                            "harvest": "Harvest cauliflower heads year-round in warm climates."
-                        }
-                    }
-                ]
+          "id": 28,
+          "name": "Cauliflower",
+          "plant_category": "Vegetable",
+          "varieties_common_features": {
+            "sunlight_requirement": "Full Sun",
+            "sunlight_hours_min": 6,
+            "sunlight_hours_optimal": 8,
+            "propagation_methods": ["Seeds"],
+            "soil_acidity_range": {
+              "lower_bound": 6.0,
+              "upper_bound": 7.5
             },
-            "varieties": [
-                {
-                    "id": 0,
-                  "name": "Snow Crown",
-                  "description": "Snow Crown Cauliflower is a popular cauliflower variety known for its snow-white curds and mild, sweet flavor. With an upright growth habit, it produces compact heads that are perfect for fresh consumption, roasting, or creating cauliflower rice. This annual cauliflower variety is well-suited for home gardens and is a versatile addition to various dishes.",
-                  "spacing": "18-24 inches",
-                  "days_to_harvest": {
-                    "lower_estimate": 65,
-                    "higher_estimate": 85
-                  },
-                  "is_container_variety": true,
-                  "flower_color": "White",
-                  "leaf_color": "Green",
-                  "plant_height": "18-24 inches",
-                  "growth_mode": null,
-                  "best_uses": ["Fresh Eating", "Roasting", "Cauliflower Rice"],
-                  "water_requirement": "Regular watering",
-                  "feeding_requirement": "Balanced fertilizer",
-                  "requires_pruning": false,
-                  "needs_support": false,
-                  "fruit_color": "White",
-                  "fruit_weight": "1.5-2.5 pounds",
-                  "fun_fact": "Cauliflower belongs to the Brassicaceae family, which also includes broccoli, cabbage, and kale. The curd, or head, is actually a mass of underdeveloped flower buds.",
-                  "planting_tip": "For successful cultivation of Snow Crown Cauliflower, start seeds indoors or purchase seedlings for transplanting. Plant in well-draining soil with good fertility. Provide consistent moisture, especially during the growing period. Use mulch to retain soil moisture and moderate soil temperature. Harvest when the cauliflower curds are firm and tight, cutting the head cleanly from the plant."
+            "soil_type_preference": ["Loamy", "Well-drained", "Rich in organic matter"],
+            "drainage_requirement": "Well-drained",
+            "days_to_germination": "7-14 days",
+            "frost_tolerance": true,
+            "planting_depth": "1/4 inch",
+            "spacing": "18-24 inches",
+            "life_cycle": "Annual",
+            "season": "Cool",
+            "typical_yield_range": "1.5-2.5 pounds per plant",
+            "companion_plants": ["Beets", "Celery", "Onions", "Spinach", "Thyme", "Sage"],
+            "avoid_planting_with": ["Tomatoes", "Strawberries", "Pole beans"],
+            "common_pests": ["Cabbage worms", "Aphids", "Flea beetles", "Cabbage loopers", "Root maggots"],
+            "common_diseases": ["Clubroot", "Black rot", "Downy mildew", "Powdery mildew"],
+            "planting_zones_times": [
+              {
+                "zone": ["3a", "3b", "4a", "4b"],
+                "planting_dates_months": {
+                  "start_indoors": ["March", "April"],
+                  "transplant": ["May", "June"],
+                  "start_outdoors": ["July", "August"],
+                  "harvest": ["September", "October"]
                 },
-                  {
-                      "id": 1,
-                    "name": "Snowball",
-                    "description": "Snowball Cauliflower, also known as Snowball Self-Blanche, is a classic cauliflower variety with compact, white heads and tender florets. It is an early-maturing variety, ready for harvest in about 60-70 days. Snowball Cauliflower is versatile and can be used in a variety of dishes, including stir-fries, soups, and roasted vegetable medleys.",
-                    "spacing": "18 inches",
-                    "days_to_harvest": {
-                      "lower_estimate": 60,
-                      "higher_estimate": 70
-                    },
-                    "is_container_variety": true,
-                    "flower_color": "White",
-                    "fruit_color": "White",
-                    "head_size": "6-8 inches in diameter",
-                    "fruit_weight": "1.5-2.5 pounds",
-                    "leaf_color": "Green",
-                    "plant_height": "18-24 inches",
-                    "growth_mode": null,
-                    "best_uses": ["Stir-fries", "Soups", "Roasted vegetables"],
-                    "water_requirement": "Every 1 week",
-                    "feeding_requirement": "Rich soil with balanced fertilizer",
-                    "requires_pruning": false,
-                    "needs_support": false,
-                    "fun_fact": "Snowball Cauliflower gets its name from its compact, rounded heads that resemble snowballs.",
-                    "planting_tip": "Plant Snowball Cauliflower seeds or transplants in well-drained, fertile soil. Choose a sunny location for optimal growth. Keep the soil consistently moist, but not waterlogged. Provide consistent feeding with balanced fertilizer to support healthy growth."
-                  },
-                  {
-                      "id": 2,
-                    "name": "Purple",
-                    "description": "Purple Cauliflower, also known as Purple of Sicily, is a striking variety with vibrant purple heads and a slightly nutty flavor. It is rich in antioxidants and adds a pop of color to dishes. Purple Cauliflower matures in about 70-80 days and can be used in both raw and cooked preparations, such as salads, steamed vegetables, and pickles.",
-                    "spacing": "18 inches",
-                    "days_to_harvest": {
-                      "lower_estimate": 70,
-                      "higher_estimate": 80
-                    },
-                    "is_container_variety": true,
-                    "flower_color": "White",
-                    "fruit_color": "Purple",
-                    "fruit_size": "6-8 inches in diameter",
-                    "fruit_weight": "1.5-2.5 pounds",
-                    "leaf_color": "Green",
-                    "plant_height": "18-24 inches",
-                    "growth_mode": null,
-                    "best_uses": ["Salads", "Steamed vegetables", "Pickles"],
-                    "water_requirement": "Every 1 week",
-                    "feeding_requirement": "Rich soil with balanced fertilizer",
-                    "requires_pruning": false,
-                    "needs_support": false,
-                    "fun_fact": "Purple Cauliflower gets its vibrant color from the presence of anthocyanins, which are antioxidants also found in red cabbage and blueberries.",
-                    "planting_tip": "Plant Purple Cauliflower seeds or transplants in well-drained, fertile soil. Choose a sunny location for optimal growth. Keep the soil consistently moist, but not waterlogged. Provide consistent feeding with balanced fertilizer to support healthy growth."
-                  },
-                  {
-                      "id": 3,
-                    "name": "Cheddar",
-                    "description": "Cheddar Cauliflower, also known as Orange Bouquet, is a colorful variety with vibrant orange heads that retain their color when cooked. It has a slightly sweet, nutty flavor and is rich in beta-carotene, giving it its distinctive hue. Cheddar Cauliflower matures in about 70-80 days and can be used in a variety of dishes, including gratins, casseroles, and purees.",
-                    "spacing": "18 inches",
-                    "days_to_harvest": {
-                      "lower_estimate": 70,
-                      "higher_estimate": 80
-                    },
-                    "is_container_variety": true,
-                    "flower_color": "White",
-                    "fruit_color": "Orange",
-                    "fruit_size": "6-8 inches in diameter",
-                    "fruit_weight": "1.5-2.5 pounds",
-                    "leaf_color": "Green",
-                    "plant_height": "18-24 inches",
-                    "growth_mode": null,
-                    "best_uses": ["Gratins", "Casseroles", "Purees"],
-                    "water_requirement": "Every 1 week",
-                    "feeding_requirement": "Rich soil with balanced fertilizer",
-                    "requires_pruning": false,
-                    "needs_support": false,
-                    "fun_fact": "Cheddar Cauliflower gets its name from its vibrant orange color, reminiscent of cheddar cheese.",
-                    "planting_tip": "Plant Cheddar Cauliflower seeds or transplants in well-drained, fertile soil. Choose a sunny location for optimal growth. Keep the soil consistently moist, but not waterlogged. Provide consistent feeding with balanced fertilizer to support healthy growth."
-                  },
-                  {
-                      "id": 4,
-                    "name": "Romanesco",
-                    "description": "Romanesco Cauliflower, also known as Romanesco Broccoli or Romanesco Cabbage, is an exotic variety with striking lime-green heads and intricate fractal patterns. It has a slightly nutty flavor and a crunchy texture, similar to cauliflower. Romanesco Cauliflower matures in about 80-90 days and is prized for its unique appearance and flavor.",
-                    "spacing": "18 inches",
-                    "days_to_harvest": {
-                      "lower_estimate": 80,
-                      "higher_estimate": 90
-                    },
-                    "is_container_variety": true,
-                    "flower_color": "White",
-                    "fruit_color": "Lime-green",
-                    "fruit_size": "6-8 inches in diameter",
-                    "fruit_weight": "1.5-2.5 pounds",
-                    "leaf_color": "Green",
-                    "plant_height": "18-24 inches",
-                    "growth_mode": null,
-                    "best_uses": ["Roasting", "Steaming", "Vegetable platters"],
-                    "water_requirement": "Every 1 week",
-                    "feeding_requirement": "Rich soil with balanced fertilizer",
-                    "requires_pruning": false,
-                    "needs_support": false,
-                    "fun_fact": "Romanesco Cauliflower's unique appearance is due to its fractal pattern, which is a naturally occurring geometric shape found in nature.",
-                    "planting_tip": "Plant Romanesco Cauliflower seeds or transplants in well-drained, fertile soil. Choose a sunny location for optimal growth. Keep the soil consistently moist, but not waterlogged. Provide consistent feeding with balanced fertilizer to support healthy growth."
-                  },
-                  {
-                      "id": 5,
-                    "name": "Graffiti",
-                    "description": "Graffiti Cauliflower, also known as Purple Graffiti or Sicilian Violet, is a vibrant purple variety with striking heads that feature bright purple florets. It has a slightly nutty flavor and adds a pop of color to dishes. Graffiti Cauliflower matures in about 70-80 days and can be used in raw salads, roasted vegetable medleys, and pickles.",
-                    "spacing": "18 inches",
-                    "days_to_harvest": {
-                      "lower_estimate": 70,
-                      "higher_estimate": 80
-                    },
-                    "is_container_variety": true,
-                    "flower_color": "White",
-                    "fruit_color": "Purple",
-                    "fruit_size": "6-8 inches in diameter",
-                    "fruit_weight": "1.5-2.5 pounds",
-                    "leaf_color": "Green",
-                    "plant_height": "18-24 inches",
-                    "growth_mode": null,
-                    "best_uses": ["Salads", "Roasted vegetables", "Pickles"],
-                    "water_requirement": "Every 1 week",
-                    "feeding_requirement": "Rich soil with balanced fertilizer",
-                    "requires_pruning": false,
-                    "needs_support": false,
-                    "fun_fact": "Graffiti Cauliflower's vibrant purple color makes it an eye-catching addition to dishes and a favorite among chefs and home cooks.",
-                    "planting_tip": "Plant Graffiti Cauliflower seeds or transplants in well-drained, fertile soil. Choose a sunny location for optimal growth. Keep the soil consistently moist, but not waterlogged. Provide consistent feeding with balanced fertilizer to support healthy growth."
-                  }
+                "planting_dates_description": {
+                  "start_indoors": "Start cauliflower seeds indoors 6-8 weeks before the last frost date, typically in March to April.",
+                  "transplant": "Transplant cauliflower seedlings outdoors after the danger of frost has passed, usually in late May to early June.",
+                  "start_outdoors": "Directly sow cauliflower seeds outdoors in well-drained soil with full sun exposure, typically in July to August for fall harvest.",
+                  "harvest": "Harvest cauliflower heads in late summer to early fall."
+                }
+              },
+              {
+                "zone": ["5a", "5b", "6a", "6b"],
+                "planting_dates_months": {
+                  "start_indoors": ["February", "March"],
+                  "transplant": ["April", "May"],
+                  "start_outdoors": ["June", "July"],
+                  "harvest": ["August", "September"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Start cauliflower seeds indoors 6-8 weeks before the last frost date, typically in February to March.",
+                  "transplant": "Transplant cauliflower seedlings outdoors after the danger of frost has passed, usually in April to May.",
+                  "start_outdoors": "Directly sow cauliflower seeds outdoors in well-drained soil with full sun exposure, typically in June to July for fall harvest.",
+                  "harvest": "Harvest cauliflower heads in mid to late summer."
+                }
+              },
+              {
+                "zone": ["7a", "7b", "8a", "8b"],
+                "planting_dates_months": {
+                  "start_indoors": ["January", "February"],
+                  "transplant": ["March", "April"],
+                  "start_outdoors": ["May", "June"],
+                  "harvest": ["July", "August"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Start cauliflower seeds indoors 6-8 weeks before the last frost date, typically in January to February.",
+                  "transplant": "Transplant cauliflower seedlings outdoors after the danger of frost has passed, usually in March to April.",
+                  "start_outdoors": "Directly sow cauliflower seeds outdoors in well-drained soil with full sun exposure, typically in May to June.",
+                  "harvest": "Harvest cauliflower heads in summer."
+                }
+              },
+              {
+                "zone": ["9a", "9b", "10a", "10b"],
+                "planting_dates_months": {
+                  "start_indoors": ["October", "November"],
+                  "transplant": ["December", "January"],
+                  "start_outdoors": ["February", "March"],
+                  "harvest": ["April", "May"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Start cauliflower seeds indoors in fall for winter/spring planting, typically in October to November.",
+                  "transplant": "Transplant cauliflower seedlings outdoors in winter, usually in December to January.",
+                  "start_outdoors": "Directly sow cauliflower seeds outdoors in late winter, typically in February to March.",
+                  "harvest": "Harvest cauliflower heads in spring."
+                }
+              },
+              {
+                "zone": ["11a", "11b", "12a", "12b"],
+                "planting_dates_months": {
+                  "start_indoors": ["October", "November", "December"],
+                  "transplant": ["November", "December", "January"],
+                  "start_outdoors": ["December", "January", "February"],
+                  "harvest": ["February", "March", "April"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Cauliflower seeds can be started indoors during cooler months, typically October to December.",
+                  "transplant": "Cauliflower seedlings can be transplanted outdoors during cooler months in warm climates.",
+                  "start_outdoors": "Cauliflower seeds can be sown directly outdoors during cooler months for best results.",
+                  "harvest": "Harvest cauliflower heads during cooler months in warm climates."
+                }
+              }
             ]
+          },
+          "varieties": [
+            {
+              "id": 0,
+              "name": "Snow Crown",
+              "description": "Snow Crown Cauliflower is a popular cauliflower variety known for its snow-white curds and mild, sweet flavor. With an upright growth habit, it produces compact heads that are perfect for fresh consumption, roasting, or creating cauliflower rice. This annual cauliflower variety is well-suited for home gardens and is a versatile addition to various dishes.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 65,
+                  "higher_estimate": 85
+                },
+                "plant_height": "18-24 inches",
+                "spacing": "18-24 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "14-16 inches deep, 5 gallons",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "White (edible curd)",
+                "leaf_color": "Blue-green"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering, keep soil moist",
+                "feeding_requirement": "Balanced fertilizer every 3-4 weeks",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "1.5-2.5 pounds per plant",
+                "best_uses": ["Fresh eating", "Roasting", "Cauliflower rice"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Poor",
+                "cold_tolerance": "Excellent",
+                "frost_tolerance": true,
+                "drought_tolerance": "Poor",
+                "disease_resistance": ["Downy mildew resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Mild, sweet, and delicate"
+              },
+              "leaf_crop_characteristics": {
+                "head_type": "Compact white curd",
+                "leaf_texture": "Smooth, dense florets",
+                "days_to_maturity": "65-85 days",
+                "bolt_resistance": "Good"
+              },
+              "fun_fact": "Cauliflower belongs to the Brassicaceae family, which also includes broccoli, cabbage, and kale. The curd, or head, is actually a mass of underdeveloped flower buds.",
+              "planting_tip": "For successful cultivation of Snow Crown Cauliflower, start seeds indoors or purchase seedlings for transplanting. Plant in well-draining soil with good fertility. Provide consistent moisture, especially during the growing period. Use mulch to retain soil moisture and moderate soil temperature. Harvest when the cauliflower curds are firm and tight, cutting the head cleanly from the plant."
+            },
+            {
+              "id": 1,
+              "name": "Snowball",
+              "description": "Snowball Cauliflower, also known as Snowball Self-Blanche, is a classic cauliflower variety with compact, white heads and tender florets. It is an early-maturing variety, ready for harvest in about 60-70 days. Snowball Cauliflower is versatile and can be used in a variety of dishes, including stir-fries, soups, and roasted vegetable medleys.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 60,
+                  "higher_estimate": 70
+                },
+                "plant_height": "18-24 inches",
+                "spacing": "18 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "14-16 inches deep, 5 gallons",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "White (edible curd)",
+                "leaf_color": "Green"
+              },
+              "care_requirements": {
+                "water_requirement": "Weekly deep watering",
+                "feeding_requirement": "Rich soil with balanced fertilizer",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "1.5-2.5 pounds per plant",
+                "best_uses": ["Stir-fries", "Soups", "Roasted vegetables"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Poor",
+                "cold_tolerance": "Excellent",
+                "frost_tolerance": true,
+                "drought_tolerance": "Poor",
+                "disease_resistance": ["Moderate disease resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Mild and tender"
+              },
+              "leaf_crop_characteristics": {
+                "head_type": "Compact round curd, 6-8 inches",
+                "leaf_texture": "Tender florets",
+                "days_to_maturity": "60-70 days",
+                "bolt_resistance": "Moderate"
+              },
+              "fun_fact": "Snowball Cauliflower gets its name from its compact, rounded heads that resemble snowballs.",
+              "planting_tip": "Plant Snowball Cauliflower seeds or transplants in well-drained, fertile soil. Choose a sunny location for optimal growth. Keep the soil consistently moist, but not waterlogged. Provide consistent feeding with balanced fertilizer to support healthy growth."
+            },
+            {
+              "id": 2,
+              "name": "Purple",
+              "description": "Purple Cauliflower, also known as Purple of Sicily, is a striking variety with vibrant purple heads and a slightly nutty flavor. It is rich in antioxidants and adds a pop of color to dishes. Purple Cauliflower matures in about 70-80 days and can be used in both raw and cooked preparations, such as salads, steamed vegetables, and pickles.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 70,
+                  "higher_estimate": 80
+                },
+                "plant_height": "18-24 inches",
+                "spacing": "18 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "14-16 inches deep, 5 gallons",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Purple (edible curd)",
+                "leaf_color": "Green"
+              },
+              "care_requirements": {
+                "water_requirement": "Weekly deep watering",
+                "feeding_requirement": "Rich soil with balanced fertilizer",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "1.5-2.5 pounds per plant",
+                "best_uses": ["Salads", "Steamed vegetables", "Pickles"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Poor",
+                "cold_tolerance": "Excellent",
+                "frost_tolerance": true,
+                "drought_tolerance": "Poor",
+                "disease_resistance": ["Moderate disease resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Slightly nutty and mild"
+              },
+              "leaf_crop_characteristics": {
+                "head_type": "Purple curd, 6-8 inches",
+                "leaf_texture": "Tender purple florets",
+                "days_to_maturity": "70-80 days",
+                "bolt_resistance": "Moderate"
+              },
+              "fun_fact": "Purple Cauliflower gets its vibrant color from the presence of anthocyanins, which are antioxidants also found in red cabbage and blueberries.",
+              "planting_tip": "Plant Purple Cauliflower seeds or transplants in well-drained, fertile soil. Choose a sunny location for optimal growth. Keep the soil consistently moist, but not waterlogged. Provide consistent feeding with balanced fertilizer to support healthy growth."
+            },
+            {
+              "id": 3,
+              "name": "Cheddar",
+              "description": "Cheddar Cauliflower, also known as Orange Bouquet, is a colorful variety with vibrant orange heads that retain their color when cooked. It has a slightly sweet, nutty flavor and is rich in beta-carotene, giving it its distinctive hue. Cheddar Cauliflower matures in about 70-80 days and can be used in a variety of dishes, including gratins, casseroles, and purees.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 70,
+                  "higher_estimate": 80
+                },
+                "plant_height": "18-24 inches",
+                "spacing": "18 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "14-16 inches deep, 5 gallons",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Orange (edible curd)",
+                "leaf_color": "Green"
+              },
+              "care_requirements": {
+                "water_requirement": "Weekly deep watering",
+                "feeding_requirement": "Rich soil with balanced fertilizer",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "1.5-2.5 pounds per plant",
+                "best_uses": ["Gratins", "Casseroles", "Purees"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Poor",
+                "cold_tolerance": "Excellent",
+                "frost_tolerance": true,
+                "drought_tolerance": "Poor",
+                "disease_resistance": ["Moderate disease resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Sweet, nutty, and rich"
+              },
+              "leaf_crop_characteristics": {
+                "head_type": "Orange curd, 6-8 inches",
+                "leaf_texture": "Dense orange florets",
+                "days_to_maturity": "70-80 days",
+                "bolt_resistance": "Moderate"
+              },
+              "fun_fact": "Cheddar Cauliflower gets its name from its vibrant orange color, reminiscent of cheddar cheese.",
+              "planting_tip": "Plant Cheddar Cauliflower seeds or transplants in well-drained, fertile soil. Choose a sunny location for optimal growth. Keep the soil consistently moist, but not waterlogged. Provide consistent feeding with balanced fertilizer to support healthy growth."
+            },
+            {
+              "id": 4,
+              "name": "Romanesco",
+              "description": "Romanesco Cauliflower, also known as Romanesco Broccoli or Romanesco Cabbage, is an exotic variety with striking lime-green heads and intricate fractal patterns. It has a slightly nutty flavor and a crunchy texture, similar to cauliflower. Romanesco Cauliflower matures in about 80-90 days and is prized for its unique appearance and flavor.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 80,
+                  "higher_estimate": 90
+                },
+                "plant_height": "18-24 inches",
+                "spacing": "18 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "14-16 inches deep, 5 gallons",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Lime-green (edible curd)",
+                "leaf_color": "Green"
+              },
+              "care_requirements": {
+                "water_requirement": "Weekly deep watering",
+                "feeding_requirement": "Rich soil with balanced fertilizer",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "1.5-2.5 pounds per plant",
+                "best_uses": ["Roasting", "Steaming", "Vegetable platters"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Poor",
+                "cold_tolerance": "Excellent",
+                "frost_tolerance": true,
+                "drought_tolerance": "Poor",
+                "disease_resistance": ["Moderate disease resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Nutty, crunchy, and delicate"
+              },
+              "leaf_crop_characteristics": {
+                "head_type": "Fractal spiral curd, 6-8 inches",
+                "leaf_texture": "Geometric pointed florets",
+                "days_to_maturity": "80-90 days",
+                "bolt_resistance": "Moderate"
+              },
+              "fun_fact": "Romanesco Cauliflower's unique appearance is due to its fractal pattern, which is a naturally occurring geometric shape found in nature.",
+              "planting_tip": "Plant Romanesco Cauliflower seeds or transplants in well-drained, fertile soil. Choose a sunny location for optimal growth. Keep the soil consistently moist, but not waterlogged. Provide consistent feeding with balanced fertilizer to support healthy growth."
+            },
+            {
+              "id": 5,
+              "name": "Graffiti",
+              "description": "Graffiti Cauliflower, also known as Purple Graffiti or Sicilian Violet, is a vibrant purple variety with striking heads that feature bright purple florets. It has a slightly nutty flavor and adds a pop of color to dishes. Graffiti Cauliflower matures in about 70-80 days and can be used in raw salads, roasted vegetable medleys, and pickles.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 70,
+                  "higher_estimate": 80
+                },
+                "plant_height": "18-24 inches",
+                "spacing": "18 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "14-16 inches deep, 5 gallons",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Purple (edible curd)",
+                "leaf_color": "Green with purple tinge"
+              },
+              "care_requirements": {
+                "water_requirement": "Weekly deep watering",
+                "feeding_requirement": "Rich soil with balanced fertilizer",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "1.5-2.5 pounds per plant",
+                "best_uses": ["Salads", "Roasted vegetables", "Pickles"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Poor",
+                "cold_tolerance": "Excellent",
+                "frost_tolerance": true,
+                "drought_tolerance": "Poor",
+                "disease_resistance": ["Moderate disease resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Slightly nutty with vibrant color"
+              },
+              "leaf_crop_characteristics": {
+                "head_type": "Bright purple curd, 6-8 inches",
+                "leaf_texture": "Vibrant purple florets",
+                "days_to_maturity": "70-80 days",
+                "bolt_resistance": "Moderate"
+              },
+              "fun_fact": "Graffiti Cauliflower's vibrant purple color makes it an eye-catching addition to dishes and a favorite among chefs and home cooks.",
+              "planting_tip": "Plant Graffiti Cauliflower seeds or transplants in well-drained, fertile soil. Choose a sunny location for optimal growth. Keep the soil consistently moist, but not waterlogged. Provide consistent feeding with balanced fertilizer to support healthy growth."
+            }
+          ]
         },
         {
             "id": 29,
-            "name": "eggplant",
+            "name": "Eggplant",
+            "plant_category": "Vegetable",
             "varieties_common_features": {
                 "sunlight_requirement": "Full Sun",
+                "sunlight_hours_min": 6,
+                "sunlight_hours_optimal": 8,
                 "propagation_methods": ["Seeds"],
                 "soil_acidity_range": {
-                  "lower_bound": 5.8,
-                  "upper_bound": 6.5
+                    "lower_bound": 5.8,
+                    "upper_bound": 6.5
                 },
+                "soil_type_preference": ["Loamy", "Well-draining"],
+                "drainage_requirement": "Well-draining",
                 "days_to_germination": "7-14 days",
                 "frost_tolerance": false,
                 "planting_depth": "1/4 inch",
                 "spacing": "18-24 inches",
                 "life_cycle": "Annual",
                 "season": "Warm",
-                "growing_type": "Upright",
+                "typical_yield_range": "5-10 fruits per plant",
+                "companion_plants": ["Beans", "Peas", "Spinach", "Thyme"],
+                "avoid_planting_with": ["Fennel", "Geraniums"],
+                "common_pests": ["Flea beetles", "Aphids", "Colorado potato beetles", "Spider mites"],
+                "common_diseases": ["Verticillium wilt", "Fusarium wilt", "Phytophthora blight", "Bacterial wilt"],
                 "planting_zones_times": [
                     {
-                        "zone": ["3a","3b","4a","4b"],
+                        "zone": ["3a", "3b", "4a", "4b"],
                         "planting_dates_months": {
                             "start_indoors": ["February", "March"],
                             "transplant": ["May", "June"],
@@ -1076,7 +1727,7 @@
                         }
                     },
                     {
-                        "zone": ["5a","5b","6a","6b"],
+                        "zone": ["5a", "5b", "6a", "6b"],
                         "planting_dates_months": {
                             "start_indoors": ["January", "February"],
                             "transplant": ["April", "May"],
@@ -1091,7 +1742,7 @@
                         }
                     },
                     {
-                        "zone": ["7a","7b","8a","8b"],
+                        "zone": ["7a", "7b", "8a", "8b"],
                         "planting_dates_months": {
                             "start_indoors": ["December", "January"],
                             "transplant": ["March", "April"],
@@ -1106,7 +1757,7 @@
                         }
                     },
                     {
-                        "zone": ["9a","9b","10a","10b"],
+                        "zone": ["9a", "9b", "10a", "10b"],
                         "planting_dates_months": {
                             "start_indoors": ["October", "November"],
                             "transplant": ["January", "February"],
@@ -1121,7 +1772,7 @@
                         }
                     },
                     {
-                        "zone": ["11a","11b","12a","12b"],
+                        "zone": ["11a", "11b", "12a", "12b"],
                         "planting_dates_months": {
                             "start_indoors": ["ALL"],
                             "transplant": ["ALL"],
@@ -1140,128 +1791,254 @@
             "varieties": [
                 {
                     "id": 0,
-                  "name": "Black Beauty",
-                  "description": "Black Beauty Eggplant is a classic eggplant variety known for its glossy, deep purple to black fruits and mild flavor. With an upright growth habit, it produces oval-shaped fruits that are perfect for grilling, roasting, or stir-frying. This annual eggplant variety is well-suited for both garden beds and container gardening.",
-                  "spacing": "18-24 inches",
-                  "days_to_harvest": {
-                    "lower_estimate": 60,
-                    "higher_estimate": 80
-                  },
-                  "is_container_variety": true,
-                  "flower_color": "Purple",
-                  "leaf_color": "Green",
-                  "plant_height": "24-36 inches",
-                  "growth_mode": null,
-                  "best_uses": ["Grilling", "Roasting", "Stir-frying"],
-                  "water_requirement": "Regular watering",
-                  "feeding_requirement": "Balanced fertilizer",
-                  "requires_pruning": true,
-                  "needs_support": true,
-                  "fruit_color": "Deep Purple to Black",
-                  "fruit_weight": "1-2 pounds",
-                  "fun_fact": "Eggplants are technically berries and belong to the nightshade family, which also includes tomatoes, bell peppers, and potatoes.",
-                  "planting_tip": "For successful cultivation of Black Beauty Eggplant, start seeds indoors or purchase seedlings for transplanting. Plant in well-draining soil with good fertility. Provide consistent moisture, especially during the growing period. Stake or cage the plants to support heavy fruits. Harvest the eggplants when they are glossy and have reached a desirable size. Use a sharp knife or pruning shears to cut the fruit from the plant."
+                    "name": "Black Beauty",
+                    "description": "Black Beauty Eggplant is a classic eggplant variety known for its glossy, deep purple to black fruits and mild flavor. With an upright growth habit, it produces oval-shaped fruits that are perfect for grilling, roasting, or stir-frying. This annual eggplant variety is well-suited for both garden beds and container gardening.",
+                    "growth_info": {
+                        "growth_mode": "Upright",
+                        "days_to_harvest": {
+                            "lower_estimate": 60,
+                            "higher_estimate": 80
+                        },
+                        "plant_height": "24-36 inches",
+                        "spacing": "18-24 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "5 gallons",
+                        "needs_support": true
+                    },
+                    "appearance": {
+                        "flower_color": "Purple",
+                        "leaf_color": "Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering, keep soil consistently moist",
+                        "feeding_requirement": "Balanced fertilizer every 2-3 weeks",
+                        "requires_pruning": true
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "4-6 fruits per plant",
+                        "best_uses": ["Grilling", "Roasting", "Stir-frying"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "High",
+                        "cold_tolerance": "Low",
+                        "frost_tolerance": false,
+                        "drought_tolerance": "Low",
+                        "disease_resistance": ["Tobacco Mosaic Virus"]
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Mild, slightly sweet, creamy texture"
+                    },
+                    "fruit_characteristics": {
+                        "fruit_color": "Deep Purple to Black",
+                        "fruit_weight": "1-2 pounds",
+                        "skin_thickness": "Medium",
+                        "seed_cavity_size": "Medium",
+                        "storage_quality": "Good for 1-2 weeks refrigerated",
+                        "crack_resistance": "Good"
+                    },
+                    "fun_fact": "Eggplants are technically berries and belong to the nightshade family, which also includes tomatoes, bell peppers, and potatoes.",
+                    "planting_tip": "For successful cultivation of Black Beauty Eggplant, start seeds indoors or purchase seedlings for transplanting. Plant in well-draining soil with good fertility. Provide consistent moisture, especially during the growing period. Stake or cage the plants to support heavy fruits. Harvest the eggplants when they are glossy and have reached a desirable size. Use a sharp knife or pruning shears to cut the fruit from the plant."
                 },
-                  {
-                      "id": 1,
+                {
+                    "id": 1,
                     "name": "Japanese",
                     "description": "Japanese Eggplants, also known as Ichiban or Oriental Eggplants, are long and slender with a deep purple skin and a mild, sweet flavor. They are popular in Asian cuisines and are often used in stir-fries, tempura, and grilled dishes. Japanese Eggplants have tender skin and fewer seeds than other varieties.",
-                    "spacing": "18 inches",
-                    "days_to_harvest": {
-                      "lower_estimate": 60,
-                      "higher_estimate": 70
+                    "growth_info": {
+                        "growth_mode": "Upright",
+                        "days_to_harvest": {
+                            "lower_estimate": 60,
+                            "higher_estimate": 70
+                        },
+                        "plant_height": "18-24 inches",
+                        "spacing": "18 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "5 gallons",
+                        "needs_support": true
                     },
-                    "is_container_variety": true,
-                    "fruit_color": "Deep purple",
-                    "fruit_length": "6-10 inches",
-                    "fruit_weight": "4-6 ounces",
-                    "flower_color": "Purple",
-                    "leaf_color": "Green",
-                    "plant_height": "18-24 inches",
-                    "growth_mode": null,
-                    "best_uses": ["Stir-fries", "Tempura", "Grilling"],
-                    "water_requirement": "Every 1 week",
-                    "feeding_requirement": "Balanced fertilizer",
-                    "requires_pruning": false,
-                    "needs_support": true,
+                    "appearance": {
+                        "flower_color": "Purple",
+                        "leaf_color": "Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Weekly watering, more frequent in hot weather",
+                        "feeding_requirement": "Balanced fertilizer every 2-3 weeks",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "6-8 fruits per plant",
+                        "best_uses": ["Stir-fries", "Tempura", "Grilling"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "High",
+                        "cold_tolerance": "Low",
+                        "frost_tolerance": false,
+                        "drought_tolerance": "Low",
+                        "disease_resistance": []
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Mild, sweet, tender with minimal bitterness"
+                    },
+                    "fruit_characteristics": {
+                        "fruit_color": "Deep purple",
+                        "fruit_weight": "4-6 ounces",
+                        "skin_thickness": "Thin",
+                        "seed_cavity_size": "Small",
+                        "storage_quality": "Best used fresh, 3-5 days refrigerated",
+                        "crack_resistance": "Moderate"
+                    },
                     "fun_fact": "Japanese Eggplants are often harvested when they are young and tender, before the seeds fully develop, for the best flavor and texture.",
                     "planting_tip": "Plant Japanese Eggplant seeds or transplants in well-drained soil enriched with compost. Choose a sunny location with warm temperatures. Water consistently to keep the soil evenly moist, especially during hot and dry periods."
-                  },
-                  {
-                      "id": 2,
+                },
+                {
+                    "id": 2,
                     "name": "Italian",
                     "description": "Italian Eggplants, also known as Graffiti Eggplants, are medium-sized eggplants with a teardrop shape and vibrant purple and white striped skin. They have a creamy texture and a slightly sweet flavor. Italian Eggplants are versatile and can be grilled, roasted, sautéed, or used in dishes such as eggplant parmesan and caponata.",
-                    "spacing": "24 inches",
-                    "days_to_harvest": {
-                      "lower_estimate": 70,
-                      "higher_estimate": 80
+                    "growth_info": {
+                        "growth_mode": "Upright",
+                        "days_to_harvest": {
+                            "lower_estimate": 70,
+                            "higher_estimate": 80
+                        },
+                        "plant_height": "24-36 inches",
+                        "spacing": "24 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "5 gallons",
+                        "needs_support": true
                     },
-                    "is_container_variety": true,
-                    "fruit_color": "Purple with white stripes",
-                    "fruit_length": "6-8 inches",
-                    "fruit_weight": "8-10 ounces",
-                    "flower_color": "Purple",
-                    "leaf_color": "Green",
-                    "plant_height": "24-36 inches",
-                    "growth_mode": null,
-                    "best_uses": ["Grilling", "Roasting", "Eggplant Parmesan"],
-                    "water_requirement": "Every 1 week",
-                    "feeding_requirement": "Balanced fertilizer",
-                    "requires_pruning": false,
-                    "needs_support": true,
-                    "fun_fact": "Fun Fact: Italian Eggplants are also known as Graffiti Eggplants due to their colorful striped skin.",
+                    "appearance": {
+                        "flower_color": "Purple",
+                        "leaf_color": "Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Weekly watering, keep soil evenly moist",
+                        "feeding_requirement": "Balanced fertilizer every 2-3 weeks",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "5-7 fruits per plant",
+                        "best_uses": ["Grilling", "Roasting", "Eggplant Parmesan"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "High",
+                        "cold_tolerance": "Low",
+                        "frost_tolerance": false,
+                        "drought_tolerance": "Low",
+                        "disease_resistance": []
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Creamy, slightly sweet with mild flavor"
+                    },
+                    "fruit_characteristics": {
+                        "fruit_color": "Purple with white stripes",
+                        "fruit_weight": "8-10 ounces",
+                        "skin_thickness": "Medium",
+                        "seed_cavity_size": "Medium",
+                        "storage_quality": "Good for 1 week refrigerated",
+                        "crack_resistance": "Good"
+                    },
+                    "fun_fact": "Italian Eggplants are also known as Graffiti Eggplants due to their colorful striped skin.",
                     "planting_tip": "Plant Italian Eggplant seeds or transplants in well-drained soil enriched with compost. Choose a sunny location with warm temperatures. Water consistently to keep the soil evenly moist, especially during hot and dry periods. Provide support for the plants as they grow to prevent the heavy fruit from weighing down the branches."
-                  },
-                  {
-                      "id": 3,
+                },
+                {
+                    "id": 3,
                     "name": "Rosa Bianca",
                     "description": "Rosa Bianca Eggplants are heirloom Italian eggplants with a round shape and stunning lavender and white streaked skin. They have a creamy texture and a mild, sweet flavor with no bitterness. Rosa Bianca Eggplants are ideal for grilling, roasting, stuffing, or slicing and sautéing.",
-                    "spacing": "24 inches",
-                    "days_to_harvest": {
-                      "lower_estimate": 70,
-                      "higher_estimate": 80
+                    "growth_info": {
+                        "growth_mode": "Upright",
+                        "days_to_harvest": {
+                            "lower_estimate": 70,
+                            "higher_estimate": 80
+                        },
+                        "plant_height": "24-36 inches",
+                        "spacing": "24 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "5 gallons",
+                        "needs_support": true
                     },
-                    "is_container_variety": true,
-                    "fruit_color": "Lavender and white",
-                    "fruit_length": "4-6 inches",
-                    "fruit_weight": "6-8 ounces",
-                    "flower_color": "Purple",
-                    "leaf_color": "Green",
-                    "plant_height": "24-36 inches",
-                    "growth_mode": null,
-                    "best_uses": ["Grilling", "Roasting", "Stuffing"],
-                    "water_requirement": "Every 1 week",
-                    "feeding_requirement": "Balanced fertilizer",
-                    "requires_pruning": false,
-                    "needs_support": true,
-                    "fun_fact": "Fun Fact: Rosa Bianca Eggplants are prized for their beautiful appearance and delicious flavor, making them a favorite among gardeners and chefs alike.",
+                    "appearance": {
+                        "flower_color": "Purple",
+                        "leaf_color": "Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Weekly watering, keep soil evenly moist",
+                        "feeding_requirement": "Balanced fertilizer every 2-3 weeks",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "4-6 fruits per plant",
+                        "best_uses": ["Grilling", "Roasting", "Stuffing"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "High",
+                        "cold_tolerance": "Low",
+                        "frost_tolerance": false,
+                        "drought_tolerance": "Low",
+                        "disease_resistance": []
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Mild, sweet, creamy with no bitterness"
+                    },
+                    "fruit_characteristics": {
+                        "fruit_color": "Lavender and white",
+                        "fruit_weight": "6-8 ounces",
+                        "skin_thickness": "Medium",
+                        "seed_cavity_size": "Small",
+                        "storage_quality": "Good for 1 week refrigerated",
+                        "crack_resistance": "Good"
+                    },
+                    "fun_fact": "Rosa Bianca Eggplants are prized for their beautiful appearance and delicious flavor, making them a favorite among gardeners and chefs alike.",
                     "planting_tip": "Plant Rosa Bianca Eggplant seeds or transplants in well-drained soil enriched with compost. Choose a sunny location with warm temperatures. Water consistently to keep the soil evenly moist, especially during hot and dry periods. Provide support for the plants as they grow to prevent the heavy fruit from weighing down the branches."
-                  },
-                  {
-                      "id": 3,
+                },
+                {
+                    "id": 4,
                     "name": "Listada de Gandía",
                     "description": "Listada de Gandía Eggplants, also known as Striped Eggplants, are heirloom Spanish eggplants with a unique oblong shape and purple and white striped skin. They have a tender, creamy texture and a mild, slightly sweet flavor. Listada de Gandía Eggplants are excellent for grilling, roasting, or slicing and sautéing.",
-                    "spacing": "24 inches",
-                    "days_to_harvest": {
-                      "lower_estimate": 70,
-                      "higher_estimate": 80
+                    "growth_info": {
+                        "growth_mode": "Upright",
+                        "days_to_harvest": {
+                            "lower_estimate": 70,
+                            "higher_estimate": 80
+                        },
+                        "plant_height": "24-36 inches",
+                        "spacing": "24 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "5 gallons",
+                        "needs_support": true
                     },
-                    "is_container_variety": true,
-                    "fruit_color": "Purple and white stripes",
-                    "fruit_length": "6-8 inches",
-                    "fruit_weight": "8-10 ounces",
-                    "flower_color": "Purple",
-                    "leaf_color": "Green",
-                    "plant_height": "24-36 inches",
-                    "growth_mode": null,
-                    "best_uses": ["Grilling", "Roasting", "Sautéing"],
-                    "water_requirement": "Every 1 week",
-                    "feeding_requirement": "Balanced fertilizer",
-                    "requires_pruning": false,
-                    "needs_support": true,
+                    "appearance": {
+                        "flower_color": "Purple",
+                        "leaf_color": "Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Weekly watering, keep soil evenly moist",
+                        "feeding_requirement": "Balanced fertilizer every 2-3 weeks",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "5-7 fruits per plant",
+                        "best_uses": ["Grilling", "Roasting", "Sautéing"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "High",
+                        "cold_tolerance": "Low",
+                        "frost_tolerance": false,
+                        "drought_tolerance": "Low",
+                        "disease_resistance": []
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Tender, creamy, mild and slightly sweet"
+                    },
+                    "fruit_characteristics": {
+                        "fruit_color": "Purple and white stripes",
+                        "fruit_weight": "8-10 ounces",
+                        "skin_thickness": "Medium",
+                        "seed_cavity_size": "Medium",
+                        "storage_quality": "Good for 1 week refrigerated",
+                        "crack_resistance": "Good"
+                    },
                     "fun_fact": "Listada de Gandía Eggplants are named after the town of Gandía in Spain, where they are believed to have originated.",
                     "planting_tip": "Plant Listada de Gandía Eggplant seeds or transplants in well-drained soil enriched with compost. Choose a sunny location with warm temperatures. Water consistently to keep the soil evenly moist, especially during hot and dry periods. Provide support for the plants as they grow to prevent the heavy fruit from weighing down the branches."
-                  }
+                }
             ]
         }
     ]
