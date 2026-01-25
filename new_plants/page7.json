@@ -313,6 +313,922 @@
                     "planting_tip": "For successful cultivation of Detroit Dark Red Beet, directly sow seeds in well-draining soil with moderate fertility. Plant in a sunny to partially shaded location for optimal growth. Keep the soil consistently moist to encourage tender root development. Harvest beets when they reach the desired size, typically around 2-3 inches in diameter. Beet greens can also be harvested for culinary use."
                 }
             ]
+        },
+        {
+          "id": 32,
+          "name": "zucchini",
+          "plant_category": "Fruit Vegetable",
+          "varieties_common_features": {
+            "sunlight_requirement": "Full Sun",
+            "sunlight_hours_min": 6,
+            "sunlight_hours_optimal": 8,
+            "propagation_methods": ["Seeds", "Transplants"],
+            "soil_acidity_range": {
+              "lower_bound": 6.0,
+              "upper_bound": 7.5
+            },
+            "soil_type_preference": ["Loamy", "Well-draining", "Rich in organic matter"],
+            "drainage_requirement": "Well-draining",
+            "days_to_germination": "7-10 days",
+            "frost_tolerance": false,
+            "planting_depth": "1 inch",
+            "spacing": "24-36 inches",
+            "life_cycle": "Annual",
+            "season": "Warm",
+            "typical_yield_range": "6-10 pounds per plant",
+            "companion_plants": ["Beans", "Corn", "Peas", "Radishes", "Marigolds", "Nasturtiums"],
+            "avoid_planting_with": ["Potatoes", "Fennel"],
+            "common_pests": ["Squash bugs", "Cucumber beetles", "Squash vine borers", "Aphids"],
+            "common_diseases": ["Powdery mildew", "Bacterial wilt", "Blossom end rot", "Mosaic virus"],
+            "planting_zones_times": [
+              {
+                "zone": ["3a", "3b", "4a", "4b"],
+                "planting_dates_months": {
+                  "start_indoors": ["April", "May"],
+                  "transplant": ["May", "June"],
+                  "start_outdoors": ["May", "June"],
+                  "harvest": ["July", "August", "September"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Start zucchini seeds indoors 2-3 weeks before the last frost date, typically in April to May.",
+                  "transplant": "Transplant zucchini seedlings outdoors after all danger of frost has passed, usually in late May to early June.",
+                  "start_outdoors": "Directly sow zucchini seeds outdoors when soil temperature reaches 60°F, typically in late May to June.",
+                  "harvest": "Harvest zucchini throughout summer into early fall, picking frequently when fruits are 6-8 inches long."
+                }
+              },
+              {
+                "zone": ["5a", "5b", "6a", "6b"],
+                "planting_dates_months": {
+                  "start_indoors": ["March", "April"],
+                  "transplant": ["April", "May"],
+                  "start_outdoors": ["April", "May", "June"],
+                  "harvest": ["June", "July", "August", "September"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Start zucchini seeds indoors 2-3 weeks before the last frost date, typically in March to April.",
+                  "transplant": "Transplant zucchini seedlings outdoors after all danger of frost has passed, usually in late April to May.",
+                  "start_outdoors": "Directly sow zucchini seeds outdoors when soil temperature reaches 60°F, typically in late April to June.",
+                  "harvest": "Harvest zucchini throughout summer into early fall."
+                }
+              },
+              {
+                "zone": ["7a", "7b", "8a", "8b"],
+                "planting_dates_months": {
+                  "start_indoors": ["February", "March"],
+                  "transplant": ["March", "April"],
+                  "start_outdoors": ["March", "April", "May"],
+                  "harvest": ["May", "June", "July", "August", "September"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Start zucchini seeds indoors 2-3 weeks before the last frost date, typically in February to March.",
+                  "transplant": "Transplant zucchini seedlings outdoors after all danger of frost has passed, usually in March to April.",
+                  "start_outdoors": "Directly sow zucchini seeds outdoors when soil temperature reaches 60°F, typically in March to May.",
+                  "harvest": "Harvest zucchini from late spring through early fall."
+                }
+              },
+              {
+                "zone": ["9a", "9b", "10a", "10b"],
+                "planting_dates_months": {
+                  "start_indoors": ["January", "February", "August", "September"],
+                  "transplant": ["February", "March", "September", "October"],
+                  "start_outdoors": ["February", "March", "August", "September"],
+                  "harvest": ["April", "May", "June", "October", "November", "December"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Start zucchini seeds indoors for spring planting in January to February, or for fall planting in August to September.",
+                  "transplant": "Transplant zucchini seedlings outdoors in February to March for spring harvest, or September to October for fall harvest.",
+                  "start_outdoors": "Directly sow zucchini seeds outdoors in February to March for spring, or August to September for fall planting.",
+                  "harvest": "Harvest zucchini in spring and fall growing seasons."
+                }
+              },
+              {
+                "zone": ["11a", "11b", "12a", "12b"],
+                "planting_dates_months": {
+                  "start_indoors": ["September", "October", "November", "December", "January"],
+                  "transplant": ["October", "November", "December", "January", "February"],
+                  "start_outdoors": ["October", "November", "December", "January", "February"],
+                  "harvest": ["December", "January", "February", "March", "April"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Start zucchini seeds indoors during the cooler months, from September through January.",
+                  "transplant": "Transplant zucchini seedlings outdoors from October through February in tropical climates.",
+                  "start_outdoors": "Directly sow zucchini seeds outdoors during the cooler, drier season from October through February.",
+                  "harvest": "Harvest zucchini during winter and early spring months in tropical climates."
+                }
+              }
+            ]
+          },
+          "varieties": [
+            {
+              "id": 0,
+              "name": "Black Beauty",
+              "description": "Black Beauty is a classic dark green zucchini variety that produces abundant, straight fruits with a glossy skin. This reliable variety is known for its vigorous growth and continuous production throughout the growing season. The fruits have tender skin and firm, creamy white flesh with excellent flavor.",
+              "growth_info": {
+                "growth_mode": "Bush",
+                "days_to_harvest": {
+                  "lower_estimate": 45,
+                  "higher_estimate": 55
+                },
+                "plant_height": "24-36 inches",
+                "spacing": "24-36 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "5 gallons minimum",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Yellow",
+                "leaf_color": "Dark green"
+              },
+              "care_requirements": {
+                "water_requirement": "1-2 inches per week, consistent moisture",
+                "feeding_requirement": "Balanced fertilizer every 2-3 weeks",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "6-10 pounds per plant",
+                "best_uses": ["Grilling", "Sautéing", "Baking", "Zoodles", "Stuffing"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Good",
+                "cold_tolerance": "Poor",
+                "frost_tolerance": false,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Some powdery mildew resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Mild, slightly sweet, nutty when cooked"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Dark green",
+                "fruit_weight": "8-12 ounces at optimal harvest",
+                "skin_thickness": "Thin and tender",
+                "seed_cavity_size": "Small when harvested young",
+                "storage_quality": "Refrigerate for up to 1 week",
+                "crack_resistance": "Good"
+              },
+              "herb_characteristics": null,
+              "root_characteristics": null,
+              "leaf_crop_characteristics": null,
+              "flower_characteristics": null,
+              "fun_fact": "Zucchini flowers are edible and considered a delicacy! They can be stuffed, battered and fried, or added to salads and pasta dishes.",
+              "planting_tip": "Plant zucchini seeds 1 inch deep in warm soil after all danger of frost has passed. Create small mounds to improve drainage and warm the soil faster. Harvest frequently when fruits are 6-8 inches long to encourage continued production."
+            },
+            {
+              "id": 1,
+              "name": "Golden Zucchini",
+              "description": "Golden Zucchini is a stunning yellow-fruited variety that adds beautiful color to the garden and plate. It has the same great flavor and texture as green zucchini but with a bright golden-yellow skin. The plants are productive and the fruits are slightly sweeter than traditional green varieties.",
+              "growth_info": {
+                "growth_mode": "Bush",
+                "days_to_harvest": {
+                  "lower_estimate": 50,
+                  "higher_estimate": 60
+                },
+                "plant_height": "24-30 inches",
+                "spacing": "24-36 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "5 gallons minimum",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Yellow-orange",
+                "leaf_color": "Medium green"
+              },
+              "care_requirements": {
+                "water_requirement": "1-2 inches per week, consistent moisture",
+                "feeding_requirement": "Balanced fertilizer every 2-3 weeks",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "6-8 pounds per plant",
+                "best_uses": ["Grilling", "Raw in salads", "Sautéing", "Baking", "Pickling"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Good",
+                "cold_tolerance": "Poor",
+                "frost_tolerance": false,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Moderate powdery mildew resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Mild, slightly sweet, delicate"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Bright golden yellow",
+                "fruit_weight": "6-10 ounces at optimal harvest",
+                "skin_thickness": "Thin and tender",
+                "seed_cavity_size": "Small when harvested young",
+                "storage_quality": "Refrigerate for up to 1 week",
+                "crack_resistance": "Good"
+              },
+              "herb_characteristics": null,
+              "root_characteristics": null,
+              "leaf_crop_characteristics": null,
+              "flower_characteristics": null,
+              "fun_fact": "Golden zucchini contains higher levels of beta-carotene than green varieties, giving it both its color and additional nutritional benefits!",
+              "planting_tip": "Golden zucchini shows less dirt and blemishes than green varieties, making it easier to spot when fruits are ready to harvest. Pick regularly to maintain production."
+            },
+            {
+              "id": 2,
+              "name": "Costata Romanesco",
+              "description": "Costata Romanesco is an Italian heirloom zucchini prized by chefs for its exceptional nutty flavor and firm texture. It features distinctive ribbed, striped fruits with light and dark green coloring. The flesh is dense and holds up well to cooking, making it ideal for grilling and sautéing.",
+              "growth_info": {
+                "growth_mode": "Bush",
+                "days_to_harvest": {
+                  "lower_estimate": 52,
+                  "higher_estimate": 62
+                },
+                "plant_height": "30-40 inches",
+                "spacing": "36 inches",
+                "is_container_variety": false,
+                "recommended_container_size": "Not recommended for containers",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Yellow-orange",
+                "leaf_color": "Dark green"
+              },
+              "care_requirements": {
+                "water_requirement": "1-2 inches per week, consistent moisture",
+                "feeding_requirement": "Balanced fertilizer every 2-3 weeks",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "8-12 pounds per plant",
+                "best_uses": ["Grilling", "Sautéing", "Roasting", "Italian dishes"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Excellent",
+                "cold_tolerance": "Poor",
+                "frost_tolerance": false,
+                "drought_tolerance": "Good",
+                "disease_resistance": ["Good powdery mildew resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Nutty, rich, more intense than standard zucchini"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Light green with dark green stripes",
+                "fruit_weight": "10-14 ounces at optimal harvest",
+                "skin_thickness": "Medium, with pronounced ribs",
+                "seed_cavity_size": "Small to medium",
+                "storage_quality": "Refrigerate for up to 10 days",
+                "crack_resistance": "Excellent"
+              },
+              "herb_characteristics": null,
+              "root_characteristics": null,
+              "leaf_crop_characteristics": null,
+              "flower_characteristics": null,
+              "fun_fact": "Costata Romanesco is considered by many chefs to be the best-tasting zucchini variety, with a flavor so good it's often simply sautéed in olive oil and garlic.",
+              "planting_tip": "This variety benefits from extra space and rich soil. Harvest when 6-8 inches long for the best flavor, though it remains tender even when slightly larger due to its dense flesh."
+            },
+            {
+              "id": 3,
+              "name": "Raven",
+              "description": "Raven is a highly productive, early-maturing zucchini with glossy, dark green fruits and compact plants. It's known for its excellent disease resistance, particularly to powdery mildew, making it a reliable choice for organic gardeners. The fruits have smooth skin and creamy white flesh.",
+              "growth_info": {
+                "growth_mode": "Bush",
+                "days_to_harvest": {
+                  "lower_estimate": 42,
+                  "higher_estimate": 48
+                },
+                "plant_height": "20-28 inches",
+                "spacing": "24-30 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "5 gallons minimum",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Yellow",
+                "leaf_color": "Medium to dark green"
+              },
+              "care_requirements": {
+                "water_requirement": "1-2 inches per week, consistent moisture",
+                "feeding_requirement": "Balanced fertilizer every 2-3 weeks",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "8-10 pounds per plant",
+                "best_uses": ["Grilling", "Sautéing", "Baking", "Zoodles", "Freezing"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Very good",
+                "cold_tolerance": "Poor",
+                "frost_tolerance": false,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Excellent powdery mildew resistance", "Good viral resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Mild, slightly sweet, classic zucchini flavor"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Very dark green, glossy",
+                "fruit_weight": "8-10 ounces at optimal harvest",
+                "skin_thickness": "Thin and tender",
+                "seed_cavity_size": "Very small when harvested young",
+                "storage_quality": "Refrigerate for up to 1 week",
+                "crack_resistance": "Excellent"
+              },
+              "herb_characteristics": null,
+              "root_characteristics": null,
+              "leaf_crop_characteristics": null,
+              "flower_characteristics": null,
+              "fun_fact": "Raven zucchini was bred specifically for its disease resistance, making it one of the easiest zucchini varieties to grow successfully without pesticides.",
+              "planting_tip": "Raven's compact size makes it perfect for small gardens or containers. Its early maturity means you can enjoy harvests before many pests become active in mid-summer."
+            },
+            {
+              "id": 4,
+              "name": "Eight Ball",
+              "description": "Eight Ball is a unique round zucchini variety that produces perfectly spherical, dark green fruits. This novelty variety is excellent for stuffing and has a sweet, delicate flavor. The compact plants are productive and the round shape makes it easy to spot ripe fruits.",
+              "growth_info": {
+                "growth_mode": "Bush",
+                "days_to_harvest": {
+                  "lower_estimate": 45,
+                  "higher_estimate": 55
+                },
+                "plant_height": "24-30 inches",
+                "spacing": "24-36 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "5 gallons minimum",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Yellow",
+                "leaf_color": "Medium green"
+              },
+              "care_requirements": {
+                "water_requirement": "1-2 inches per week, consistent moisture",
+                "feeding_requirement": "Balanced fertilizer every 2-3 weeks",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "6-8 pounds per plant",
+                "best_uses": ["Stuffing", "Grilling", "Roasting", "Sautéing sliced"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Good",
+                "cold_tolerance": "Poor",
+                "frost_tolerance": false,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Some powdery mildew resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Mild, sweet, delicate, slightly nutty"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Dark green",
+                "fruit_weight": "4-6 ounces at optimal harvest (baseball size)",
+                "skin_thickness": "Thin and tender",
+                "seed_cavity_size": "Perfect for stuffing when harvested at 3-4 inches diameter",
+                "storage_quality": "Refrigerate for up to 1 week",
+                "crack_resistance": "Good"
+              },
+              "herb_characteristics": null,
+              "root_characteristics": null,
+              "leaf_crop_characteristics": null,
+              "flower_characteristics": null,
+              "fun_fact": "Eight Ball zucchini gets its name from its resemblance to a billiard eight ball. It's perfect for individual stuffed servings!",
+              "planting_tip": "Harvest Eight Ball zucchini when they're about the size of a baseball (3-4 inches in diameter) for the best flavor and texture. They're easier to harvest than standard zucchini since you can see them clearly."
+            },
+            {
+              "id": 5,
+              "name": "Cocozelle",
+              "description": "Cocozelle is an Italian heirloom zucchini with beautiful dark green fruits striped with lighter green. It has an excellent, sweet flavor and smooth texture. This variety is particularly popular in Italian cuisine and is often harvested young for the most tender fruits and flavorful flowers.",
+              "growth_info": {
+                "growth_mode": "Bush",
+                "days_to_harvest": {
+                  "lower_estimate": 45,
+                  "higher_estimate": 60
+                },
+                "plant_height": "24-36 inches",
+                "spacing": "30-36 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "5 gallons minimum",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Large yellow-orange",
+                "leaf_color": "Dark green"
+              },
+              "care_requirements": {
+                "water_requirement": "1-2 inches per week, consistent moisture",
+                "feeding_requirement": "Balanced fertilizer every 2-3 weeks",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "6-10 pounds per plant",
+                "best_uses": ["Italian dishes", "Grilling", "Sautéing", "Stuffing", "Raw in salads"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Excellent",
+                "cold_tolerance": "Poor",
+                "frost_tolerance": false,
+                "drought_tolerance": "Good",
+                "disease_resistance": ["Moderate disease resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Sweet, rich, complex flavor with nutty undertones"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Dark green with light green stripes",
+                "fruit_weight": "6-8 ounces at optimal harvest",
+                "skin_thickness": "Thin and very tender",
+                "seed_cavity_size": "Small when harvested young",
+                "storage_quality": "Refrigerate for up to 1 week",
+                "crack_resistance": "Good"
+              },
+              "herb_characteristics": null,
+              "root_characteristics": null,
+              "leaf_crop_characteristics": null,
+              "flower_characteristics": null,
+              "fun_fact": "Cocozelle produces exceptionally large, flavorful flowers that are prized in Italian cooking for stuffing and frying. Many gardeners grow it specifically for the flowers!",
+              "planting_tip": "For the best flavor and texture, harvest Cocozelle when fruits are 6-8 inches long. The striped pattern makes it easy to spot in the garden. This variety benefits from regular harvesting to maintain production."
+            }
+          ]
+        },
+        {
+          "id": 33,
+          "name": "strawberry",
+          "plant_category": "Fruit",
+          "varieties_common_features": {
+            "sunlight_requirement": "Full Sun",
+            "sunlight_hours_min": 6,
+            "sunlight_hours_optimal": 8,
+            "propagation_methods": ["Runners", "Seeds", "Bare-root plants", "Transplants"],
+            "soil_acidity_range": {
+              "lower_bound": 5.5,
+              "upper_bound": 6.8
+            },
+            "soil_type_preference": ["Loamy", "Sandy loam", "Well-draining", "Rich in organic matter"],
+            "drainage_requirement": "Well-draining, raised beds recommended",
+            "days_to_germination": "14-21 days from seed",
+            "frost_tolerance": true,
+            "planting_depth": "Crown at soil level, roots 6 inches deep",
+            "spacing": "12-18 inches apart in rows 24-36 inches apart",
+            "life_cycle": "Perennial",
+            "season": "Cool to Warm",
+            "typical_yield_range": "1-2 quarts per plant per season",
+            "companion_plants": ["Borage", "Thyme", "Sage", "Lettuce", "Spinach", "Beans", "Onions", "Garlic"],
+            "avoid_planting_with": ["Cabbage family", "Tomatoes", "Peppers", "Eggplant", "Potatoes"],
+            "common_pests": ["Aphids", "Spider mites", "Slugs", "Snails", "Strawberry root weevil", "Tarnished plant bug"],
+            "common_diseases": ["Gray mold", "Powdery mildew", "Verticillium wilt", "Red stele", "Leather rot", "Angular leaf spot"],
+            "planting_zones_times": [
+              {
+                "zone": ["3a", "3b", "4a", "4b"],
+                "planting_dates_months": {
+                  "start_indoors": ["February", "March"],
+                  "transplant": ["May", "June"],
+                  "start_outdoors": ["May", "June"],
+                  "harvest": ["June", "July"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Start strawberry plants indoors from seed 8-10 weeks before last frost, typically February to March, though purchasing plants is more common.",
+                  "transplant": "Transplant strawberry plants outdoors after danger of hard frost has passed, usually in May to June.",
+                  "start_outdoors": "Plant bare-root or potted strawberries directly outdoors in spring after frost danger passes, May to June.",
+                  "harvest": "Harvest strawberries in early to mid-summer. First-year harvest may be limited; best production in year 2-3."
+                }
+              },
+              {
+                "zone": ["5a", "5b", "6a", "6b"],
+                "planting_dates_months": {
+                  "start_indoors": ["January", "February"],
+                  "transplant": ["March", "April", "September", "October"],
+                  "start_outdoors": ["March", "April", "September", "October"],
+                  "harvest": ["May", "June", "July"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Start strawberry plants indoors from seed 8-10 weeks before last frost, typically January to February.",
+                  "transplant": "Transplant strawberry plants in early spring (March-April) or fall (September-October) for best establishment.",
+                  "start_outdoors": "Plant bare-root or potted strawberries in early spring or fall when temperatures are cool.",
+                  "harvest": "Harvest strawberries from late spring through early summer, with June-bearing varieties peaking in June."
+                }
+              },
+              {
+                "zone": ["7a", "7b", "8a", "8b"],
+                "planting_dates_months": {
+                  "start_indoors": ["December", "January"],
+                  "transplant": ["February", "March", "October", "November"],
+                  "start_outdoors": ["February", "March", "October", "November"],
+                  "harvest": ["April", "May", "June"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Start strawberry plants indoors from seed in winter, December to January.",
+                  "transplant": "Transplant strawberry plants in late winter to early spring (February-March) or fall (October-November).",
+                  "start_outdoors": "Plant bare-root or potted strawberries in late winter/early spring or fall for best results.",
+                  "harvest": "Harvest strawberries from mid-spring through early summer."
+                }
+              },
+              {
+                "zone": ["9a", "9b", "10a", "10b"],
+                "planting_dates_months": {
+                  "start_indoors": ["October", "November"],
+                  "transplant": ["October", "November", "December", "January"],
+                  "start_outdoors": ["October", "November", "December", "January"],
+                  "harvest": ["February", "March", "April", "May"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Start strawberry plants indoors in fall, October to November.",
+                  "transplant": "Transplant strawberry plants in fall through winter (October-January) when temperatures cool.",
+                  "start_outdoors": "Plant bare-root or potted strawberries in fall through winter for spring harvest.",
+                  "harvest": "Harvest strawberries in late winter through spring in warm climates."
+                }
+              },
+              {
+                "zone": ["11a", "11b", "12a", "12b"],
+                "planting_dates_months": {
+                  "start_indoors": ["October", "November", "December"],
+                  "transplant": ["November", "December", "January"],
+                  "start_outdoors": ["November", "December", "January"],
+                  "harvest": ["February", "March", "April"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Start strawberry plants indoors during the coolest months, October through December.",
+                  "transplant": "Transplant strawberry plants during the dry, cool season from November through January.",
+                  "start_outdoors": "Plant strawberries during the coolest months for best results in tropical climates.",
+                  "harvest": "Harvest strawberries in late winter through spring in tropical zones."
+                }
+              }
+            ]
+          },
+          "varieties": [
+            {
+              "id": 0,
+              "name": "Albion",
+              "description": "Albion is a popular day-neutral (everbearing) strawberry variety that produces large, firm, conical berries with excellent flavor throughout the growing season. It's known for its disease resistance, particularly to verticillium wilt and crown rot, and performs well in warmer climates. The berries are bright red with a sweet-tart balance.",
+              "growth_info": {
+                "growth_mode": "Day-neutral/Everbearing",
+                "days_to_harvest": {
+                  "lower_estimate": 90,
+                  "higher_estimate": 120
+                },
+                "plant_height": "8-12 inches",
+                "spacing": "12-15 inches apart, rows 24-36 inches apart",
+                "is_container_variety": true,
+                "recommended_container_size": "12 inches deep, 12-16 inches wide per plant",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "White",
+                "leaf_color": "Dark green"
+              },
+              "care_requirements": {
+                "water_requirement": "1-1.5 inches per week, consistent moisture",
+                "feeding_requirement": "Balanced fertilizer monthly during growing season",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "1-2 quarts per plant per season",
+                "best_uses": ["Fresh eating", "Desserts", "Preserves", "Freezing"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Excellent",
+                "cold_tolerance": "Good",
+                "frost_tolerance": true,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Verticillium wilt", "Phytophthora crown rot", "Anthracnose crown rot"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Sweet-tart, complex, aromatic with berry notes"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Bright red",
+                "fruit_weight": "0.8-1.2 ounces",
+                "skin_thickness": "Firm",
+                "seed_cavity_size": "N/A",
+                "storage_quality": "Excellent firmness, refrigerate for up to 7 days",
+                "crack_resistance": "Excellent"
+              },
+              "herb_characteristics": null,
+              "root_characteristics": null,
+              "leaf_crop_characteristics": null,
+              "flower_characteristics": null,
+              "fun_fact": "Albion strawberries produce fruit continuously from spring through fall, giving you multiple harvests instead of just one big crop!",
+              "planting_tip": "Plant Albion with the crown (where leaves emerge) right at soil level - not buried and not exposed. Remove flowers the first 6 weeks after planting to encourage stronger root development and better future yields."
+            },
+            {
+              "id": 1,
+              "name": "Chandler",
+              "description": "Chandler is a June-bearing strawberry variety famous for producing exceptionally large, glossy berries with outstanding flavor. Originally developed in California, it's become one of the most popular commercial varieties due to its size, appearance, and sweet taste. The berries are firm and hold up well for shipping and storage.",
+              "growth_info": {
+                "growth_mode": "June-bearing",
+                "days_to_harvest": {
+                  "lower_estimate": 85,
+                  "higher_estimate": 100
+                },
+                "plant_height": "8-10 inches",
+                "spacing": "12-18 inches apart, rows 36 inches apart",
+                "is_container_variety": true,
+                "recommended_container_size": "12 inches deep, 14-18 inches wide per plant",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "White",
+                "leaf_color": "Medium green"
+              },
+              "care_requirements": {
+                "water_requirement": "1-1.5 inches per week, especially during fruiting",
+                "feeding_requirement": "Balanced fertilizer in early spring and after harvest",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "1.5-2 quarts per plant in main season",
+                "best_uses": ["Fresh eating", "Baking", "Preserves", "Freezing"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Good",
+                "cold_tolerance": "Moderate",
+                "frost_tolerance": true,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Some verticillium wilt resistance", "Moderate disease resistance overall"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Very sweet, classic strawberry flavor, aromatic"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Bright glossy red",
+                "fruit_weight": "1.0-1.5 ounces (can reach 2 ounces)",
+                "skin_thickness": "Medium-firm",
+                "seed_cavity_size": "N/A",
+                "storage_quality": "Good firmness, refrigerate for up to 5-7 days",
+                "crack_resistance": "Good"
+              },
+              "herb_characteristics": null,
+              "root_characteristics": null,
+              "leaf_crop_characteristics": null,
+              "flower_characteristics": null,
+              "fun_fact": "Chandler strawberries can grow as large as a small apple! Some berries reach over 2 ounces, making them perfect for impressive dessert presentations.",
+              "planting_tip": "Chandler benefits from winter chill and performs best in zones 4-9. Mulch heavily around plants to keep berries clean and reduce disease. These large berries may need support to keep them off the ground."
+            },
+            {
+              "id": 2,
+              "name": "Seascape",
+              "description": "Seascape is a day-neutral strawberry variety that produces medium to large, sweet berries from late spring through fall. It's known for exceptional flavor, good disease resistance, and adaptability to various climates. The berries have a classic conical shape with bright red color inside and out.",
+              "growth_info": {
+                "growth_mode": "Day-neutral/Everbearing",
+                "days_to_harvest": {
+                  "lower_estimate": 90,
+                  "higher_estimate": 120
+                },
+                "plant_height": "8-10 inches",
+                "spacing": "12-15 inches apart, rows 24-36 inches apart",
+                "is_container_variety": true,
+                "recommended_container_size": "12 inches deep, 12-16 inches wide per plant",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "White",
+                "leaf_color": "Medium to dark green"
+              },
+              "care_requirements": {
+                "water_requirement": "1-1.5 inches per week, consistent moisture",
+                "feeding_requirement": "Balanced fertilizer every 3-4 weeks during production",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "1-2 quarts per plant per season",
+                "best_uses": ["Fresh eating", "Desserts", "Smoothies", "Preserves"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Very good",
+                "cold_tolerance": "Good",
+                "frost_tolerance": true,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Verticillium wilt", "Red stele", "Some powdery mildew resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Very sweet, intensely aromatic, well-balanced"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Bright red throughout",
+                "fruit_weight": "0.7-1.0 ounces",
+                "skin_thickness": "Firm",
+                "seed_cavity_size": "N/A",
+                "storage_quality": "Good firmness, refrigerate for up to 5-7 days",
+                "crack_resistance": "Very good"
+              },
+              "herb_characteristics": null,
+              "root_characteristics": null,
+              "leaf_crop_characteristics": null,
+              "flower_characteristics": null,
+              "fun_fact": "Seascape was developed at the University of California and is a descendant of the famous Chandler variety, combining size with continuous production!",
+              "planting_tip": "Seascape is ideal for home gardeners who want fresh strawberries all summer long. Remove runners regularly to focus plant energy on fruit production rather than spread."
+            },
+            {
+              "id": 3,
+              "name": "Jewel",
+              "description": "Jewel is a June-bearing strawberry variety prized for its exceptional cold hardiness and ability to thrive in northern climates. It produces large, firm, bright red berries with excellent flavor and aroma. The plants are vigorous, disease-resistant, and produce abundant runners for easy propagation.",
+              "growth_info": {
+                "growth_mode": "June-bearing",
+                "days_to_harvest": {
+                  "lower_estimate": 80,
+                  "higher_estimate": 95
+                },
+                "plant_height": "8-12 inches",
+                "spacing": "12-18 inches apart, rows 36-42 inches apart",
+                "is_container_variety": true,
+                "recommended_container_size": "12 inches deep, 16-18 inches wide per plant",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "White",
+                "leaf_color": "Dark green, glossy"
+              },
+              "care_requirements": {
+                "water_requirement": "1-1.5 inches per week",
+                "feeding_requirement": "Balanced fertilizer in early spring and after harvest",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "1.5-2.5 quarts per plant in main season",
+                "best_uses": ["Fresh eating", "Freezing", "Preserves", "Baking"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Moderate",
+                "cold_tolerance": "Excellent",
+                "frost_tolerance": true,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Verticillium wilt", "Red stele", "Leaf spot", "Leaf scorch"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Sweet-tart balance, rich strawberry flavor, aromatic"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Bright glossy red",
+                "fruit_weight": "0.8-1.2 ounces",
+                "skin_thickness": "Firm",
+                "seed_cavity_size": "N/A",
+                "storage_quality": "Very good firmness, refrigerate for up to 7 days",
+                "crack_resistance": "Good"
+              },
+              "herb_characteristics": null,
+              "root_characteristics": null,
+              "leaf_crop_characteristics": null,
+              "flower_characteristics": null,
+              "fun_fact": "Jewel strawberry plants can survive winter temperatures as low as -30°F with proper mulching, making them one of the hardiest varieties available!",
+              "planting_tip": "Jewel is perfect for zones 3-8. Apply a thick layer of straw mulch in late fall to protect crowns during harsh winters. The abundant runners make it easy to expand your strawberry patch each year."
+            },
+            {
+              "id": 4,
+              "name": "Ozark Beauty",
+              "description": "Ozark Beauty is a classic everbearing strawberry variety that has been popular since the 1950s. It produces medium-sized, sweet berries in spring and fall, with lighter production in summer. Known for its reliability, disease resistance, and adaptability to various climates, it's an excellent choice for home gardeners.",
+              "growth_info": {
+                "growth_mode": "Everbearing",
+                "days_to_harvest": {
+                  "lower_estimate": 85,
+                  "higher_estimate": 110
+                },
+                "plant_height": "8-10 inches",
+                "spacing": "12-18 inches apart, rows 30-36 inches apart",
+                "is_container_variety": true,
+                "recommended_container_size": "12 inches deep, 14-16 inches wide per plant",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "White",
+                "leaf_color": "Medium green"
+              },
+              "care_requirements": {
+                "water_requirement": "1-1.5 inches per week, consistent moisture",
+                "feeding_requirement": "Balanced fertilizer every 4-6 weeks during growing season",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "1-1.5 quarts per plant per season",
+                "best_uses": ["Fresh eating", "Preserves", "Freezing", "Desserts"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Good",
+                "cold_tolerance": "Very good",
+                "frost_tolerance": true,
+                "drought_tolerance": "Good",
+                "disease_resistance": ["Leaf spot", "Leaf scorch", "Good overall disease resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Sweet, rich, traditional strawberry flavor"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Medium to dark red",
+                "fruit_weight": "0.5-0.8 ounces",
+                "skin_thickness": "Medium-firm",
+                "seed_cavity_size": "N/A",
+                "storage_quality": "Good, refrigerate for up to 5 days",
+                "crack_resistance": "Good"
+              },
+              "herb_characteristics": null,
+              "root_characteristics": null,
+              "leaf_crop_characteristics": null,
+              "flower_characteristics": null,
+              "fun_fact": "Ozark Beauty has been a garden favorite for over 70 years! It's named after the Ozark Mountains region where it was developed.",
+              "planting_tip": "Ozark Beauty is one of the most cold-hardy everbearing varieties and performs well in zones 4-8. Allow runners to root for a matted row system, or remove them for larger berries on mother plants."
+            },
+            {
+              "id": 5,
+              "name": "Quinault",
+              "description": "Quinault is an everbearing strawberry variety that produces very large, soft, juicy berries with exceptional sweetness. It's known for producing fruit quickly - often within the first season - and continues producing from spring through fall. The berries are best eaten fresh as they're too soft for shipping but perfect for home gardens.",
+              "growth_info": {
+                "growth_mode": "Everbearing",
+                "days_to_harvest": {
+                  "lower_estimate": 75,
+                  "higher_estimate": 90
+                },
+                "plant_height": "8-12 inches",
+                "spacing": "12-15 inches apart, rows 30-36 inches apart",
+                "is_container_variety": true,
+                "recommended_container_size": "12 inches deep, 14-16 inches wide per plant",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "White",
+                "leaf_color": "Bright to medium green"
+              },
+              "care_requirements": {
+                "water_requirement": "1-1.5 inches per week, needs consistent moisture",
+                "feeding_requirement": "Balanced fertilizer every 3-4 weeks during production",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "1.5-2 quarts per plant per season",
+                "best_uses": ["Fresh eating", "Smoothies", "Desserts", "Preserves"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Moderate",
+                "cold_tolerance": "Good",
+                "frost_tolerance": true,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Moderate disease resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Very sweet, juicy, intense strawberry flavor"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Deep red",
+                "fruit_weight": "1.0-1.5 ounces",
+                "skin_thickness": "Soft, delicate",
+                "seed_cavity_size": "N/A",
+                "storage_quality": "Poor shipping quality but excellent flavor, refrigerate and use within 2-3 days",
+                "crack_resistance": "Fair"
+              },
+              "herb_characteristics": null,
+              "root_characteristics": null,
+              "leaf_crop_characteristics": null,
+              "flower_characteristics": null,
+              "fun_fact": "Quinault strawberries are often called 'backyard berries' because they're so soft and delicious that you'll want to eat them straight from the plant!",
+              "planting_tip": "Quinault produces fruit the first year, making it great for impatient gardeners! Pick berries frequently as they ripen quickly and are best eaten immediately. Perfect for containers on a patio where you can harvest daily."
+            },
+            {
+              "id": 6,
+              "name": "Honeoye",
+              "description": "Honeoye is a popular June-bearing strawberry variety known for its early ripening, high yields, and excellent flavor. It produces firm, bright red berries that are perfect for fresh eating and freezing. The plants are vigorous and cold-hardy, making Honeoye ideal for northern climates.",
+              "growth_info": {
+                "growth_mode": "June-bearing",
+                "days_to_harvest": {
+                  "lower_estimate": 75,
+                  "higher_estimate": 85
+                },
+                "plant_height": "8-10 inches",
+                "spacing": "12-18 inches apart, rows 36-42 inches apart",
+                "is_container_variety": true,
+                "recommended_container_size": "12 inches deep, 16-18 inches wide per plant",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "White",
+                "leaf_color": "Dark green"
+              },
+              "care_requirements": {
+                "water_requirement": "1-1.5 inches per week, especially during flowering and fruiting",
+                "feeding_requirement": "Balanced fertilizer in early spring",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "1.5-2.5 quarts per plant in main season",
+                "best_uses": ["Fresh eating", "Freezing", "Preserves", "Baking"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Moderate",
+                "cold_tolerance": "Excellent",
+                "frost_tolerance": true,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Verticillium wilt", "Some leaf disease resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Sweet-tart, tangy, classic strawberry flavor"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Bright glossy red",
+                "fruit_weight": "0.7-1.0 ounces",
+                "skin_thickness": "Firm",
+                "seed_cavity_size": "N/A",
+                "storage_quality": "Excellent firmness, freezes well, refrigerate for up to 7 days",
+                "crack_resistance": "Very good"
+              },
+              "herb_characteristics": null,
+              "root_characteristics": null,
+              "leaf_crop_characteristics": null,
+              "flower_characteristics": null,
+              "fun_fact": "Honeoye is one of the earliest strawberries to ripen in spring, often producing fruit 1-2 weeks before other June-bearing varieties!",
+              "planting_tip": "Honeoye is perfect for zones 3-8 and excels in the Northeast. Its early harvest means you can enjoy strawberries before most other varieties. The firm berries freeze exceptionally well for year-round enjoyment."
+            }
+          ]
         }
         
     ]

@@ -1667,238 +1667,435 @@
           ]
         },
         {
-            "id": 14,
-            "name": "corn",
-            "varieties_common_features": {
-                "sunlight_requirement": "Full Sun",
-                "propagation_methods": ["Seeds"],
-                "soil_acidity_range": {
-                  "lower_bound": 6.0,
-                  "upper_bound": 7.5
-                },
-                "days_to_germination": "7-10 days",
-                "frost_tolerance": false,
-                "planting_depth": "1-2 inches",
-                "spacing": "12-18 inches",
-                "life_cycle": "Annual",
-                "season": "Warm",
-                "planting_zones_times":
-                [
-                    {
-                        "zone": ["3a","3b","4a","4b"],
-                        "planting_dates_months": {
-                            "start_indoors": [],
-                            "transplant": [],
-                            "start_outdoors": ["May", "June"],
-                            "harvest": ["September", "October"]
-                        },
-                        "planting_dates_description": {
-                            "start_indoors": "Not Recommended",
-                            "transplant": "Not Recommended",
-                            "start_outdoors": "Directly sow corn seeds outdoors once soil temperatures consistently reach at least 60°F (15.5°C), typically in late May to early June.",
-                            "harvest": "Harvest corn in late summer and early fall."
-                        }
-                    },
-                    {
-                        "zone": ["5a","5b","6a","6b"],
-                        "planting_dates_months": {
-                            "start_indoors": [],
-                            "transplant": [],
-                            "start_outdoors": ["April", "May"],
-                            "harvest": ["August", "September"]
-                        },
-                        "planting_dates_description": {
-                            "start_indoors": "Not Recommended",
-                            "transplant": "Not Recommended",
-                            "start_outdoors": "Directly sow corn seeds outdoors once soil temperatures consistently reach at least 60°F (15.5°C), typically in April to May.",
-                            "harvest": "Harvest corn in late summer and early fall."
-                        }
-                    },
-                    {
-                        "zone": ["7a","7b","8a","8b"],
-                        "planting_dates_months": {
-                            "start_indoors": [],
-                            "transplant": [],
-                            "start_outdoors": ["April", "May"],
-                            "harvest": ["July", "August"]
-                        },
-                        "planting_dates_description": {
-                            "start_indoors": "Not Recommended",
-                            "transplant": "Not Recommended",
-                            "start_outdoors": "Directly sow corn seeds outdoors once soil temperatures consistently reach at least 60°F (15.5°C), typically in April to May.",
-                            "harvest": "Harvest corn in mid to late summer."
-                        }
-                    },
-                    {
-                        "zone": ["9a","9b","10a","10b"],
-                        "planting_dates_months": {
-                            "start_indoors": [],
-                            "transplant": [],
-                            "start_outdoors": ["March", "April"],
-                            "harvest": ["June", "July"]
-                        },
-                        "planting_dates_description": {
-                            "start_indoors": "Not Recommended",
-                            "transplant": "Not Recommended",
-                            "start_outdoors": "Directly sow corn seeds outdoors once soil temperatures consistently reach at least 60°F (15.5°C), typically in March to April.",
-                            "harvest": "Harvest corn in late spring to mid-summer."
-                        }
-                    },
-                    {
-                        "zone": ["11a","11b","12a","12b"],
-                        "planting_dates_months": {
-                            "start_indoors": [],
-                            "transplant": [],
-                            "start_outdoors": ["Year-round", "Year-round"],
-                            "harvest": ["Year-round", "Year-round"]
-                        },
-                        "planting_dates_description": {
-                            "start_indoors": "Not Recommended",
-                            "transplant": "Not Recommended",
-                            "start_outdoors": "Directly sow corn seeds outdoors year-round in warm climates.",
-                            "harvest": "Harvest corn year-round in warm climates."
-                        }
-                    }
-                ]
+          "id": 14,
+          "name": "corn",
+          "plant_category": "Grain Vegetable",
+          "varieties_common_features": {
+            "sunlight_requirement": "Full Sun",
+            "sunlight_hours_min": 6,
+            "sunlight_hours_optimal": 8,
+            "propagation_methods": ["Seeds"],
+            "soil_acidity_range": {
+              "lower_bound": 6.0,
+              "upper_bound": 7.5
             },
-            "varieties": [
-                {
-                    "id": 0,
-                  "name": "Golden Bantam",
-                  "description": "Golden Bantam is a classic corn variety that has been a favorite among gardeners for its sweet and flavorful kernels. The golden-yellow ears are tender and ideal for fresh eating, grilling, and roasting. With a tall upright growth habit, Golden Bantam corn is a reliable choice for home gardens and provides a delicious addition to summer meals.",
-                  "spacing": "12-18 inches",
-                  "days_to_harvest": {
-                    "lower_estimate": 70,
-                    "higher_estimate": 90
-                  },
-                  "is_container_variety": false,
-                  "fruit_length": "7-8 inches",
-                  "fruit_color": "Golden Yellow",
-                  "fruit_weight": "8-10 ounces",
-                  "plant_height": "5-6 feet",
-                  "leaf_color": "Green",
-                  "flower_color": "Golden Yellow",
-                  "growth_mode": null,
-                  "best_uses": ["Fresh Eating", "Grilling", "Roasting"],
-                  "needs_support": false,
-                  "water_requirement": "Regular watering",
-                  "feeding_requirement": "Nitrogen-rich fertilizer",
-                  "requires_pruning": false,
-                  "fun_fact": "Golden Bantam, introduced in the early 1900s, is one of the first widely popular sweet corn varieties, revolutionizing the way people enjoyed corn on the cob.",
-                  "planting_tip": "For successful cultivation, plant Golden Bantam corn seeds in well-drained soil with good sunlight. Ensure proper spacing between plants and rows. Water consistently, especially during the critical pollination period. Harvest the ears when the silks are brown, and the kernels are plump.",
-                  "overwrite_common_features": {
-                  }
+            "soil_type_preference": ["Loamy", "Well-draining", "Rich in organic matter"],
+            "drainage_requirement": "Well-draining",
+            "days_to_germination": "7-10 days",
+            "frost_tolerance": false,
+            "planting_depth": "1-2 inches",
+            "spacing": "12-18 inches apart in rows 30-36 inches apart",
+            "life_cycle": "Annual",
+            "season": "Warm",
+            "typical_yield_range": "1-2 ears per stalk",
+            "companion_plants": ["Beans", "Peas", "Squash", "Cucumbers", "Pumpkins", "Sunflowers"],
+            "avoid_planting_with": ["Tomatoes", "Celery"],
+            "common_pests": ["Corn earworm", "European corn borer", "Corn rootworm", "Aphids", "Cutworms", "Japanese beetles"],
+            "common_diseases": ["Common rust", "Southern rust", "Northern corn leaf blight", "Gray leaf spot", "Stewart's wilt"],
+            "planting_zones_times": [
+              {
+                "zone": ["3a", "3b", "4a", "4b"],
+                "planting_dates_months": {
+                  "start_indoors": [],
+                  "transplant": [],
+                  "start_outdoors": ["May", "June"],
+                  "harvest": ["September", "October"]
                 },
-                {
-                    "id": 1,
-                  "name": "Peaches and Cream",
-                  "description": "Peaches and Cream corn is a popular bi-color variety known for its sweet and juicy kernels. The ears have a delightful combination of yellow and white kernels, making them visually appealing. With a tall upright growth habit, Peaches and Cream is a versatile choice for various culinary applications.",
-                  "spacing": "12-18 inches",
-                  "days_to_harvest": {
-                    "lower_estimate": 75,
-                    "higher_estimate": 85
-                  },
-                  "is_container_variety": false,
-                  "fruit_length": "8-10 inches",
-                  "fruit_color": "Yellow and White",
-                  "fruit_weight": "10-12 ounces",
-                  "plant_height": "6-7 feet",
-                  "leaf_color": "Green",
-                  "flower_color": "Yellow",
-                  "growth_mode": null,
-                  "best_uses": ["Fresh Eating", "Grilling", "Boiling"],
-                  "needs_support": false,
-                  "water_requirement": "Regular watering",
-                  "feeding_requirement": "Balanced fertilizer",
-                  "requires_pruning": false,
-                  "fun_fact": "Peaches and Cream corn is prized for its deliciously sweet flavor, reminiscent of summer peaches, making it a favorite among corn enthusiasts.",
-                  "planting_tip": "For successful cultivation, plant Peaches and Cream corn seeds in well-drained soil with good sunlight. Ensure proper spacing between plants and rows. Water consistently and provide support if needed. Harvest when ears are plump and tender.",
-                  "overwrite_common_features": {
-                  }
-                },
-                {
-                    "id": 2,
-                  "name": "Country Gentleman",
-                  "description": "Country Gentleman corn is a classic white variety known for its tender and flavorful kernels. The ears have a refined, creamy taste, making them a favorite for fresh eating and culinary applications. With a tall upright growth habit, Country Gentleman is a reliable choice for home gardens.",
-                  "spacing": "12-18 inches",
-                  "days_to_harvest": {
-                    "lower_estimate": 80,
-                    "higher_estimate": 95
-                  },
-                  "is_container_variety": false,
-                  "fruit_length": "6-7 inches",
-                  "fruit_color": "White",
-                  "fruit_weight": "8-10 ounces",
-                  "plant_height": "5-6 feet",
-                  "leaf_color": "Green",
-                  "flower_color": "Yellow",
-                  "growth_mode": null,
-                  "best_uses": ["Fresh Eating", "Grilling", "Steaming"],
-                  "needs_support": false,
-                  "water_requirement": "Regular watering",
-                  "feeding_requirement": "Balanced fertilizer",
-                  "requires_pruning": false,
-                  "fun_fact": "Country Gentleman corn, also known as the 'Shoepeg Corn,' is valued for its unique kernel arrangement, resembling the shape of a shoepeg or shoe nail.",
-                  "planting_tip": "For successful cultivation, plant Country Gentleman corn seeds in well-drained soil with good sunlight. Ensure proper spacing between plants and rows. Water consistently, especially during hot weather. Harvest when ears are plump and tender.",
-                  "overwrite_common_features": {
-                  }
-                },
-                
-                {
-                    "id": 3,
-                  "name": "Glass Gem",
-                  "description": "Glass Gem corn is a unique and stunning variety known for its vibrant and multicolored kernels. The ears resemble a rainbow of colors, making it a popular choice for decorative and ornamental purposes. With a tall upright growth habit, Glass Gem adds a splash of color to garden landscapes.",
-                  "spacing": "12-18 inches",
-                  "days_to_harvest": {
-                    "lower_estimate": 90,
-                    "higher_estimate": 100
-                  },
-                  "is_container_variety": false,
-                  "fruit_length": "6-8 inches",
-                  "fruit_color": "Multicolored (Rainbow)",
-                  "fruit_weight": "10-12 ounces",
-                  "plant_height": "5-6 feet",
-                  "leaf_color": "Green",
-                  "flower_color": "Various Colors",
-                  "growth_mode": null,
-                  "best_uses": ["Decorative Corn", "Ornamental Gardens"],
-                  "needs_support": false,
-                  "water_requirement": "Regular watering",
-                  "feeding_requirement": "Balanced fertilizer",
-                  "requires_pruning": false,
-                  "fun_fact": "Glass Gem corn gained popularity for its breathtakingly beautiful kernels, which can display a wide range of colors, resembling gemstones.",
-                  "planting_tip": "For successful cultivation, plant Glass Gem corn seeds in well-drained soil with good sunlight. Ensure proper spacing between plants and rows. Water consistently and provide support if needed. Harvest when ears are plump and tender.",
-                  "overwrite_common_features": {
-                  }
-                },
-                {
-                    "id": 4,
-                  "name": "Dakota Black",
-                  "description": "Dakota Black corn is a distinctive variety with dark black kernels, adding a unique touch to both culinary dishes and decorative use. The ears have a rich flavor, making them suitable for various culinary applications. With a tall upright growth habit, Dakota Black is a standout choice for gardeners seeking something unique.",
-                  "spacing": "12-18 inches",
-                  "days_to_harvest": {
-                    "lower_estimate": 75,
-                    "higher_estimate": 85
-                  },
-                  "is_container_variety": false,
-                  "fruit_length": "7-9 inches",
-                  "fruit_color": "Black",
-                  "fruit_weight": "8-10 ounces",
-                  "plant_height": "5-6 feet",
-                  "leaf_color": "Green",
-                  "flower_color": "Yellow",
-                  "growth_mode": null,
-                  "best_uses": ["Unique Culinary Dishes", "Decorative Corn"],
-                  "needs_support": false,
-                  "water_requirement": "Regular watering",
-                  "feeding_requirement": "Balanced fertilizer",
-                  "requires_pruning": false,
-                  "fun_fact": "Dakota Black corn is prized for its deep black kernels, which provide a visually striking element to gardens and culinary creations.",
-                  "planting_tip": "For successful cultivation, plant Dakota Black corn seeds in well-drained soil with good sunlight. Ensure proper spacing between plants and rows. Water consistently and provide support if needed. Harvest when ears are plump and tender.",
-                  "overwrite_common_features": {
-                  }
+                "planting_dates_description": {
+                  "start_indoors": "Not recommended - corn does not transplant well due to sensitive root system.",
+                  "transplant": "Not recommended - corn does not transplant well due to sensitive root system.",
+                  "start_outdoors": "Directly sow corn seeds outdoors once soil temperatures consistently reach at least 60°F (15.5°C), typically in late May to early June.",
+                  "harvest": "Harvest corn in late summer and early fall."
                 }
+              },
+              {
+                "zone": ["5a", "5b", "6a", "6b"],
+                "planting_dates_months": {
+                  "start_indoors": [],
+                  "transplant": [],
+                  "start_outdoors": ["April", "May"],
+                  "harvest": ["August", "September"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Not recommended - corn does not transplant well due to sensitive root system.",
+                  "transplant": "Not recommended - corn does not transplant well due to sensitive root system.",
+                  "start_outdoors": "Directly sow corn seeds outdoors once soil temperatures consistently reach at least 60°F (15.5°C), typically in April to May.",
+                  "harvest": "Harvest corn in late summer and early fall."
+                }
+              },
+              {
+                "zone": ["7a", "7b", "8a", "8b"],
+                "planting_dates_months": {
+                  "start_indoors": [],
+                  "transplant": [],
+                  "start_outdoors": ["April", "May"],
+                  "harvest": ["July", "August"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Not recommended - corn does not transplant well due to sensitive root system.",
+                  "transplant": "Not recommended - corn does not transplant well due to sensitive root system.",
+                  "start_outdoors": "Directly sow corn seeds outdoors once soil temperatures consistently reach at least 60°F (15.5°C), typically in April to May.",
+                  "harvest": "Harvest corn in mid to late summer."
+                }
+              },
+              {
+                "zone": ["9a", "9b", "10a", "10b"],
+                "planting_dates_months": {
+                  "start_indoors": [],
+                  "transplant": [],
+                  "start_outdoors": ["March", "April"],
+                  "harvest": ["June", "July"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Not recommended - corn does not transplant well due to sensitive root system.",
+                  "transplant": "Not recommended - corn does not transplant well due to sensitive root system.",
+                  "start_outdoors": "Directly sow corn seeds outdoors once soil temperatures consistently reach at least 60°F (15.5°C), typically in March to April.",
+                  "harvest": "Harvest corn in late spring to mid-summer."
+                }
+              },
+              {
+                "zone": ["11a", "11b", "12a", "12b"],
+                "planting_dates_months": {
+                  "start_indoors": [],
+                  "transplant": [],
+                  "start_outdoors": ["Year-round"],
+                  "harvest": ["Year-round"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Not recommended - corn does not transplant well due to sensitive root system.",
+                  "transplant": "Not recommended - corn does not transplant well due to sensitive root system.",
+                  "start_outdoors": "Directly sow corn seeds outdoors year-round in warm climates, avoiding extreme heat periods.",
+                  "harvest": "Harvest corn year-round in warm climates."
+                }
+              }
             ]
+          },
+          "varieties": [
+            {
+              "id": 0,
+              "name": "Golden Bantam",
+              "description": "Golden Bantam is a classic corn variety that has been a favorite among gardeners since the early 1900s for its sweet and flavorful kernels. The golden-yellow ears are tender and ideal for fresh eating, grilling, and roasting. With a tall upright growth habit, Golden Bantam corn is a reliable heirloom choice for home gardens and provides a delicious addition to summer meals.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 70,
+                  "higher_estimate": 90
+                },
+                "plant_height": "5-6 feet",
+                "spacing": "12-18 inches apart in rows 30-36 inches apart",
+                "is_container_variety": false,
+                "recommended_container_size": "Not recommended for containers",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Golden yellow (tassels)",
+                "leaf_color": "Green"
+              },
+              "care_requirements": {
+                "water_requirement": "1-1.5 inches per week, especially during tasseling and ear development",
+                "feeding_requirement": "Nitrogen-rich fertilizer at planting and when 12 inches tall",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "1-2 ears per stalk",
+                "best_uses": ["Fresh eating", "Grilling", "Roasting", "Boiling"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Good",
+                "cold_tolerance": "Poor",
+                "frost_tolerance": false,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Moderate disease resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Sweet, rich corn flavor, tender and creamy"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Golden yellow",
+                "fruit_weight": "8-10 ounces",
+                "skin_thickness": "Thin kernels",
+                "seed_cavity_size": "N/A",
+                "storage_quality": "Best eaten fresh; refrigerate for 2-3 days or freeze",
+                "crack_resistance": "Good"
+              },
+              "herb_characteristics": null,
+              "root_characteristics": null,
+              "leaf_crop_characteristics": null,
+              "flower_characteristics": null,
+              "fun_fact": "Golden Bantam, introduced in the early 1900s, is one of the first widely popular sweet corn varieties, revolutionizing the way people enjoyed corn on the cob and setting the standard for sweet corn flavor.",
+              "planting_tip": "Plant Golden Bantam in blocks of at least 4 rows rather than single rows to ensure good pollination by wind. Sow seeds 1-2 inches deep when soil reaches 60°F. Harvest when silks turn brown and kernels are plump and milky when pierced."
+            },
+            {
+              "id": 1,
+              "name": "Peaches and Cream",
+              "description": "Peaches and Cream corn is a popular bi-color variety known for its sweet and juicy kernels. The ears have a delightful combination of yellow and white kernels, making them visually appealing and delicious. With a tall upright growth habit and excellent flavor, Peaches and Cream is a versatile choice for various culinary applications.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 75,
+                  "higher_estimate": 85
+                },
+                "plant_height": "6-7 feet",
+                "spacing": "12-18 inches apart in rows 30-36 inches apart",
+                "is_container_variety": false,
+                "recommended_container_size": "Not recommended for containers",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Yellow (tassels)",
+                "leaf_color": "Green"
+              },
+              "care_requirements": {
+                "water_requirement": "1-1.5 inches per week, consistent moisture during ear development",
+                "feeding_requirement": "Balanced fertilizer at planting and side-dress when knee-high",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "1-2 ears per stalk",
+                "best_uses": ["Fresh eating", "Grilling", "Boiling", "Freezing"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Good",
+                "cold_tolerance": "Poor",
+                "frost_tolerance": false,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Some rust resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Very sweet, reminiscent of peaches and cream, juicy"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Yellow and white kernels (bi-color)",
+                "fruit_weight": "10-12 ounces",
+                "skin_thickness": "Thin, tender kernels",
+                "seed_cavity_size": "N/A",
+                "storage_quality": "Best fresh; refrigerate for 2-3 days or freeze",
+                "crack_resistance": "Good"
+              },
+              "herb_characteristics": null,
+              "root_characteristics": null,
+              "leaf_crop_characteristics": null,
+              "flower_characteristics": null,
+              "fun_fact": "Peaches and Cream corn is prized for its deliciously sweet flavor, reminiscent of summer peaches, making it a favorite among corn enthusiasts. The bi-color kernels add beautiful visual appeal to any dish!",
+              "planting_tip": "Plant in blocks for better pollination. Water deeply and consistently, especially during silk and tassel formation. Harvest when kernels squirt milky juice when punctured - this is the 'milk stage' when flavor is at its peak."
+            },
+            {
+              "id": 2,
+              "name": "Country Gentleman",
+              "description": "Country Gentleman corn is a classic white heirloom variety known for its tender and flavorful kernels arranged in an irregular, shoepeg pattern. The ears have a refined, creamy taste, making them a favorite for fresh eating and culinary applications. With a tall upright growth habit, Country Gentleman is a reliable choice for home gardens seeking old-fashioned corn flavor.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 80,
+                  "higher_estimate": 95
+                },
+                "plant_height": "5-6 feet",
+                "spacing": "12-18 inches apart in rows 30-36 inches apart",
+                "is_container_variety": false,
+                "recommended_container_size": "Not recommended for containers",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Yellow (tassels)",
+                "leaf_color": "Green"
+              },
+              "care_requirements": {
+                "water_requirement": "1-1.5 inches per week, especially during hot weather and ear fill",
+                "feeding_requirement": "Balanced fertilizer at planting and when plants are knee-high",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "1-2 ears per stalk",
+                "best_uses": ["Fresh eating", "Grilling", "Steaming", "Creamed corn"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Good",
+                "cold_tolerance": "Poor",
+                "frost_tolerance": false,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Moderate disease resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Sweet, creamy, refined flavor with tender kernels"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "White",
+                "fruit_weight": "8-10 ounces",
+                "skin_thickness": "Very thin, tender kernels",
+                "seed_cavity_size": "N/A",
+                "storage_quality": "Best fresh; refrigerate for 2-3 days",
+                "crack_resistance": "Good"
+              },
+              "herb_characteristics": null,
+              "root_characteristics": null,
+              "leaf_crop_characteristics": null,
+              "flower_characteristics": null,
+              "fun_fact": "Country Gentleman corn, also known as 'Shoepeg Corn,' is valued for its unique kernel arrangement, with kernels packed in irregular zigzag rows resembling the shape of a shoepeg or shoe nail, rather than the typical straight rows.",
+              "planting_tip": "This heirloom variety has exceptional flavor but takes longer to mature. Plant in warm soil and ensure good pollination by planting in blocks. The irregular kernel pattern is normal and indicates authentic Country Gentleman corn!"
+            },
+            {
+              "id": 3,
+              "name": "Glass Gem",
+              "description": "Glass Gem corn is a unique and stunning ornamental variety known for its vibrant and multicolored kernels that resemble translucent gemstones. The ears display a rainbow of colors including blue, purple, pink, green, yellow, and red. This flint corn variety is primarily grown for decorative purposes but can also be ground into cornmeal. With a tall upright growth habit, Glass Gem adds spectacular color to garden landscapes.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 90,
+                  "higher_estimate": 110
+                },
+                "plant_height": "5-7 feet",
+                "spacing": "12-18 inches apart in rows 30-36 inches apart",
+                "is_container_variety": false,
+                "recommended_container_size": "Not recommended for containers",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Various colors (tassels)",
+                "leaf_color": "Green"
+              },
+              "care_requirements": {
+                "water_requirement": "1 inch per week, can tolerate some dryness once established",
+                "feeding_requirement": "Balanced fertilizer at planting",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "1-2 ears per stalk",
+                "best_uses": ["Decorative corn", "Ornamental displays", "Fall decorations", "Grinding into cornmeal"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Excellent",
+                "cold_tolerance": "Poor",
+                "frost_tolerance": false,
+                "drought_tolerance": "Good",
+                "disease_resistance": ["Good disease resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Not for fresh eating; can be ground into sweet, nutty cornmeal"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Multicolored (rainbow of blues, purples, pinks, greens, yellows, reds)",
+                "fruit_weight": "8-12 ounces",
+                "skin_thickness": "Hard flint kernels",
+                "seed_cavity_size": "N/A",
+                "storage_quality": "Excellent for long-term storage and display when fully dried",
+                "crack_resistance": "Excellent when dried properly"
+              },
+              "herb_characteristics": null,
+              "root_characteristics": null,
+              "leaf_crop_characteristics": null,
+              "flower_characteristics": null,
+              "fun_fact": "Glass Gem corn gained international popularity for its breathtakingly beautiful kernels, which can display a wide range of translucent colors resembling gemstones. It was developed by Carl Barnes, a part-Cherokee farmer who bred it to reconnect with his heritage!",
+              "planting_tip": "Allow ears to fully mature and dry on the stalk for the most vibrant colors. Isolate from sweet corn by at least 250 feet to prevent cross-pollination. Harvest when husks are completely dry and kernels are hard. The color intensity increases as the corn dries."
+            },
+            {
+              "id": 4,
+              "name": "Dakota Black",
+              "description": "Dakota Black corn is a distinctive heirloom variety with dark black to deep purple kernels, adding a unique and dramatic touch to both culinary dishes and decorative use. This flint corn has a rich, earthy flavor when ground into flour or meal. With a tall upright growth habit, Dakota Black is a standout choice for gardeners seeking something unique and historically significant.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 90,
+                  "higher_estimate": 110
+                },
+                "plant_height": "5-6 feet",
+                "spacing": "12-18 inches apart in rows 30-36 inches apart",
+                "is_container_variety": false,
+                "recommended_container_size": "Not recommended for containers",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Yellow (tassels)",
+                "leaf_color": "Green"
+              },
+              "care_requirements": {
+                "water_requirement": "1 inch per week, drought-tolerant once established",
+                "feeding_requirement": "Balanced fertilizer at planting",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "1-2 ears per stalk",
+                "best_uses": ["Grinding into flour/cornmeal", "Decorative corn", "Popcorn (some strains)", "Traditional Native American dishes"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Excellent",
+                "cold_tolerance": "Good",
+                "frost_tolerance": false,
+                "drought_tolerance": "Excellent",
+                "disease_resistance": ["Good disease resistance", "Pest resistant"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Rich, earthy, slightly sweet when ground; nutty undertones"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Black to deep purple",
+                "fruit_weight": "8-10 ounces",
+                "skin_thickness": "Hard flint kernels",
+                "seed_cavity_size": "N/A",
+                "storage_quality": "Excellent for long-term storage when dried properly",
+                "crack_resistance": "Excellent"
+              },
+              "herb_characteristics": null,
+              "root_characteristics": null,
+              "leaf_crop_characteristics": null,
+              "flower_characteristics": null,
+              "fun_fact": "Dakota Black corn is prized for its deep black kernels, which provide a visually striking element to gardens and culinary creations. This ancient variety was traditionally grown by Native American tribes in the Great Plains region!",
+              "planting_tip": "Allow ears to dry completely on the stalk until husks are brown and papery. This flint corn requires full maturity for best color and flavor. Grind the dried kernels into a beautiful purple-black flour rich in antioxidants. Isolate from sweet corn to maintain purity."
+            },
+            {
+              "id": 5,
+              "name": "Silver Queen",
+              "description": "Silver Queen is one of the most beloved white sweet corn varieties, famous for its exceptionally sweet flavor and tender kernels. The large ears are filled with plump, creamy white kernels that remain sweet and tender longer than many varieties. Silver Queen has been a garden favorite since the 1950s and is considered by many to be the standard by which all other white corn is measured.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 88,
+                  "higher_estimate": 92
+                },
+                "plant_height": "7-8 feet",
+                "spacing": "12-18 inches apart in rows 30-36 inches apart",
+                "is_container_variety": false,
+                "recommended_container_size": "Not recommended for containers",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Yellow (tassels)",
+                "leaf_color": "Dark green"
+              },
+              "care_requirements": {
+                "water_requirement": "1-1.5 inches per week, consistent moisture crucial",
+                "feeding_requirement": "Heavy feeder - nitrogen-rich fertilizer at planting and side-dress twice",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "1-2 large ears per stalk",
+                "best_uses": ["Fresh eating", "Grilling", "Boiling", "Freezing"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Excellent",
+                "cold_tolerance": "Poor",
+                "frost_tolerance": false,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Some Stewart's wilt resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Exceptionally sweet, tender, creamy with classic white corn flavor"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Creamy white",
+                "fruit_weight": "12-14 ounces",
+                "skin_thickness": "Very thin, tender kernels",
+                "seed_cavity_size": "N/A",
+                "storage_quality": "Best fresh; sweetness holds well; refrigerate for up to 3 days",
+                "crack_resistance": "Good"
+              },
+              "herb_characteristics": null,
+              "root_characteristics": null,
+              "leaf_crop_characteristics": null,
+              "flower_characteristics": null,
+              "fun_fact": "Silver Queen has been a garden staple since 1956 and is often called the 'Queen of White Corn'! It's so popular that some gardeners won't grow any other variety, and many farm stands sell out of Silver Queen first!",
+              "planting_tip": "Silver Queen needs warm soil (at least 65°F) to germinate well. Plant in blocks of at least 4 rows for best pollination. This variety loves heat and performs exceptionally well in hot summer climates. Pick ears when silks are brown and dry for peak sweetness."
+            }
+          ]
         }
     ]
 }
