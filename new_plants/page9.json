@@ -1,0 +1,517 @@
+{
+    "next": null,
+    "previous": "https://raw.githubusercontent.com/BorisOften/MyGardenDataBase/develop/new_plants/page8.json",
+    "results": [
+        {
+          "id": 40,
+          "name": "chard",
+          "plant_category": "Vegetable",
+          "varieties_common_features": {
+            "sunlight_requirement": "Full Sun to Partial Shade",
+            "sunlight_hours_min": 4,
+            "sunlight_hours_optimal": 6,
+            "propagation_methods": ["Seeds"],
+            "soil_acidity_range": {
+              "lower_bound": 6.0,
+              "upper_bound": 7.5
+            },
+            "soil_type_preference": ["Loamy", "Well-draining", "Rich in organic matter"],
+            "drainage_requirement": "Well-draining",
+            "days_to_germination": "7-14 days",
+            "frost_tolerance": true,
+            "planting_depth": "1/2 inch",
+            "spacing": "6-12 inches",
+            "life_cycle": "Annual (biennial in mild climates)",
+            "season": "Cool to warm",
+            "typical_yield_range": "40-60 leaves per square foot",
+            "companion_plants": ["Lettuce", "Spinach", "Beets", "Onions", "Carrots", "Beans"],
+            "avoid_planting_with": ["Fennel"],
+            "common_pests": ["Flea beetles", "Leaf miners", "Aphids", "Spider mites"],
+            "common_diseases": ["Powdery mildew", "Downy mildew", "Leaf spot"],
+            "planting_zones_times": [
+              {
+                "zone": ["3a", "3b", "4a", "4b"],
+                "planting_dates_months": {
+                  "start_indoors": ["April", "May"],
+                  "transplant": ["May", "June"],
+                  "start_outdoors": ["May", "June"],
+                  "harvest": ["July", "August", "September"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Start chard seeds indoors 4-6 weeks before last frost date in April to May.",
+                  "transplant": "Transplant seedlings outdoors after last frost date in May to June.",
+                  "start_outdoors": "Direct sow chard seeds outdoors after last frost date in May to June.",
+                  "harvest": "Begin harvesting in mid to late summer and continue through early fall."
+                }
+              },
+              {
+                "zone": ["5a", "5b", "6a", "6b"],
+                "planting_dates_months": {
+                  "start_indoors": ["March", "April"],
+                  "transplant": ["May", "June"],
+                  "start_outdoors": ["April", "May"],
+                  "harvest": ["June", "July", "August", "September", "October"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Start chard seeds indoors 4-6 weeks before last frost date in March to April.",
+                  "transplant": "Transplant seedlings outdoors after last frost date in May to June.",
+                  "start_outdoors": "Direct sow chard seeds outdoors in spring in April to May.",
+                  "harvest": "Begin harvesting in early summer and continue through fall."
+                }
+              },
+              {
+                "zone": ["7a", "7b", "8a", "8b"],
+                "planting_dates_months": {
+                  "start_indoors": ["February", "March", "July", "August"],
+                  "transplant": ["April", "May", "September", "October"],
+                  "start_outdoors": ["March", "April", "August", "September"],
+                  "harvest": ["May", "June", "October", "November"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Start chard seeds indoors in early spring and again in mid-summer for fall harvest.",
+                  "transplant": "Transplant seedlings outdoors in spring and fall.",
+                  "start_outdoors": "Direct sow chard seeds in early spring and mid to late summer.",
+                  "harvest": "Harvest in late spring and again in fall and early winter."
+                }
+              },
+              {
+                "zone": ["9a", "9b", "10a", "10b"],
+                "planting_dates_months": {
+                  "start_indoors": ["September", "October"],
+                  "transplant": ["November", "December"],
+                  "start_outdoors": ["September", "October", "November"],
+                  "harvest": ["December", "January", "February", "March"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Start chard seeds indoors in early fall in September to October.",
+                  "transplant": "Transplant seedlings outdoors in late fall in November to December.",
+                  "start_outdoors": "Direct sow chard seeds in fall and early winter.",
+                  "harvest": "Harvest during mild winter months from December through March."
+                }
+              },
+              {
+                "zone": ["11a", "11b", "12a", "12b"],
+                "planting_dates_months": {
+                  "start_indoors": ["October", "November"],
+                  "transplant": ["December", "January"],
+                  "start_outdoors": ["October", "November", "December"],
+                  "harvest": ["January", "February", "March", "April"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Start chard seeds indoors in fall and early winter.",
+                  "transplant": "Transplant seedlings outdoors in winter months.",
+                  "start_outdoors": "Direct sow chard seeds in fall and winter.",
+                  "harvest": "Harvest during cool season months in winter and early spring."
+                }
+              }
+            ]
+          },
+          "varieties": [
+            {
+              "id": 0,
+              "name": "Bright Lights",
+              "description": "Bright Lights is a stunning multi-colored chard variety that brings vibrant ornamental appeal to vegetable gardens. This hybrid produces large, crinkled leaves in shades of green, yellow, orange, red, pink, and purple, with matching colorful stems. Despite its beauty, it's highly productive and has excellent flavor with tender leaves and mild taste.",
+              "growth_info": {
+                "growth_mode": "Upright spreading",
+                "days_to_harvest": {
+                  "lower_estimate": 45,
+                  "higher_estimate": 65
+                },
+                "plant_height": "18-24 inches",
+                "spacing": "6-12 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "10-12 inches deep",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Yellow to pink",
+                "leaf_color": "Multi-colored (green, red, pink, orange, yellow, purple)"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering, 1-2 inches per week",
+                "feeding_requirement": "Moderate feeder, apply balanced fertilizer every 4-6 weeks",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "50-70 leaves per square foot",
+                "best_uses": ["Salads", "Sautéing", "Cooking", "Ornamental display", "Fresh eating"]
+              },
+              "tolerances": {
+                "heat_tolerance": "High",
+                "cold_tolerance": "High",
+                "frost_tolerance": true,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": []
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Mild, tender, slightly sweet with subtle earthy undertones"
+              },
+              "leafCropCharacteristics": {
+                "head_type": "Loose leaves on thick colorful stems",
+                "leaf_texture": "Crinkled, tender, large",
+                "days_to_maturity": "45-65 days",
+                "bolt_resistance": "Very good"
+              },
+              "fun_fact": "Bright Lights chard was an All-America Selections winner in 1995 and is one of the most visually stunning vegetables you can grow, making it popular in ornamental potagers and cottage gardens.",
+              "planting_tip": "Bright Lights thrives in full sun where the leaf colors are most vibrant, though it tolerates partial shade. Direct sow seeds 1/2 inch deep in spring or transplant seedlings. Space plants 6-12 inches apart depending on desired leaf size. Keep soil consistently moist for tender leaves. Begin harvesting outer leaves when they're 4-6 inches long by cutting at the base. Regular harvesting encourages continuous production. This variety is stunning in containers and mixed vegetable beds. Leaves are beautiful in raw salads and retain their colors somewhat when cooked."
+            },
+            {
+              "id": 1,
+              "name": "Fordhook Giant",
+              "description": "Fordhook Giant is a classic heirloom chard variety with large, dark green savoyed leaves and thick, white, tender stems. This vigorous grower produces abundant, high-quality harvests and is one of the most dependable chard varieties for home gardeners. The substantial stems are especially prized for cooking and have a mild, slightly sweet flavor.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 50,
+                  "higher_estimate": 70
+                },
+                "plant_height": "20-28 inches",
+                "spacing": "9-12 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "12 inches deep",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Yellow",
+                "leaf_color": "Dark green"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering, 1-1.5 inches per week",
+                "feeding_requirement": "Moderate to heavy feeder, apply balanced fertilizer every 4 weeks",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "60-80 leaves per square foot",
+                "best_uses": ["Sautéing", "Steaming", "Cooking", "Soups", "Fresh eating"]
+              },
+              "tolerances": {
+                "heat_tolerance": "High",
+                "cold_tolerance": "Very high",
+                "frost_tolerance": true,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": []
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Mild, tender, slightly sweet with subtle mineral notes"
+              },
+              "leafCropCharacteristics": {
+                "head_type": "Loose leaves on thick white stems",
+                "leaf_texture": "Savoyed (crinkled), tender, large",
+                "days_to_maturity": "50-70 days",
+                "bolt_resistance": "Excellent"
+              },
+              "fun_fact": "Fordhook Giant has been a favorite since the 1930s and remains one of the best-performing chard varieties for long harvests and reliability in both home and commercial gardens.",
+              "planting_tip": "Fordhook Giant is extremely productive and reliable, making it perfect for succession plantings. Direct sow seeds or transplant seedlings in spring or summer. Space plants 9-12 inches apart to allow room for large leaves and thick stems. Keep soil consistently moist but not waterlogged. Harvest by cutting outer leaves at the base or by removing the entire leaf stem. The thick white stems are tender and delicious when separated from leaves and sautéed. This variety continues producing until frost and can provide 3-4 months of continuous harvest."
+            },
+            {
+              "id": 2,
+              "name": "Lucullus",
+              "description": "Lucullus is a heirloom Swiss chard variety with crinkled, yellow-green leaves and pale yellow stems. This cold-hardy, productive variety has tender leaves and mild flavor that's excellent for cooking. It's been cultivated since the 1800s and is popular in European cuisine for both leaves and stems.",
+              "growth_info": {
+                "growth_mode": "Upright spreading",
+                "days_to_harvest": {
+                  "lower_estimate": 50,
+                  "higher_estimate": 70
+                },
+                "plant_height": "16-22 inches",
+                "spacing": "9-12 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "10 inches deep",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Yellow to cream",
+                "leaf_color": "Yellow-green to chartreuse"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering, 1-1.5 inches per week",
+                "feeding_requirement": "Moderate feeder, apply balanced fertilizer every 4-6 weeks",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "50-70 leaves per square foot",
+                "best_uses": ["Sautéing", "Cooking", "European cuisine", "Soups"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Moderate to high",
+                "cold_tolerance": "Very high",
+                "frost_tolerance": true,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": []
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Mild, tender, delicate with subtle sweetness"
+              },
+              "leafCropCharacteristics": {
+                "head_type": "Loose leaves on pale yellow stems",
+                "leaf_texture": "Crinkled, tender, medium-sized",
+                "days_to_maturity": "50-70 days",
+                "bolt_resistance": "Very good"
+              },
+              "fun_fact": "Lucullus chard is named after Lucullus, a wealthy Roman general famous for his lavish feasts, reflecting the culinary elegance this vegetable brings to European cooking traditions.",
+              "planting_tip": "Lucullus is an excellent choice for spring and fall gardening and performs well in both seasons. Direct sow seeds 1/2 inch deep or transplant seedlings. Space plants 9-12 inches apart. The distinctive yellow-green leaves make it visually interesting in the garden and on the plate. Keep soil consistently moist and apply mulch to help regulate temperature and moisture. Begin harvesting when leaves are 6-8 inches long by cutting outer stems at the base. The pale yellow stems are particularly tender and cook quickly. This variety is excellent for succession planting for continuous harvest."
+            }
+          ]
+        },
+        {
+          "id": 41,
+          "name": "asparagus",
+          "plant_category": "Vegetable",
+          "varieties_common_features": {
+            "sunlight_requirement": "Full Sun",
+            "sunlight_hours_min": 6,
+            "sunlight_hours_optimal": 8,
+            "propagation_methods": ["Seeds", "Crowns"],
+            "soil_acidity_range": {
+              "lower_bound": 6.0,
+              "upper_bound": 8.0
+            },
+            "soil_type_preference": ["Loamy", "Well-draining", "Rich in organic matter"],
+            "drainage_requirement": "Well-draining",
+            "days_to_germination": "14-21 days",
+            "frost_tolerance": true,
+            "planting_depth": "6-8 inches (crowns)",
+            "spacing": "12-18 inches",
+            "life_cycle": "Perennial",
+            "season": "Cool to warm",
+            "typical_yield_range": "1-2 pounds per plant annually (after establishment)",
+            "companion_plants": ["Tomatoes", "Basil", "Parsley", "Carrots", "Onions", "Lettuce"],
+            "avoid_planting_with": ["Fennel", "Kohlrabi", "Potatoes"],
+            "common_pests": ["Asparagus beetles", "Japanese beetles", "Slugs", "Spider mites"],
+            "common_diseases": ["Rust", "Fusarium wilt", "Root rot", "Cercospora leaf spot"],
+            "planting_zones_times": [
+              {
+                "zone": ["3a", "3b", "4a", "4b"],
+                "planting_dates_months": {
+                  "start_indoors": ["February", "March"],
+                  "transplant": ["May", "June"],
+                  "start_outdoors": ["April", "May"],
+                  "harvest": ["Year 3+: May through June"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Start asparagus seeds indoors 8-10 weeks before last frost in February to March for crown production.",
+                  "transplant": "Transplant crowns or seedlings outdoors after last frost in May to June into prepared beds.",
+                  "start_outdoors": "Direct sow asparagus seeds in spring in April to May, though crown planting is preferred.",
+                  "harvest": "Do not harvest the first two years. Begin light harvest in year 3, increasing to full harvest by year 4."
+                }
+              },
+              {
+                "zone": ["5a", "5b", "6a", "6b"],
+                "planting_dates_months": {
+                  "start_indoors": ["February", "March"],
+                  "transplant": ["April", "May"],
+                  "start_outdoors": ["April", "May"],
+                  "harvest": ["Year 3+: May through June"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Start asparagus seeds indoors in late winter in February to March.",
+                  "transplant": "Transplant crowns or seedlings outdoors in spring in April to May.",
+                  "start_outdoors": "Direct sow asparagus seeds in spring in April to May.",
+                  "harvest": "Begin light harvest in year 3, increasing to full harvest by year 4. Harvest spears until early summer."
+                }
+              },
+              {
+                "zone": ["7a", "7b", "8a", "8b"],
+                "planting_dates_months": {
+                  "start_indoors": ["January", "February"],
+                  "transplant": ["March", "April"],
+                  "start_outdoors": ["March", "April"],
+                  "harvest": ["Year 3+: April through May"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Start asparagus seeds indoors in January to February.",
+                  "transplant": "Transplant crowns or seedlings outdoors in early spring in March to April.",
+                  "start_outdoors": "Direct sow asparagus seeds in early spring in March to April.",
+                  "harvest": "Begin light harvest in year 3. Harvest spears in spring before heat stress begins."
+                }
+              },
+              {
+                "zone": ["9a", "9b", "10a", "10b"],
+                "planting_dates_months": {
+                  "start_indoors": ["October", "November"],
+                  "transplant": ["December", "January"],
+                  "start_outdoors": ["November", "December"],
+                  "harvest": ["Year 3+: January through March"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Start asparagus seeds indoors in fall in October to November.",
+                  "transplant": "Transplant crowns or seedlings outdoors in late fall in December to January.",
+                  "start_outdoors": "Direct sow asparagus seeds in late fall in November to December.",
+                  "harvest": "Begin light harvest in year 3 during cool season months."
+                }
+              },
+              {
+                "zone": ["11a", "11b", "12a", "12b"],
+                "planting_dates_months": {
+                  "start_indoors": ["September", "October"],
+                  "transplant": ["November", "December"],
+                  "start_outdoors": ["October", "November"],
+                  "harvest": ["Year 3+: December through February"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Start asparagus seeds indoors in early fall in September to October.",
+                  "transplant": "Transplant crowns or seedlings outdoors in late fall in November to December.",
+                  "start_outdoors": "Direct sow asparagus seeds in fall in October to November.",
+                  "harvest": "Begin light harvest in year 3 during winter months. Provide afternoon shade in summer."
+                }
+              }
+            ]
+          },
+          "varieties": [
+            {
+              "id": 0,
+              "name": "Jersey Knight",
+              "description": "Jersey Knight is a modern all-male hybrid asparagus variety renowned for its exceptional productivity and vigor. As an all-male cultivar, it doesn't waste energy producing seeds, resulting in thicker, more abundant spears. This variety produces consistently high yields of thick, uniform, dark green spears and has excellent disease resistance.",
+              "growth_info": {
+                "growth_mode": "Vertical clumping",
+                "days_to_harvest": {
+                  "lower_estimate": 365,
+                  "higher_estimate": 730
+                },
+                "plant_height": "24-36 inches (foliage in season)",
+                "spacing": "12-18 inches",
+                "is_container_variety": false,
+                "recommended_container_size": "Not suitable for containers",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Greenish-yellow (not harvested)",
+                "leaf_color": "Bright green"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering, 1-2 inches per week during growing season",
+                "feeding_requirement": "Heavy feeder, apply balanced fertilizer in spring and after harvest",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "1-2 pounds per plant annually after year 3",
+                "best_uses": ["Fresh eating", "Steaming", "Grilling", "Sautéing"]
+              },
+              "tolerances": {
+                "heat_tolerance": "High",
+                "cold_tolerance": "Very high",
+                "frost_tolerance": true,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Rust resistance", "Fusarium wilt resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Tender, mild, slightly sweet with delicate grassy undertones"
+              },
+              "rootCharacteristics": {
+                "root_color": "White to pale tan",
+                "root_shape": "Deep rhizome system",
+                "root_size": "Extensive crown system",
+                "texture": "Fibrous with strong crowns",
+                "storage_life": "Establishes perennial root system"
+              },
+              "fun_fact": "Jersey Knight was developed at Rutgers University in New Jersey and is an all-male hybrid, meaning it produces 30-40% more spears than traditional varieties because it doesn't produce seeds.",
+              "planting_tip": "Plant Jersey Knight crowns in early spring in well-prepared beds amended with lots of organic matter. Dig trenches 6-8 inches deep and space crowns 12-18 inches apart. Cover crowns with 2 inches of soil initially, then gradually fill in the trench as shoots emerge. Do not harvest any spears the first two years to allow the crown to establish. In year 3, harvest lightly for 4-6 weeks. By year 4 and beyond, harvest for 8-10 weeks until spears become thin. Mulch heavily to suppress weeds and maintain moisture. Cut ferns back in fall after they yellow."
+            },
+            {
+              "id": 1,
+              "name": "Mary Washington",
+              "description": "Mary Washington is a classic heirloom asparagus variety developed in the early 1900s by the USDA and named after George Washington's home in Virginia. This open-pollinated variety produces tall plants with attractive fern-like foliage and dependable yields of flavorful spears. While not all-male, it has excellent vigor and disease resistance.",
+              "growth_info": {
+                "growth_mode": "Vertical clumping",
+                "days_to_harvest": {
+                  "lower_estimate": 365,
+                  "higher_estimate": 730
+                },
+                "plant_height": "36-48 inches (foliage in season)",
+                "spacing": "12-18 inches",
+                "is_container_variety": false,
+                "recommended_container_size": "Not suitable for containers",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Greenish-yellow",
+                "leaf_color": "Bright green, feathery"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering, 1-2 inches per week during growing season",
+                "feeding_requirement": "Heavy feeder, apply balanced fertilizer in spring and after harvest",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "0.75-1.5 pounds per plant annually after year 3",
+                "best_uses": ["Fresh eating", "Steaming", "Grilling", "Canning"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Moderate to high",
+                "cold_tolerance": "Very high",
+                "frost_tolerance": true,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Rust resistance", "Fusarium resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Sweet, tender, delicate with pleasant asparagus flavor"
+              },
+              "rootCharacteristics": {
+                "root_color": "White to tan",
+                "root_shape": "Deep rhizome system",
+                "root_size": "Well-developed crown system",
+                "texture": "Fibrous, vigorous root structure",
+                "storage_life": "Long-lived perennial, 15-20+ years"
+              },
+              "fun_fact": "Mary Washington asparagus was a gift from George Washington's home Mount Vernon to the USDA and has been one of America's most beloved heirloom varieties for over a century.",
+              "planting_tip": "Mary Washington thrives in full sun with well-draining soil enriched with compost or aged manure. Plant crowns in early spring 6-8 inches deep, spacing them 12-18 inches apart. Fill in trenches gradually as shoots emerge. This variety produces seed, which means some plant energy is directed to seed production rather than new spears, so yields are slightly lower than all-male varieties. However, it's a reliable, long-lived variety that can produce for 20+ years with proper care. Let the ferns grow tall in summer—they feed the crown. Cut them down in fall after frost."
+            },
+            {
+              "id": 2,
+              "name": "Purple Passion",
+              "description": "Purple Passion is a unique, visually striking asparagus variety with deep purple spears that turn green when cooked. This Italian heirloom produces tender, sweet spears and is prized by gourmet chefs for its distinctive appearance and subtle flavor differences. The purple color indicates high anthocyanin content with potential health benefits.",
+              "growth_info": {
+                "growth_mode": "Vertical clumping",
+                "days_to_harvest": {
+                  "lower_estimate": 365,
+                  "higher_estimate": 730
+                },
+                "plant_height": "30-42 inches (foliage in season)",
+                "spacing": "12-18 inches",
+                "is_container_variety": false,
+                "recommended_container_size": "Not suitable for containers",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Reddish-purple",
+                "leaf_color": "Dark green with purple tinges"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering, 1-2 inches per week during growing season",
+                "feeding_requirement": "Heavy feeder, apply balanced fertilizer in spring and after harvest",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "1-1.5 pounds per plant annually after year 3",
+                "best_uses": ["Fresh eating", "Grilling", "Specialty dishes", "Ornamental display"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Moderate to high",
+                "cold_tolerance": "Very high",
+                "frost_tolerance": true,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Good disease resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Sweet, tender, slightly more delicate than green varieties with subtle nuttiness"
+              },
+              "rootCharacteristics": {
+                "root_color": "White to tan",
+                "root_shape": "Deep rhizome system",
+                "root_size": "Strong, well-established crown system",
+                "texture": "Fibrous, healthy root development",
+                "storage_life": "Long-lived perennial, 15+ years"
+              },
+              "fun_fact": "Purple Passion asparagus contains higher levels of anthocyanins, the same antioxidant compounds found in blueberries and red wine, making it not only beautiful but potentially more nutritious.",
+              "planting_tip": "Purple Passion requires the same cultural practices as other asparagus varieties but is somewhat less cold hardy than green varieties, making it better suited to zones 6 and warmer. Plant crowns in well-prepared beds with excellent drainage in early spring. Space 12-18 inches apart and plant 6-8 inches deep. The distinctive purple color is most vibrant in cool weather and fades slightly in hot summers. Do not harvest the first two years. Beginning in year 3, harvest spears when they're 6-8 inches tall for best tenderness. The purple color turns green when steamed or boiled, but grilling preserves some of the purple hue. This variety makes an excellent ornamental as well as productive plant."
+            }
+          ]
+        }
+        
+    ]
+}
+
+
+
+
+
