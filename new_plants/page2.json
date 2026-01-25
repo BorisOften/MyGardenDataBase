@@ -4,7 +4,7 @@
     "results": [
         {
           "id": 5,
-          "name": "Mint",
+          "name": "mint",
           "plant_category": "Herb",
           "varieties_common_features": {
             "sunlight_requirement": "Full Sun to Partial Shade",
@@ -351,7 +351,7 @@
         },
         {
           "id": 6,
-          "name": "Dill",
+          "name": "dill",
           "plant_category": "Herb",
           "varieties_common_features": {
             "sunlight_requirement": "Full Sun",
@@ -1104,7 +1104,7 @@
         },
         {
           "id": 9,
-          "name": "Chives",
+          "name": "chives",
           "plant_category": "Herb",
           "varieties_common_features": {
             "sunlight_requirement": "Full Sun to Partial Shade",
