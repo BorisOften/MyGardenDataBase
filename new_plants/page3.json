@@ -447,7 +447,7 @@
         },
         {
           "id": 11,
-          "name": "Beans",
+          "name": "beans",
           "plant_category": "Vegetable",
           "varieties_common_features": {
             "sunlight_requirement": "Full Sun",
@@ -654,7 +654,7 @@
         },
         {
             "id": 12,
-            "name": "Cucumber",
+            "name": "cucumber",
             "plant_category": "Vegetable",
             "varieties_common_features": {
                 "sunlight_requirement": "Full Sun",
