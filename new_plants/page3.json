@@ -1,0 +1,2106 @@
+{
+    "next": "https://raw.githubusercontent.com/BorisOften/MyGardenDataBase/develop/new_plants/page4.json",
+    "previous": "https://raw.githubusercontent.com/BorisOften/MyGardenDataBase/develop/new_plants/page2.json",
+    "results": [
+        {
+          "id": 10,
+          "name": "lettuce",
+          "plant_category": "Leafy Green",
+          "varieties_common_features": {
+            "sunlight_requirement": "Full Sun to Partial Shade",
+            "sunlight_hours_min": 4,
+            "sunlight_hours_optimal": 6,
+            "propagation_methods": ["Seeds"],
+            "soil_acidity_range": {
+              "lower_bound": 6.0,
+              "upper_bound": 7.0
+            },
+            "soil_type_preference": ["Loamy", "Rich", "Well-draining"],
+            "drainage_requirement": "Well-drained but moisture-retentive",
+            "days_to_germination": "7-10 days",
+            "frost_tolerance": true,
+            "planting_depth": "1/4 inch",
+            "spacing": "8-12 inches",
+            "life_cycle": "Annual",
+            "season": "Cool",
+            "typical_yield_range": "Multiple harvests with succession planting",
+            "companion_plants": ["Carrots", "Radishes", "Strawberries", "Cucumbers", "Onions"],
+            "avoid_planting_with": ["Cabbage", "Broccoli", "Parsley"],
+            "common_pests": ["Aphids", "Slugs", "Snails", "Cutworms", "Leaf Miners"],
+            "common_diseases": ["Downy Mildew", "Bottom Rot", "Tipburn", "Lettuce Drop", "Bacterial Leaf Spot"],
+            "planting_zones_times": [
+              {
+                "zone": ["3a", "3b", "4a", "4b"],
+                "planting_dates_months": {
+                  "start_indoors": ["March", "April"],
+                  "transplant": ["April", "May"],
+                  "start_outdoors": ["April", "May", "August"],
+                  "harvest": ["May", "June", "July", "September", "October"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Start seeds indoors 4-6 weeks before the last frost date, typically in mid-March to early April.",
+                  "transplant": "Transplant seedlings outdoors 2-3 weeks before the last frost date - lettuce tolerates light frost.",
+                  "start_outdoors": "Sow seeds directly outdoors in early spring (April-May) as soon as soil can be worked, and again in late summer (August) for fall harvest. Succession plant every 2 weeks.",
+                  "harvest": "Harvest lettuce leaves in spring and fall. Lettuce bolts in summer heat."
+                }
+              },
+              {
+                "zone": ["5a", "5b", "6a", "6b"],
+                "planting_dates_months": {
+                  "start_indoors": ["February", "March"],
+                  "transplant": ["March", "April"],
+                  "start_outdoors": ["March", "April", "August", "September"],
+                  "harvest": ["April", "May", "June", "September", "October", "November"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Start seeds indoors 4-6 weeks before the last frost date, typically in late February to mid-March.",
+                  "transplant": "Transplant seedlings outdoors in March-April, 2-3 weeks before the last frost.",
+                  "start_outdoors": "Sow seeds directly outdoors in early spring (March-April) and late summer (August-September) for fall harvest. Succession plant every 2 weeks for continuous harvest.",
+                  "harvest": "Harvest lettuce from mid-spring through early summer, and again in fall. Some varieties may overwinter in zone 6 with protection."
+                }
+              },
+              {
+                "zone": ["7a", "7b", "8a", "8b"],
+                "planting_dates_months": {
+                  "start_indoors": ["January", "February"],
+                  "transplant": ["February", "March"],
+                  "start_outdoors": ["February", "March", "September", "October"],
+                  "harvest": ["March", "April", "May", "October", "November", "December"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Start seeds indoors in January-February for early spring transplanting.",
+                  "transplant": "Transplant seedlings outdoors in February-March for spring harvest.",
+                  "start_outdoors": "Sow seeds directly outdoors in early spring (February-March) and fall (September-October). Fall/winter growing is excellent in these zones. Succession plant every 2 weeks.",
+                  "harvest": "Harvest in spring and throughout fall and winter. Many varieties grow well through winter in zones 7-8."
+                }
+              },
+              {
+                "zone": ["9a", "9b", "10a", "10b"],
+                "planting_dates_months": {
+                  "start_indoors": ["October", "November"],
+                  "transplant": ["November", "December"],
+                  "start_outdoors": ["October", "November", "December", "January", "February"],
+                  "harvest": ["November", "December", "January", "February", "March", "April"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Start seeds indoors in fall for winter growing season.",
+                  "transplant": "Transplant seedlings outdoors in November-December during cooler months.",
+                  "start_outdoors": "Sow seeds directly outdoors from October through February during the coolest months. Avoid summer heat. Succession plant every 2 weeks for continuous harvest.",
+                  "harvest": "Harvest lettuce throughout winter and early spring. Lettuce bolts quickly in warm weather in these zones."
+                }
+              },
+              {
+                "zone": ["11a", "11b", "12a", "12b"],
+                "planting_dates_months": {
+                  "start_indoors": ["November", "December", "January"],
+                  "transplant": ["December", "January", "February"],
+                  "start_outdoors": ["November", "December", "January"],
+                  "harvest": ["December", "January", "February", "March"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Start seeds indoors during the coolest months (November-January).",
+                  "transplant": "Transplant seedlings outdoors during the coolest period of the year.",
+                  "start_outdoors": "Sow seeds directly outdoors only during the coolest months (November-January). Lettuce is best grown as a winter crop in tropical zones.",
+                  "harvest": "Harvest during the coolest months. Lettuce struggles with tropical heat and humidity - best grown in winter only."
+                }
+              }
+            ]
+          },
+          "varieties": [
+            {
+              "id": 0,
+              "name": "Butterhead",
+              "description": "Butterhead Lettuce, known for its loose, tender leaves and mild flavor, is a popular choice in salads and sandwiches. This cool-season annual is characterized by its soft, buttery-textured leaves that form a loosely folded head. Butterhead Lettuce is prized for its delicate taste and is a staple in gourmet salads.",
+              "growth_info": {
+                "growth_mode": "Loose head-forming",
+                "days_to_harvest": {
+                  "lower_estimate": 50,
+                  "higher_estimate": 70
+                },
+                "plant_height": "8-12 inches",
+                "spacing": "8-10 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "8-10 inches deep",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Yellow",
+                "leaf_color": "Light green to yellow-green"
+              },
+              "care_requirements": {
+                "water_requirement": "Moderate - consistent moisture, 1 inch per week",
+                "feeding_requirement": "Light nitrogen feeding every two weeks",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "One head per plant, or continuous outer leaf harvest",
+                "best_uses": ["Salads", "Sandwiches", "Gourmet Dishes", "Wraps"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Low - bolts in heat above 70°F",
+                "cold_tolerance": "High - tolerates light frost",
+                "frost_tolerance": true,
+                "drought_tolerance": "Low - requires consistent moisture",
+                "disease_resistance": []
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Sweet, mild, buttery flavor with tender, delicate texture"
+              },
+              "leaf_crop_characteristics": {
+                "head_type": "Loose, open head",
+                "leaf_texture": "Soft, buttery, tender leaves",
+                "days_to_maturity": "50-70 days",
+                "bolt_resistance": "Low - bolts quickly in heat"
+              },
+              "fun_fact": "Did you know? Butterhead Lettuce includes popular varieties like Boston and Bibb lettuce, and gets its name from the sweet, buttery flavor and texture of its leaves.",
+              "planting_tip": "Plant Butterhead Lettuce in well-drained, rich soil with consistent moisture. Provide afternoon shade during warmer periods to prevent bolting. Succession plant every 2 weeks for continuous harvest. Harvest outer leaves as needed, or cut the entire head when mature. Best grown in cool weather."
+            },
+            {
+              "id": 1,
+              "name": "Romaine",
+              "description": "Romaine Lettuce, also known as Cos Lettuce, is recognized for its long, sturdy leaves and crisp texture. This cool-season annual forms an upright head with dark green leaves and thick ribs. Romaine Lettuce is a favorite in Caesar salads and provides a satisfying crunch in various culinary creations.",
+              "growth_info": {
+                "growth_mode": "Upright head-forming",
+                "days_to_harvest": {
+                  "lower_estimate": 60,
+                  "higher_estimate": 80
+                },
+                "plant_height": "10-16 inches",
+                "spacing": "10-12 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "10-12 inches deep",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Yellow",
+                "leaf_color": "Dark green with pale ribs"
+              },
+              "care_requirements": {
+                "water_requirement": "Moderate - consistent moisture, 1 inch per week",
+                "feeding_requirement": "Light nitrogen feeding every two to three weeks",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "One head per plant, or continuous outer leaf harvest",
+                "best_uses": ["Caesar Salads", "Sandwiches", "Wraps", "Grilling"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Moderate - more heat tolerant than butterhead",
+                "cold_tolerance": "High - tolerates light frost",
+                "frost_tolerance": true,
+                "drought_tolerance": "Low - requires consistent moisture",
+                "disease_resistance": []
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Crisp, slightly sweet with a nutty flavor - crunchy texture"
+              },
+              "leaf_crop_characteristics": {
+                "head_type": "Upright, cylindrical head",
+                "leaf_texture": "Crisp, crunchy leaves with thick ribs",
+                "days_to_maturity": "60-80 days",
+                "bolt_resistance": "Moderate - more bolt resistant than butterhead"
+              },
+              "fun_fact": "Did you know? Romaine Lettuce is an excellent source of vitamins A and K, and can even be grilled for a unique smoky flavor!",
+              "planting_tip": "Plant Romaine Lettuce in well-drained soil with full sunlight to partial shade. Water consistently to keep soil evenly moist. Succession plant every 2-3 weeks. Harvest outer leaves as needed, or cut the entire head when mature. More heat tolerant than butterhead varieties."
+            },
+            {
+              "id": 2,
+              "name": "Iceberg",
+              "description": "Iceberg Lettuce, with its crisp and tightly packed leaves, is a classic choice for salads and sandwiches. This cool-season annual forms a compact, round head with pale green leaves. Iceberg Lettuce is known for its refreshing crunch and mild flavor, and is a versatile ingredient in various culinary dishes.",
+              "growth_info": {
+                "growth_mode": "Tight head-forming",
+                "days_to_harvest": {
+                  "lower_estimate": 70,
+                  "higher_estimate": 90
+                },
+                "plant_height": "8-12 inches",
+                "spacing": "12-15 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "12 inches deep and wide",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Yellow-green",
+                "leaf_color": "Pale green to white-green"
+              },
+              "care_requirements": {
+                "water_requirement": "Moderate to high - consistent moisture critical for head formation",
+                "feeding_requirement": "Regular nitrogen feeding every two to three weeks",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "One large, firm head per plant",
+                "best_uses": ["Salads", "Burgers", "Tacos", "Sandwiches", "Shredded Lettuce"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Low - requires cool temperatures for proper head formation",
+                "cold_tolerance": "High - tolerates light frost",
+                "frost_tolerance": true,
+                "drought_tolerance": "Low - requires consistent moisture",
+                "disease_resistance": []
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Very mild, neutral flavor with crisp, crunchy texture - mostly water content"
+              },
+              "leaf_crop_characteristics": {
+                "head_type": "Tight, compact, round head",
+                "leaf_texture": "Very crisp, crunchy, tightly packed leaves",
+                "days_to_maturity": "70-90 days",
+                "bolt_resistance": "Low - requires cool weather"
+              },
+              "fun_fact": "Did you know? Iceberg Lettuce gets its name because it was historically transported on ice beds to keep it fresh during shipping in the early 1900s!",
+              "planting_tip": "Plant Iceberg Lettuce in well-drained soil with full sunlight and consistent moisture. Requires more space than other types. Water consistently - heads need steady moisture to form properly. Harvest heads when they are firm and fully developed. Most challenging lettuce to grow - requires cool weather and patience."
+            },
+            {
+              "id": 3,
+              "name": "Looseleaf",
+              "description": "Looseleaf Lettuce is characterized by its loose arrangement of tender leaves and a variety of leaf colors and shapes. This cool-season annual is known for its easy cultivation and continuous harvesting. Looseleaf Lettuce adds color and texture to salads and is a popular choice for home gardeners seeking the easiest and most productive lettuce type.",
+              "growth_info": {
+                "growth_mode": "Non-heading, rosette",
+                "days_to_harvest": {
+                  "lower_estimate": 40,
+                  "higher_estimate": 50
+                },
+                "plant_height": "6-12 inches",
+                "spacing": "6-8 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "6-8 inches deep",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Yellow",
+                "leaf_color": "Green, red, bronze, or variegated"
+              },
+              "care_requirements": {
+                "water_requirement": "Moderate - consistent moisture, less demanding than head lettuce",
+                "feeding_requirement": "Light nitrogen feeding every two weeks",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "Continuous harvest for weeks - cut and come again",
+                "best_uses": ["Salads", "Wraps", "Garden Beds", "Containers", "Microgreens"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Moderate - more heat tolerant than head types",
+                "cold_tolerance": "High - tolerates light frost",
+                "frost_tolerance": true,
+                "drought_tolerance": "Low - requires consistent moisture",
+                "disease_resistance": []
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Mild to slightly sweet flavor - varies by color, tender texture"
+              },
+              "leaf_crop_characteristics": {
+                "head_type": "No head - loose rosette formation",
+                "leaf_texture": "Tender, delicate leaves in various shapes",
+                "days_to_maturity": "40-50 days",
+                "bolt_resistance": "Moderate - more bolt resistant than head types"
+              },
+              "fun_fact": "Did you know? Looseleaf Lettuce comes in a variety of colors, including green, red, and bronze, and is the easiest and fastest-growing type of lettuce - perfect for beginners!",
+              "planting_tip": "Plant Looseleaf Lettuce in well-drained soil with partial to full sunlight. Water consistently, and harvest outer leaves as needed for continuous production. This variety is perfect for cut-and-come-again harvesting. Most productive and easiest lettuce type to grow. Succession plant every 2 weeks."
+            },
+            {
+              "id": 4,
+              "name": "Arugula",
+              "description": "Arugula, also known as Rocket or Roquette, is a peppery-flavored green that adds a distinctive taste to salads. This cool-season annual is characterized by its lobed leaves and rapid growth. Arugula is a popular choice for those seeking a bold and zesty flavor in their culinary creations. Note: Arugula is technically not a lettuce but a brassica.",
+              "growth_info": {
+                "growth_mode": "Rosette-forming",
+                "days_to_harvest": {
+                  "lower_estimate": 30,
+                  "higher_estimate": 40
+                },
+                "plant_height": "8-12 inches",
+                "spacing": "6-8 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "6-8 inches deep",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "White with purple veins",
+                "leaf_color": "Dark green with lobed edges"
+              },
+              "care_requirements": {
+                "water_requirement": "Low to moderate - prefers drier conditions than lettuce",
+                "feeding_requirement": "Light nitrogen feeding every three weeks",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "Continuous harvest for several weeks - cut and come again",
+                "best_uses": ["Salads", "Pizzas", "Pasta", "Pesto", "Sandwiches"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Low - bolts quickly in heat",
+                "cold_tolerance": "Very High - excellent cold tolerance",
+                "frost_tolerance": true,
+                "drought_tolerance": "Moderate - more drought tolerant than lettuce",
+                "disease_resistance": []
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Peppery, nutty, spicy flavor with mustardy bite - becomes more pungent with age"
+              },
+              "leaf_crop_characteristics": {
+                "head_type": "No head - loose rosette",
+                "leaf_texture": "Tender when young, lobed or serrated leaves",
+                "days_to_maturity": "30-40 days",
+                "bolt_resistance": "Low - bolts quickly in warm weather"
+              },
+              "fun_fact": "Did you know? Arugula is a member of the mustard family (Brassicaceae), not a true lettuce, and is known for its peppery, pungent flavor that intensifies as leaves mature!",
+              "planting_tip": "Plant Arugula in well-drained soil with partial shade to full sunlight. Water sparingly - it prefers slightly drier conditions than lettuce. Harvest leaves when they are young and tender (2-3 inches) for best flavor. Bolts quickly, so succession plant every 2 weeks. Excellent for cool-season gardens and can be grown nearly year-round in mild climates."
+            },
+            {
+              "id": 5,
+              "name": "Red Leaf",
+              "description": "Red Leaf Lettuce is known for its vibrant red or burgundy-colored leaves and mild flavor. This cool-season annual forms loose heads with frilly or curly leaves. Red Leaf Lettuce adds a splash of color to salads and is a nutritious addition to a variety of dishes, containing beneficial anthocyanins.",
+              "growth_info": {
+                "growth_mode": "Loose head to non-heading",
+                "days_to_harvest": {
+                  "lower_estimate": 45,
+                  "higher_estimate": 55
+                },
+                "plant_height": "8-12 inches",
+                "spacing": "8-10 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "8-10 inches deep",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Yellow",
+                "leaf_color": "Red to burgundy, often with green centers"
+              },
+              "care_requirements": {
+                "water_requirement": "Moderate - consistent moisture, 1 inch per week",
+                "feeding_requirement": "Light nitrogen feeding every two weeks",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "Continuous harvest - cut and come again, or whole head",
+                "best_uses": ["Salads", "Wraps", "Garnish", "Mixed Greens"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Moderate - more heat tolerant than green varieties",
+                "cold_tolerance": "High - tolerates light frost",
+                "frost_tolerance": true,
+                "drought_tolerance": "Low - requires consistent moisture",
+                "disease_resistance": []
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Mild, slightly sweet flavor with tender texture - similar to green leaf lettuce"
+              },
+              "leaf_crop_characteristics": {
+                "head_type": "Loose, open head or rosette",
+                "leaf_texture": "Tender, frilly or ruffled leaves",
+                "days_to_maturity": "45-55 days",
+                "bolt_resistance": "Moderate - relatively bolt resistant"
+              },
+              "fun_fact": "Did you know? Red Leaf Lettuce contains anthocyanins, the same antioxidants found in red cabbage and red wine, which give it its vibrant color and added health benefits!",
+              "planting_tip": "Plant Red Leaf Lettuce in well-drained soil with partial shade to full sunlight. Water consistently, and harvest outer leaves as needed or whole heads. The red color intensifies with cooler temperatures and more sun exposure. Succession plant every 2 weeks. Adds beautiful color to salad mixes."
+            },
+            {
+              "id": 6,
+              "name": "Little Gem",
+              "description": "Little Gem Lettuce is a miniature variety with small, compact heads and a sweet flavor. This cool-season annual is often referred to as a 'baby romaine' and is perfect for individual servings. Little Gem Lettuce combines the crispness of romaine with the tenderness of butterhead, making it a popular choice for gourmet salads.",
+              "growth_info": {
+                "growth_mode": "Compact, mini head-forming",
+                "days_to_harvest": {
+                  "lower_estimate": 50,
+                  "higher_estimate": 60
+                },
+                "plant_height": "6-8 inches",
+                "spacing": "6-8 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "6-8 inches deep",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Yellow",
+                "leaf_color": "Medium green outer, yellow-green heart"
+              },
+              "care_requirements": {
+                "water_requirement": "Moderate - consistent moisture needed",
+                "feeding_requirement": "Light nitrogen feeding every two weeks",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "One small head per plant - perfect individual serving size",
+                "best_uses": ["Gourmet Salads", "Containers", "Individual Servings", "Grilling", "Wedge Salads"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Moderate - good bolt resistance",
+                "cold_tolerance": "High - tolerates light frost",
+                "frost_tolerance": true,
+                "drought_tolerance": "Low - requires consistent moisture",
+                "disease_resistance": []
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Sweet, nutty flavor with crisp outer leaves and tender heart - best of both worlds"
+              },
+              "leaf_crop_characteristics": {
+                "head_type": "Small, compact, upright head",
+                "leaf_texture": "Crisp outer leaves, tender buttery heart",
+                "days_to_maturity": "50-60 days",
+                "bolt_resistance": "Moderate to High - good bolt resistance"
+              },
+              "fun_fact": "Did you know? Little Gem Lettuce is a cross between romaine and butterhead lettuce, combining the best qualities of both varieties - crisp texture with a sweet, tender heart. It's perfect for grilling whole!",
+              "planting_tip": "Plant Little Gem Lettuce in well-drained soil with full sunlight to partial shade. Water consistently for best head formation. Space closer together than full-size lettuce. Harvest individual heads when they are small and compact (6-8 inches). Excellent for small gardens and containers. Can be grilled whole or halved for a unique preparation."
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "name": "beans",
+          "plant_category": "Vegetable",
+          "varieties_common_features": {
+            "sunlight_requirement": "Full Sun",
+            "sunlight_hours_min": 6,
+            "sunlight_hours_optimal": 8,
+            "propagation_methods": ["Seeds"],
+            "soil_acidity_range": {
+              "lower_bound": 6.0,
+              "upper_bound": 7.0
+            },
+            "soil_type_preference": ["Loamy", "Well-draining", "Rich"],
+            "drainage_requirement": "Well-drained",
+            "days_to_germination": "7-10 days",
+            "frost_tolerance": false,
+            "planting_depth": "1-2 inches",
+            "spacing": "4-6 inches for bush, 6-8 inches for pole",
+            "life_cycle": "Annual",
+            "season": "Warm",
+            "typical_yield_range": "1-2 lbs per plant for bush, 3-5 lbs for pole varieties",
+            "companion_plants": ["Corn", "Squash", "Cucumbers", "Potatoes", "Radishes"],
+            "avoid_planting_with": ["Onions", "Garlic", "Fennel", "Peppers"],
+            "common_pests": ["Aphids", "Mexican Bean Beetles", "Spider Mites", "Cutworms", "Bean Leaf Beetles"],
+            "common_diseases": ["Bacterial Blight", "Bean Rust", "Mosaic Virus", "Powdery Mildew", "Root Rot"],
+            "planting_zones_times": [
+              {
+                "zone": ["3a", "3b", "4a", "4b"],
+                "planting_dates_months": {
+                  "start_indoors": [],
+                  "transplant": [],
+                  "start_outdoors": ["May", "June"],
+                  "harvest": ["July", "August", "September", "October"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Not recommended - beans don't transplant well due to sensitive roots.",
+                  "transplant": "Not recommended - direct sow only.",
+                  "start_outdoors": "Sow bean seeds directly outdoors once soil has warmed to at least 60°F (15.5°C) and all danger of frost has passed, typically late May to early June. Succession plant every 2 weeks for continuous harvest.",
+                  "harvest": "Harvest beans from mid-summer through early fall. Bush beans produce for 2-3 weeks, pole beans produce continuously."
+                }
+              },
+              {
+                "zone": ["5a", "5b", "6a", "6b"],
+                "planting_dates_months": {
+                  "start_indoors": [],
+                  "transplant": [],
+                  "start_outdoors": ["May", "June", "July"],
+                  "harvest": ["July", "August", "September", "October"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Not recommended - beans don't transplant well.",
+                  "transplant": "Not recommended - direct sow only.",
+                  "start_outdoors": "Sow bean seeds directly outdoors once soil has warmed to at least 60°F (15.5°C), typically mid-May through early July. Succession plant every 2 weeks through July for continuous harvest.",
+                  "harvest": "Harvest beans from mid-summer through fall. Multiple succession plantings provide continuous harvest."
+                }
+              },
+              {
+                "zone": ["7a", "7b", "8a", "8b"],
+                "planting_dates_months": {
+                  "start_indoors": [],
+                  "transplant": [],
+                  "start_outdoors": ["March", "April", "May", "August"],
+                  "harvest": ["May", "June", "July", "August", "September", "October"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Not recommended - beans don't transplant well.",
+                  "transplant": "Not recommended - direct sow only.",
+                  "start_outdoors": "Sow bean seeds directly outdoors once soil has warmed to 60°F (15.5°C), typically March-May for spring/summer harvest. Plant again in August for fall harvest. Succession plant every 2 weeks.",
+                  "harvest": "Harvest beans from late spring through fall with proper succession planting."
+                }
+              },
+              {
+                "zone": ["9a", "9b", "10a", "10b"],
+                "planting_dates_months": {
+                  "start_indoors": [],
+                  "transplant": [],
+                  "start_outdoors": ["February", "March", "August", "September", "October"],
+                  "harvest": ["April", "May", "June", "October", "November", "December"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Not recommended - beans don't transplant well.",
+                  "transplant": "Not recommended - direct sow only.",
+                  "start_outdoors": "Sow bean seeds directly outdoors in early spring (February-March) and fall (August-October). Avoid planting during extreme summer heat. Succession plant every 2 weeks.",
+                  "harvest": "Harvest beans in spring and fall. Summer heat reduces pod quality and plant productivity."
+                }
+              },
+              {
+                "zone": ["11a", "11b", "12a", "12b"],
+                "planting_dates_months": {
+                  "start_indoors": [],
+                  "transplant": [],
+                  "start_outdoors": ["October", "November", "December", "January", "February"],
+                  "harvest": ["December", "January", "February", "March", "April"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Not recommended - beans don't transplant well.",
+                  "transplant": "Not recommended - direct sow only.",
+                  "start_outdoors": "Sow bean seeds directly outdoors during the coolest months (October-February). Beans struggle in extreme tropical heat and humidity.",
+                  "harvest": "Harvest beans during winter and early spring months when temperatures are cooler."
+                }
+              }
+            ]
+          },
+          "varieties": [
+            {
+              "id": 0,
+              "name": "Bush Blue Lake 274",
+              "description": "Bush Blue Lake 274 is a delightful variety of green beans celebrated for its exceptional flavor, crisp texture, and prolific yield. This bush-type bean is easy to grow, making it a favorite among both novice and experienced gardeners. The plant showcases vibrant green foliage, producing an abundance of tender, stringless pods that are perfect for fresh eating, canning, and freezing.",
+              "growth_info": {
+                "growth_mode": "Bush - compact, non-climbing",
+                "days_to_harvest": {
+                  "lower_estimate": 50,
+                  "higher_estimate": 60
+                },
+                "plant_height": "18-24 inches",
+                "spacing": "4-6 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "12 inches deep",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "White",
+                "leaf_color": "Green"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering - 1 inch per week, more during flowering and pod set",
+                "feeding_requirement": "Light nitrogen at planting, minimal feeding after (beans fix their own nitrogen)",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "1-2 lbs per plant over 2-3 week harvest period",
+                "best_uses": ["Fresh Eating", "Canning", "Freezing", "Steaming", "Blanching"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Moderate - performs well in summer heat",
+                "cold_tolerance": "None - very frost sensitive",
+                "frost_tolerance": false,
+                "drought_tolerance": "Low - requires consistent moisture",
+                "disease_resistance": ["Some rust resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Classic green bean flavor - crisp, fresh, sweet when young"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Dark green",
+                "fruit_weight": "Average pod weight",
+                "skin_thickness": "Tender",
+                "seed_cavity_size": "Small when harvested young",
+                "storage_quality": "Excellent for canning and freezing",
+                "crack_resistance": "Good"
+              },
+              "fun_fact": "Did you know? The 'Blue Lake' name comes from the Blue Lake region in California where this variety was developed. Bush Blue Lake 274 is a compact version of the famous pole bean variety!",
+              "planting_tip": "Sow Bush Blue Lake 274 seeds directly in warm, well-drained soil (60°F minimum). Plant 1-2 inches deep and 4-6 inches apart. Provide consistent moisture, especially during flowering and pod set. No support needed. Harvest pods when young and tender (5-6 inches) for best flavor. Pick regularly to encourage continued production."
+            },
+            {
+              "id": 1,
+              "name": "Provider",
+              "description": "Provider beans are known for their early maturity and high yields. These bush beans produce slender, stringless pods that are exceptionally flavorful. With a compact growth habit, Provider is an excellent choice for small gardens and containers. The reliable and prolific nature of Provider makes it a go-to selection for home gardeners seeking a steady supply of delicious green beans.",
+              "growth_info": {
+                "growth_mode": "Bush - compact, determinate",
+                "days_to_harvest": {
+                  "lower_estimate": 50,
+                  "higher_estimate": 55
+                },
+                "plant_height": "16-20 inches",
+                "spacing": "4-6 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "12 inches deep",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "White",
+                "leaf_color": "Green"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering - 1 inch per week, consistent moisture important",
+                "feeding_requirement": "Minimal - beans fix nitrogen, light compost at planting",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "1.5-2 lbs per plant in concentrated harvest",
+                "best_uses": ["Fresh Eating", "Canning", "Freezing", "Steaming"]
+              },
+              "tolerances": {
+                "heat_tolerance": "High - good for warm climates",
+                "cold_tolerance": "None - frost sensitive",
+                "frost_tolerance": false,
+                "drought_tolerance": "Moderate - more tolerant than most",
+                "disease_resistance": ["Mosaic Virus", "Bacterial Blight"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Sweet, tender, classic green bean flavor - mild and pleasant"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Medium green",
+                "fruit_weight": "Average pod weight",
+                "skin_thickness": "Very tender",
+                "seed_cavity_size": "Small",
+                "storage_quality": "Excellent for freezing",
+                "crack_resistance": "Good"
+              },
+              "fun_fact": "Did you know? Provider is an heirloom variety from the 1960s and is one of the earliest maturing bush beans - perfect for short growing seasons and succession planting!",
+              "planting_tip": "Plant Provider seeds 1-2 inches deep in warm soil (60°F+). Space 4-6 inches apart in rows. This variety is very reliable and sets pods even in cool, damp conditions. Succession plant every 2 weeks for continuous harvest. Harvest when pods are 5-6 inches long and still tender."
+            }
+          ]
+        },
+        {
+            "id": 12,
+            "name": "cucumber",
+            "plant_category": "Vegetable",
+            "varieties_common_features": {
+                "sunlight_requirement": "Full Sun",
+                "sunlight_hours_min": 6,
+                "sunlight_hours_optimal": 8,
+                "propagation_methods": ["Seeds"],
+                "soil_acidity_range": {
+                    "lower_bound": 6.0,
+                    "upper_bound": 7.0
+                },
+                "soil_type_preference": ["Loamy", "Rich", "Well-draining"],
+                "drainage_requirement": "Well-drained but moisture-retentive",
+                "days_to_germination": "7-10 days",
+                "frost_tolerance": false,
+                "planting_depth": "1 inch",
+                "spacing": "12-18 inches for vining, 24-36 inches for bush",
+                "life_cycle": "Annual",
+                "season": "Warm",
+                "typical_yield_range": "10-20 cucumbers per plant depending on variety",
+                "companion_plants": ["Beans", "Peas", "Corn", "Radishes", "Sunflowers"],
+                "avoid_planting_with": ["Potatoes", "Aromatic Herbs (Sage)", "Melons"],
+                "common_pests": ["Cucumber Beetles", "Aphids", "Spider Mites", "Squash Bugs", "Whiteflies"],
+                "common_diseases": ["Powdery Mildew", "Downy Mildew", "Bacterial Wilt", "Mosaic Virus", "Anthracnose"],
+                "planting_zones_times": [
+                    {
+                        "zone": ["3a", "3b", "4a", "4b"],
+                        "planting_dates_months": {
+                            "start_indoors": ["April", "May"],
+                            "transplant": ["May", "June"],
+                            "start_outdoors": ["May", "June"],
+                            "harvest": ["July", "August", "September"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Start cucumber seeds indoors 3-4 weeks before last frost date (mid-April to early May) in biodegradable pots to minimize transplant shock.",
+                            "transplant": "Transplant seedlings outdoors after all danger of frost has passed and soil has warmed to 60°F+, typically late May to early June. Handle carefully - cucumbers dislike root disturbance.",
+                            "start_outdoors": "Sow seeds directly outdoors when soil temperature reaches 60-70°F (15.5-21°C), typically late May to early June. Direct sowing is preferred over transplanting.",
+                            "harvest": "Harvest cucumbers from mid-summer through early fall. Pick frequently to encourage continued production."
+                        }
+                    },
+                    {
+                        "zone": ["5a", "5b", "6a", "6b"],
+                        "planting_dates_months": {
+                            "start_indoors": ["March", "April"],
+                            "transplant": ["May", "June"],
+                            "start_outdoors": ["May", "June"],
+                            "harvest": ["June", "July", "August", "September"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Start cucumber seeds indoors 3-4 weeks before last frost (late March to early April) in biodegradable pots.",
+                            "transplant": "Transplant seedlings outdoors after all frost danger has passed and soil reaches 60°F+, typically mid to late May.",
+                            "start_outdoors": "Sow seeds directly outdoors when soil temperature reaches 60-70°F, typically mid-May through early June. Can succession plant through early July.",
+                            "harvest": "Harvest cucumbers from early summer through fall with succession planting."
+                        }
+                    },
+                    {
+                        "zone": ["7a", "7b", "8a", "8b"],
+                        "planting_dates_months": {
+                            "start_indoors": ["February", "March"],
+                            "transplant": ["April", "May"],
+                            "start_outdoors": ["April", "May", "July"],
+                            "harvest": ["May", "June", "July", "August", "September", "October"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Start cucumber seeds indoors 3-4 weeks before last frost (late February to early March) for early harvest.",
+                            "transplant": "Transplant seedlings outdoors in April-May when soil reaches 60°F+.",
+                            "start_outdoors": "Sow seeds directly outdoors in spring (April-May) when soil reaches 60-70°F, and again in July for fall harvest. Succession plant every 2-3 weeks.",
+                            "harvest": "Harvest cucumbers from late spring through fall with succession planting."
+                        }
+                    },
+                    {
+                        "zone": ["9a", "9b", "10a", "10b"],
+                        "planting_dates_months": {
+                            "start_indoors": ["January", "February"],
+                            "transplant": ["March", "April"],
+                            "start_outdoors": ["February", "March", "August", "September"],
+                            "harvest": ["April", "May", "June", "October", "November", "December"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Start cucumber seeds indoors in January-February for early spring planting.",
+                            "transplant": "Transplant seedlings outdoors in March-April when temperatures moderate.",
+                            "start_outdoors": "Sow seeds directly outdoors in early spring (February-March) and late summer (August-September) for fall harvest. Avoid planting during extreme summer heat.",
+                            "harvest": "Harvest cucumbers in spring and fall/winter. Summer heat can reduce production and cause bitterness."
+                        }
+                    },
+                    {
+                        "zone": ["11a", "11b", "12a", "12b"],
+                        "planting_dates_months": {
+                            "start_indoors": ["October", "November", "December"],
+                            "transplant": ["November", "December", "January"],
+                            "start_outdoors": ["October", "November", "December", "January"],
+                            "harvest": ["December", "January", "February", "March", "April"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Start cucumber seeds indoors during cooler months (October-December).",
+                            "transplant": "Transplant seedlings outdoors during the coolest period (November-January).",
+                            "start_outdoors": "Sow seeds directly outdoors during cooler months (October-January). Cucumbers struggle in extreme tropical heat and humidity - best grown as winter crop.",
+                            "harvest": "Harvest cucumbers during winter and early spring months when temperatures are moderate."
+                        }
+                    }
+                ]
+            },
+            "varieties": [
+                {
+                    "id": 0,
+                    "name": "English Telegraph",
+                    "description": "English Telegraph cucumbers are a classic English cucumber variety known for their long, slender shape and refreshing flavor. These cucumbers have a smooth, thin skin and minimal seeds, making them ideal for fresh eating, salads, and sandwiches. With a vigorous vining growth habit, English Telegraph cucumbers require sturdy support and create a lush, productive vertical garden.",
+                    "growth_info": {
+                        "growth_mode": "Vining - vigorous climber",
+                        "days_to_harvest": {
+                            "lower_estimate": 60,
+                            "higher_estimate": 70
+                        },
+                        "plant_height": "72-96 inches (6-8 feet on trellis)",
+                        "spacing": "12-18 inches",
+                        "is_container_variety": false,
+                        "recommended_container_size": "Not recommended - needs large space",
+                        "needs_support": true
+                    },
+                    "appearance": {
+                        "flower_color": "Yellow",
+                        "leaf_color": "Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Consistent watering - 1-2 inches per week, more in heat",
+                        "feeding_requirement": "Heavy feeder - balanced fertilizer every 2 weeks, side-dress with compost",
+                        "requires_pruning": true
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "15-25 cucumbers per plant over season",
+                        "best_uses": ["Fresh Eating", "Salads", "Sandwiches", "Wraps", "Burpless Snacking"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Moderate - prefers cooler conditions",
+                        "cold_tolerance": "None - very frost sensitive",
+                        "frost_tolerance": false,
+                        "drought_tolerance": "Low - needs consistent moisture",
+                        "disease_resistance": []
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Mild, sweet, refreshing flavor - crisp and burpless with minimal bitterness"
+                    },
+                    "fruit_characteristics": {
+                        "fruit_color": "Dark green",
+                        "fruit_weight": "12-16 oz per cucumber",
+                        "skin_thickness": "Very thin, tender skin",
+                        "seed_cavity_size": "Very small seed cavity with tiny seeds",
+                        "storage_quality": "Best fresh, 1 week refrigerated",
+                        "crack_resistance": "Moderate"
+                    },
+                    "fun_fact": "Did you know? English Telegraph cucumbers are often called 'burpless' cucumbers because they contain fewer cucurbitacins (compounds that can cause indigestion), making them easier to digest than traditional cucumbers!",
+                    "planting_tip": "Plant English Telegraph in rich, well-drained soil with full sun. Provide sturdy 6-8 foot trellising for support to encourage straight fruit development. Water consistently and deeply - cucumbers are 95% water! Feed every 2 weeks. Prune side shoots for larger fruits. Harvest when 12-14 inches long while still slender. Pick regularly to encourage more production."
+                },
+                {
+                    "id": 1,
+                    "name": "Lemon Cucumber",
+                    "description": "Lemon Cucumber is a unique and delightful heirloom variety known for its round, yellow fruit that resembles a lemon in both color and shape. This cucumber has a mild, sweet flavor with a crisp, refreshing texture and thin, tender skin. Ideal for fresh eating, salads, and pickling, Lemon Cucumber adds visual interest and excellent flavor to summer dishes.",
+                    "growth_info": {
+                        "growth_mode": "Vining - moderate climber",
+                        "days_to_harvest": {
+                            "lower_estimate": 60,
+                            "higher_estimate": 70
+                        },
+                        "plant_height": "48-72 inches on trellis",
+                        "spacing": "12-18 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "18-24 inches deep, 5+ gallon pot",
+                        "needs_support": true
+                    },
+                    "appearance": {
+                        "flower_color": "Yellow",
+                        "leaf_color": "Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering - keep soil consistently moist, 1-2 inches per week",
+                        "feeding_requirement": "Moderate feeder - balanced fertilizer every 2-3 weeks",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "20-30 small fruits per plant",
+                        "best_uses": ["Fresh Eating", "Pickling", "Salads", "Garnish", "Novelty"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "High - very heat tolerant",
+                        "cold_tolerance": "None - frost sensitive",
+                        "frost_tolerance": false,
+                        "drought_tolerance": "Moderate - more tolerant than standard cucumbers",
+                        "disease_resistance": []
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Mild, sweet, delicate cucumber flavor - less acidic than green varieties, very refreshing"
+                    },
+                    "fruit_characteristics": {
+                        "fruit_color": "Pale yellow to bright yellow when ripe",
+                        "fruit_weight": "4-6 oz per fruit",
+                        "skin_thickness": "Thin, tender, edible skin",
+                        "seed_cavity_size": "Small with soft, edible seeds",
+                        "storage_quality": "Best fresh, 3-5 days refrigerated",
+                        "crack_resistance": "Good"
+                    },
+                    "fun_fact": "Did you know? Despite its lemon-like appearance, Lemon Cucumber is a true cucumber, not a lemon or lemon-cucumber hybrid! This heirloom variety has been grown since the 1800s and was incredibly popular before modern green cucumbers dominated the market.",
+                    "planting_tip": "Plant Lemon Cucumber in well-drained, fertile soil with full sun. Provide trellis support for better air circulation and easier harvesting. Water consistently. Harvest when tennis ball-sized (2-3 inches diameter) while still pale yellow-green - they turn deep yellow when overripe and become seedy. Pick frequently to encourage more production. Great for kids' gardens!"
+                },
+                {
+                    "id": 2,
+                    "name": "Marketmore 76",
+                    "description": "Marketmore 76 is a classic slicing cucumber variety valued for its reliable production, disease resistance, and excellent flavor. These dark green cucumbers have a traditional appearance with crisp, refreshing taste and minimal bitterness. Well-suited for fresh eating, salads, and slicing, Marketmore 76 is a popular choice for home gardeners and market growers seeking dependable performance.",
+                    "growth_info": {
+                        "growth_mode": "Vining - vigorous",
+                        "days_to_harvest": {
+                            "lower_estimate": 60,
+                            "higher_estimate": 68
+                        },
+                        "plant_height": "72-96 inches on trellis",
+                        "spacing": "12-18 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "18-20 inches deep, 5+ gallon pot with trellis",
+                        "needs_support": true
+                    },
+                    "appearance": {
+                        "flower_color": "Yellow",
+                        "leaf_color": "Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering - 1-2 inches per week, consistent moisture critical",
+                        "feeding_requirement": "Balanced fertilizer every 2-3 weeks throughout season",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "15-20 cucumbers per plant",
+                        "best_uses": ["Fresh Eating", "Salads", "Slicing", "Sandwiches"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "High - excellent heat tolerance",
+                        "cold_tolerance": "None - frost sensitive",
+                        "frost_tolerance": false,
+                        "drought_tolerance": "Low - needs consistent moisture",
+                        "disease_resistance": ["Scab Resistance", "Mosaic Virus Resistance", "Powdery Mildew Tolerance"]
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Classic cucumber flavor - crisp, refreshing, mild with minimal bitterness"
+                    },
+                    "fruit_characteristics": {
+                        "fruit_color": "Dark green",
+                        "fruit_weight": "8-10 oz per cucumber",
+                        "skin_thickness": "Medium thickness, slightly bumpy",
+                        "seed_cavity_size": "Medium with white flesh",
+                        "storage_quality": "Good storage, 1 week refrigerated",
+                        "crack_resistance": "Excellent"
+                    },
+                    "fun_fact": "Did you know? Marketmore 76 is an improved variety released in 1976 with excellent disease resistance. It has become a standard for cucumber growers and is one of the most reliable open-pollinated varieties available!",
+                    "planting_tip": "Plant Marketmore 76 in well-drained, fertile soil with full sun. Provide sturdy trellis support for vertical growth. Water consistently - irregular watering causes bitter fruit and misshapen cucumbers. Feed every 2-3 weeks. Harvest at 7-9 inches long for best flavor and texture. Pick frequently to encourage continuous production. Excellent disease resistance makes this a low-maintenance choice."
+                },
+                {
+                    "id": 3,
+                    "name": "Armenian",
+                    "description": "Armenian Cucumber, also known as Snake Melon or Yard Long Cucumber, is a unique variety with long, slender, ribbed fruits and a mild, crisp texture. Despite the name, it's technically a type of muskmelon but used as a cucumber. The pale green fruits have a subtle, sweet flavor and are best harvested young. Perfect for fresh eating, salads, and spiralizing.",
+                    "growth_info": {
+                        "growth_mode": "Vining - very vigorous",
+                        "days_to_harvest": {
+                            "lower_estimate": 60,
+                            "higher_estimate": 75
+                        },
+                        "plant_height": "96-120+ inches (8-10+ feet)",
+                        "spacing": "18-24 inches",
+                        "is_container_variety": false,
+                        "recommended_container_size": "Not recommended - extremely vigorous",
+                        "needs_support": true
+                    },
+                    "appearance": {
+                        "flower_color": "Yellow",
+                        "leaf_color": "Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering - consistent moisture, 1-2 inches per week",
+                        "feeding_requirement": "Heavy feeder - balanced fertilizer every 2 weeks",
+                        "requires_pruning": true
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "20-30 fruits per plant",
+                        "best_uses": ["Fresh Eating", "Salads", "Spiralizing", "Grilling"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Very High - thrives in hot weather",
+                        "cold_tolerance": "None - frost sensitive",
+                        "frost_tolerance": false,
+                        "drought_tolerance": "Moderate - relatively drought tolerant once established",
+                        "disease_resistance": ["Good Powdery Mildew Resistance"]
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Very mild, sweet, delicate flavor - crisp texture, never bitter even when large"
+                    },
+                    "fruit_characteristics": {
+                        "fruit_color": "Pale green with light ribbing",
+                        "fruit_weight": "10-16 oz when optimal",
+                        "skin_thickness": "Thin, tender, always edible",
+                        "seed_cavity_size": "Very small when harvested young",
+                        "storage_quality": "Good storage, 1-2 weeks refrigerated",
+                        "crack_resistance": "Excellent"
+                    },
+                    "fun_fact": "Did you know? Armenian Cucumber is technically a type of muskmelon (Cucumis melo var. flexuosus), not a true cucumber! It never develops bitterness and can grow up to 3 feet long, though it's best harvested at 12-18 inches. It's been cultivated for over 3,000 years!",
+                    "planting_tip": "Plant Armenian Cucumber in rich, well-drained soil with full sun. Provide very sturdy trellis or arbor support - these vines are extremely vigorous and can grow 10+ feet. Water consistently. Harvest when 12-18 inches long while still slender and pale green. Can grow much larger but becomes seedy. Excellent for hot climates - performs when other cucumbers struggle. Prune to control vigorous growth."
+                },
+                {
+                    "id": 4,
+                    "name": "Diva",
+                    "description": "Diva is a premium, compact, parthenocarpic cucumber variety perfect for small gardens and container growing. These smooth-skinned cucumbers are seedless (or nearly so) and have a sweet, non-bitter flavor. Diva is known for its 'burpless' quality and exceptional taste. With a semi-bush habit, it's productive and space-efficient.",
+                    "growth_info": {
+                        "growth_mode": "Semi-bush - compact vining",
+                        "days_to_harvest": {
+                            "lower_estimate": 58,
+                            "higher_estimate": 68
+                        },
+                        "plant_height": "24-36 inches",
+                        "spacing": "12-18 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "14-18 inches deep, 5 gallon pot",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "Yellow",
+                        "leaf_color": "Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering - consistent moisture, 1 inch per week",
+                        "feeding_requirement": "Moderate feeder - balanced fertilizer every 2-3 weeks",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "10-15 cucumbers per plant",
+                        "best_uses": ["Fresh Eating", "Container Gardening", "Snacking", "Salads"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Moderate - good heat tolerance",
+                        "cold_tolerance": "None - frost sensitive",
+                        "frost_tolerance": false,
+                        "drought_tolerance": "Low - needs consistent moisture",
+                        "disease_resistance": ["Scab", "Cucumber Mosaic Virus", "Powdery Mildew"]
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Sweet, crisp, burpless - exceptional flavor with no bitterness, thin tender skin"
+                    },
+                    "fruit_characteristics": {
+                        "fruit_color": "Glossy dark green",
+                        "fruit_weight": "6-8 oz per cucumber",
+                        "skin_thickness": "Very thin, smooth, tender",
+                        "seed_cavity_size": "Nearly seedless - parthenocarpic",
+                        "storage_quality": "Excellent, 1-2 weeks refrigerated",
+                        "crack_resistance": "Excellent"
+                    },
+                    "fun_fact": "Did you know? Diva cucumbers are parthenocarpic, meaning they produce fruit without pollination, resulting in nearly seedless cucumbers! This also means they produce reliably even in poor pollinator conditions. Diva won an All-America Selections award!",
+                    "planting_tip": "Plant Diva in well-drained, fertile soil with full sun. Perfect for containers and small spaces due to compact habit. Water consistently - don't let soil dry out. Feed every 2-3 weeks. No pollination needed for fruit set! Harvest at 6-8 inches long for best quality. Exceptional disease resistance makes this a low-maintenance choice. Great for beginners!"
+                },
+                {
+                    "id": 5,
+                    "name": "Japanese Climbing",
+                    "description": "Japanese Climbing cucumber is a vigorous climbing heirloom variety with long, slender, slightly ribbed fruits and a crisp, refreshing texture. The dark green cucumbers have excellent flavor and are perfect for fresh eating, slicing, and Asian cuisine. This variety is specifically bred for vertical growing and creates an impressive display when trellised properly.",
+                    "growth_info": {
+                        "growth_mode": "Climbing - very vigorous",
+                        "days_to_harvest": {
+                            "lower_estimate": 60,
+                            "higher_estimate": 70
+                        },
+                        "plant_height": "96-120 inches (8-10 feet)",
+                        "spacing": "12-18 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "18-24 inches deep, large 7+ gallon pot with tall trellis",
+                        "needs_support": true
+                    },
+                    "appearance": {
+                        "flower_color": "Yellow",
+                        "leaf_color": "Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering - 1-2 inches per week, consistent moisture",
+                        "feeding_requirement": "Heavy feeder - balanced fertilizer every 2 weeks",
+                        "requires_pruning": true
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "20-30 cucumbers per plant",
+                        "best_uses": ["Fresh Eating", "Stir-Fries", "Asian Cuisine", "Slicing", "Salads"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "High - excellent heat tolerance",
+                        "cold_tolerance": "None - frost sensitive",
+                        "frost_tolerance": false,
+                        "drought_tolerance": "Low - needs consistent moisture",
+                        "disease_resistance": []
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Crisp, refreshing, mildly sweet - classic cucumber flavor with excellent texture"
+                    },
+                    "fruit_characteristics": {
+                        "fruit_color": "Dark green with light ribbing",
+                        "fruit_weight": "8-10 oz when optimal",
+                        "skin_thickness": "Medium, slightly ridged",
+                        "seed_cavity_size": "Small to medium",
+                        "storage_quality": "Good, 1 week refrigerated",
+                        "crack_resistance": "Good"
+                    },
+                    "fun_fact": "Did you know? Japanese Climbing cucumbers are specifically bred for vertical growing and can reach 8-10 feet tall! Growing them on trellises maximizes space, improves air circulation (reducing disease), and produces straighter, more uniform fruits. This variety has been cultivated in Japan for centuries!",
+                    "planting_tip": "Plant Japanese Climbing in rich, well-drained soil with full sun. MUST provide sturdy trellis, fence, or vertical support 6-8 feet tall - this variety excels when grown vertically. Space plants adequately for air flow. Water consistently and deeply. Feed every 2 weeks. Harvest at 8-10 inches long for best flavor. Prune lower growth for better air circulation. Perfect for maximizing small garden spaces!"
+                },
+                {
+                    "id": 6,
+                    "name": "Straight Eight",
+                    "description": "Straight Eight is a classic heirloom slicing cucumber variety known for its uniform, straight fruits and excellent traditional cucumber flavor. This reliable variety produces dark green, cylindrical cucumbers with crisp texture and mild taste. With an upright growth habit and consistent performance, Straight Eight has been a garden favorite since 1935.",
+                    "growth_info": {
+                        "growth_mode": "Semi-vining - moderate",
+                        "days_to_harvest": {
+                            "lower_estimate": 58,
+                            "higher_estimate": 65
+                        },
+                        "plant_height": "48-60 inches",
+                        "spacing": "12-18 inches",
+                        "is_container_variety": false,
+                        "recommended_container_size": "Not ideal - prefers ground planting",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "Yellow",
+                        "leaf_color": "Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering - 1-2 inches per week, consistent moisture essential",
+                        "feeding_requirement": "Balanced fertilizer every 2-3 weeks",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "12-18 cucumbers per plant",
+                        "best_uses": ["Fresh Eating", "Salads", "Slicing", "Sandwiches"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Moderate - good summer performance",
+                        "cold_tolerance": "None - frost sensitive",
+                        "frost_tolerance": false,
+                        "drought_tolerance": "Low - needs consistent moisture",
+                        "disease_resistance": []
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Classic, mild cucumber flavor - crisp and refreshing with traditional taste"
+                    },
+                    "fruit_characteristics": {
+                        "fruit_color": "Dark green with white spines",
+                        "fruit_weight": "8-10 oz per cucumber",
+                        "skin_thickness": "Medium thickness",
+                        "seed_cavity_size": "Medium",
+                        "storage_quality": "Good, 1 week refrigerated",
+                        "crack_resistance": "Good"
+                    },
+                    "fun_fact": "Did you know? Straight Eight won the All-America Selections award in 1935 and has been a garden staple for nearly 90 years! It's prized for producing remarkably straight, uniform 8-inch cucumbers - hence the name. This heirloom variety is still popular today for its reliability and classic flavor!",
+                    "planting_tip": "Plant Straight Eight in well-drained, fertile soil with full sun. Water consistently - irregular watering causes misshapen fruit and bitterness. Feed every 2-3 weeks. Harvest at 6-8 inches long for optimal flavor and texture. Pick regularly to encourage continued production. Can be grown with or without support, but trellising improves fruit straightness and ease of harvest."
+                },
+                {
+                    "id": 7,
+                    "name": "Bush Champion",
+                    "description": "Bush Champion is a compact, high-yielding cucumber variety perfect for small gardens, raised beds, and container gardening. These dark green cucumbers have excellent flavor and crisp texture. With a true bush growth habit (non-vining), Bush Champion is ideal for gardeners with limited space who still want productive cucumber plants.",
+                    "growth_info": {
+                        "growth_mode": "Bush - compact, non-vining",
+                        "days_to_harvest": {
+                            "lower_estimate": 55,
+                            "higher_estimate": 60
+                        },
+                        "plant_height": "18-24 inches",
+                        "spacing": "18-24 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "12-16 inches deep, 5 gallon pot minimum",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "Yellow",
+                        "leaf_color": "Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering - consistent moisture, 1 inch per week",
+                        "feeding_requirement": "Balanced fertilizer every 2-3 weeks",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "8-12 cucumbers per plant",
+                        "best_uses": ["Fresh Eating", "Container Gardening", "Small Gardens", "Salads"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Moderate - good summer performance",
+                        "cold_tolerance": "None - frost sensitive",
+                        "frost_tolerance": false,
+                        "drought_tolerance": "Low - needs consistent moisture",
+                        "disease_resistance": ["Mosaic Virus", "Scab"]
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Crisp, refreshing, classic cucumber flavor - sweet and non-bitter"
+                    },
+                    "fruit_characteristics": {
+                        "fruit_color": "Dark green",
+                        "fruit_weight": "6-8 oz per cucumber",
+                        "skin_thickness": "Medium",
+                        "seed_cavity_size": "Small to medium",
+                        "storage_quality": "Good, 5-7 days refrigerated",
+                        "crack_resistance": "Good"
+                    },
+                    "fun_fact": "Did you know? Bush Champion is a true bush cucumber, meaning it stays compact (18-24 inches tall) and doesn't send out long vines like traditional cucumbers. This makes it perfect for containers, patios, and small raised beds - you can grow cucumbers even in tiny spaces!",
+                    "planting_tip": "Plant Bush Champion in well-drained soil with full sun. Perfect for containers - use at least a 5-gallon pot. Space plants 18-24 inches apart. Water consistently - bush varieties are less drought tolerant. Feed every 2-3 weeks. No trellising needed! Harvest at 6-8 inches long. Compact size makes inspection and harvesting easy. Excellent for small-space gardens and beginners!"
+                }
+            ]
+        },
+        {
+          "id": 13,
+          "name": "okra",
+          "plant_category": "Fruit Vegetable",
+          "varieties_common_features": {
+            "sunlight_requirement": "Full Sun",
+            "sunlight_hours_min": 6,
+            "sunlight_hours_optimal": 8,
+            "propagation_methods": ["Seeds"],
+            "soil_acidity_range": {
+              "lower_bound": 6.0,
+              "upper_bound": 7.5
+            },
+            "soil_type_preference": ["Loamy", "Sandy"],
+            "drainage_requirement": "Well-drained",
+            "days_to_germination": "7-14 days",
+            "frost_tolerance": false,
+            "planting_depth": "1 inch",
+            "spacing": "12-18 inches",
+            "life_cycle": "Annual",
+            "season": "Warm",
+            "typical_yield_range": "10-30 pods per plant",
+            "companion_plants": ["Peppers", "Eggplant", "Cucumber", "Melons"],
+            "avoid_planting_with": ["Potatoes"],
+            "common_pests": ["Aphids", "Stink Bugs", "Corn Earworm", "Flea Beetles"],
+            "common_diseases": ["Fusarium Wilt", "Powdery Mildew", "Root Knot Nematodes"],
+            "planting_zones_times": [
+              {
+                "zone": ["3a", "3b", "4a", "4b"],
+                "planting_dates_months": {
+                  "start_indoors": ["April", "May"],
+                  "transplant": ["May", "June"],
+                  "start_outdoors": ["June", "July"],
+                  "harvest": ["August", "September", "October"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Start okra seeds indoors 4-6 weeks before the last frost date, typically in early to mid-April.",
+                  "transplant": "Transplant okra seedlings outdoors after the danger of frost has passed, usually in late May to early June.",
+                  "start_outdoors": "Sow okra seeds directly outdoors once soil temperatures consistently reach 70°F (21°C), typically in June to July.",
+                  "harvest": "Harvest okra pods in late summer and early fall."
+                }
+              },
+              {
+                "zone": ["5a", "5b", "6a", "6b"],
+                "planting_dates_months": {
+                  "start_indoors": ["March", "April"],
+                  "transplant": ["April", "May"],
+                  "start_outdoors": ["May", "June"],
+                  "harvest": ["July", "August", "September"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Start okra seeds indoors 4-6 weeks before the last frost date, typically in early to mid-March.",
+                  "transplant": "Transplant okra seedlings outdoors after the danger of frost has passed, usually in late April to early May.",
+                  "start_outdoors": "Sow okra seeds directly outdoors once soil temperatures consistently reach 70°F (21°C), typically in May to June.",
+                  "harvest": "Harvest okra pods from mid-summer to early fall."
+                }
+              },
+              {
+                "zone": ["7a", "7b", "8a", "8b"],
+                "planting_dates_months": {
+                  "start_indoors": ["February", "March"],
+                  "transplant": ["March", "April"],
+                  "start_outdoors": ["April", "May"],
+                  "harvest": ["June", "July", "August"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Start okra seeds indoors 4-6 weeks before the last frost date, typically in late February to early March.",
+                  "transplant": "Transplant okra seedlings outdoors after the danger of frost has passed, usually in March to April.",
+                  "start_outdoors": "Sow okra seeds directly outdoors once soil temperatures consistently reach 70°F (21°C), typically in April to May.",
+                  "harvest": "Harvest okra pods from late spring to mid-summer."
+                }
+              },
+              {
+                "zone": ["9a", "9b", "10a", "10b"],
+                "planting_dates_months": {
+                  "start_indoors": ["January", "February"],
+                  "transplant": ["February", "March"],
+                  "start_outdoors": ["February", "March"],
+                  "harvest": ["April", "May", "June"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Start okra seeds indoors 4-6 weeks before the last frost date, typically in early to mid-January.",
+                  "transplant": "Transplant okra seedlings outdoors after the danger of frost has passed, usually in late February to early March.",
+                  "start_outdoors": "Sow okra seeds directly outdoors once soil temperatures consistently reach 70°F (21°C), typically in late February to early March.",
+                  "harvest": "Harvest okra pods from late spring to early summer."
+                }
+              },
+              {
+                "zone": ["11a", "11b", "12a", "12b"],
+                "planting_dates_months": {
+                  "start_indoors": ["ALL"],
+                  "transplant": ["ALL"],
+                  "start_outdoors": ["ALL"],
+                  "harvest": ["ALL"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Start okra seeds indoors year-round for continuous harvest.",
+                  "transplant": "Transplant okra seedlings outdoors year-round for continuous harvest.",
+                  "start_outdoors": "Sow okra seeds directly outdoors year-round for continuous harvest.",
+                  "harvest": "Harvest okra pods year-round for continuous harvest."
+                }
+              }
+            ]
+          },
+          "varieties": [
+            {
+              "id": 0,
+              "name": "Clemson Spineless",
+              "description": "Clemson Spineless is a popular okra variety known for its tender pods and high productivity. The bright green pods are spineless, making them easy to harvest. With an upright growth habit, Clemson Spineless is an excellent choice for gardens and is widely used in various culinary applications, including fresh cooking, gumbo, and frying.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 50,
+                  "higher_estimate": 60
+                },
+                "plant_height": "24-36 inches",
+                "spacing": "12-18 inches",
+                "is_container_variety": false,
+                "recommended_container_size": "N/A",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Cream",
+                "leaf_color": "Green"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering, keep soil consistently moist",
+                "feeding_requirement": "Balanced fertilizer every 3-4 weeks",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "10-20 pods per plant",
+                "best_uses": ["Fresh Cooking", "Gumbo", "Frying"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Excellent",
+                "cold_tolerance": "Poor",
+                "frost_tolerance": false,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Fusarium Wilt"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Mild, slightly grassy with a mucilaginous texture"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Green",
+                "fruit_weight": "1-2 ounces",
+                "skin_thickness": "Thin",
+                "seed_cavity_size": "Small",
+                "storage_quality": "Best fresh, 2-3 days refrigerated",
+                "crack_resistance": "Good"
+              },
+              "fun_fact": "Clemson Spineless is a classic okra variety that has been a favorite among gardeners for its reliable performance and versatile use in cooking.",
+              "planting_tip": "For successful cultivation, plant Clemson Spineless okra seeds in well-drained soil with good sunlight. Water consistently to keep the soil evenly moist. Harvest the pods when they are 6-8 inches in length for optimal tenderness and flavor."
+            },
+            {
+              "id": 1,
+              "name": "Burgundy",
+              "description": "Burgundy okra is prized for its unique, deep burgundy-colored pods that add a splash of color to both gardens and dishes. The pods are tender and flavorful, suitable for various culinary uses. With an upright growth habit, Burgundy is not only a delicious addition to recipes but also a visually striking plant for ornamental gardens.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 55,
+                  "higher_estimate": 65
+                },
+                "plant_height": "24-36 inches",
+                "spacing": "12-18 inches",
+                "is_container_variety": false,
+                "recommended_container_size": "N/A",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Cream",
+                "leaf_color": "Green"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering, keep soil consistently moist",
+                "feeding_requirement": "Balanced fertilizer every 3-4 weeks",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "10-20 pods per plant",
+                "best_uses": ["Colorful Cuisine", "Ornamental Gardens", "Fresh Cooking"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Excellent",
+                "cold_tolerance": "Poor",
+                "frost_tolerance": false,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": []
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Mild, slightly sweet with a tender texture"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Burgundy",
+                "fruit_weight": "1-2 ounces",
+                "skin_thickness": "Thin",
+                "seed_cavity_size": "Small",
+                "storage_quality": "Best fresh, 2-3 days refrigerated",
+                "crack_resistance": "Good"
+              },
+              "fun_fact": "Burgundy okra is not only known for its culinary appeal but is also appreciated for its decorative value, making it a dual-purpose choice for gardeners.",
+              "planting_tip": "For successful cultivation, plant Burgundy okra seeds in well-drained soil with good sunlight. Water consistently and provide support if needed as the plant grows. Harvest the pods when they are 4-6 inches in length for the best color and flavor."
+            },
+            {
+              "id": 2,
+              "name": "Emerald",
+              "description": "Emerald okra is a traditional variety with vibrant green pods that are both tender and flavorful. Widely used in Southern cuisine, Emerald okra is versatile in the kitchen, suitable for grilling, frying, and pickling. With an upright growth habit, this variety is a reliable choice for okra enthusiasts.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 50,
+                  "higher_estimate": 60
+                },
+                "plant_height": "24-36 inches",
+                "spacing": "12-18 inches",
+                "is_container_variety": false,
+                "recommended_container_size": "N/A",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Cream",
+                "leaf_color": "Green"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering, keep soil consistently moist",
+                "feeding_requirement": "Balanced fertilizer every 3-4 weeks",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "10-20 pods per plant",
+                "best_uses": ["Southern Cuisine", "Grilling", "Pickling"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Excellent",
+                "cold_tolerance": "Poor",
+                "frost_tolerance": false,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": []
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Classic okra flavor, mild and slightly grassy"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Green",
+                "fruit_weight": "1-2 ounces",
+                "skin_thickness": "Thin",
+                "seed_cavity_size": "Small",
+                "storage_quality": "Best fresh, 2-3 days refrigerated",
+                "crack_resistance": "Good"
+              },
+              "fun_fact": "Emerald okra is a staple in traditional Southern dishes and is celebrated for its delicious flavor and culinary versatility.",
+              "planting_tip": "For successful cultivation, plant Emerald okra seeds in well-drained soil with good sunlight. Water consistently to keep the soil evenly moist. Harvest the pods when they are 5-7 inches in length for optimal tenderness and flavor."
+            },
+            {
+              "id": 3,
+              "name": "Annie Oakley II",
+              "description": "Annie Oakley II is a reliable okra variety known for its consistent performance and delicious pods. The bright green pods are tender and flavorful, making them suitable for various culinary applications. With an upright growth habit, Annie Oakley II is a versatile choice for gardens, offering excellent yield and taste.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 55,
+                  "higher_estimate": 65
+                },
+                "plant_height": "24-36 inches",
+                "spacing": "12-18 inches",
+                "is_container_variety": false,
+                "recommended_container_size": "N/A",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Cream",
+                "leaf_color": "Green"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering, keep soil consistently moist",
+                "feeding_requirement": "Balanced fertilizer every 3-4 weeks",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "15-25 pods per plant",
+                "best_uses": ["Fresh Cooking", "Grilling", "Gumbo"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Excellent",
+                "cold_tolerance": "Poor",
+                "frost_tolerance": false,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Fusarium Wilt"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Tender and mild with excellent texture"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Green",
+                "fruit_weight": "1-2 ounces",
+                "skin_thickness": "Thin",
+                "seed_cavity_size": "Small",
+                "storage_quality": "Best fresh, 2-3 days refrigerated",
+                "crack_resistance": "Good"
+              },
+              "fun_fact": "Annie Oakley II okra is named after the famous sharpshooter Annie Oakley, reflecting its precision in delivering a bountiful harvest of flavorful pods.",
+              "planting_tip": "For successful cultivation, plant Annie Oakley II okra seeds in well-drained soil with good sunlight. Water consistently to maintain soil moisture. Harvest the pods when they are 6-8 inches in length for optimal tenderness and flavor."
+            },
+            {
+              "id": 4,
+              "name": "Red Velvet",
+              "description": "Red Velvet okra is a visually stunning variety with vibrant red pods that add a colorful touch to gardens and dishes. The pods are tender and flavorful, suitable for various culinary uses. With an upright growth habit, Red Velvet is a unique and attractive choice for both ornamental and edible gardens.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 60,
+                  "higher_estimate": 70
+                },
+                "plant_height": "24-36 inches",
+                "spacing": "12-18 inches",
+                "is_container_variety": false,
+                "recommended_container_size": "N/A",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Cream",
+                "leaf_color": "Green"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering, keep soil consistently moist",
+                "feeding_requirement": "Balanced fertilizer every 3-4 weeks",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "10-20 pods per plant",
+                "best_uses": ["Colorful Cuisine", "Grilling", "Fresh Cooking"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Excellent",
+                "cold_tolerance": "Poor",
+                "frost_tolerance": false,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": []
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Mild and sweet with a tender texture"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Red",
+                "fruit_weight": "1-2 ounces",
+                "skin_thickness": "Thin",
+                "seed_cavity_size": "Small",
+                "storage_quality": "Best fresh, 2-3 days refrigerated",
+                "crack_resistance": "Good"
+              },
+              "fun_fact": "Red Velvet okra's striking red color makes it a standout choice in garden landscapes, and its flavor adds a delightful twist to culinary creations.",
+              "planting_tip": "For successful cultivation, plant Red Velvet okra seeds in well-drained soil with good sunlight. Water consistently and provide support if needed. Harvest the pods when they are 4-6 inches in length for the best color and flavor."
+            },
+            {
+              "id": 5,
+              "name": "Jambalaya",
+              "description": "Jambalaya okra is a flavorful variety often used in Southern cuisine, especially in dishes like gumbo. The green pods are tender and versatile, suitable for various cooking methods. With an upright growth habit, Jambalaya is a go-to choice for those seeking authentic flavors in their culinary creations.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 50,
+                  "higher_estimate": 60
+                },
+                "plant_height": "24-36 inches",
+                "spacing": "12-18 inches",
+                "is_container_variety": false,
+                "recommended_container_size": "N/A",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Cream",
+                "leaf_color": "Green"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering, keep soil consistently moist",
+                "feeding_requirement": "Balanced fertilizer every 3-4 weeks",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "10-20 pods per plant",
+                "best_uses": ["Gumbo", "Fresh Cooking", "Pickling"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Excellent",
+                "cold_tolerance": "Poor",
+                "frost_tolerance": false,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": []
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Rich, traditional okra flavor perfect for Southern dishes"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Green",
+                "fruit_weight": "1-2 ounces",
+                "skin_thickness": "Thin",
+                "seed_cavity_size": "Small",
+                "storage_quality": "Best fresh, 2-3 days refrigerated",
+                "crack_resistance": "Good"
+              },
+              "fun_fact": "Jambalaya okra is named after the famous Louisiana dish, reflecting its popularity and culinary significance in the region.",
+              "planting_tip": "For successful cultivation, plant Jambalaya okra seeds in well-drained soil with good sunlight. Water consistently to keep the soil evenly moist. Harvest the pods when they are 5-7 inches in length for optimal tenderness and flavor."
+            },
+            {
+              "id": 6,
+              "name": "Star of David",
+              "description": "Star of David okra is a distinctive variety known for its unique, star-shaped pods. The bright green pods are tender and flavorful, making them suitable for various cooking methods. With an upright growth habit, Star of David is not only a culinary delight but also an eye-catching addition to garden landscapes.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 55,
+                  "higher_estimate": 65
+                },
+                "plant_height": "24-36 inches",
+                "spacing": "12-18 inches",
+                "is_container_variety": false,
+                "recommended_container_size": "N/A",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Cream",
+                "leaf_color": "Green"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering, keep soil consistently moist",
+                "feeding_requirement": "Balanced fertilizer every 3-4 weeks",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "10-20 pods per plant",
+                "best_uses": ["Fresh Cooking", "Grilling", "Sautéing"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Excellent",
+                "cold_tolerance": "Poor",
+                "frost_tolerance": false,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": []
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Mild and tender with unique star-shaped cross-section"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Green",
+                "fruit_weight": "1-2 ounces",
+                "skin_thickness": "Thin",
+                "seed_cavity_size": "Small",
+                "storage_quality": "Best fresh, 2-3 days refrigerated",
+                "crack_resistance": "Good"
+              },
+              "fun_fact": "Star of David okra gets its name from the distinctive shape of its pods, resembling the Star of David, adding a touch of symbolism to the garden.",
+              "planting_tip": "For successful cultivation, plant Star of David okra seeds in well-drained soil with good sunlight. Water consistently and provide support if needed. Harvest the pods when they are 6-8 inches in length for optimal tenderness and flavor."
+            },
+            {
+              "id": 7,
+              "name": "Louisiana Green Velvet",
+              "description": "Louisiana Green Velvet okra is a classic variety with vibrant green pods that have a velvety texture. The tender pods are ideal for various cooking methods, including gumbo, fresh cooking, and frying. With an upright growth habit, Louisiana Green Velvet is a beloved choice for traditional Southern dishes.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 60,
+                  "higher_estimate": 70
+                },
+                "plant_height": "24-36 inches",
+                "spacing": "12-18 inches",
+                "is_container_variety": false,
+                "recommended_container_size": "N/A",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Cream",
+                "leaf_color": "Green"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering, keep soil consistently moist",
+                "feeding_requirement": "Balanced fertilizer every 3-4 weeks",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "10-20 pods per plant",
+                "best_uses": ["Gumbo", "Fresh Cooking", "Frying"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Excellent",
+                "cold_tolerance": "Poor",
+                "frost_tolerance": false,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": []
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Rich, velvety texture with traditional okra flavor"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Green",
+                "fruit_weight": "1-2 ounces",
+                "skin_thickness": "Thin",
+                "seed_cavity_size": "Small",
+                "storage_quality": "Best fresh, 2-3 days refrigerated",
+                "crack_resistance": "Good"
+              },
+              "fun_fact": "Louisiana Green Velvet okra is cherished for its velvety pods, adding a unique texture to dishes and contributing to the rich culinary heritage of Louisiana.",
+              "planting_tip": "For successful cultivation, plant Louisiana Green Velvet okra seeds in well-drained soil with good sunlight. Water consistently and provide support if needed. Harvest the pods when they are 4-6 inches in length for optimal tenderness and flavor."
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "name": "corn",
+          "plant_category": "Grain Vegetable",
+          "varieties_common_features": {
+            "sunlight_requirement": "Full Sun",
+            "sunlight_hours_min": 6,
+            "sunlight_hours_optimal": 8,
+            "propagation_methods": ["Seeds"],
+            "soil_acidity_range": {
+              "lower_bound": 6.0,
+              "upper_bound": 7.5
+            },
+            "soil_type_preference": ["Loamy", "Well-draining", "Rich in organic matter"],
+            "drainage_requirement": "Well-draining",
+            "days_to_germination": "7-10 days",
+            "frost_tolerance": false,
+            "planting_depth": "1-2 inches",
+            "spacing": "12-18 inches apart in rows 30-36 inches apart",
+            "life_cycle": "Annual",
+            "season": "Warm",
+            "typical_yield_range": "1-2 ears per stalk",
+            "companion_plants": ["Beans", "Peas", "Squash", "Cucumbers", "Pumpkins", "Sunflowers"],
+            "avoid_planting_with": ["Tomatoes", "Celery"],
+            "common_pests": ["Corn earworm", "European corn borer", "Corn rootworm", "Aphids", "Cutworms", "Japanese beetles"],
+            "common_diseases": ["Common rust", "Southern rust", "Northern corn leaf blight", "Gray leaf spot", "Stewart's wilt"],
+            "planting_zones_times": [
+              {
+                "zone": ["3a", "3b", "4a", "4b"],
+                "planting_dates_months": {
+                  "start_indoors": [],
+                  "transplant": [],
+                  "start_outdoors": ["May", "June"],
+                  "harvest": ["September", "October"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Not recommended - corn does not transplant well due to sensitive root system.",
+                  "transplant": "Not recommended - corn does not transplant well due to sensitive root system.",
+                  "start_outdoors": "Directly sow corn seeds outdoors once soil temperatures consistently reach at least 60°F (15.5°C), typically in late May to early June.",
+                  "harvest": "Harvest corn in late summer and early fall."
+                }
+              },
+              {
+                "zone": ["5a", "5b", "6a", "6b"],
+                "planting_dates_months": {
+                  "start_indoors": [],
+                  "transplant": [],
+                  "start_outdoors": ["April", "May"],
+                  "harvest": ["August", "September"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Not recommended - corn does not transplant well due to sensitive root system.",
+                  "transplant": "Not recommended - corn does not transplant well due to sensitive root system.",
+                  "start_outdoors": "Directly sow corn seeds outdoors once soil temperatures consistently reach at least 60°F (15.5°C), typically in April to May.",
+                  "harvest": "Harvest corn in late summer and early fall."
+                }
+              },
+              {
+                "zone": ["7a", "7b", "8a", "8b"],
+                "planting_dates_months": {
+                  "start_indoors": [],
+                  "transplant": [],
+                  "start_outdoors": ["April", "May"],
+                  "harvest": ["July", "August"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Not recommended - corn does not transplant well due to sensitive root system.",
+                  "transplant": "Not recommended - corn does not transplant well due to sensitive root system.",
+                  "start_outdoors": "Directly sow corn seeds outdoors once soil temperatures consistently reach at least 60°F (15.5°C), typically in April to May.",
+                  "harvest": "Harvest corn in mid to late summer."
+                }
+              },
+              {
+                "zone": ["9a", "9b", "10a", "10b"],
+                "planting_dates_months": {
+                  "start_indoors": [],
+                  "transplant": [],
+                  "start_outdoors": ["March", "April"],
+                  "harvest": ["June", "July"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Not recommended - corn does not transplant well due to sensitive root system.",
+                  "transplant": "Not recommended - corn does not transplant well due to sensitive root system.",
+                  "start_outdoors": "Directly sow corn seeds outdoors once soil temperatures consistently reach at least 60°F (15.5°C), typically in March to April.",
+                  "harvest": "Harvest corn in late spring to mid-summer."
+                }
+              },
+              {
+                "zone": ["11a", "11b", "12a", "12b"],
+                "planting_dates_months": {
+                  "start_indoors": [],
+                  "transplant": [],
+                  "start_outdoors": ["Year-round"],
+                  "harvest": ["Year-round"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Not recommended - corn does not transplant well due to sensitive root system.",
+                  "transplant": "Not recommended - corn does not transplant well due to sensitive root system.",
+                  "start_outdoors": "Directly sow corn seeds outdoors year-round in warm climates, avoiding extreme heat periods.",
+                  "harvest": "Harvest corn year-round in warm climates."
+                }
+              }
+            ]
+          },
+          "varieties": [
+            {
+              "id": 0,
+              "name": "Golden Bantam",
+              "description": "Golden Bantam is a classic corn variety that has been a favorite among gardeners since the early 1900s for its sweet and flavorful kernels. The golden-yellow ears are tender and ideal for fresh eating, grilling, and roasting. With a tall upright growth habit, Golden Bantam corn is a reliable heirloom choice for home gardens and provides a delicious addition to summer meals.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 70,
+                  "higher_estimate": 90
+                },
+                "plant_height": "5-6 feet",
+                "spacing": "12-18 inches apart in rows 30-36 inches apart",
+                "is_container_variety": false,
+                "recommended_container_size": "Not recommended for containers",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Golden yellow (tassels)",
+                "leaf_color": "Green"
+              },
+              "care_requirements": {
+                "water_requirement": "1-1.5 inches per week, especially during tasseling and ear development",
+                "feeding_requirement": "Nitrogen-rich fertilizer at planting and when 12 inches tall",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "1-2 ears per stalk",
+                "best_uses": ["Fresh eating", "Grilling", "Roasting", "Boiling"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Good",
+                "cold_tolerance": "Poor",
+                "frost_tolerance": false,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Moderate disease resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Sweet, rich corn flavor, tender and creamy"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Golden yellow",
+                "fruit_weight": "8-10 ounces",
+                "skin_thickness": "Thin kernels",
+                "seed_cavity_size": "N/A",
+                "storage_quality": "Best eaten fresh; refrigerate for 2-3 days or freeze",
+                "crack_resistance": "Good"
+              },
+              "herb_characteristics": null,
+              "root_characteristics": null,
+              "leaf_crop_characteristics": null,
+              "flower_characteristics": null,
+              "fun_fact": "Golden Bantam, introduced in the early 1900s, is one of the first widely popular sweet corn varieties, revolutionizing the way people enjoyed corn on the cob and setting the standard for sweet corn flavor.",
+              "planting_tip": "Plant Golden Bantam in blocks of at least 4 rows rather than single rows to ensure good pollination by wind. Sow seeds 1-2 inches deep when soil reaches 60°F. Harvest when silks turn brown and kernels are plump and milky when pierced."
+            },
+            {
+              "id": 1,
+              "name": "Peaches and Cream",
+              "description": "Peaches and Cream corn is a popular bi-color variety known for its sweet and juicy kernels. The ears have a delightful combination of yellow and white kernels, making them visually appealing and delicious. With a tall upright growth habit and excellent flavor, Peaches and Cream is a versatile choice for various culinary applications.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 75,
+                  "higher_estimate": 85
+                },
+                "plant_height": "6-7 feet",
+                "spacing": "12-18 inches apart in rows 30-36 inches apart",
+                "is_container_variety": false,
+                "recommended_container_size": "Not recommended for containers",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Yellow (tassels)",
+                "leaf_color": "Green"
+              },
+              "care_requirements": {
+                "water_requirement": "1-1.5 inches per week, consistent moisture during ear development",
+                "feeding_requirement": "Balanced fertilizer at planting and side-dress when knee-high",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "1-2 ears per stalk",
+                "best_uses": ["Fresh eating", "Grilling", "Boiling", "Freezing"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Good",
+                "cold_tolerance": "Poor",
+                "frost_tolerance": false,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Some rust resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Very sweet, reminiscent of peaches and cream, juicy"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Yellow and white kernels (bi-color)",
+                "fruit_weight": "10-12 ounces",
+                "skin_thickness": "Thin, tender kernels",
+                "seed_cavity_size": "N/A",
+                "storage_quality": "Best fresh; refrigerate for 2-3 days or freeze",
+                "crack_resistance": "Good"
+              },
+              "herb_characteristics": null,
+              "root_characteristics": null,
+              "leaf_crop_characteristics": null,
+              "flower_characteristics": null,
+              "fun_fact": "Peaches and Cream corn is prized for its deliciously sweet flavor, reminiscent of summer peaches, making it a favorite among corn enthusiasts. The bi-color kernels add beautiful visual appeal to any dish!",
+              "planting_tip": "Plant in blocks for better pollination. Water deeply and consistently, especially during silk and tassel formation. Harvest when kernels squirt milky juice when punctured - this is the 'milk stage' when flavor is at its peak."
+            },
+            {
+              "id": 2,
+              "name": "Country Gentleman",
+              "description": "Country Gentleman corn is a classic white heirloom variety known for its tender and flavorful kernels arranged in an irregular, shoepeg pattern. The ears have a refined, creamy taste, making them a favorite for fresh eating and culinary applications. With a tall upright growth habit, Country Gentleman is a reliable choice for home gardens seeking old-fashioned corn flavor.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 80,
+                  "higher_estimate": 95
+                },
+                "plant_height": "5-6 feet",
+                "spacing": "12-18 inches apart in rows 30-36 inches apart",
+                "is_container_variety": false,
+                "recommended_container_size": "Not recommended for containers",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Yellow (tassels)",
+                "leaf_color": "Green"
+              },
+              "care_requirements": {
+                "water_requirement": "1-1.5 inches per week, especially during hot weather and ear fill",
+                "feeding_requirement": "Balanced fertilizer at planting and when plants are knee-high",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "1-2 ears per stalk",
+                "best_uses": ["Fresh eating", "Grilling", "Steaming", "Creamed corn"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Good",
+                "cold_tolerance": "Poor",
+                "frost_tolerance": false,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Moderate disease resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Sweet, creamy, refined flavor with tender kernels"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "White",
+                "fruit_weight": "8-10 ounces",
+                "skin_thickness": "Very thin, tender kernels",
+                "seed_cavity_size": "N/A",
+                "storage_quality": "Best fresh; refrigerate for 2-3 days",
+                "crack_resistance": "Good"
+              },
+              "herb_characteristics": null,
+              "root_characteristics": null,
+              "leaf_crop_characteristics": null,
+              "flower_characteristics": null,
+              "fun_fact": "Country Gentleman corn, also known as 'Shoepeg Corn,' is valued for its unique kernel arrangement, with kernels packed in irregular zigzag rows resembling the shape of a shoepeg or shoe nail, rather than the typical straight rows.",
+              "planting_tip": "This heirloom variety has exceptional flavor but takes longer to mature. Plant in warm soil and ensure good pollination by planting in blocks. The irregular kernel pattern is normal and indicates authentic Country Gentleman corn!"
+            },
+            {
+              "id": 3,
+              "name": "Glass Gem",
+              "description": "Glass Gem corn is a unique and stunning ornamental variety known for its vibrant and multicolored kernels that resemble translucent gemstones. The ears display a rainbow of colors including blue, purple, pink, green, yellow, and red. This flint corn variety is primarily grown for decorative purposes but can also be ground into cornmeal. With a tall upright growth habit, Glass Gem adds spectacular color to garden landscapes.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 90,
+                  "higher_estimate": 110
+                },
+                "plant_height": "5-7 feet",
+                "spacing": "12-18 inches apart in rows 30-36 inches apart",
+                "is_container_variety": false,
+                "recommended_container_size": "Not recommended for containers",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Various colors (tassels)",
+                "leaf_color": "Green"
+              },
+              "care_requirements": {
+                "water_requirement": "1 inch per week, can tolerate some dryness once established",
+                "feeding_requirement": "Balanced fertilizer at planting",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "1-2 ears per stalk",
+                "best_uses": ["Decorative corn", "Ornamental displays", "Fall decorations", "Grinding into cornmeal"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Excellent",
+                "cold_tolerance": "Poor",
+                "frost_tolerance": false,
+                "drought_tolerance": "Good",
+                "disease_resistance": ["Good disease resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Not for fresh eating; can be ground into sweet, nutty cornmeal"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Multicolored (rainbow of blues, purples, pinks, greens, yellows, reds)",
+                "fruit_weight": "8-12 ounces",
+                "skin_thickness": "Hard flint kernels",
+                "seed_cavity_size": "N/A",
+                "storage_quality": "Excellent for long-term storage and display when fully dried",
+                "crack_resistance": "Excellent when dried properly"
+              },
+              "herb_characteristics": null,
+              "root_characteristics": null,
+              "leaf_crop_characteristics": null,
+              "flower_characteristics": null,
+              "fun_fact": "Glass Gem corn gained international popularity for its breathtakingly beautiful kernels, which can display a wide range of translucent colors resembling gemstones. It was developed by Carl Barnes, a part-Cherokee farmer who bred it to reconnect with his heritage!",
+              "planting_tip": "Allow ears to fully mature and dry on the stalk for the most vibrant colors. Isolate from sweet corn by at least 250 feet to prevent cross-pollination. Harvest when husks are completely dry and kernels are hard. The color intensity increases as the corn dries."
+            },
+            {
+              "id": 4,
+              "name": "Dakota Black",
+              "description": "Dakota Black corn is a distinctive heirloom variety with dark black to deep purple kernels, adding a unique and dramatic touch to both culinary dishes and decorative use. This flint corn has a rich, earthy flavor when ground into flour or meal. With a tall upright growth habit, Dakota Black is a standout choice for gardeners seeking something unique and historically significant.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 90,
+                  "higher_estimate": 110
+                },
+                "plant_height": "5-6 feet",
+                "spacing": "12-18 inches apart in rows 30-36 inches apart",
+                "is_container_variety": false,
+                "recommended_container_size": "Not recommended for containers",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Yellow (tassels)",
+                "leaf_color": "Green"
+              },
+              "care_requirements": {
+                "water_requirement": "1 inch per week, drought-tolerant once established",
+                "feeding_requirement": "Balanced fertilizer at planting",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "1-2 ears per stalk",
+                "best_uses": ["Grinding into flour/cornmeal", "Decorative corn", "Popcorn (some strains)", "Traditional Native American dishes"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Excellent",
+                "cold_tolerance": "Good",
+                "frost_tolerance": false,
+                "drought_tolerance": "Excellent",
+                "disease_resistance": ["Good disease resistance", "Pest resistant"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Rich, earthy, slightly sweet when ground; nutty undertones"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Black to deep purple",
+                "fruit_weight": "8-10 ounces",
+                "skin_thickness": "Hard flint kernels",
+                "seed_cavity_size": "N/A",
+                "storage_quality": "Excellent for long-term storage when dried properly",
+                "crack_resistance": "Excellent"
+              },
+              "herb_characteristics": null,
+              "root_characteristics": null,
+              "leaf_crop_characteristics": null,
+              "flower_characteristics": null,
+              "fun_fact": "Dakota Black corn is prized for its deep black kernels, which provide a visually striking element to gardens and culinary creations. This ancient variety was traditionally grown by Native American tribes in the Great Plains region!",
+              "planting_tip": "Allow ears to dry completely on the stalk until husks are brown and papery. This flint corn requires full maturity for best color and flavor. Grind the dried kernels into a beautiful purple-black flour rich in antioxidants. Isolate from sweet corn to maintain purity."
+            },
+            {
+              "id": 5,
+              "name": "Silver Queen",
+              "description": "Silver Queen is one of the most beloved white sweet corn varieties, famous for its exceptionally sweet flavor and tender kernels. The large ears are filled with plump, creamy white kernels that remain sweet and tender longer than many varieties. Silver Queen has been a garden favorite since the 1950s and is considered by many to be the standard by which all other white corn is measured.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 88,
+                  "higher_estimate": 92
+                },
+                "plant_height": "7-8 feet",
+                "spacing": "12-18 inches apart in rows 30-36 inches apart",
+                "is_container_variety": false,
+                "recommended_container_size": "Not recommended for containers",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Yellow (tassels)",
+                "leaf_color": "Dark green"
+              },
+              "care_requirements": {
+                "water_requirement": "1-1.5 inches per week, consistent moisture crucial",
+                "feeding_requirement": "Heavy feeder - nitrogen-rich fertilizer at planting and side-dress twice",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "1-2 large ears per stalk",
+                "best_uses": ["Fresh eating", "Grilling", "Boiling", "Freezing"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Excellent",
+                "cold_tolerance": "Poor",
+                "frost_tolerance": false,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Some Stewart's wilt resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Exceptionally sweet, tender, creamy with classic white corn flavor"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Creamy white",
+                "fruit_weight": "12-14 ounces",
+                "skin_thickness": "Very thin, tender kernels",
+                "seed_cavity_size": "N/A",
+                "storage_quality": "Best fresh; sweetness holds well; refrigerate for up to 3 days",
+                "crack_resistance": "Good"
+              },
+              "herb_characteristics": null,
+              "root_characteristics": null,
+              "leaf_crop_characteristics": null,
+              "flower_characteristics": null,
+              "fun_fact": "Silver Queen has been a garden staple since 1956 and is often called the 'Queen of White Corn'! It's so popular that some gardeners won't grow any other variety, and many farm stands sell out of Silver Queen first!",
+              "planting_tip": "Silver Queen needs warm soil (at least 65°F) to germinate well. Plant in blocks of at least 4 rows for best pollination. This variety loves heat and performs exceptionally well in hot summer climates. Pick ears when silks are brown and dry for peak sweetness."
+            }
+          ]
+        }
+    ]
+}
+
+
+
+
+

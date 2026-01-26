@@ -1,0 +1,1507 @@
+{
+    "next": "https://raw.githubusercontent.com/BorisOften/MyGardenDataBase/develop/new_plants/page9.json",
+    "previous": "https://raw.githubusercontent.com/BorisOften/MyGardenDataBase/develop/new_plants/page7.json",
+    "results": [
+        {
+          "id": 35,
+          "name": "raspberry",
+          "plant_category": "Fruit",
+          "varieties_common_features": {
+            "sunlight_requirement": "Full Sun to Partial Shade",
+            "sunlight_hours_min": 6,
+            "sunlight_hours_optimal": 8,
+            "propagation_methods": ["Root cuttings", "Suckers", "Bare-root plants", "Container plants", "Tip layering"],
+            "soil_acidity_range": {
+              "lower_bound": 5.5,
+              "upper_bound": 6.5
+            },
+            "soil_type_preference": ["Loamy", "Well-draining", "Rich in organic matter", "Sandy loam"],
+            "drainage_requirement": "Well-draining, avoid waterlogged soil",
+            "days_to_germination": "Not typically grown from seed",
+            "frost_tolerance": true,
+            "planting_depth": "2-3 inches deep, crown just below soil surface",
+            "spacing": "2-3 feet apart in rows 6-8 feet apart",
+            "life_cycle": "Perennial",
+            "season": "Cool to Warm",
+            "typical_yield_range": "3-6 pounds per plant depending on variety and age",
+            "companion_plants": ["Garlic", "Chives", "Turnips", "Tansy", "Yarrow", "Rue"],
+            "avoid_planting_with": ["Blackberries", "Tomatoes", "Peppers", "Eggplant", "Potatoes", "Strawberries"],
+            "common_pests": ["Japanese beetles", "Raspberry fruitworm", "Raspberry cane borer", "Spider mites", "Aphids", "Birds"],
+            "common_diseases": ["Raspberry mosaic virus", "Anthracnose", "Spur blight", "Cane blight", "Root rot", "Powdery mildew"],
+            "planting_zones_times": [
+              {
+                "zone": ["3a", "3b", "4a", "4b"],
+                "planting_dates_months": {
+                  "start_indoors": [],
+                  "transplant": ["April", "May", "October", "November"],
+                  "start_outdoors": ["April", "May", "October", "November"],
+                  "harvest": ["July", "August", "September"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Not applicable - raspberries are planted from bare-root plants or containers.",
+                  "transplant": "Plant raspberry canes in spring after last frost (April-May) or fall (October-November) while dormant.",
+                  "start_outdoors": "Plant bare-root or container raspberries in early spring or late fall for best establishment.",
+                  "harvest": "Harvest raspberries in summer; fall-bearing varieties produce a second crop in fall."
+                }
+              },
+              {
+                "zone": ["5a", "5b", "6a", "6b"],
+                "planting_dates_months": {
+                  "start_indoors": [],
+                  "transplant": ["March", "April", "October", "November"],
+                  "start_outdoors": ["March", "April", "October", "November"],
+                  "harvest": ["June", "July", "August", "September"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Not applicable - raspberries are planted from bare-root plants or containers.",
+                  "transplant": "Plant raspberry canes in early spring (March-April) or fall (October-November).",
+                  "start_outdoors": "Plant bare-root or container raspberries during dormant season for best results.",
+                  "harvest": "Harvest summer-bearing varieties in early summer; everbearing varieties in summer and fall."
+                }
+              },
+              {
+                "zone": ["7a", "7b", "8a", "8b"],
+                "planting_dates_months": {
+                  "start_indoors": [],
+                  "transplant": ["February", "March", "November", "December"],
+                  "start_outdoors": ["February", "March", "November", "December"],
+                  "harvest": ["May", "June", "September", "October"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Not applicable - raspberries are planted from bare-root plants or containers.",
+                  "transplant": "Plant raspberry canes in late winter to early spring (February-March) or late fall (November-December).",
+                  "start_outdoors": "Plant bare-root or container raspberries during cooler months for best establishment.",
+                  "harvest": "Harvest in late spring to early summer, with fall crops from everbearing varieties."
+                }
+              },
+              {
+                "zone": ["9a", "9b", "10a", "10b"],
+                "planting_dates_months": {
+                  "start_indoors": [],
+                  "transplant": ["January", "February", "December"],
+                  "start_outdoors": ["January", "February", "December"],
+                  "harvest": ["April", "May", "October", "November"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Not applicable - raspberries are planted from bare-root plants or containers.",
+                  "transplant": "Plant raspberry canes during the coolest months (January-February or December). Choose heat-tolerant varieties.",
+                  "start_outdoors": "Plant during cooler months; raspberries struggle in extreme heat without proper care.",
+                  "harvest": "Harvest in spring and fall in warm climates with appropriate varieties."
+                }
+              },
+              {
+                "zone": ["11a", "11b", "12a", "12b"],
+                "planting_dates_months": {
+                  "start_indoors": [],
+                  "transplant": [],
+                  "start_outdoors": [],
+                  "harvest": []
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Not recommended - tropical climates are generally unsuitable for raspberries.",
+                  "transplant": "Not recommended - raspberries require winter chill hours to produce fruit.",
+                  "start_outdoors": "Not recommended - tropical climates lack the necessary cold period for raspberry production.",
+                  "harvest": "Raspberries do not typically produce well in tropical climates."
+                }
+              }
+            ]
+          },
+          "varieties": [
+            {
+              "id": 0,
+              "name": "Heritage",
+              "description": "Heritage is the most popular everbearing (fall-bearing) red raspberry variety, known for its reliability, high yields, and excellent flavor. It produces two crops per year - a light summer crop on second-year canes and a heavy fall crop on first-year canes. The berries are medium to large, firm, and have outstanding flavor. Heritage is extremely cold-hardy and disease-resistant.",
+              "growth_info": {
+                "growth_mode": "Upright, everbearing",
+                "days_to_harvest": {
+                  "lower_estimate": 365,
+                  "higher_estimate": 730
+                },
+                "plant_height": "4-6 feet",
+                "spacing": "2-3 feet apart in rows 6-8 feet apart",
+                "is_container_variety": true,
+                "recommended_container_size": "18-24 inches deep, 18-24 inches wide",
+                "needs_support": true
+              },
+              "appearance": {
+                "flower_color": "White",
+                "leaf_color": "Medium green"
+              },
+              "care_requirements": {
+                "water_requirement": "1-2 inches per week, consistent moisture especially during fruiting",
+                "feeding_requirement": "Balanced fertilizer in early spring, side-dress after spring harvest",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "4-6 pounds per plant per season",
+                "best_uses": ["Fresh eating", "Freezing", "Preserves", "Baking", "Desserts"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Moderate",
+                "cold_tolerance": "Excellent",
+                "frost_tolerance": true,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Root rot", "Cane diseases", "Excellent overall disease resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Sweet-tart, rich, classic raspberry flavor, aromatic"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Bright red",
+                "fruit_weight": "0.10-0.14 ounces per berry",
+                "skin_thickness": "Firm, good for shipping",
+                "seed_cavity_size": "Small seeds",
+                "storage_quality": "Good firmness, refrigerate for 3-5 days, freezes excellently",
+                "crack_resistance": "Good"
+              },
+              "herb_characteristics": null,
+              "root_characteristics": null,
+              "leaf_crop_characteristics": null,
+              "flower_characteristics": null,
+              "fun_fact": "Heritage is so popular that it's been the standard everbearing raspberry for over 40 years! Many gardeners mow down all canes in late fall and harvest only the abundant fall crop, making management incredibly simple.",
+              "planting_tip": "Heritage is suitable for zones 4-8. Support canes with a trellis system. For simplified management, cut all canes to ground level in late winter and harvest only the fall crop - you'll get one heavy harvest instead of two lighter ones. Mulch heavily to suppress weeds."
+            },
+            {
+              "id": 1,
+              "name": "Autumn Bliss",
+              "description": "Autumn Bliss is an early-ripening everbearing red raspberry that produces large, sweet berries beginning in late summer. It's known for its compact growth habit, making it ideal for small gardens and containers. The berries are firm with excellent flavor and the plants have good disease resistance, particularly to root diseases.",
+              "growth_info": {
+                "growth_mode": "Upright, compact, everbearing",
+                "days_to_harvest": {
+                  "lower_estimate": 365,
+                  "higher_estimate": 730
+                },
+                "plant_height": "3-5 feet",
+                "spacing": "2-3 feet apart in rows 5-6 feet apart",
+                "is_container_variety": true,
+                "recommended_container_size": "16-20 inches deep, 16-20 inches wide",
+                "needs_support": true
+              },
+              "appearance": {
+                "flower_color": "White",
+                "leaf_color": "Medium to dark green"
+              },
+              "care_requirements": {
+                "water_requirement": "1-2 inches per week, needs consistent moisture",
+                "feeding_requirement": "Balanced fertilizer in early spring",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "3-5 pounds per plant per season",
+                "best_uses": ["Fresh eating", "Freezing", "Preserves", "Desserts"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Moderate",
+                "cold_tolerance": "Very good",
+                "frost_tolerance": true,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Root rot", "Phytophthora", "Good virus resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Sweet, rich, excellent flavor with good sweetness"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Bright red",
+                "fruit_weight": "0.12-0.16 ounces per berry (large)",
+                "skin_thickness": "Firm",
+                "seed_cavity_size": "Small seeds",
+                "storage_quality": "Good firmness, refrigerate for 3-5 days",
+                "crack_resistance": "Good"
+              },
+              "herb_characteristics": null,
+              "root_characteristics": null,
+              "leaf_crop_characteristics": null,
+              "flower_characteristics": null,
+              "fun_fact": "Autumn Bliss was one of the first compact everbearing raspberries developed, making it a pioneer variety for small-space gardening and container growing!",
+              "planting_tip": "Autumn Bliss is suitable for zones 4-8. Its compact size makes it perfect for containers and small gardens. Plant with support stakes or a simple trellis. The early fall harvest means you get berries before frost in short-season areas."
+            },
+            {
+              "id": 2,
+              "name": "Caroline",
+              "description": "Caroline is a premium everbearing red raspberry known for producing exceptionally large, sweet, aromatic berries with outstanding flavor. It has excellent disease resistance and produces heavy yields in fall, with a lighter summer crop. The berries are among the largest of any raspberry variety, making them ideal for fresh eating and farmers markets.",
+              "growth_info": {
+                "growth_mode": "Upright, vigorous, everbearing",
+                "days_to_harvest": {
+                  "lower_estimate": 365,
+                  "higher_estimate": 730
+                },
+                "plant_height": "5-7 feet",
+                "spacing": "2-3 feet apart in rows 6-8 feet apart",
+                "is_container_variety": false,
+                "recommended_container_size": "Not recommended - very vigorous growth",
+                "needs_support": true
+              },
+              "appearance": {
+                "flower_color": "White",
+                "leaf_color": "Dark green"
+              },
+              "care_requirements": {
+                "water_requirement": "1-2 inches per week, consistent moisture for large berries",
+                "feeding_requirement": "Balanced fertilizer in spring, may need additional feeding for heavy production",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "5-8 pounds per plant per season",
+                "best_uses": ["Fresh eating", "Farmers markets", "Freezing", "Gourmet applications"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Good",
+                "cold_tolerance": "Very good",
+                "frost_tolerance": true,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Root rot", "Cane diseases", "Excellent disease resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Exceptionally sweet, aromatic, complex flavor with low acidity"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Deep red",
+                "fruit_weight": "0.14-0.20 ounces per berry (very large)",
+                "skin_thickness": "Firm",
+                "seed_cavity_size": "Small seeds",
+                "storage_quality": "Excellent firmness, refrigerate for 5-7 days",
+                "crack_resistance": "Excellent"
+              },
+              "herb_characteristics": null,
+              "root_characteristics": null,
+              "leaf_crop_characteristics": null,
+              "flower_characteristics": null,
+              "fun_fact": "Caroline raspberries are so large and flavorful that they often win taste tests against other varieties! Some berries can be as large as a small strawberry.",
+              "planting_tip": "Caroline is suitable for zones 4-8. This vigorous grower needs sturdy support. The exceptional berry size and flavor make it worth the extra space. Heavy yields require good nutrition - don't skimp on fertilizer!"
+            },
+            {
+              "id": 3,
+              "name": "Tulameen",
+              "description": "Tulameen is a summer-bearing red raspberry variety renowned for producing the largest, sweetest, and most aromatic berries of any summer raspberry. The berries are exceptionally large, firm, and have an intense, sweet flavor. Tulameen is a floricane variety (fruits on second-year canes) and is considered by many to be the finest-tasting raspberry available.",
+              "growth_info": {
+                "growth_mode": "Upright, vigorous, summer-bearing",
+                "days_to_harvest": {
+                  "lower_estimate": 365,
+                  "higher_estimate": 730
+                },
+                "plant_height": "5-7 feet",
+                "spacing": "2-3 feet apart in rows 6-8 feet apart",
+                "is_container_variety": false,
+                "recommended_container_size": "Not recommended - very vigorous",
+                "needs_support": true
+              },
+              "appearance": {
+                "flower_color": "White",
+                "leaf_color": "Medium green"
+              },
+              "care_requirements": {
+                "water_requirement": "1-2 inches per week, needs consistent moisture",
+                "feeding_requirement": "Balanced fertilizer in early spring and after harvest",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "5-8 pounds per plant in summer",
+                "best_uses": ["Fresh eating", "Gourmet applications", "Freezing", "Preserves"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Moderate",
+                "cold_tolerance": "Good",
+                "frost_tolerance": true,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Moderate disease resistance", "Some root rot resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Exceptionally sweet, intensely aromatic, rich, complex flavor"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Bright red",
+                "fruit_weight": "0.16-0.24 ounces per berry (exceptionally large)",
+                "skin_thickness": "Firm, excellent quality",
+                "seed_cavity_size": "Small seeds",
+                "storage_quality": "Very good firmness, refrigerate for 5-7 days",
+                "crack_resistance": "Good"
+              },
+              "herb_characteristics": null,
+              "root_characteristics": null,
+              "leaf_crop_characteristics": null,
+              "flower_characteristics": null,
+              "fun_fact": "Tulameen is named after a town in British Columbia, Canada, where it was developed. Its berries are so large and flavorful that they command premium prices at gourmet markets!",
+              "planting_tip": "Tulameen is suitable for zones 5-8. As a summer-bearer, remove fruited canes after harvest and train new canes. Needs sturdy support due to large berry clusters. Worth the wait - year two brings incredible harvests!"
+            },
+            {
+              "id": 4,
+              "name": "Anne",
+              "description": "Anne is a unique everbearing yellow (gold) raspberry with very large, sweet, mild-flavored berries. The pale yellow berries have lower acidity than red raspberries, making them exceptionally sweet. Anne is thornless, making harvesting a pleasure, and the berries are perfect for those who find red raspberries too tart.",
+              "growth_info": {
+                "growth_mode": "Upright, everbearing, thornless",
+                "days_to_harvest": {
+                  "lower_estimate": 365,
+                  "higher_estimate": 730
+                },
+                "plant_height": "5-6 feet",
+                "spacing": "2-3 feet apart in rows 6-8 feet apart",
+                "is_container_variety": true,
+                "recommended_container_size": "18-24 inches deep, 20-24 inches wide",
+                "needs_support": true
+              },
+              "appearance": {
+                "flower_color": "White",
+                "leaf_color": "Medium green"
+              },
+              "care_requirements": {
+                "water_requirement": "1-2 inches per week, consistent moisture important",
+                "feeding_requirement": "Balanced fertilizer in early spring",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "4-6 pounds per plant per season",
+                "best_uses": ["Fresh eating", "Desserts", "Preserves", "Unique presentations"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Good",
+                "cold_tolerance": "Very good",
+                "frost_tolerance": true,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Good disease resistance overall"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Very sweet, mild, low acidity, subtle apricot notes"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Pale yellow to golden",
+                "fruit_weight": "0.12-0.18 ounces per berry (large)",
+                "skin_thickness": "Medium-firm",
+                "seed_cavity_size": "Small seeds",
+                "storage_quality": "Good, but more delicate than red varieties, refrigerate for 2-3 days",
+                "crack_resistance": "Moderate"
+              },
+              "herb_characteristics": null,
+              "root_characteristics": null,
+              "leaf_crop_characteristics": null,
+              "flower_characteristics": null,
+              "fun_fact": "Anne's yellow berries are less attractive to birds than red raspberries, meaning you might lose less of your harvest to feathered thieves! Plus, being thornless makes harvesting much more enjoyable.",
+              "planting_tip": "Anne is suitable for zones 4-8. The thornless canes are perfect for family gardens. Yellow raspberries have a shorter shelf life than red - plan to eat or preserve quickly. The mild, sweet flavor is perfect for those who find red raspberries too tart."
+            },
+            {
+              "id": 5,
+              "name": "Black Jewel",
+              "description": "Black Jewel is a premium black raspberry variety producing large, glossy, jet-black berries with rich, intense flavor. Black raspberries are sweeter and have a more complex flavor than red raspberries, with wine-like undertones. Black Jewel is disease-resistant, cold-hardy, and produces heavy yields of firm berries that are excellent fresh or for value-added products.",
+              "growth_info": {
+                "growth_mode": "Arching canes, summer-bearing",
+                "days_to_harvest": {
+                  "lower_estimate": 365,
+                  "higher_estimate": 730
+                },
+                "plant_height": "4-5 feet (arching to 6-7 feet)",
+                "spacing": "3-4 feet apart in rows 8-10 feet apart",
+                "is_container_variety": false,
+                "recommended_container_size": "Not recommended - arching canes need space",
+                "needs_support": true
+              },
+              "appearance": {
+                "flower_color": "White",
+                "leaf_color": "Dark green with silvery undersides"
+              },
+              "care_requirements": {
+                "water_requirement": "1-2 inches per week, good drainage essential",
+                "feeding_requirement": "Balanced fertilizer in early spring",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "4-7 pounds per plant in summer",
+                "best_uses": ["Fresh eating", "Jams", "Wine", "Liqueurs", "Baking", "Freezing"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Good",
+                "cold_tolerance": "Excellent",
+                "frost_tolerance": true,
+                "drought_tolerance": "Good",
+                "disease_resistance": ["Anthracnose", "Powdery mildew", "Good virus resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Rich, sweet, complex with wine-like undertones, more intense than red raspberries"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Jet black",
+                "fruit_weight": "0.08-0.12 ounces per berry",
+                "skin_thickness": "Firm",
+                "seed_cavity_size": "Small seeds",
+                "storage_quality": "Excellent firmness, refrigerate for 5-7 days, freezes very well",
+                "crack_resistance": "Excellent"
+              },
+              "herb_characteristics": null,
+              "root_characteristics": null,
+              "leaf_crop_characteristics": null,
+              "flower_characteristics": null,
+              "fun_fact": "Black raspberries are native to North America and contain even higher levels of antioxidants than red raspberries or blueberries! They're sometimes called 'black caps' and were a favorite of Thomas Jefferson.",
+              "planting_tip": "Black Jewel is suitable for zones 4-8. Black raspberries grow differently than red - they tip-root (tips touch ground and root). Train to a trellis and don't plant near red raspberries to prevent disease spread. Prune out fruited canes after harvest."
+            },
+            {
+              "id": 6,
+              "name": "Polana",
+              "description": "Polana is an early-ripening everbearing red raspberry from Poland that begins producing up to 2 weeks before other fall-bearing varieties. It produces medium to large, firm, sweet berries with excellent flavor. Polana is extremely cold-hardy, disease-resistant, and ideal for northern gardens where the growing season is short.",
+              "growth_info": {
+                "growth_mode": "Upright, compact, everbearing",
+                "days_to_harvest": {
+                  "lower_estimate": 365,
+                  "higher_estimate": 730
+                },
+                "plant_height": "4-5 feet",
+                "spacing": "2-3 feet apart in rows 6 feet apart",
+                "is_container_variety": true,
+                "recommended_container_size": "18-24 inches deep, 18-24 inches wide",
+                "needs_support": true
+              },
+              "appearance": {
+                "flower_color": "White",
+                "leaf_color": "Medium green"
+              },
+              "care_requirements": {
+                "water_requirement": "1-2 inches per week, consistent moisture needed",
+                "feeding_requirement": "Balanced fertilizer in early spring",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "4-6 pounds per plant per season",
+                "best_uses": ["Fresh eating", "Freezing", "Preserves", "Baking"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Moderate",
+                "cold_tolerance": "Excellent",
+                "frost_tolerance": true,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Cane diseases", "Root rot", "Excellent cold hardiness"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Sweet, rich, classic raspberry flavor"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Bright red",
+                "fruit_weight": "0.10-0.14 ounces per berry",
+                "skin_thickness": "Firm",
+                "seed_cavity_size": "Small seeds",
+                "storage_quality": "Good firmness, refrigerate for 3-5 days",
+                "crack_resistance": "Good"
+              },
+              "herb_characteristics": null,
+              "root_characteristics": null,
+              "leaf_crop_characteristics": null,
+              "flower_characteristics": null,
+              "fun_fact": "Polana was developed in Poland and is one of the most cold-hardy everbearing raspberries available! Its early ripening means you can harvest raspberries before the first frost even in short-season areas.",
+              "planting_tip": "Polana is suitable for zones 3-8, with exceptional cold tolerance. Perfect for northern gardens where Heritage might not finish ripening before frost. Compact size works well in smaller spaces. Mow canes to ground in late fall for simplified management."
+            }
+          ]
+        },
+        {
+          "id": 36,
+          "name": "pumpkin",
+          "plant_category": "Vegetable",
+          "varieties_common_features": {
+            "sunlight_requirement": "Full Sun",
+            "sunlight_hours_min": 6,
+            "sunlight_hours_optimal": 8,
+            "propagation_methods": ["Seeds"],
+            "soil_acidity_range": {
+              "lower_bound": 6.0,
+              "upper_bound": 7.5
+            },
+            "soil_type_preference": ["Loamy", "Well-draining", "Rich in organic matter"],
+            "drainage_requirement": "Well-draining",
+            "days_to_germination": "7-10 days",
+            "frost_tolerance": false,
+            "planting_depth": "1 inch",
+            "spacing": "3-4 feet",
+            "life_cycle": "Annual",
+            "season": "Warm",
+            "typical_yield_range": "2-4 pumpkins per plant",
+            "companion_plants": ["Corn", "Beans", "Squash", "Melons", "Nasturtiums"],
+            "avoid_planting_with": ["Potatoes", "Fennel", "Kohlrabi"],
+            "common_pests": ["Squash bugs", "Cucumber beetles", "Squash vine borers", "Aphids"],
+            "common_diseases": ["Powdery mildew", "Downy mildew", "Bacterial wilt", "Anthracnose"],
+            "planting_zones_times": [
+              {
+                "zone": ["3a", "3b", "4a", "4b"],
+                "planting_dates_months": {
+                  "start_indoors": ["April", "May"],
+                  "transplant": ["May", "June"],
+                  "start_outdoors": ["May", "June"],
+                  "harvest": ["September", "October"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Start pumpkin seeds indoors 3-4 weeks before the last frost date in April to May.",
+                  "transplant": "Transplant seedlings outdoors after the last frost date in May to June.",
+                  "start_outdoors": "Direct sow pumpkin seeds outdoors after the last frost date in May to June in full sun.",
+                  "harvest": "Harvest pumpkins in late fall before the first frost in September to October."
+                }
+              },
+              {
+                "zone": ["5a", "5b", "6a", "6b"],
+                "planting_dates_months": {
+                  "start_indoors": ["April", "May"],
+                  "transplant": ["May", "June"],
+                  "start_outdoors": ["May", "June"],
+                  "harvest": ["September", "October"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Start pumpkin seeds indoors 3-4 weeks before the last frost date in April to May.",
+                  "transplant": "Transplant seedlings outdoors after the last frost date in May to June.",
+                  "start_outdoors": "Direct sow pumpkin seeds outdoors after the last frost date in May to June.",
+                  "harvest": "Harvest pumpkins in early fall in September to October."
+                }
+              },
+              {
+                "zone": ["7a", "7b", "8a", "8b"],
+                "planting_dates_months": {
+                  "start_indoors": ["March", "April"],
+                  "transplant": ["April", "May"],
+                  "start_outdoors": ["April", "May"],
+                  "harvest": ["August", "September"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Start pumpkin seeds indoors in March to April.",
+                  "transplant": "Transplant seedlings outdoors in April to May.",
+                  "start_outdoors": "Direct sow pumpkin seeds outdoors in April to May.",
+                  "harvest": "Harvest pumpkins in late summer to early fall in August to September."
+                }
+              },
+              {
+                "zone": ["9a", "9b", "10a", "10b"],
+                "planting_dates_months": {
+                  "start_indoors": ["February", "March"],
+                  "transplant": ["March", "April"],
+                  "start_outdoors": ["March", "April"],
+                  "harvest": ["July", "August"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Start pumpkin seeds indoors in February to March.",
+                  "transplant": "Transplant seedlings outdoors in March to April.",
+                  "start_outdoors": "Direct sow pumpkin seeds outdoors in March to April.",
+                  "harvest": "Harvest pumpkins in mid to late summer in July to August."
+                }
+              },
+              {
+                "zone": ["11a", "11b", "12a", "12b"],
+                "planting_dates_months": {
+                  "start_indoors": ["August", "September"],
+                  "transplant": ["September", "October"],
+                  "start_outdoors": ["September", "October"],
+                  "harvest": ["December", "January"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Start pumpkin seeds indoors in August to September.",
+                  "transplant": "Transplant seedlings outdoors in September to October.",
+                  "start_outdoors": "Direct sow pumpkin seeds outdoors in September to October.",
+                  "harvest": "Harvest pumpkins in winter in December to January."
+                }
+              }
+            ]
+          },
+          "varieties": [
+            {
+              "id": 0,
+              "name": "Cinderella",
+              "description": "Cinderella pumpkins are famous for their distinctive flattened, ribbed shape and deep orange color. Weighing 10-25 pounds, they are perfect for carving and decoration. This heirloom French variety is ideal for Halloween displays and produces excellent yields with great storage capabilities.",
+              "growth_info": {
+                "growth_mode": "Vining",
+                "days_to_harvest": {
+                  "lower_estimate": 75,
+                  "higher_estimate": 90
+                },
+                "plant_height": "6-12 inches (vines spread 8-12 feet)",
+                "spacing": "3-4 feet",
+                "is_container_variety": false,
+                "recommended_container_size": "Not suitable for containers",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Yellow",
+                "leaf_color": "Green"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering, 1-2 inches per week",
+                "feeding_requirement": "Heavy feeder, apply balanced fertilizer every 3-4 weeks",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "2-3 pumpkins per plant",
+                "best_uses": ["Carving", "Decoration", "Cooking"]
+              },
+              "tolerances": {
+                "heat_tolerance": "High",
+                "cold_tolerance": "Low",
+                "frost_tolerance": false,
+                "drought_tolerance": "Low",
+                "disease_resistance": ["Powdery mildew resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Sweet, dense, flavorful flesh ideal for purees and cooking"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Deep orange",
+                "fruit_weight": "10-25 pounds",
+                "skin_thickness": "Thick and hard",
+                "seed_cavity_size": "Medium",
+                "storage_quality": "Excellent, stores 2-3 months",
+                "crack_resistance": "Very good"
+              },
+              "fun_fact": "Cinderella pumpkins are the iconic pumpkin featured in the fairy tale 'Cinderella' and are a favorite for decorative fall displays.",
+              "planting_tip": "Plant Cinderella pumpkins in rich soil with plenty of space for vines to spread. Provide consistent moisture and fertilize regularly throughout the growing season. Hand-pollinate flowers if pollinators are scarce. Begin harvesting when skin hardens and color turns deep orange, typically before the first frost."
+            },
+            {
+              "id": 1,
+              "name": "Sugar Pumpkin",
+              "description": "Sugar pumpkins, also called pie pumpkins, are smaller (4-8 pounds) and sweeter than carving pumpkins. With creamy, dense flesh, they are the preferred choice for baking, cooking, and making purees. These compact growers produce multiple fruits per plant and are excellent for home gardeners.",
+              "growth_info": {
+                "growth_mode": "Vining",
+                "days_to_harvest": {
+                  "lower_estimate": 70,
+                  "higher_estimate": 85
+                },
+                "plant_height": "6-10 inches (vines spread 6-8 feet)",
+                "spacing": "2-3 feet",
+                "is_container_variety": false,
+                "recommended_container_size": "Not suitable for containers",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Yellow",
+                "leaf_color": "Green"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering, 1-2 inches per week",
+                "feeding_requirement": "Moderate to heavy feeder, apply balanced fertilizer every 4 weeks",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "3-6 pumpkins per plant",
+                "best_uses": ["Baking", "Cooking", "Purees", "Pies"]
+              },
+              "tolerances": {
+                "heat_tolerance": "High",
+                "cold_tolerance": "Low",
+                "frost_tolerance": false,
+                "drought_tolerance": "Low",
+                "disease_resistance": ["Powdery mildew resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Sweet, tender, fine-grained flesh perfect for desserts"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Bright orange",
+                "fruit_weight": "4-8 pounds",
+                "skin_thickness": "Moderately thick",
+                "seed_cavity_size": "Small to medium",
+                "storage_quality": "Good, stores 1-2 months",
+                "crack_resistance": "Good"
+              },
+              "fun_fact": "Sugar pumpkins contain nearly twice the sugar content of large carving pumpkins and have a much higher fiber content, making them ideal for cooking.",
+              "planting_tip": "Sugar pumpkins thrive in warm conditions with full sun exposure. Space plants 2-3 feet apart to allow good air circulation. Water deeply but avoid wetting foliage to prevent disease. These varieties are prolific producers, so thin fruit if desired to focus energy on larger pumpkins. Harvest when skin is hard and difficult to pierce."
+            },
+            {
+              "id": 2,
+              "name": "Howden",
+              "description": "Howden pumpkins are the gold standard for carving, featuring a classic large size (10-25 pounds), smooth skin, and deep orange color. With a slightly flattened shape and sturdy handles, they are structurally perfect for jack-o'-lanterns. This reliable variety has excellent disease resistance and good storage life.",
+              "growth_info": {
+                "growth_mode": "Vining",
+                "days_to_harvest": {
+                  "lower_estimate": 80,
+                  "higher_estimate": 100
+                },
+                "plant_height": "8-12 inches (vines spread 10-15 feet)",
+                "spacing": "4-5 feet",
+                "is_container_variety": false,
+                "recommended_container_size": "Not suitable for containers",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Yellow",
+                "leaf_color": "Green"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering, 1-2 inches per week",
+                "feeding_requirement": "Heavy feeder, apply balanced fertilizer every 3 weeks",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "2-3 pumpkins per plant",
+                "best_uses": ["Carving", "Decoration", "Display"]
+              },
+              "tolerances": {
+                "heat_tolerance": "High",
+                "cold_tolerance": "Low",
+                "frost_tolerance": false,
+                "drought_tolerance": "Low",
+                "disease_resistance": ["Powdery mildew resistance", "Cucumber beetle resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Mild, moderate sweetness, suitable for cooking but not preferred for pies"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Bright orange",
+                "fruit_weight": "10-25 pounds",
+                "skin_thickness": "Thick and hard",
+                "seed_cavity_size": "Large",
+                "storage_quality": "Excellent, stores 2-3 months",
+                "crack_resistance": "Very good"
+              },
+              "fun_fact": "Howden pumpkins were developed in 1903 and remain the most popular carving pumpkin in North America, accounting for a large percentage of commercial pumpkin sales.",
+              "planting_tip": "Howden pumpkins require plenty of space and consistent feeding throughout the season. Plant in rich soil amended with compost. Provide at least 4-5 feet of space between plants to allow vines to spread. Water at the base to keep foliage dry. Harvest after the first light frost when the skin has hardened completely and the stems have turned brown."
+            }
+          ]
+        },
+        {
+          "id": 37,
+          "name": "brussels sprouts",
+          "plant_category": "Vegetable",
+          "varieties_common_features": {
+            "sunlight_requirement": "Full Sun",
+            "sunlight_hours_min": 6,
+            "sunlight_hours_optimal": 8,
+            "propagation_methods": ["Seeds"],
+            "soil_acidity_range": {
+              "lower_bound": 6.0,
+              "upper_bound": 7.5
+            },
+            "soil_type_preference": ["Loamy", "Well-draining", "Rich in organic matter"],
+            "drainage_requirement": "Well-draining",
+            "days_to_germination": "5-10 days",
+            "frost_tolerance": true,
+            "planting_depth": "1/2 inch",
+            "spacing": "18-24 inches",
+            "life_cycle": "Biennial (grown as annual)",
+            "season": "Cool",
+            "typical_yield_range": "50-100 sprouts per plant",
+            "companion_plants": ["Cabbage", "Broccoli", "Kale", "Beets", "Chard", "Potatoes"],
+            "avoid_planting_with": ["Tomatoes", "Fennel", "Strawberries"],
+            "common_pests": ["Cabbage worms", "Cabbage loopers", "Flea beetles", "Harlequin bugs", "Aphids"],
+            "common_diseases": ["Clubroot", "Powdery mildew", "Downy mildew", "Black rot"],
+            "planting_zones_times": [
+              {
+                "zone": ["3a", "3b", "4a", "4b"],
+                "planting_dates_months": {
+                  "start_indoors": ["April", "May"],
+                  "transplant": ["June", "July"],
+                  "start_outdoors": [],
+                  "harvest": ["October", "November"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Start brussels sprouts seeds indoors 4-6 weeks before transplant date in April to May.",
+                  "transplant": "Transplant seedlings outdoors in June to July after they have 4-6 true leaves.",
+                  "start_outdoors": "Not Recommended",
+                  "harvest": "Harvest brussels sprouts in fall after the first frost in October to November when buds are firm and tight."
+                }
+              },
+              {
+                "zone": ["5a", "5b", "6a", "6b"],
+                "planting_dates_months": {
+                  "start_indoors": ["May", "June"],
+                  "transplant": ["July", "August"],
+                  "start_outdoors": [],
+                  "harvest": ["October", "November"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Start brussels sprouts seeds indoors 4-6 weeks before transplant date in May to June.",
+                  "transplant": "Transplant seedlings outdoors in July to August.",
+                  "start_outdoors": "Not Recommended",
+                  "harvest": "Harvest brussels sprouts in fall in October to November."
+                }
+              },
+              {
+                "zone": ["7a", "7b", "8a", "8b"],
+                "planting_dates_months": {
+                  "start_indoors": ["May", "June"],
+                  "transplant": ["July", "August"],
+                  "start_outdoors": [],
+                  "harvest": ["November", "December"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Start brussels sprouts seeds indoors in May to June.",
+                  "transplant": "Transplant seedlings outdoors in July to August.",
+                  "start_outdoors": "Not Recommended",
+                  "harvest": "Harvest brussels sprouts in late fall to early winter in November to December."
+                }
+              },
+              {
+                "zone": ["9a", "9b", "10a", "10b"],
+                "planting_dates_months": {
+                  "start_indoors": ["June", "July"],
+                  "transplant": ["August", "September"],
+                  "start_outdoors": [],
+                  "harvest": ["December", "January"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Start brussels sprouts seeds indoors in June to July.",
+                  "transplant": "Transplant seedlings outdoors in August to September.",
+                  "start_outdoors": "Not Recommended",
+                  "harvest": "Harvest brussels sprouts in winter in December to January."
+                }
+              },
+              {
+                "zone": ["11a", "11b", "12a", "12b"],
+                "planting_dates_months": {
+                  "start_indoors": ["July", "August"],
+                  "transplant": ["September", "October"],
+                  "start_outdoors": [],
+                  "harvest": ["January", "February"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Start brussels sprouts seeds indoors in July to August.",
+                  "transplant": "Transplant seedlings outdoors in September to October.",
+                  "start_outdoors": "Not Recommended",
+                  "harvest": "Harvest brussels sprouts in winter in January to February."
+                }
+              }
+            ]
+          },
+          "varieties": [
+            {
+              "id": 0,
+              "name": "Jade Cross",
+              "description": "Jade Cross is a hybrid brussels sprout variety known for its uniform, medium-sized sprouts and exceptional yields. This early-maturing variety produces tight, dark green sprouts on compact plants, making it ideal for home gardeners. It has good disease resistance and consistent flavor.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 90,
+                  "higher_estimate": 110
+                },
+                "plant_height": "24-30 inches",
+                "spacing": "18-24 inches",
+                "is_container_variety": false,
+                "recommended_container_size": "Not suitable for containers",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Yellow",
+                "leaf_color": "Dark green"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering, 1-1.5 inches per week",
+                "feeding_requirement": "Moderate to heavy feeder, apply balanced fertilizer every 4 weeks",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "50-80 sprouts per plant",
+                "best_uses": ["Roasting", "Steaming", "Sautéing", "Fresh"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Low",
+                "cold_tolerance": "Very high",
+                "frost_tolerance": true,
+                "drought_tolerance": "Low",
+                "disease_resistance": ["Clubroot resistance", "Powdery mildew resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Mild, slightly sweet, tender with a subtle nutty undertone"
+              },
+              "leafCropCharacteristics": {
+                "head_type": "Sprout buds",
+                "leaf_texture": "Tightly packed, firm",
+                "days_to_maturity": "90-110 days",
+                "bolt_resistance": "Excellent"
+              },
+              "fun_fact": "Jade Cross was developed in the 1940s and remains one of the most popular hybrid brussels sprout varieties for home gardeners due to its reliability and consistent quality.",
+              "planting_tip": "Start Jade Cross seeds indoors 6-8 weeks before transplanting outdoors. Plant in rich soil with plenty of organic matter. Space plants 18-24 inches apart for good air circulation. Remove lower leaves as sprouts develop to direct energy upward. Harvest sprouts from the bottom up when they reach 1-2 inches in diameter and are firm and dark green. Flavor improves after a light frost."
+            },
+            {
+              "id": 1,
+              "name": "Roodnerf",
+              "description": "Roodnerf is a beautiful heirloom brussels sprout variety from Holland featuring distinctive red-tinged sprouts with a slight purple coloration. These medium-sized sprouts are not only visually striking but also offer a slightly sweeter, more complex flavor profile. This variety is becoming increasingly popular among specialty gardeners.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 100,
+                  "higher_estimate": 120
+                },
+                "plant_height": "24-32 inches",
+                "spacing": "18-24 inches",
+                "is_container_variety": false,
+                "recommended_container_size": "Not suitable for containers",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Yellow",
+                "leaf_color": "Dark green with red veining"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering, 1-1.5 inches per week",
+                "feeding_requirement": "Moderate to heavy feeder, apply balanced fertilizer every 4 weeks",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "60-90 sprouts per plant",
+                "best_uses": ["Roasting", "Sautéing", "Garnish", "Specialty dishes"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Low",
+                "cold_tolerance": "Very high",
+                "frost_tolerance": true,
+                "drought_tolerance": "Low",
+                "disease_resistance": ["Clubroot resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Sweet, complex flavor with a hint of nuttiness and subtle earthy notes"
+              },
+              "leafCropCharacteristics": {
+                "head_type": "Sprout buds with red coloring",
+                "leaf_texture": "Tightly packed, firm, slightly loose outer leaves",
+                "days_to_maturity": "100-120 days",
+                "bolt_resistance": "Good"
+              },
+              "fun_fact": "Roodnerf sprouts retain their beautiful red-purple coloration even when cooked, making them a stunning addition to gourmet dishes and a favorite among food photographers.",
+              "planting_tip": "Roodnerf requires similar care to other brussels sprouts but appreciates consistent moisture and rich soil for optimal flavor development. Plant in full sun with adequate spacing for air circulation. This variety produces more prolifically in cooler climates and reaches peak flavor after several frosts. Harvest when sprouts are firm and the outer leaves are tightly closed. The red coloration deepens as temperatures cool in fall."
+            },
+            {
+              "id": 2,
+              "name": "Long Island Improved",
+              "description": "Long Island Improved is a classic heirloom brussels sprout variety developed for commercial cultivation and home gardening. It produces abundant, medium to large-sized sprouts on tall, sturdy plants. This time-tested variety is known for its reliability, cold hardiness, and excellent flavor that improves with frost.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 95,
+                  "higher_estimate": 115
+                },
+                "plant_height": "28-36 inches",
+                "spacing": "18-24 inches",
+                "is_container_variety": false,
+                "recommended_container_size": "Not suitable for containers",
+                "needs_support": true
+              },
+              "appearance": {
+                "flower_color": "Yellow",
+                "leaf_color": "Medium green"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering, 1.5-2 inches per week",
+                "feeding_requirement": "Heavy feeder, apply balanced fertilizer every 3-4 weeks",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "75-100 sprouts per plant",
+                "best_uses": ["Roasting", "Steaming", "Sautéing", "Freezing"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Low",
+                "cold_tolerance": "Very high",
+                "frost_tolerance": true,
+                "drought_tolerance": "Low",
+                "disease_resistance": ["Some clubroot resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Rich, earthy, slightly sweet with robust brussels sprout flavor that deepens after frost"
+              },
+              "leafCropCharacteristics": {
+                "head_type": "Large, tightly packed sprout buds",
+                "leaf_texture": "Dense, firm exterior with tender interior",
+                "days_to_maturity": "95-115 days",
+                "bolt_resistance": "Excellent"
+              },
+              "fun_fact": "Long Island Improved was developed in the 1800s and remains a preferred variety for commercial growers in the northeastern United States, particularly on Long Island where it got its name.",
+              "planting_tip": "Long Island Improved plants grow tall and require staking or support as they mature. Plant in enriched soil with excellent drainage and full sun exposure. Space plants 24 inches apart to accommodate their larger size. Provide consistent moisture throughout the growing season and feed regularly. Remove bottom leaves as sprouts develop to improve air circulation and concentrate growth upward. This variety's flavor is notably improved by harvesting after a hard frost, so delay harvest if possible until late fall or early winter."
+            }
+          ]
+        },
+        {
+          "id": 38,
+          "name": "oregano",
+          "plant_category": "Herb",
+          "varieties_common_features": {
+            "sunlight_requirement": "Full Sun",
+            "sunlight_hours_min": 6,
+            "sunlight_hours_optimal": 8,
+            "propagation_methods": ["Seeds", "Cuttings", "Division"],
+            "soil_acidity_range": {
+              "lower_bound": 6.0,
+              "upper_bound": 8.0
+            },
+            "soil_type_preference": ["Loamy", "Sandy", "Well-draining"],
+            "drainage_requirement": "Well-draining",
+            "days_to_germination": "7-14 days",
+            "frost_tolerance": true,
+            "planting_depth": "Just below soil surface",
+            "spacing": "12-18 inches",
+            "life_cycle": "Perennial",
+            "season": "Warm",
+            "typical_yield_range": "Continuous harvest from spring to fall",
+            "companion_plants": ["Basil", "Marjoram", "Thyme", "Rosemary", "Lavender", "Vegetables"],
+            "avoid_planting_with": ["None noted"],
+            "common_pests": ["Spider mites", "Whiteflies", "Aphids"],
+            "common_diseases": ["Root rot in wet conditions", "Powdery mildew in humid climates"],
+            "planting_zones_times": [
+              {
+                "zone": ["3a", "3b", "4a", "4b"],
+                "planting_dates_months": {
+                  "start_indoors": ["March", "April"],
+                  "transplant": ["May", "June"],
+                  "start_outdoors": ["May", "June"],
+                  "harvest": ["June", "July", "August", "September"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Start oregano seeds indoors 6-8 weeks before last frost date in March to April.",
+                  "transplant": "Transplant seedlings outdoors after last frost date in May to June.",
+                  "start_outdoors": "Direct sow oregano seeds in late spring in May to June.",
+                  "harvest": "Begin harvesting fresh leaves in early summer and continue through fall. Plant will not survive winter outdoors in this zone."
+                }
+              },
+              {
+                "zone": ["5a", "5b", "6a", "6b"],
+                "planting_dates_months": {
+                  "start_indoors": ["March", "April"],
+                  "transplant": ["May", "June"],
+                  "start_outdoors": ["May", "June"],
+                  "harvest": ["June", "July", "August", "September", "October"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Start oregano seeds indoors 6-8 weeks before last frost date in March to April.",
+                  "transplant": "Transplant seedlings outdoors after last frost date in May to June.",
+                  "start_outdoors": "Direct sow oregano seeds in late spring in May to June.",
+                  "harvest": "Begin harvesting in early summer and continue through fall. In zone 5b-6a, plant may return in spring if mulched heavily."
+                }
+              },
+              {
+                "zone": ["7a", "7b", "8a", "8b"],
+                "planting_dates_months": {
+                  "start_indoors": ["February", "March"],
+                  "transplant": ["April", "May"],
+                  "start_outdoors": ["April", "May"],
+                  "harvest": ["May", "June", "July", "August", "September", "October"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Start oregano seeds indoors in February to March.",
+                  "transplant": "Transplant seedlings outdoors in April to May.",
+                  "start_outdoors": "Direct sow oregano seeds in spring in April to May.",
+                  "harvest": "Harvest from late spring through fall. Plant is perennial and will return each year in these zones."
+                }
+              },
+              {
+                "zone": ["9a", "9b", "10a", "10b"],
+                "planting_dates_months": {
+                  "start_indoors": ["January", "February"],
+                  "transplant": ["March", "April"],
+                  "start_outdoors": ["March", "April"],
+                  "harvest": ["March", "April", "May", "September", "October", "November"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Start oregano seeds indoors in January to February.",
+                  "transplant": "Transplant seedlings outdoors in March to April.",
+                  "start_outdoors": "Direct sow oregano seeds in spring in March to April.",
+                  "harvest": "Harvest in spring and fall to avoid summer heat stress. Plant may slow growth during hot summers."
+                }
+              },
+              {
+                "zone": ["11a", "11b", "12a", "12b"],
+                "planting_dates_months": {
+                  "start_indoors": ["Year-round"],
+                  "transplant": ["Year-round"],
+                  "start_outdoors": ["Year-round"],
+                  "harvest": ["Year-round"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Start oregano seeds indoors year-round in warm climates.",
+                  "transplant": "Transplant seedlings outdoors year-round.",
+                  "start_outdoors": "Direct sow oregano seeds year-round.",
+                  "harvest": "Harvest year-round. Provide afternoon shade during intense summer heat."
+                }
+              }
+            ]
+          },
+          "varieties": [
+            {
+              "id": 0,
+              "name": "Greek Oregano",
+              "description": "Greek oregano is the most prized culinary oregano variety, known for its robust, peppery flavor and aromatic intensity. This low-growing, woody perennial produces tiny gray-green leaves and delicate white or pink flowers. It's the preferred choice for Mediterranean cooking and is hardier than most oregano varieties.",
+              "growth_info": {
+                "growth_mode": "Compact mounding",
+                "days_to_harvest": {
+                  "lower_estimate": 60,
+                  "higher_estimate": 90
+                },
+                "plant_height": "12-18 inches",
+                "spacing": "12-18 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "8-10 inches",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "White to pale pink",
+                "leaf_color": "Gray-green"
+              },
+              "care_requirements": {
+                "water_requirement": "Low to moderate, allow soil to dry slightly between waterings",
+                "feeding_requirement": "Light feeder, minimal fertilizer needed",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "Continuous throughout growing season",
+                "best_uses": ["Culinary", "Fresh use", "Drying", "Mediterranean dishes"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Very high",
+                "cold_tolerance": "Very high",
+                "frost_tolerance": true,
+                "drought_tolerance": "Very high",
+                "disease_resistance": ["Powdery mildew resistant", "Root rot resistant in well-drained soil"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Strong, peppery, slightly spicy with warm aromatic notes"
+              },
+              "herbCharacteristics": {
+                "leaf_texture": "Fine, velvety, small leaves on wiry stems",
+                "aroma_intensity": "Very strong and pungent",
+                "culinary_strength": "Strong, use sparingly",
+                "bolt_resistance": "Excellent"
+              },
+              "fun_fact": "True Greek oregano (Origanum vulgare subsp. hirtum) has a compound called carvacrol that gives it its characteristic peppery bite and is believed to have antibacterial and antioxidant properties.",
+              "planting_tip": "Greek oregano thrives in poor, well-draining soil in full sun. Plant in containers or raised beds to ensure excellent drainage. Avoid overwatering—this is the biggest mistake gardeners make. Pinch back new growth regularly to encourage bushiness and prolong the productive season. Harvest leaves just before the plant flowers for maximum flavor. Dried Greek oregano actually becomes more potent than fresh."
+            },
+            {
+              "id": 1,
+              "name": "Italian Oregano",
+              "description": "Italian oregano, also known as Sicilian oregano, offers a more delicate flavor than Greek oregano with slightly sweet and earthy undertones. This variety produces broader, softer leaves on more tender stems and grows slightly taller than Greek oregano. It's excellent fresh or dried and is the traditional choice for Italian cuisine.",
+              "growth_info": {
+                "growth_mode": "Spreading mound",
+                "days_to_harvest": {
+                  "lower_estimate": 60,
+                  "higher_estimate": 90
+                },
+                "plant_height": "18-24 inches",
+                "spacing": "12-18 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "10-12 inches",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "White to light pink",
+                "leaf_color": "Medium to dark green"
+              },
+              "care_requirements": {
+                "water_requirement": "Low to moderate, water when top inch of soil is dry",
+                "feeding_requirement": "Light to moderate feeder, occasional light fertilizer",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "Continuous throughout growing season",
+                "best_uses": ["Culinary", "Fresh use", "Drying", "Italian pasta dishes", "Pizza"]
+              },
+              "tolerances": {
+                "heat_tolerance": "High",
+                "cold_tolerance": "High",
+                "frost_tolerance": true,
+                "drought_tolerance": "High",
+                "disease_resistance": ["Generally disease resistant"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Milder than Greek, sweet, earthy with subtle citrus notes"
+              },
+              "herbCharacteristics": {
+                "leaf_texture": "Softer, broader leaves on tender stems",
+                "aroma_intensity": "Moderate to strong",
+                "culinary_strength": "Moderate, versatile for various dishes",
+                "bolt_resistance": "Very good"
+              },
+              "fun_fact": "Italian oregano is actually more closely related to marjoram than true oregano, which is why it has a slightly sweeter, more delicate flavor profile compared to Greek oregano.",
+              "planting_tip": "Italian oregano is slightly more tender than Greek oregano and prefers a bit more moisture and richer soil. Plant in full sun with well-draining soil amended with compost. This variety is more suited to indoor growing in colder climates. Pinch back frequently to encourage bushier growth. Harvest by cutting stems just above leaf nodes. Both fresh and dried Italian oregano work beautifully in pasta sauces, pizzas, and traditional Italian cooking."
+            },
+            {
+              "id": 2,
+              "name": "Golden Oregano",
+              "description": "Golden oregano is an ornamental and culinary variety prized for its attractive bright golden-yellow foliage that adds visual interest to herb gardens. Despite its delicate appearance, it has a pleasant, mild oregano flavor suitable for culinary use. The plant produces small white or pale pink flowers and is slightly less cold hardy than Greek oregano.",
+              "growth_info": {
+                "growth_mode": "Compact spreading",
+                "days_to_harvest": {
+                  "lower_estimate": 60,
+                  "higher_estimate": 90
+                },
+                "plant_height": "10-15 inches",
+                "spacing": "12-15 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "8-10 inches",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "White to pale pink",
+                "leaf_color": "Golden yellow to lime green"
+              },
+              "care_requirements": {
+                "water_requirement": "Low to moderate, allow some drying between waterings",
+                "feeding_requirement": "Light feeder, minimal fertilizer needed",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "Continuous throughout growing season",
+                "best_uses": ["Ornamental garden", "Culinary", "Fresh use", "Container gardening"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Moderate to high",
+                "cold_tolerance": "Moderate",
+                "frost_tolerance": true,
+                "drought_tolerance": "High",
+                "disease_resistance": ["Generally disease resistant in well-drained conditions"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Mild, pleasant oregano flavor with subtle herbal notes"
+              },
+              "herbCharacteristics": {
+                "leaf_texture": "Fine, delicate leaves on slender stems",
+                "aroma_intensity": "Mild to moderate",
+                "culinary_strength": "Mild, works well in fresh dishes",
+                "bolt_resistance": "Excellent"
+              },
+              "fun_fact": "Golden oregano's striking golden foliage is at its most vibrant when grown in full sun, and the color actually fades to green if the plant is shaded, making sunlight essential for this variety's ornamental appeal.",
+              "planting_tip": "Golden oregano prefers full sun to display its best coloring and requires excellent drainage. It's ideal for container growing where you can showcase its colorful foliage. Plant in well-draining soil and avoid overwatering. Pinch back regularly to maintain compact shape and encourage branching. In colder zones (below zone 5), grow in containers and bring indoors for winter. Use fresh leaves in culinary applications for best flavor, as the delicate leaves are more suited to fresh use than drying."
+            }
+          ]
+        },
+        {
+          "id": 39,
+          "name": "arugula",
+          "plant_category": "Vegetable",
+          "varieties_common_features": {
+            "sunlight_requirement": "Full Sun to Partial Shade",
+            "sunlight_hours_min": 4,
+            "sunlight_hours_optimal": 6,
+            "propagation_methods": ["Seeds"],
+            "soil_acidity_range": {
+              "lower_bound": 6.0,
+              "upper_bound": 7.5
+            },
+            "soil_type_preference": ["Loamy", "Sandy", "Well-draining"],
+            "drainage_requirement": "Well-draining",
+            "days_to_germination": "3-10 days",
+            "frost_tolerance": true,
+            "planting_depth": "1/4 inch",
+            "spacing": "4-6 inches",
+            "life_cycle": "Annual",
+            "season": "Cool",
+            "typical_yield_range": "20-30 leaves per square foot",
+            "companion_plants": ["Lettuce", "Spinach", "Radishes", "Beets", "Carrots", "Tomatoes"],
+            "avoid_planting_with": ["Fennel"],
+            "common_pests": ["Flea beetles", "Aphids", "Cabbage worms", "Slugs"],
+            "common_diseases": ["Clubroot", "Powdery mildew", "Downy mildew"],
+            "planting_zones_times": [
+              {
+                "zone": ["3a", "3b", "4a", "4b"],
+                "planting_dates_months": {
+                  "start_indoors": [],
+                  "transplant": [],
+                  "start_outdoors": ["April", "May"],
+                  "harvest": ["May", "June"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Not Recommended",
+                  "transplant": "Not Recommended",
+                  "start_outdoors": "Directly sow arugula seeds outdoors in spring in April to May as soon as soil can be worked.",
+                  "harvest": "Harvest arugula leaves in late spring to early summer in May to June. Plant will bolt as temperatures warm."
+                }
+              },
+              {
+                "zone": ["5a", "5b", "6a", "6b"],
+                "planting_dates_months": {
+                  "start_indoors": [],
+                  "transplant": [],
+                  "start_outdoors": ["March", "April", "August", "September"],
+                  "harvest": ["April", "May", "September", "October"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Not Recommended",
+                  "transplant": "Not Recommended",
+                  "start_outdoors": "Directly sow arugula seeds outdoors in early spring in March to April and again in late summer in August to September for fall harvest.",
+                  "harvest": "Harvest in spring and again in fall. Arugula is ideal for spring and fall gardens when temperatures are cool."
+                }
+              },
+              {
+                "zone": ["7a", "7b", "8a", "8b"],
+                "planting_dates_months": {
+                  "start_indoors": [],
+                  "transplant": [],
+                  "start_outdoors": ["February", "March", "August", "September"],
+                  "harvest": ["March", "April", "September", "October"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Not Recommended",
+                  "transplant": "Not Recommended",
+                  "start_outdoors": "Directly sow arugula seeds outdoors in early spring in February to March and in late summer in August to September.",
+                  "harvest": "Harvest in spring and fall. Summer plantings will bolt quickly, so focus on cool season growing."
+                }
+              },
+              {
+                "zone": ["9a", "9b", "10a", "10b"],
+                "planting_dates_months": {
+                  "start_indoors": [],
+                  "transplant": [],
+                  "start_outdoors": ["October", "November", "December", "January"],
+                  "harvest": ["November", "December", "January", "February"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Not Recommended",
+                  "transplant": "Not Recommended",
+                  "start_outdoors": "Directly sow arugula seeds outdoors in fall and winter in October to January.",
+                  "harvest": "Harvest from late fall through winter. Arugula thrives in cool season conditions in these zones."
+                }
+              },
+              {
+                "zone": ["11a", "11b", "12a", "12b"],
+                "planting_dates_months": {
+                  "start_indoors": [],
+                  "transplant": [],
+                  "start_outdoors": ["November", "December", "January"],
+                  "harvest": ["December", "January", "February"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Not Recommended",
+                  "transplant": "Not Recommended",
+                  "start_outdoors": "Directly sow arugula seeds outdoors in winter months when temperatures cool.",
+                  "harvest": "Harvest during cool season months in winter."
+                }
+              }
+            ]
+          },
+          "varieties": [
+            {
+              "id": 0,
+              "name": "Roquette (Wild Arugula)",
+              "description": "Roquette, or wild arugula, is a smaller-leafed, deeply lobed variety with a more intense, peppery flavor than cultivated arugula. This heirloom Italian variety produces tender, delicate leaves perfect for salads and Italian cuisine. It grows quickly and is highly cold tolerant, making it ideal for cool season gardens.",
+              "growth_info": {
+                "growth_mode": "Compact",
+                "days_to_harvest": {
+                  "lower_estimate": 30,
+                  "higher_estimate": 40
+                },
+                "plant_height": "8-12 inches",
+                "spacing": "4-6 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "6 inches deep",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "White with purple veining",
+                "leaf_color": "Dark green"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering, keep soil consistently moist",
+                "feeding_requirement": "Light to moderate fertility, optional light fertilizer",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "25-35 leaves per square foot",
+                "best_uses": ["Salads", "Pesto", "Italian cooking", "Fresh garnish"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Very low",
+                "cold_tolerance": "Very high",
+                "frost_tolerance": true,
+                "drought_tolerance": "Low",
+                "disease_resistance": []
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Very peppery, intense, spicy with sharp mustard-like notes"
+              },
+              "leafCropCharacteristics": {
+                "head_type": "Loose leaves",
+                "leaf_texture": "Deeply lobed, tender, delicate",
+                "days_to_maturity": "30-40 days",
+                "bolt_resistance": "Moderate, will bolt in warm weather"
+              },
+              "fun_fact": "Wild arugula (Diplotaxis tenuifolia) is a different species from cultivated arugula and actually has a more peppery bite. In Italy, it's considered more sophisticated and is often paired with aged cheeses and truffle oil.",
+              "planting_tip": "Roquette is best grown in cool seasons and prefers partial shade in warmer weather to slow bolting. Direct sow seeds in early spring or late summer for best results. Space plants 4-6 inches apart for tender leaves or closer for micro greens. Harvest outer leaves when they reach 2-3 inches for continuous picking, or wait 30-40 days for full plant maturity. This variety thrives in containers and is ideal for quick succession plantings every 2-3 weeks for continuous harvest."
+            },
+            {
+              "id": 1,
+              "name": "Astro",
+              "description": "Astro is a modern hybrid arugula variety bred for slow bolting and extended harvest periods. This cultivar produces broad, tender leaves with a classic peppery arugula flavor that's slightly milder than wild arugula. It's excellent for commercial production and home gardeners seeking reliability and longer harvest windows.",
+              "growth_info": {
+                "growth_mode": "Compact spreading",
+                "days_to_harvest": {
+                  "lower_estimate": 35,
+                  "higher_estimate": 50
+                },
+                "plant_height": "10-14 inches",
+                "spacing": "4-6 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "8 inches deep",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "White",
+                "leaf_color": "Medium green"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering, consistent moisture preferred",
+                "feeding_requirement": "Light to moderate fertility",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "30-40 leaves per square foot",
+                "best_uses": ["Salads", "Mixed greens", "Fresh eating", "Microgreens"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Low to moderate",
+                "cold_tolerance": "High",
+                "frost_tolerance": true,
+                "drought_tolerance": "Low",
+                "disease_resistance": ["Downy mildew resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Peppery, balanced, slightly milder than wild arugula with pleasant nutty undertones"
+              },
+              "leafCropCharacteristics": {
+                "head_type": "Loose leaves",
+                "leaf_texture": "Broad, tender, smooth-edged leaves",
+                "days_to_maturity": "35-50 days",
+                "bolt_resistance": "Very good, slower to bolt than other varieties"
+              },
+              "fun_fact": "Astro arugula was specifically developed to solve the common problem of arugula bolting too quickly in home gardens, giving home gardeners a longer window for harvest.",
+              "planting_tip": "Astro is more forgiving than traditional arugula and can handle slightly warmer temperatures before bolting. Direct sow seeds in early spring or mid to late summer for fall harvest. Keep soil consistently moist but not waterlogged. Thin seedlings to 4-6 inches for full-sized plants or leave closer together for tender baby leaves. Begin harvesting outer leaves when they're 2-3 inches long for continuous picking. This variety works particularly well for succession planting every 2 weeks for continuous supply."
+            },
+            {
+              "id": 2,
+              "name": "Arugula Sylvetta",
+              "description": "Arugula Sylvetta is a cultivated variety of wild arugula that offers a good balance between the intense flavor of true wild arugula and the ease of growing cultivated varieties. It produces deeply lobed leaves with a distinctly peppery flavor and better cold tolerance than standard arugula. This variety is increasingly popular in specialty salad mixes.",
+              "growth_info": {
+                "growth_mode": "Compact mounding",
+                "days_to_harvest": {
+                  "lower_estimate": 40,
+                  "higher_estimate": 55
+                },
+                "plant_height": "10-15 inches",
+                "spacing": "4-6 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "8 inches deep",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "White with purple streaks",
+                "leaf_color": "Dark green"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering, keep soil moist",
+                "feeding_requirement": "Light fertility, minimal fertilizer needed",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "25-35 leaves per square foot",
+                "best_uses": ["Salads", "Specialty greens", "Gourmet cooking", "Microgreens"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Low",
+                "cold_tolerance": "Very high",
+                "frost_tolerance": true,
+                "drought_tolerance": "Low",
+                "disease_resistance": []
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Intensely peppery with complex spicy notes, more flavorful than standard arugula"
+              },
+              "leafCropCharacteristics": {
+                "head_type": "Loose lobed leaves",
+                "leaf_texture": "Deeply lobed, tender, feathery",
+                "days_to_maturity": "40-55 days",
+                "bolt_resistance": "Moderate, excellent in cool weather"
+              },
+              "fun_fact": "Sylvetta arugula is sometimes called 'Japanese arugula' in specialty seed catalogs, though it has no connection to Japan—the name likely refers to its sophisticated flavor profile.",
+              "planting_tip": "Sylvetta arugula prefers cool growing conditions and thrives in spring and fall gardens. Direct sow seeds 1/4 inch deep in well-prepared, moist soil. Space plants 4-6 inches apart for full-sized plants. This variety is excellent for succession planting and provides several harvests before bolting. Pick outer leaves regularly starting when they're 2-3 inches long to extend the harvest period. For best flavor and tenderness, harvest in cool morning hours. Excellent for container gardening and grows well as microgreens."
+            }
+          ]
+        }
+        
+    ]
+}
+
+
+
+
+
