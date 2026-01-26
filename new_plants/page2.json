@@ -1,6 +1,6 @@
 {
-    "next": "https://raw.githubusercontent.com/BorisOften/MyGardenDataBase/develop/new_plants/page3.json",
-    "previous": "https://raw.githubusercontent.com/BorisOften/MyGardenDataBase/develop/new_plants/page1.json",
+    "next": "https://raw.githubusercontent.com/BorisOften/MyGardenDataBase/staging/new_plants/page3.json",
+    "previous": "https://raw.githubusercontent.com/BorisOften/MyGardenDataBase/staging/new_plants/page1.json",
     "results": [
         {
           "id": 5,
