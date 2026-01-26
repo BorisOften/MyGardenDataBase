@@ -1,0 +1,1729 @@
+{
+    "next": "https://raw.githubusercontent.com/BorisOften/MyGardenDataBase/develop/new_plants/page6.json",
+    "previous": "https://raw.githubusercontent.com/BorisOften/MyGardenDataBase/develop/new_plants/page4.json",
+    "results": [
+        {
+            "id": 20,
+            "name": "pepper",
+            "plant_category": "Fruiting Vegetable",
+            "varieties_common_features": {
+                "sunlight_requirement": "Full Sun",
+                "sunlight_hours_min": 6,
+                "sunlight_hours_optimal": 8,
+                "propagation_methods": ["Seeds", "Transplants"],
+                "soil_acidity_range": {
+                    "lower_bound": 6.0,
+                    "upper_bound": 7.0
+                },
+                "soil_type_preference": ["Loamy", "Well-draining", "Rich in organic matter"],
+                "drainage_requirement": "Well-draining",
+                "days_to_germination": "7-14 days",
+                "frost_tolerance": false,
+                "planting_depth": "1/4 inch",
+                "spacing": "18-24 inches",
+                "life_cycle": "Annual",
+                "season": "Warm",
+                "typical_yield_range": "10-30 peppers per plant depending on variety",
+                "companion_plants": ["Basil", "Tomatoes", "Carrots", "Onions", "Spinach"],
+                "avoid_planting_with": ["Fennel", "Kohlrabi", "Brassicas"],
+                "common_pests": ["Aphids", "Spider mites", "Pepper weevils", "Flea beetles", "Cutworms"],
+                "common_diseases": ["Bacterial spot", "Phytophthora blight", "Anthracnose", "Mosaic virus", "Blossom end rot"],
+                "planting_zones_times": [
+                    {
+                        "zone": ["3a", "3b", "4a", "4b"],
+                        "planting_dates_months": {
+                            "start_indoors": ["February", "March"],
+                            "transplant": ["May", "June"],
+                            "start_outdoors": ["June", "July"],
+                            "harvest": ["August", "September", "October"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Start pepper seeds indoors 8-10 weeks before the last frost date, typically in late February to early March.",
+                            "transplant": "Transplant pepper seedlings outdoors after the danger of frost has passed and soil temperatures reach at least 60°F, usually in late May to early June.",
+                            "start_outdoors": "Direct seeding outdoors is not recommended in these zones due to short growing season. Use transplants instead.",
+                            "harvest": "Harvest peppers in late summer and early fall, typically August through October."
+                        }
+                    },
+                    {
+                        "zone": ["5a", "5b", "6a", "6b"],
+                        "planting_dates_months": {
+                            "start_indoors": ["January", "February", "March"],
+                            "transplant": ["April", "May"],
+                            "start_outdoors": ["May", "June"],
+                            "harvest": ["July", "August", "September", "October"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Start pepper seeds indoors 8-10 weeks before the last frost date, typically in late January to early March.",
+                            "transplant": "Transplant pepper seedlings outdoors after the danger of frost has passed and soil temperatures reach at least 60°F, usually in late April to mid-May.",
+                            "start_outdoors": "Direct seeding can be done once soil temperatures consistently reach 70°F, typically late May to early June.",
+                            "harvest": "Harvest peppers from mid-summer to early fall, typically July through October."
+                        }
+                    },
+                    {
+                        "zone": ["7a", "7b", "8a", "8b"],
+                        "planting_dates_months": {
+                            "start_indoors": ["January", "February"],
+                            "transplant": ["March", "April"],
+                            "start_outdoors": ["April", "May"],
+                            "harvest": ["June", "July", "August", "September"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Start pepper seeds indoors 8-10 weeks before the last frost date, typically in January to February.",
+                            "transplant": "Transplant pepper seedlings outdoors after the danger of frost has passed, usually in late March to mid-April.",
+                            "start_outdoors": "Direct seeding outdoors once soil temperatures consistently reach 70°F, typically in late April to early May.",
+                            "harvest": "Harvest peppers from late spring through summer, typically June through September."
+                        }
+                    },
+                    {
+                        "zone": ["9a", "9b", "10a", "10b"],
+                        "planting_dates_months": {
+                            "start_indoors": ["December", "January", "February"],
+                            "transplant": ["February", "March", "August", "September"],
+                            "start_outdoors": ["March", "April", "September"],
+                            "harvest": ["May", "June", "July", "November", "December"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Start pepper seeds indoors 8-10 weeks before transplanting, typically December through February for spring planting.",
+                            "transplant": "Transplant pepper seedlings outdoors in late winter/early spring (February-March) or late summer (August-September) for fall growing.",
+                            "start_outdoors": "Direct seeding outdoors in spring (March-April) or fall (September) when temperatures are moderate.",
+                            "harvest": "Harvest peppers in late spring through summer (May-July) and late fall through winter (November-December)."
+                        }
+                    },
+                    {
+                        "zone": ["11a", "11b", "12a", "12b"],
+                        "planting_dates_months": {
+                            "start_indoors": ["September", "October", "November", "December", "January"],
+                            "transplant": ["October", "November", "December", "January", "February"],
+                            "start_outdoors": ["October", "November", "December", "January", "February"],
+                            "harvest": ["All months except summer peaks"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Start pepper seeds indoors during cooler months (September-January) for best results.",
+                            "transplant": "Transplant pepper seedlings outdoors during cooler months (October-February) to avoid extreme summer heat.",
+                            "start_outdoors": "Plant peppers outdoors during cooler months (October-February) for continuous harvest. Avoid planting during hottest summer months.",
+                            "harvest": "Harvest peppers year-round with best production during cooler months. Reduce expectations during extreme summer heat."
+                        }
+                    }
+                ]
+            },
+            "varieties": [
+                {
+                    "id": 0,
+                    "name": "Jalapeño",
+                    "description": "Jalapeño Pepper is a popular chili pepper known for its moderate heat and versatility in various culinary applications. With an upright growth habit, it produces elongated, green to red fruits that are widely used in salsas, pickling, and for adding a kick to dishes. This annual pepper variety is well-suited for both garden beds and container gardening.",
+                    "growth_info": {
+                        "growth_mode": "Upright",
+                        "days_to_harvest": {
+                            "lower_estimate": 70,
+                            "higher_estimate": 90
+                        },
+                        "plant_height": "24-36 inches",
+                        "spacing": "18-24 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "5 gallons minimum",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "White",
+                        "leaf_color": "Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering, 1-2 inches per week",
+                        "feeding_requirement": "Balanced fertilizer every 2-3 weeks during growing season",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "25-35 peppers per plant",
+                        "best_uses": ["Fresh eating", "Salsas", "Pickling", "Roasting"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Good",
+                        "cold_tolerance": "Poor",
+                        "frost_tolerance": false,
+                        "drought_tolerance": "Moderate",
+                        "disease_resistance": ["Tobacco Mosaic Virus"]
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Moderate heat with bright, grassy flavor. Scoville rating: 2,500-8,000 SHU"
+                    },
+                    "fruit_characteristics": {
+                        "fruit_color": "Green maturing to red",
+                        "fruit_weight": "0.5-1 ounce",
+                        "skin_thickness": "Medium",
+                        "seed_cavity_size": "Small to medium",
+                        "storage_quality": "Good for fresh use, excellent for pickling",
+                        "crack_resistance": "Good"
+                    },
+                    "fun_fact": "The name 'Jalapeño' is derived from Xalapa, the capital city of Veracruz, Mexico, where these peppers were traditionally cultivated.",
+                    "planting_tip": "For successful cultivation of Jalapeño Pepper, start seeds indoors 8-10 weeks before last frost or purchase seedlings for transplanting. Plant in well-draining soil with good fertility. Provide consistent moisture, especially during fruit development. Support plants with stakes if they become heavy with fruit. Harvest peppers when they reach the desired size and color. Wear gloves when handling, as capsaicin oils can irritate skin."
+                },
+                {
+                    "id": 1,
+                    "name": "Habanero",
+                    "description": "Habanero peppers are small, lantern-shaped chili peppers prized for their intense heat and fruity flavor. They are among the hottest peppers commonly grown, with a Scoville Heat Unit rating ranging from 100,000 to 350,000. Originating from the Amazon region, Habaneros are used to add fiery heat to dishes such as hot sauces, marinades, and spicy salsas.",
+                    "growth_info": {
+                        "growth_mode": "Compact bushy",
+                        "days_to_harvest": {
+                            "lower_estimate": 90,
+                            "higher_estimate": 120
+                        },
+                        "plant_height": "24-36 inches",
+                        "spacing": "18-24 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "5 gallons minimum",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "White",
+                        "leaf_color": "Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering, keep soil evenly moist but not waterlogged",
+                        "feeding_requirement": "Balanced fertilizer with reduced nitrogen during fruiting",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "30-50 peppers per plant",
+                        "best_uses": ["Hot sauces", "Salsas", "Marinades", "Drying"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Excellent",
+                        "cold_tolerance": "Poor",
+                        "frost_tolerance": false,
+                        "drought_tolerance": "Moderate",
+                        "disease_resistance": []
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Extremely hot with fruity, citrusy undertones. Scoville rating: 100,000-350,000 SHU"
+                    },
+                    "fruit_characteristics": {
+                        "fruit_color": "Green maturing to orange or red",
+                        "fruit_weight": "0.1-0.2 ounce",
+                        "skin_thickness": "Thin",
+                        "seed_cavity_size": "Small",
+                        "storage_quality": "Good for drying and freezing",
+                        "crack_resistance": "Moderate"
+                    },
+                    "fun_fact": "Habanero peppers are not only known for their heat but also for their unique fruity flavor, often described as citrusy or tropical, making them prized in Caribbean cuisine.",
+                    "planting_tip": "Plant Habanero peppers in loose, well-draining soil with a slightly acidic pH. They require plenty of sunlight and warm temperatures to thrive. Water consistently but avoid overwatering to prevent root rot. Mulch around plants to retain moisture and regulate soil temperature. Habaneros need a long, warm growing season, so start seeds indoors 10-12 weeks before last frost."
+                },
+                {
+                    "id": 2,
+                    "name": "Bell",
+                    "description": "Bell peppers, also known as sweet peppers or capsicums, are large, blocky peppers with a mild, sweet flavor and no heat. They come in various colors including green, red, yellow, and orange, and are rich in vitamins C and A. Bell peppers are versatile vegetables used in a wide range of dishes, from salads and stir-fries to stuffed peppers and grilled kebabs.",
+                    "growth_info": {
+                        "growth_mode": "Upright bushy",
+                        "days_to_harvest": {
+                            "lower_estimate": 60,
+                            "higher_estimate": 90
+                        },
+                        "plant_height": "18-24 inches",
+                        "spacing": "18-24 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "5 gallons minimum",
+                        "needs_support": true
+                    },
+                    "appearance": {
+                        "flower_color": "White",
+                        "leaf_color": "Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Consistent watering, 1-2 inches per week",
+                        "feeding_requirement": "Balanced fertilizer every 2 weeks during growing season",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "5-10 large peppers per plant",
+                        "best_uses": ["Fresh eating", "Cooking", "Salads", "Stuffing", "Grilling", "Roasting"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Good",
+                        "cold_tolerance": "Poor",
+                        "frost_tolerance": false,
+                        "drought_tolerance": "Low",
+                        "disease_resistance": ["Tobacco Mosaic Virus (some varieties)"]
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Sweet and mild with no heat. Scoville rating: 0 SHU"
+                    },
+                    "fruit_characteristics": {
+                        "fruit_color": "Green maturing to red, yellow, orange, or purple depending on variety",
+                        "fruit_weight": "4-8 ounces",
+                        "skin_thickness": "Thick",
+                        "seed_cavity_size": "Large",
+                        "storage_quality": "Good refrigerated for 1-2 weeks",
+                        "crack_resistance": "Moderate"
+                    },
+                    "fun_fact": "Despite being commonly referred to as vegetables, bell peppers are technically fruits, as they contain seeds and develop from the ovary of a flower. Green bell peppers are simply unripe versions that will turn red, yellow, or orange if left on the plant.",
+                    "planting_tip": "Plant bell peppers in fertile, well-draining soil with a pH of 6.0 to 6.8. Choose a sunny location with at least 6-8 hours of sunlight per day. Space plants adequately to promote air circulation and reduce disease risk. Water deeply but infrequently to encourage deep root growth. Mulch around plants to conserve moisture and suppress weeds. Support plants with stakes or cages as fruit can be heavy."
+                },
+                {
+                    "id": 3,
+                    "name": "Poblano",
+                    "description": "Poblano peppers, also known as Ancho peppers when dried, are large, heart-shaped chili peppers with a mild to medium heat level. They have a rich, earthy flavor and are commonly used in Mexican cuisine for dishes such as chiles rellenos, mole sauce, and stuffed peppers. Poblanos are prized for their thick flesh and versatility in both fresh and cooked preparations.",
+                    "growth_info": {
+                        "growth_mode": "Upright",
+                        "days_to_harvest": {
+                            "lower_estimate": 65,
+                            "higher_estimate": 80
+                        },
+                        "plant_height": "24-30 inches",
+                        "spacing": "18-24 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "5 gallons minimum",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "White",
+                        "leaf_color": "Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering, keep soil consistently moist",
+                        "feeding_requirement": "Balanced fertilizer every 2-3 weeks",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "8-12 large peppers per plant",
+                        "best_uses": ["Roasting", "Stuffing", "Chiles Rellenos", "Mole sauce", "Drying"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Good",
+                        "cold_tolerance": "Poor",
+                        "frost_tolerance": false,
+                        "drought_tolerance": "Moderate",
+                        "disease_resistance": []
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Mild to medium heat with earthy, slightly smoky flavor. Scoville rating: 1,000-2,000 SHU"
+                    },
+                    "fruit_characteristics": {
+                        "fruit_color": "Dark green maturing to red-brown",
+                        "fruit_weight": "2-4 ounces",
+                        "skin_thickness": "Thick",
+                        "seed_cavity_size": "Medium",
+                        "storage_quality": "Excellent for drying, good fresh",
+                        "crack_resistance": "Good"
+                    },
+                    "fun_fact": "Poblano peppers are named after the state of Puebla in Mexico, where they are believed to have originated. When dried, they are called Ancho peppers, which means 'wide' in Spanish, referring to their broad shape.",
+                    "planting_tip": "Plant Poblano peppers in nutrient-rich, well-drained soil with a pH of 6.0 to 7.0. Choose a sunny location with good air circulation to prevent fungal diseases. Provide consistent moisture, especially during hot and dry periods, but avoid overwatering to prevent root rot. Harvest Poblanos when they are dark green for a milder flavor, or allow them to ripen to red-brown for a sweeter, slightly hotter taste."
+                },
+                {
+                    "id": 4,
+                    "name": "Cayenne",
+                    "description": "Cayenne peppers are long, slender chili peppers known for their intense heat and bright red color. They have a Scoville Heat Unit rating ranging from 30,000 to 50,000, making them hot but not overpowering. Cayenne peppers are commonly used to add spice and flavor to dishes such as hot sauces, chili, curries, and are excellent for drying and grinding into powder.",
+                    "growth_info": {
+                        "growth_mode": "Upright",
+                        "days_to_harvest": {
+                            "lower_estimate": 70,
+                            "higher_estimate": 80
+                        },
+                        "plant_height": "24-36 inches",
+                        "spacing": "18-24 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "5 gallons minimum",
+                        "needs_support": true
+                    },
+                    "appearance": {
+                        "flower_color": "White",
+                        "leaf_color": "Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering, 1 inch per week",
+                        "feeding_requirement": "Balanced fertilizer every 2-3 weeks",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "40-50 peppers per plant",
+                        "best_uses": ["Spice blends", "Hot sauces", "Drying", "Powder", "Cooking"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Excellent",
+                        "cold_tolerance": "Poor",
+                        "frost_tolerance": false,
+                        "drought_tolerance": "Moderate",
+                        "disease_resistance": []
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Hot and slightly smoky with earthy notes. Scoville rating: 30,000-50,000 SHU"
+                    },
+                    "fruit_characteristics": {
+                        "fruit_color": "Green maturing to bright red",
+                        "fruit_weight": "0.1-0.2 ounce",
+                        "skin_thickness": "Thin",
+                        "seed_cavity_size": "Small",
+                        "storage_quality": "Excellent for drying",
+                        "crack_resistance": "Good"
+                    },
+                    "fun_fact": "Cayenne pepper gets its name from the city of Cayenne in French Guiana, where it was traditionally cultivated and exported. It has been used for both culinary and medicinal purposes for thousands of years.",
+                    "planting_tip": "Plant Cayenne peppers in well-drained, loamy soil enriched with organic matter. Choose a sunny location with good air circulation. Water deeply and regularly, especially during dry spells, but avoid waterlogging the soil. Provide support for the plants with stakes or cages, as the fruit can weigh down the branches. Harvest Cayenne peppers when they are fully red and ripe for the best flavor and heat."
+                },
+                {
+                    "id": 5,
+                    "name": "Ghost Pepper",
+                    "description": "Ghost Pepper, also known as Bhut Jolokia, is one of the hottest chili peppers in the world, with a Scoville Heat Unit rating exceeding 1,000,000. Originating from Northeast India, these small, wrinkled peppers have a distinctively smoky and fruity flavor. Ghost peppers are used sparingly in culinary dishes, hot sauces, and marinades due to their extreme heat.",
+                    "growth_info": {
+                        "growth_mode": "Compact bushy",
+                        "days_to_harvest": {
+                            "lower_estimate": 100,
+                            "higher_estimate": 120
+                        },
+                        "plant_height": "36-48 inches",
+                        "spacing": "24-36 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "7 gallons minimum",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "White to cream",
+                        "leaf_color": "Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering, keep evenly moist",
+                        "feeding_requirement": "Balanced fertilizer with micronutrients",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "50-100 peppers per plant",
+                        "best_uses": ["Hot sauces", "Extreme spice blends", "Small amounts in curries", "Deterrents"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Excellent",
+                        "cold_tolerance": "Poor",
+                        "frost_tolerance": false,
+                        "drought_tolerance": "Moderate",
+                        "disease_resistance": []
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Extremely hot with smoky, sweet, fruity notes. Scoville rating: 800,000-1,041,427 SHU"
+                    },
+                    "fruit_characteristics": {
+                        "fruit_color": "Green maturing to red, orange, or chocolate brown",
+                        "fruit_weight": "0.2-0.3 ounce",
+                        "skin_thickness": "Thin with distinctive wrinkled texture",
+                        "seed_cavity_size": "Small",
+                        "storage_quality": "Excellent for drying and freezing",
+                        "crack_resistance": "Moderate"
+                    },
+                    "fun_fact": "Ghost peppers gained widespread attention after being declared the world's hottest chili pepper by Guinness World Records in 2007. In India, they are used not only in cooking but also to make smoke bombs to deter elephants from entering villages.",
+                    "planting_tip": "Plant Ghost Pepper seeds in well-drained, fertile soil with a pH of 6.0 to 7.0. Choose a sunny location with warm temperatures. Start seeds indoors 10-12 weeks before last frost as they have a long growing season. Provide ample space between plants to allow for air circulation. Water consistently to keep soil evenly moist. Handle Ghost Pepper fruits with extreme care using gloves, as their oils can cause severe skin and eye irritation."
+                },
+                {
+                    "id": 6,
+                    "name": "Anaheim",
+                    "description": "Anaheim peppers, also known as New Mexico peppers or California green chilies, are mild chili peppers named after the city of Anaheim, California. These peppers are long and narrow with a slightly curved shape. They have a mild heat level, ranging from 500 to 2,500 Scoville Heat Units, and are commonly used in Southwestern and Mexican cuisines. Anaheim peppers are ideal for roasting, stuffing, and adding flavor to sauces and salsas.",
+                    "growth_info": {
+                        "growth_mode": "Upright",
+                        "days_to_harvest": {
+                            "lower_estimate": 70,
+                            "higher_estimate": 80
+                        },
+                        "plant_height": "24-30 inches",
+                        "spacing": "18-24 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "5 gallons minimum",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "White",
+                        "leaf_color": "Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering, 1-2 inches per week",
+                        "feeding_requirement": "Balanced fertilizer every 2-3 weeks",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "15-25 peppers per plant",
+                        "best_uses": ["Roasting", "Stuffing", "Chiles Rellenos", "Salsas", "Sauces", "Canning"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Good",
+                        "cold_tolerance": "Poor",
+                        "frost_tolerance": false,
+                        "drought_tolerance": "Moderate",
+                        "disease_resistance": []
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Mild heat with sweet, slightly tangy flavor. Scoville rating: 500-2,500 SHU"
+                    },
+                    "fruit_characteristics": {
+                        "fruit_color": "Green maturing to red",
+                        "fruit_weight": "1-2 ounces",
+                        "skin_thickness": "Medium",
+                        "seed_cavity_size": "Medium",
+                        "storage_quality": "Excellent for roasting and canning",
+                        "crack_resistance": "Good"
+                    },
+                    "fun_fact": "Anaheim peppers are traditionally used in the popular dish 'Chiles Rellenos', where they are stuffed with cheese, battered, and fried. They were brought to Anaheim, California in the early 1900s by a farmer named Emilio Ortega.",
+                    "planting_tip": "Plant Anaheim Pepper seeds or transplants in well-drained soil enriched with organic matter. Choose a sunny location with at least 6-8 hours of sunlight per day. Water deeply and regularly, especially during hot and dry periods. Mulch around the plants to conserve moisture and suppress weeds. Harvest Anaheim peppers when they are still green for a milder flavor, or allow them to ripen to red for a sweeter, slightly hotter taste."
+                },
+                {
+                    "id": 7,
+                    "name": "Serrano",
+                    "description": "Serrano peppers are small, tapered chili peppers with a bright, crisp, spicy flavor. They are hotter than jalapeño peppers, with a Scoville Heat Unit rating ranging from 10,000 to 23,000. Serranos are commonly used in Mexican and Southwestern cuisines to add heat to salsas, pico de gallo, sauces, and marinades. They are also popular for pickling and garnishing dishes.",
+                    "growth_info": {
+                        "growth_mode": "Upright compact",
+                        "days_to_harvest": {
+                            "lower_estimate": 70,
+                            "higher_estimate": 85
+                        },
+                        "plant_height": "24-36 inches",
+                        "spacing": "18-24 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "5 gallons minimum",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "White",
+                        "leaf_color": "Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering, keep soil consistently moist",
+                        "feeding_requirement": "Balanced fertilizer every 2-3 weeks",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "50-100 peppers per plant",
+                        "best_uses": ["Salsas", "Pico de gallo", "Hot sauces", "Pickling", "Fresh garnish"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Excellent",
+                        "cold_tolerance": "Poor",
+                        "frost_tolerance": false,
+                        "drought_tolerance": "Moderate",
+                        "disease_resistance": []
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Bright, crisp heat with herbaceous notes. Scoville rating: 10,000-23,000 SHU"
+                    },
+                    "fruit_characteristics": {
+                        "fruit_color": "Green maturing to red",
+                        "fruit_weight": "0.1-0.2 ounce",
+                        "skin_thickness": "Thin",
+                        "seed_cavity_size": "Small",
+                        "storage_quality": "Good fresh, excellent for pickling",
+                        "crack_resistance": "Good"
+                    },
+                    "fun_fact": "Serrano peppers are named after the mountains of the Sierra (mountains) regions of the Mexican states of Puebla and Hidalgo, where they are believed to have originated. They deliver their heat immediately upon biting, unlike some peppers that build gradually.",
+                    "planting_tip": "Plant Serrano Pepper seeds or transplants in fertile, well-drained soil with a pH of 6.0 to 7.0. Choose a sunny location with good air circulation. Water consistently to keep the soil evenly moist, but avoid overwatering. These prolific producers benefit from regular harvesting to encourage continued fruit production. Can be grown successfully in containers on patios or balconies."
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "onion",
+            "plant_category": "Root Vegetable",
+            "varieties_common_features": {
+                "sunlight_requirement": "Full Sun",
+                "sunlight_hours_min": 6,
+                "sunlight_hours_optimal": 8,
+                "propagation_methods": ["Seeds", "Sets"],
+                "soil_acidity_range": {
+                    "lower_bound": 6.0,
+                    "upper_bound": 7.0
+                },
+                "soil_type_preference": ["Loamy", "Sandy Loam"],
+                "drainage_requirement": "Well-drained",
+                "days_to_germination": "7-10 days",
+                "frost_tolerance": true,
+                "planting_depth": "1/4 inch for seeds, 1 inch for sets",
+                "spacing": "4-6 inches",
+                "life_cycle": "Biennial (grown as annual)",
+                "season": "Cool",
+                "typical_yield_range": "8-12 pounds per 10 foot row",
+                "companion_plants": ["Carrots", "Beets", "Lettuce", "Tomatoes", "Cabbage"],
+                "avoid_planting_with": ["Peas", "Beans", "Sage"],
+                "common_pests": ["Onion Maggots", "Thrips", "Cutworms"],
+                "common_diseases": ["Downy Mildew", "Purple Blotch", "White Rot", "Fusarium Basal Rot"],
+                "planting_zones_times": [
+                    {
+                        "zone": ["3a", "3b", "4a", "4b"],
+                        "planting_dates_months": {
+                            "start_indoors": ["February", "March"],
+                            "transplant": ["April", "May"],
+                            "start_outdoors": ["April", "May"],
+                            "harvest": ["August", "September"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Start onion seeds indoors 8-10 weeks before the last frost date, typically in late February to early March.",
+                            "transplant": "Transplant seedlings outdoors once soil can be worked in April to May.",
+                            "start_outdoors": "Plant onion sets outdoors once soil can be worked in April to May.",
+                            "harvest": "Harvest onions in late summer when tops fall over and begin to dry."
+                        }
+                    },
+                    {
+                        "zone": ["5a", "5b", "6a", "6b"],
+                        "planting_dates_months": {
+                            "start_indoors": ["January", "February"],
+                            "transplant": ["March", "April"],
+                            "start_outdoors": ["March", "April"],
+                            "harvest": ["July", "August"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Start onion seeds indoors 8-10 weeks before the last frost date, typically in January to February.",
+                            "transplant": "Transplant seedlings outdoors once soil can be worked in March to April.",
+                            "start_outdoors": "Plant onion sets outdoors once soil can be worked in March to April.",
+                            "harvest": "Harvest onions in mid to late summer when tops fall over."
+                        }
+                    },
+                    {
+                        "zone": ["7a", "7b", "8a", "8b"],
+                        "planting_dates_months": {
+                            "start_indoors": ["December", "January"],
+                            "transplant": ["February", "March"],
+                            "start_outdoors": ["February", "March"],
+                            "harvest": ["June", "July"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Start onion seeds indoors 8-10 weeks before planting out, typically in December to January.",
+                            "transplant": "Transplant seedlings outdoors in February to March.",
+                            "start_outdoors": "Plant onion sets outdoors in February to March.",
+                            "harvest": "Harvest onions in late spring to mid-summer when tops fall over."
+                        }
+                    },
+                    {
+                        "zone": ["9a", "9b", "10a", "10b"],
+                        "planting_dates_months": {
+                            "start_indoors": ["October", "November"],
+                            "transplant": ["November", "December"],
+                            "start_outdoors": ["November", "December", "January"],
+                            "harvest": ["April", "May", "June"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Start onion seeds indoors in October to November for winter planting.",
+                            "transplant": "Transplant seedlings outdoors in November to December.",
+                            "start_outdoors": "Plant onion sets outdoors in late fall through winter (November to January).",
+                            "harvest": "Harvest onions in late spring to early summer."
+                        }
+                    },
+                    {
+                        "zone": ["11a", "11b", "12a", "12b"],
+                        "planting_dates_months": {
+                            "start_indoors": ["September", "October", "November"],
+                            "transplant": ["October", "November", "December"],
+                            "start_outdoors": ["October", "November", "December"],
+                            "harvest": ["March", "April", "May"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Start onion seeds indoors in fall (September to November) for winter growing.",
+                            "transplant": "Transplant seedlings outdoors in fall to early winter.",
+                            "start_outdoors": "Plant onion sets outdoors in fall to early winter for best results.",
+                            "harvest": "Harvest onions in spring when tops fall over."
+                        }
+                    }
+                ]
+            },
+            "varieties": [
+                {
+                    "id": 0,
+                    "name": "Sweet Spanish",
+                    "description": "Sweet Spanish Onion is a popular onion variety renowned for its large size and sweet, mild flavor. With an upright growth habit, it produces bulbs that are excellent for fresh consumption, grilling, and various culinary dishes. This biennial plant is typically grown as an annual for its flavorful bulbs.",
+                    "growth_info": {
+                        "growth_mode": "Upright",
+                        "days_to_harvest": {
+                            "lower_estimate": 100,
+                            "higher_estimate": 120
+                        },
+                        "plant_height": "12-18 inches",
+                        "spacing": "4-6 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "12 inches deep minimum",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "White",
+                        "leaf_color": "Blue-Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Consistent moisture, 1 inch per week",
+                        "feeding_requirement": "Nitrogen-rich fertilizer every 2-3 weeks",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "1-2 pounds per bulb",
+                        "best_uses": ["Fresh Eating", "Grilling", "Salads", "Sandwiches", "Cooked Dishes"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Moderate",
+                        "cold_tolerance": "Good",
+                        "frost_tolerance": true,
+                        "drought_tolerance": "Low",
+                        "disease_resistance": ["Fusarium", "Pink Root"]
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Sweet, mild, low pungency with high sugar content"
+                    },
+                    "root_characteristics": {
+                        "root_color": "Golden Brown",
+                        "root_shape": "Globe",
+                        "root_size": "3-4 inches diameter",
+                        "texture": "Crisp and juicy",
+                        "storage_life": "2-3 months in cool, dry conditions"
+                    },
+                    "fun_fact": "Sweet Spanish Onions are known for their low pungency and high sugar content. They are a favorite for slicing onto salads, sandwiches, and enjoying in a variety of cooked dishes.",
+                    "planting_tip": "For successful cultivation of Sweet Spanish Onion, choose a sunny location with well-drained soil. Plant seeds, sets, or transplants at the appropriate depth and spacing. Water consistently, ensuring the soil is kept evenly moist. Mulch around the plants to suppress weeds and retain moisture. Harvest when the tops have fallen over, and the bulbs have reached a desirable size. Allow the bulbs to cure in a warm, dry location for 2-3 weeks before storing."
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "kale",
+            "plant_category": "Leafy Green",
+            "varieties_common_features": {
+                "sunlight_requirement": "Full Sun to Partial Shade",
+                "sunlight_hours_min": 4,
+                "sunlight_hours_optimal": 6,
+                "propagation_methods": ["Seeds", "Transplants"],
+                "soil_acidity_range": {
+                    "lower_bound": 6.0,
+                    "upper_bound": 7.5
+                },
+                "soil_type_preference": ["Loamy", "Clay Loam", "Rich"],
+                "drainage_requirement": "Well-drained",
+                "days_to_germination": "5-10 days",
+                "frost_tolerance": true,
+                "planting_depth": "1/4 to 1/2 inch",
+                "spacing": "12-18 inches",
+                "life_cycle": "Biennial (grown as annual)",
+                "season": "Cool",
+                "typical_yield_range": "15-20 pounds per 10 foot row",
+                "companion_plants": ["Onions", "Beets", "Celery", "Herbs", "Potatoes"],
+                "avoid_planting_with": ["Strawberries", "Tomatoes", "Pole Beans"],
+                "common_pests": ["Cabbage Worms", "Aphids", "Flea Beetles", "Cabbage Loopers"],
+                "common_diseases": ["Clubroot", "Black Rot", "Downy Mildew", "Powdery Mildew"],
+                "planting_zones_times": [
+                    {
+                        "zone": ["3a", "3b", "4a", "4b"],
+                        "planting_dates_months": {
+                            "start_indoors": ["March", "April"],
+                            "transplant": ["May"],
+                            "start_outdoors": ["April", "May", "July", "August"],
+                            "harvest": ["June", "July", "August", "September", "October"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Start kale seeds indoors 4-6 weeks before the last frost in March to April for spring planting.",
+                            "transplant": "Transplant seedlings outdoors in May after hardening off.",
+                            "start_outdoors": "Directly sow kale seeds outdoors in early spring (April-May) or mid-summer (July-August) for fall harvest.",
+                            "harvest": "Harvest kale from summer through fall. Flavor improves after frost."
+                        }
+                    },
+                    {
+                        "zone": ["5a", "5b", "6a", "6b"],
+                        "planting_dates_months": {
+                            "start_indoors": ["February", "March"],
+                            "transplant": ["April"],
+                            "start_outdoors": ["March", "April", "August"],
+                            "harvest": ["May", "June", "July", "August", "September", "October", "November"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Start kale seeds indoors 4-6 weeks before the last frost in February to March.",
+                            "transplant": "Transplant seedlings outdoors in April after hardening off.",
+                            "start_outdoors": "Directly sow kale seeds outdoors in early spring (March-April) or late summer (August) for fall harvest.",
+                            "harvest": "Harvest kale from late spring through late fall."
+                        }
+                    },
+                    {
+                        "zone": ["7a", "7b", "8a", "8b"],
+                        "planting_dates_months": {
+                            "start_indoors": ["January", "February"],
+                            "transplant": ["March"],
+                            "start_outdoors": ["February", "March", "September"],
+                            "harvest": ["April", "May", "June", "October", "November", "December"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Start kale seeds indoors in January to February for spring planting.",
+                            "transplant": "Transplant seedlings outdoors in March.",
+                            "start_outdoors": "Directly sow kale seeds outdoors in early spring (February-March) or early fall (September) for extended harvest.",
+                            "harvest": "Harvest kale from spring through early winter."
+                        }
+                    },
+                    {
+                        "zone": ["9a", "9b", "10a", "10b"],
+                        "planting_dates_months": {
+                            "start_indoors": ["August", "September"],
+                            "transplant": ["October"],
+                            "start_outdoors": ["September", "October", "November"],
+                            "harvest": ["November", "December", "January", "February", "March"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Start kale seeds indoors in late summer (August-September) for fall/winter planting.",
+                            "transplant": "Transplant seedlings outdoors in October.",
+                            "start_outdoors": "Directly sow kale seeds outdoors in fall (September-November) for winter harvest.",
+                            "harvest": "Harvest kale from late fall through early spring in these mild climates."
+                        }
+                    },
+                    {
+                        "zone": ["11a", "11b", "12a", "12b"],
+                        "planting_dates_months": {
+                            "start_indoors": ["October", "November", "December"],
+                            "transplant": ["November", "December", "January"],
+                            "start_outdoors": ["October", "November", "December", "January"],
+                            "harvest": ["December", "January", "February", "March", "April"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Start kale seeds indoors in fall/winter (October-December) for cooler season growing.",
+                            "transplant": "Transplant seedlings outdoors in late fall to winter.",
+                            "start_outdoors": "Directly sow kale seeds outdoors during the coolest months (October-January) for best results.",
+                            "harvest": "Harvest kale during the cooler winter and spring months."
+                        }
+                    }
+                ]
+            },
+            "varieties": [
+                {
+                    "id": 0,
+                    "name": "Lacinato",
+                    "description": "Lacinato Kale, also known as Dinosaur Kale or Tuscan Kale, is a popular kale variety recognized for its dark blue-green, bumpy leaves with a distinctive pebbly texture. With an upright growth habit, it is a nutritious and versatile leafy green that adds a hearty texture to various dishes. Although technically a biennial, it is often grown as an annual for its abundant and flavorful leaves.",
+                    "growth_info": {
+                        "growth_mode": "Upright",
+                        "days_to_harvest": {
+                            "lower_estimate": 50,
+                            "higher_estimate": 70
+                        },
+                        "plant_height": "18-24 inches",
+                        "spacing": "12-18 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "12 inches deep, 12-14 inches wide",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "Yellow",
+                        "leaf_color": "Dark Blue-Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering, 1-1.5 inches per week",
+                        "feeding_requirement": "Nitrogen-rich fertilizer every 3-4 weeks",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "1-2 pounds per plant over season",
+                        "best_uses": ["Salads", "Smoothies", "Stir-fries", "Soups", "Braised Dishes"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Low to Moderate",
+                        "cold_tolerance": "Excellent",
+                        "frost_tolerance": true,
+                        "drought_tolerance": "Low",
+                        "disease_resistance": ["Black Rot"]
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Mild, sweet, slightly earthy with less bitterness than curly kale"
+                    },
+                    "leaf_crop_characteristics": {
+                        "head_type": "Loose leaf",
+                        "leaf_texture": "Bumpy, wrinkled (savoyed), tender",
+                        "days_to_maturity": "50-70 days",
+                        "bolt_resistance": "Good in cool weather"
+                    },
+                    "fun_fact": "Lacinato Kale is named after the Italian word 'lacinato,' meaning 'with torn edges.' Its unique dinosaur-skin appearance and tender texture make it a favorite among gardeners and chefs alike. Many believe its flavor actually improves after being touched by frost!",
+                    "planting_tip": "For successful cultivation of Lacinato Kale, plant seeds or transplants in well-draining, nutrient-rich soil. Provide consistent moisture and protect young plants from extreme heat. Harvest the outer leaves when they reach 6-8 inches, allowing the inner leaves to continue growing. Regular harvesting promotes continuous leaf production throughout the growing season. Plant in late summer for a fall crop that will taste sweeter after frost."
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "potato",
+            "plant_category": "Root Vegetable",
+            "varieties_common_features": {
+                "sunlight_requirement": "Full Sun",
+                "sunlight_hours_min": 6,
+                "sunlight_hours_optimal": 8,
+                "propagation_methods": ["Seed Potatoes"],
+                "soil_acidity_range": {
+                    "lower_bound": 5.0,
+                    "upper_bound": 6.5
+                },
+                "soil_type_preference": ["Loamy", "Sandy Loam", "Well-amended"],
+                "drainage_requirement": "Well-drained",
+                "days_to_germination": "14-21 days (sprouts from seed potatoes)",
+                "frost_tolerance": false,
+                "planting_depth": "4-6 inches",
+                "spacing": "12-15 inches",
+                "life_cycle": "Annual (grown from tubers)",
+                "season": "Cool",
+                "typical_yield_range": "50-100 pounds per 10 foot row",
+                "companion_plants": ["Beans", "Corn", "Cabbage", "Horseradish", "Marigolds"],
+                "avoid_planting_with": ["Tomatoes", "Peppers", "Eggplant", "Cucumbers", "Squash"],
+                "common_pests": ["Colorado Potato Beetle", "Aphids", "Flea Beetles", "Wireworms"],
+                "common_diseases": ["Late Blight", "Early Blight", "Scab", "Verticillium Wilt", "Blackleg"],
+                "planting_zones_times": [
+                    {
+                        "zone": ["3a", "3b", "4a", "4b"],
+                        "planting_dates_months": {
+                            "start_indoors": [],
+                            "transplant": [],
+                            "start_outdoors": ["April", "May"],
+                            "harvest": ["August", "September", "October"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Not recommended for potatoes.",
+                            "transplant": "Not applicable.",
+                            "start_outdoors": "Plant seed potatoes outdoors 2-4 weeks before the last frost when soil temperature reaches 45°F, typically in April to May.",
+                            "harvest": "Harvest new potatoes 2-3 weeks after flowering, or wait until foliage dies back for mature potatoes in late summer to early fall."
+                        }
+                    },
+                    {
+                        "zone": ["5a", "5b", "6a", "6b"],
+                        "planting_dates_months": {
+                            "start_indoors": [],
+                            "transplant": [],
+                            "start_outdoors": ["March", "April"],
+                            "harvest": ["July", "August", "September"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Not recommended for potatoes.",
+                            "transplant": "Not applicable.",
+                            "start_outdoors": "Plant seed potatoes outdoors 2-4 weeks before the last frost when soil temperature reaches 45°F, typically in March to April.",
+                            "harvest": "Harvest new potatoes in summer, or mature potatoes when foliage dies back in mid to late summer."
+                        }
+                    },
+                    {
+                        "zone": ["7a", "7b", "8a", "8b"],
+                        "planting_dates_months": {
+                            "start_indoors": [],
+                            "transplant": [],
+                            "start_outdoors": ["February", "March", "August"],
+                            "harvest": ["May", "June", "July", "November", "December"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Not recommended for potatoes.",
+                            "transplant": "Not applicable.",
+                            "start_outdoors": "Plant seed potatoes outdoors in late winter (February-March) for spring harvest, or in late summer (August) for fall harvest.",
+                            "harvest": "Harvest spring-planted potatoes in late spring to summer, fall-planted potatoes in late fall to early winter."
+                        }
+                    },
+                    {
+                        "zone": ["9a", "9b", "10a", "10b"],
+                        "planting_dates_months": {
+                            "start_indoors": [],
+                            "transplant": [],
+                            "start_outdoors": ["January", "February", "September", "October"],
+                            "harvest": ["April", "May", "December", "January"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Not recommended for potatoes.",
+                            "transplant": "Not applicable.",
+                            "start_outdoors": "Plant seed potatoes outdoors in winter (January-February) or early fall (September-October) to avoid hot summer temperatures.",
+                            "harvest": "Harvest winter-planted potatoes in spring, fall-planted potatoes in winter."
+                        }
+                    },
+                    {
+                        "zone": ["11a", "11b", "12a", "12b"],
+                        "planting_dates_months": {
+                            "start_indoors": [],
+                            "transplant": [],
+                            "start_outdoors": ["October", "November", "December", "January"],
+                            "harvest": ["January", "February", "March", "April"]
+                        },
+                        "planting_dates_description": {
+                            "start_indoors": "Not recommended for potatoes.",
+                            "transplant": "Not applicable.",
+                            "start_outdoors": "Plant seed potatoes during the coolest months (October-January) for best results in tropical climates.",
+                            "harvest": "Harvest potatoes during the cool, dry season in late winter to spring."
+                        }
+                    }
+                ]
+            },
+            "varieties": [
+                {
+                    "id": 0,
+                    "name": "Yukon Gold",
+                    "description": "Yukon Gold Potato is a well-loved potato variety known for its buttery flavor and smooth, creamy texture. With a bushy growth habit, it produces attractive tubers with golden-yellow skin and rich yellow flesh. This mid-season variety is commonly grown as an annual for its delectable and versatile culinary uses, excelling in nearly every cooking method.",
+                    "growth_info": {
+                        "growth_mode": "Bushy",
+                        "days_to_harvest": {
+                            "lower_estimate": 70,
+                            "higher_estimate": 90
+                        },
+                        "plant_height": "18-24 inches",
+                        "spacing": "12-15 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "18 inches deep, 14-16 inches wide",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "White to pale lavender",
+                        "leaf_color": "Medium Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering, 1-2 inches per week",
+                        "feeding_requirement": "Balanced fertilizer at planting, side-dress when plants are 6 inches tall",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "2-5 pounds per plant",
+                        "best_uses": ["Boiling", "Mashing", "Roasting", "Grilling", "Salads"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Moderate",
+                        "cold_tolerance": "Good (tubers damaged by frost)",
+                        "frost_tolerance": false,
+                        "drought_tolerance": "Low",
+                        "disease_resistance": ["Scab resistance"]
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Rich, buttery, slightly sweet with a creamy, moist texture"
+                    },
+                    "root_characteristics": {
+                        "root_color": "Golden Yellow (skin and flesh)",
+                        "root_shape": "Oval to round",
+                        "root_size": "Medium to large, 4-5 inches",
+                        "texture": "Smooth, creamy, waxy to all-purpose",
+                        "storage_life": "2-3 months in cool, dark, humid conditions"
+                    },
+                    "fun_fact": "Yukon Gold Potatoes were developed in the 1960s at the University of Guelph in Ontario, Canada. They quickly gained popularity for their rich flavor, golden color, and ability to hold their shape well during cooking, making them one of the most versatile potatoes available.",
+                    "planting_tip": "For successful cultivation of Yukon Gold Potatoes, start with certified seed potatoes cut into 2-ounce pieces with at least 2 eyes each. Plant in loose, well-draining soil with good fertility. Hill the soil around the base of the plants as they grow to encourage more tuber development and prevent greening. Provide consistent moisture, especially during tuber formation. Harvest new potatoes 2-3 weeks after flowering, or wait until foliage yellows for full-sized potatoes. Cure harvested potatoes in a dark, ventilated area for 1-2 weeks before storing."
+                },
+                {
+                    "id": 1,
+                    "name": "Russet Burbank",
+                    "description": "Russet Burbank Potato is a classic late-season potato variety known for its large size, oblong shape, and distinctive russeted brown skin. It has a fluffy, dry texture when cooked, making it ideal for baking, frying, and mashing. Russet Burbank is the most widely grown potato variety in North America and is used extensively in commercial production for french fries, baked potatoes, and mashed potatoes.",
+                    "growth_info": {
+                        "growth_mode": "Bushy",
+                        "days_to_harvest": {
+                            "lower_estimate": 90,
+                            "higher_estimate": 120
+                        },
+                        "plant_height": "20-30 inches",
+                        "spacing": "12-15 inches",
+                        "is_container_variety": false,
+                        "recommended_container_size": "Not recommended for containers",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "White to light purple",
+                        "leaf_color": "Medium Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering, 1-2 inches per week, reduce near harvest",
+                        "feeding_requirement": "Balanced fertilizer at planting, avoid excess nitrogen",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "3-6 pounds per plant",
+                        "best_uses": ["Baking", "Frying", "Mashing", "French Fries"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Moderate",
+                        "cold_tolerance": "Good (tubers damaged by frost)",
+                        "frost_tolerance": false,
+                        "drought_tolerance": "Low to Moderate",
+                        "disease_resistance": ["Verticillium Wilt resistance"]
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Mild, earthy flavor with a fluffy, dry, starchy texture"
+                    },
+                    "root_characteristics": {
+                        "root_color": "Russeted brown skin, white flesh",
+                        "root_shape": "Long, oblong",
+                        "root_size": "Large, 6-10 inches",
+                        "texture": "Dry, fluffy, high starch content",
+                        "storage_life": "4-6 months in proper cool, dark storage"
+                    },
+                    "fun_fact": "Russet Burbank Potato is the most widely grown potato variety in the United States and is the potato of choice for McDonald's french fries. It was developed by Luther Burbank in the 1870s and has dominated the commercial potato market for over a century.",
+                    "planting_tip": "Plant Russet Burbank seed pieces in well-drained, loose soil with a pH of 5.0-6.0. Choose a sunny location for optimal growth. Plant seed pieces 4 inches deep and 12-15 inches apart in rows spaced 30-36 inches apart. Hill soil around plants every 2-3 weeks to prevent greening. Maintain consistent moisture but avoid overwatering, especially near harvest, to prevent hollow heart and other defects. This variety requires a long growing season for best tuber size."
+                },
+                {
+                    "id": 2,
+                    "name": "Red Pontiac",
+                    "description": "Red Pontiac Potato is a popular early to mid-season red-skinned potato variety known for its vibrant red color, smooth thin skin, and creamy white flesh. It has shallow eyes and produces round to oblong tubers. Red Pontiac is versatile and can be used in a variety of dishes, including mashed potatoes, potato salads, and roasted potatoes. It is prized for its attractive appearance, waxy texture, and rich flavor.",
+                    "growth_info": {
+                        "growth_mode": "Bushy",
+                        "days_to_harvest": {
+                            "lower_estimate": 80,
+                            "higher_estimate": 100
+                        },
+                        "plant_height": "18-24 inches",
+                        "spacing": "10-12 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "16 inches deep, 14 inches wide",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "White to light purple",
+                        "leaf_color": "Dark Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering, 1-2 inches per week",
+                        "feeding_requirement": "Balanced fertilizer, side-dress mid-season",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "2-4 pounds per plant",
+                        "best_uses": ["Mashing", "Salads", "Roasting", "Boiling"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Good",
+                        "cold_tolerance": "Moderate",
+                        "frost_tolerance": false,
+                        "drought_tolerance": "Low",
+                        "disease_resistance": ["Scab resistance", "Late Blight tolerance"]
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Mild, slightly sweet with a creamy, waxy texture"
+                    },
+                    "root_characteristics": {
+                        "root_color": "Red skin, white flesh",
+                        "root_shape": "Round to oblong",
+                        "root_size": "Medium, 2-4 inches",
+                        "texture": "Creamy, waxy, holds shape when cooked",
+                        "storage_life": "2-4 months in cool, dark storage"
+                    },
+                    "fun_fact": "Red Pontiac Potato is a favorite among home gardeners and is known for its high yields, disease resistance, and ability to thrive in various soil conditions. It's one of the most reliable red potato varieties for beginning gardeners.",
+                    "planting_tip": "Plant Red Pontiac seed pieces in well-drained, loose soil. Choose a sunny location for optimal growth. Plant seed pieces 4 inches deep and 10-12 inches apart in rows spaced 24-30 inches apart. This variety is more tolerant of heavy soils than russet types. Hill plants regularly to encourage tuber formation and prevent greening. Red Pontiac produces well even in less-than-ideal conditions, making it excellent for beginning gardeners."
+                },
+                {
+                    "id": 3,
+                    "name": "Kennebec",
+                    "description": "Kennebec Potato is a popular mid-season potato variety known for its large size, smooth buff-colored skin, and bright white flesh. It has very shallow eyes and a uniform oval shape, making it ideal for processing into french fries and potato chips. Kennebec also works exceptionally well for mashed potatoes, baking, and boiling. It is favored by commercial growers for its high yields, excellent storage qualities, and broad disease resistance.",
+                    "growth_info": {
+                        "growth_mode": "Bushy",
+                        "days_to_harvest": {
+                            "lower_estimate": 80,
+                            "higher_estimate": 100
+                        },
+                        "plant_height": "20-28 inches",
+                        "spacing": "12-15 inches",
+                        "is_container_variety": false,
+                        "recommended_container_size": "Not ideal for containers",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "White with yellow center",
+                        "leaf_color": "Medium Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering, 1-2 inches per week",
+                        "feeding_requirement": "Balanced fertilizer at planting and mid-season",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "3-5 pounds per plant",
+                        "best_uses": ["French Fries", "Potato Chips", "Mashing", "Baking", "Boiling"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Good",
+                        "cold_tolerance": "Good",
+                        "frost_tolerance": false,
+                        "drought_tolerance": "Moderate",
+                        "disease_resistance": ["Late Blight resistance", "Mosaic Virus resistance", "Verticillium Wilt resistance"]
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Mild, clean flavor with all-purpose texture, slightly waxy to mealy"
+                    },
+                    "root_characteristics": {
+                        "root_color": "Light buff to tan skin, white flesh",
+                        "root_shape": "Oval, uniform",
+                        "root_size": "Large, 4-6 inches",
+                        "texture": "All-purpose, smooth, moderate starch",
+                        "storage_life": "4-5 months in proper storage"
+                    },
+                    "fun_fact": "Kennebec Potato was developed at the USDA research station in Maine in 1948 and quickly became one of the most popular varieties for both home gardeners and commercial growers. Its excellent disease resistance and storage capabilities made it a staple in American agriculture.",
+                    "planting_tip": "Plant Kennebec seed pieces in well-drained, loose soil. Choose a sunny location for optimal growth. Plant seed pieces 4 inches deep and 12-15 inches apart in rows spaced 30-36 inches apart. This variety benefits from consistent moisture throughout the growing season. Hill plants regularly to maximize yield and prevent tuber greening. Kennebec is known for its reliability and consistent production across varying growing conditions."
+                },
+                {
+                    "id": 4,
+                    "name": "All Blue",
+                    "description": "All Blue Potato, also known as Purple Peruvian, is a unique heirloom potato variety with deep blue-purple skin and vibrant purple flesh that holds its color when cooked. It has a rich, nutty flavor and moist, creamy texture, making it ideal for mashed potatoes, salads, and roasted dishes. All Blue Potato is prized for its striking appearance and high levels of antioxidant anthocyanins.",
+                    "growth_info": {
+                        "growth_mode": "Bushy",
+                        "days_to_harvest": {
+                            "lower_estimate": 90,
+                            "higher_estimate": 110
+                        },
+                        "plant_height": "20-24 inches",
+                        "spacing": "10-12 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "16 inches deep, 14 inches wide",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "Purple to lavender",
+                        "leaf_color": "Dark Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering, 1-2 inches per week",
+                        "feeding_requirement": "Balanced fertilizer, moderate feeding",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "2-3 pounds per plant",
+                        "best_uses": ["Mashing", "Salads", "Roasting", "Steaming"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Moderate",
+                        "cold_tolerance": "Good",
+                        "frost_tolerance": false,
+                        "drought_tolerance": "Low to Moderate",
+                        "disease_resistance": ["Scab resistance"]
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Rich, earthy, nutty flavor with a moist, waxy texture"
+                    },
+                    "root_characteristics": {
+                        "root_color": "Deep blue-purple (skin and flesh)",
+                        "root_shape": "Oblong to fingerling",
+                        "root_size": "Medium, 3-5 inches",
+                        "texture": "Moist, waxy, medium starch",
+                        "storage_life": "3-4 months in cool, dark storage"
+                    },
+                    "fun_fact": "All Blue Potato gets its vibrant purple color from natural anthocyanin pigments, which also provide antioxidant benefits. The color intensifies when cooked, making it a stunning addition to any dish. It's an ancient variety from South America.",
+                    "planting_tip": "Plant All Blue seed pieces in well-drained, loose soil. Choose a sunny location for optimal growth. Plant seed pieces 4 inches deep and 10-12 inches apart in rows spaced 24-30 inches apart. This variety may produce smaller yields than standard varieties but makes up for it with its unique color and flavor. The purple color is most vibrant when potatoes are steamed or roasted rather than boiled."
+                },
+                {
+                    "id": 5,
+                    "name": "Adirondack Blue",
+                    "description": "Adirondack Blue Potato is a modern blue potato variety with deep blue-purple skin and vibrant blue flesh that retains its color better than other blue varieties when cooked. It has a rich, earthy flavor and moist, creamy texture, making it ideal for mashed potatoes, salads, and roasted dishes. Developed at Cornell University, Adirondack Blue is prized for its striking appearance, nutritional benefits from anthocyanin pigments, and improved disease resistance.",
+                    "growth_info": {
+                        "growth_mode": "Bushy",
+                        "days_to_harvest": {
+                            "lower_estimate": 90,
+                            "higher_estimate": 110
+                        },
+                        "plant_height": "20-26 inches",
+                        "spacing": "10-12 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "16 inches deep, 14 inches wide",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "Purple",
+                        "leaf_color": "Dark Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering, 1-2 inches per week",
+                        "feeding_requirement": "Balanced fertilizer at planting and mid-season",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "2-4 pounds per plant",
+                        "best_uses": ["Mashing", "Salads", "Roasting", "Chips"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Moderate",
+                        "cold_tolerance": "Good",
+                        "frost_tolerance": false,
+                        "drought_tolerance": "Moderate",
+                        "disease_resistance": ["Late Blight resistance", "Golden Nematode resistance"]
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Rich, earthy, slightly nutty with a moist, creamy texture"
+                    },
+                    "root_characteristics": {
+                        "root_color": "Deep blue-purple (skin and flesh)",
+                        "root_shape": "Oblong to oval",
+                        "root_size": "Medium, 3-4 inches",
+                        "texture": "Moist, creamy, medium starch",
+                        "storage_life": "3-4 months in cool, dark storage"
+                    },
+                    "fun_fact": "Adirondack Blue Potato is named after the Adirondack Mountains in New York state, where it was developed by researchers at Cornell University. It was specifically bred to have higher anthocyanin content than other blue varieties and to retain its vibrant color better during cooking.",
+                    "planting_tip": "Plant Adirondack Blue seed pieces in well-drained, loose soil. Choose a sunny location for optimal growth. Plant seed pieces 4 inches deep and 10-12 inches apart in rows spaced 24-30 inches apart. This variety has better disease resistance than many heirloom blue potatoes. The flesh color is most vibrant when cooked using dry heat methods like roasting or baking."
+                },
+                {
+                    "id": 6,
+                    "name": "German Butterball",
+                    "description": "German Butterball Potato is a beloved heirloom potato variety with golden-yellow skin and rich, buttery golden-yellow flesh. It has a creamy, dense texture and exceptionally rich, nutty flavor when cooked, making it ideal for mashed potatoes, baked potatoes, and roasting. German Butterball is prized for its smooth skin, round to oval shape, shallow eyes, and excellent storage qualities. This variety is considered by many to be one of the best-tasting potatoes available.",
+                    "growth_info": {
+                        "growth_mode": "Bushy",
+                        "days_to_harvest": {
+                            "lower_estimate": 80,
+                            "higher_estimate": 100
+                        },
+                        "plant_height": "18-24 inches",
+                        "spacing": "10-12 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "16 inches deep, 14 inches wide",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "White to pale lavender",
+                        "leaf_color": "Medium Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering, 1-2 inches per week",
+                        "feeding_requirement": "Balanced fertilizer, moderate feeding",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "2-4 pounds per plant",
+                        "best_uses": ["Mashing", "Baking", "Roasting", "Boiling"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Moderate",
+                        "cold_tolerance": "Good",
+                        "frost_tolerance": false,
+                        "drought_tolerance": "Moderate",
+                        "disease_resistance": ["Scab resistance"]
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Rich, buttery, nutty with exceptional flavor, creamy and moist texture"
+                    },
+                    "root_characteristics": {
+                        "root_color": "Golden yellow (skin and flesh)",
+                        "root_shape": "Round to oval",
+                        "root_size": "Medium, 2-4 inches",
+                        "texture": "Creamy, buttery, moist, medium starch",
+                        "storage_life": "4-5 months in proper cool, dark storage"
+                    },
+                    "fun_fact": "German Butterball Potato is a favorite among home gardeners and chefs and is often described as having the richest, most buttery flavor of any potato variety. Despite its name, it was actually developed in the United States, not Germany, but the 'German' refers to its style and flavor profile.",
+                    "planting_tip": "Plant German Butterball seed pieces in well-drained, loose soil. Choose a sunny location for optimal growth. Plant seed pieces 4 inches deep and 10-12 inches apart in rows spaced 24-30 inches apart. This variety benefits from consistent moisture and produces the best flavor when allowed to fully mature. Let the soil dry slightly between waterings to concentrate sugars and enhance flavor. Cure properly for best storage and flavor development."
+                }
+            ]
+        },
+        {
+          "id": 24,
+          "name": "sweet potato",
+          "plant_category": "Root Vegetable",
+          "varieties_common_features": {
+            "sunlight_requirement": "Full Sun",
+            "sunlight_hours_min": 6,
+            "sunlight_hours_optimal": 8,
+            "propagation_methods": ["Slips", "Cuttings"],
+            "soil_acidity_range": {
+              "lower_bound": 5.8,
+              "upper_bound": 6.5
+            },
+            "soil_type_preference": ["Sandy loam", "Loamy", "Well-drained"],
+            "drainage_requirement": "Well-drained",
+            "days_to_germination": "2-3 weeks (from slips)",
+            "frost_tolerance": false,
+            "planting_depth": "4-6 inches",
+            "spacing": "12-15 inches",
+            "life_cycle": "Perennial (grown as annual)",
+            "season": "Warm",
+            "typical_yield_range": "5-10 pounds per plant",
+            "companion_plants": ["Bush beans", "Radishes", "Beets", "Parsnips"],
+            "avoid_planting_with": ["Squash", "Pumpkins"],
+            "common_pests": ["Sweet potato weevil", "Wireworms", "Flea beetles", "Whiteflies"],
+            "common_diseases": ["Black rot", "Fusarium wilt", "Root-knot nematodes", "Scurf"],
+            "planting_zones_times": [
+              {
+                "zone": ["3a", "3b", "4a", "4b"],
+                "planting_dates_months": {
+                  "start_indoors": [],
+                  "transplant": [],
+                  "start_outdoors": ["May", "June"],
+                  "harvest": ["September", "October"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Not recommended for these zones.",
+                  "transplant": "Not recommended for these zones.",
+                  "start_outdoors": "Plant sweet potato slips outdoors once soil temperatures consistently reach at least 60°F (15°C), typically in May to June.",
+                  "harvest": "Harvest sweet potatoes in late summer to early fall, before the first frost."
+                }
+              },
+              {
+                "zone": ["5a", "5b", "6a", "6b"],
+                "planting_dates_months": {
+                  "start_indoors": [],
+                  "transplant": [],
+                  "start_outdoors": ["April", "May"],
+                  "harvest": ["September", "October"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Not recommended for these zones.",
+                  "transplant": "Not recommended for these zones.",
+                  "start_outdoors": "Plant sweet potato slips outdoors once soil temperatures consistently reach at least 60°F (15°C), typically in April to May.",
+                  "harvest": "Harvest sweet potatoes in late summer to early fall, before the first frost."
+                }
+              },
+              {
+                "zone": ["7a", "7b", "8a", "8b"],
+                "planting_dates_months": {
+                  "start_indoors": [],
+                  "transplant": [],
+                  "start_outdoors": ["April", "May"],
+                  "harvest": ["August", "September"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Not recommended for these zones.",
+                  "transplant": "Not recommended for these zones.",
+                  "start_outdoors": "Plant sweet potato slips outdoors once soil temperatures consistently reach at least 60°F (15°C), typically in April to May.",
+                  "harvest": "Harvest sweet potatoes in late summer."
+                }
+              },
+              {
+                "zone": ["9a", "9b", "10a", "10b"],
+                "planting_dates_months": {
+                  "start_indoors": [],
+                  "transplant": [],
+                  "start_outdoors": ["March", "April"],
+                  "harvest": ["June", "July"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Not recommended for these zones.",
+                  "transplant": "Not recommended for these zones.",
+                  "start_outdoors": "Plant sweet potato slips outdoors once soil temperatures consistently reach at least 60°F (15°C), typically in March to April.",
+                  "harvest": "Harvest sweet potatoes in summer."
+                }
+              },
+              {
+                "zone": ["11a", "11b", "12a", "12b"],
+                "planting_dates_months": {
+                  "start_indoors": [],
+                  "transplant": [],
+                  "start_outdoors": ["ALL"],
+                  "harvest": ["ALL"]
+                },
+                "planting_dates_description": {
+                  "start_indoors": "Not recommended for these zones.",
+                  "transplant": "Not recommended for these zones.",
+                  "start_outdoors": "Sweet potatoes can be planted outdoors year-round in warm climates when soil temperatures are at least 60°F.",
+                  "harvest": "Harvest sweet potatoes year-round in warm climates, typically 90-120 days after planting."
+                }
+              }
+            ]
+          },
+          "varieties": [
+            {
+              "id": 0,
+              "name": "Beauregard",
+              "description": "Beauregard Sweet Potato is a popular and widely grown sweet potato variety known for its sweet flavor and vibrant orange flesh. With vining growth, it produces tubers that are excellent for baking, roasting, or mashing. While technically a perennial, it is commonly grown as an annual for its delicious and versatile culinary uses.",
+              "growth_info": {
+                "growth_mode": "Vining",
+                "days_to_harvest": {
+                  "lower_estimate": 90,
+                  "higher_estimate": 120
+                },
+                "plant_height": "12-18 inches (vines spread 6-10 feet)",
+                "spacing": "12-15 inches",
+                "is_container_variety": false,
+                "recommended_container_size": "Not recommended",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Light purple",
+                "leaf_color": "Green"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering, especially during tuber formation",
+                "feeding_requirement": "Well-balanced fertilizer, low nitrogen",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "3-5 pounds per plant",
+                "best_uses": ["Baking", "Roasting", "Mashing"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Excellent",
+                "cold_tolerance": "Poor",
+                "frost_tolerance": false,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Fusarium wilt", "Root-knot nematodes"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Sweet, moist, and creamy"
+              },
+              "root_characteristics": {
+                "root_color": "Orange flesh, copper-rose skin",
+                "root_shape": "Oblong to elliptical",
+                "root_size": "6-8 inches long, 8-12 ounces",
+                "texture": "Smooth, moist, creamy",
+                "storage_life": "6-10 months when properly cured"
+              },
+              "fun_fact": "Beauregard Sweet Potato was developed by researchers at the Louisiana Agricultural Experiment Station and released in 1987. It quickly became one of the most popular sweet potato varieties due to its excellent taste and high yield.",
+              "planting_tip": "For successful cultivation of Beauregard Sweet Potato, start with healthy slips. Plant in loose, well-draining soil with a slightly acidic to neutral pH. Provide consistent moisture, especially during the tuber-forming period. Harvest when the leaves start to yellow and the tubers have reached a desirable size. Cure harvested sweet potatoes in a warm, humid place (80-85°F) for 7-10 days before storing in a cool, dark area."
+            },
+            {
+              "id": 1,
+              "name": "Jewel",
+              "description": "Jewel Sweet Potato is a popular variety known for its vibrant orange flesh and excellent flavor. It has reddish-purple skin and a moist, sweet flavor when cooked. Jewel sweet potatoes are versatile and can be used in a variety of dishes, including soups, salads, and desserts. They are prized for their attractive appearance and rich flavor.",
+              "growth_info": {
+                "growth_mode": "Vining",
+                "days_to_harvest": {
+                  "lower_estimate": 90,
+                  "higher_estimate": 120
+                },
+                "plant_height": "12-18 inches (vines spread 6-10 feet)",
+                "spacing": "12 inches",
+                "is_container_variety": false,
+                "recommended_container_size": "Not recommended",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Light purple",
+                "leaf_color": "Green"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering",
+                "feeding_requirement": "Rich soil with balanced fertilizer",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "3-5 pounds per plant",
+                "best_uses": ["Soups", "Salads", "Desserts"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Excellent",
+                "cold_tolerance": "Poor",
+                "frost_tolerance": false,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Fusarium wilt", "Internal cork"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Sweet, moist, and flavorful"
+              },
+              "root_characteristics": {
+                "root_color": "Vibrant orange flesh, reddish-purple skin",
+                "root_shape": "Oblong",
+                "root_size": "Medium to large",
+                "texture": "Moist and smooth",
+                "storage_life": "6-8 months when properly cured"
+              },
+              "fun_fact": "Jewel Sweet Potato was developed by researchers at Louisiana State University and released in 1965. It is known for its high yields and disease resistance.",
+              "planting_tip": "Plant Jewel Sweet Potato slips in well-drained, loose soil. Choose a sunny location for optimal growth. Plant slips about 3 inches deep and 12 inches apart in rows spaced 36-42 inches apart. Keep the soil consistently moist but not waterlogged."
+            },
+            {
+              "id": 2,
+              "name": "Covington",
+              "description": "Covington Sweet Potato is a popular variety known for its uniform shape, deep orange flesh, and excellent flavor. It has rose-colored skin and a moist, sweet flavor when cooked. Covington sweet potatoes are versatile and can be used in a variety of dishes, including fries, casseroles, and pies. They are prized for their consistent yields and disease resistance.",
+              "growth_info": {
+                "growth_mode": "Vining",
+                "days_to_harvest": {
+                  "lower_estimate": 90,
+                  "higher_estimate": 120
+                },
+                "plant_height": "12-18 inches (vines spread 6-10 feet)",
+                "spacing": "12 inches",
+                "is_container_variety": false,
+                "recommended_container_size": "Not recommended",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Light purple",
+                "leaf_color": "Green"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering",
+                "feeding_requirement": "Rich soil with balanced fertilizer",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "4-6 pounds per plant",
+                "best_uses": ["Fries", "Casseroles", "Pies"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Excellent",
+                "cold_tolerance": "Poor",
+                "frost_tolerance": false,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Fusarium wilt", "Root-knot nematodes", "Alternaria stem blight"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Sweet, moist, and rich"
+              },
+              "root_characteristics": {
+                "root_color": "Deep orange flesh, rose-colored skin",
+                "root_shape": "Uniform, blocky",
+                "root_size": "Medium to large",
+                "texture": "Moist and creamy",
+                "storage_life": "6-10 months when properly cured"
+              },
+              "fun_fact": "Covington Sweet Potato was developed by researchers at North Carolina State University and released in 2005. It is known for its high yields and excellent disease resistance.",
+              "planting_tip": "Plant Covington Sweet Potato slips in well-drained, loose soil. Choose a sunny location for optimal growth. Plant slips about 3 inches deep and 12 inches apart in rows spaced 36-42 inches apart. Keep the soil consistently moist but not waterlogged."
+            },
+            {
+              "id": 3,
+              "name": "Carolina Ruby",
+              "description": "Carolina Ruby Sweet Potato is a popular heirloom variety known for its deep red-purple skin and moist, sweet flesh. It has a rich flavor and creamy texture when cooked, making it ideal for baking, boiling, or roasting. Carolina Ruby sweet potatoes are versatile and can be used in a variety of dishes, including pies, casseroles, and soups.",
+              "growth_info": {
+                "growth_mode": "Vining",
+                "days_to_harvest": {
+                  "lower_estimate": 90,
+                  "higher_estimate": 120
+                },
+                "plant_height": "12-18 inches (vines spread 6-10 feet)",
+                "spacing": "12 inches",
+                "is_container_variety": false,
+                "recommended_container_size": "Not recommended",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Light purple",
+                "leaf_color": "Green"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering",
+                "feeding_requirement": "Rich soil with balanced fertilizer",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "3-4 pounds per plant",
+                "best_uses": ["Pies", "Casseroles", "Soups"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Excellent",
+                "cold_tolerance": "Poor",
+                "frost_tolerance": false,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Moderate disease resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Rich, sweet, and creamy"
+              },
+              "root_characteristics": {
+                "root_color": "Orange flesh, deep red-purple skin",
+                "root_shape": "Oblong",
+                "root_size": "Medium",
+                "texture": "Moist and creamy",
+                "storage_life": "4-6 months when properly cured"
+              },
+              "fun_fact": "Carolina Ruby Sweet Potato is an heirloom variety that has been grown for generations in the southern United States. It is prized for its flavor and versatility in cooking.",
+              "planting_tip": "Plant Carolina Ruby Sweet Potato slips in well-drained, loose soil. Choose a sunny location for optimal growth. Plant slips about 3 inches deep and 12 inches apart in rows spaced 36-42 inches apart. Keep the soil consistently moist but not waterlogged."
+            },
+            {
+              "id": 4,
+              "name": "O'Henry",
+              "description": "O'Henry Sweet Potato is a popular variety known for its creamy texture and sweet flavor. It has pale copper skin and light cream-colored flesh. O'Henry sweet potatoes are versatile and can be used in a variety of dishes, including fries, casseroles, and pies. They are prized for their smooth texture and excellent flavor.",
+              "growth_info": {
+                "growth_mode": "Vining",
+                "days_to_harvest": {
+                  "lower_estimate": 90,
+                  "higher_estimate": 120
+                },
+                "plant_height": "12-18 inches (vines spread 6-10 feet)",
+                "spacing": "12 inches",
+                "is_container_variety": false,
+                "recommended_container_size": "Not recommended",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Light purple",
+                "leaf_color": "Green"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering",
+                "feeding_requirement": "Rich soil with balanced fertilizer",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "3-5 pounds per plant",
+                "best_uses": ["Fries", "Casseroles", "Pies"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Excellent",
+                "cold_tolerance": "Poor",
+                "frost_tolerance": false,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Moderate disease resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Sweet, creamy, and mild"
+              },
+              "root_characteristics": {
+                "root_color": "Light cream-colored flesh, pale copper skin",
+                "root_shape": "Oblong",
+                "root_size": "Medium to large",
+                "texture": "Dry and fluffy when cooked",
+                "storage_life": "6-8 months when properly cured"
+              },
+              "fun_fact": "O'Henry Sweet Potato is named after Henry, a laborer who discovered this variety in 1981 while working in a North Carolina field.",
+              "planting_tip": "Plant O'Henry Sweet Potato slips in well-drained, loose soil. Choose a sunny location for optimal growth. Plant slips about 3 inches deep and 12 inches apart in rows spaced 36-42 inches apart. Keep the soil consistently moist but not waterlogged."
+            },
+            {
+              "id": 5,
+              "name": "Japanese",
+              "description": "Japanese Sweet Potato, also known as Satsumaimo, is a popular variety known for its purple skin and creamy white flesh. It has a slightly sweet flavor and moist texture when cooked, making it ideal for baking, steaming, or frying. Japanese Sweet Potato is versatile and can be used in a variety of dishes, including tempura, pies, and soups.",
+              "growth_info": {
+                "growth_mode": "Vining",
+                "days_to_harvest": {
+                  "lower_estimate": 90,
+                  "higher_estimate": 120
+                },
+                "plant_height": "12-18 inches (vines spread 6-10 feet)",
+                "spacing": "12 inches",
+                "is_container_variety": false,
+                "recommended_container_size": "Not recommended",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Light purple",
+                "leaf_color": "Green"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering",
+                "feeding_requirement": "Rich soil with balanced fertilizer",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "3-4 pounds per plant",
+                "best_uses": ["Baking", "Steaming", "Frying"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Excellent",
+                "cold_tolerance": "Poor",
+                "frost_tolerance": false,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Moderate disease resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Slightly sweet, nutty, and chestnut-like"
+              },
+              "root_characteristics": {
+                "root_color": "Creamy white flesh, purple skin",
+                "root_shape": "Oblong",
+                "root_size": "Medium",
+                "texture": "Dry and fluffy when cooked",
+                "storage_life": "4-6 months when properly cured"
+              },
+              "fun_fact": "Japanese Sweet Potato is a popular ingredient in Japanese cuisine and is often enjoyed roasted as a street food snack called 'yaki-imo'.",
+              "planting_tip": "Plant Japanese Sweet Potato slips in well-drained, loose soil. Choose a sunny location for optimal growth. Plant slips about 3 inches deep and 12 inches apart in rows spaced 36-42 inches apart. Keep the soil consistently moist but not waterlogged."
+            },
+            {
+              "id": 6,
+              "name": "Purple",
+              "description": "Purple Sweet Potato, also known as Okinawan Sweet Potato, is a unique variety known for its vibrant purple flesh and sweet flavor. It has a creamy texture when cooked and can be used in a variety of dishes, including mashed potatoes, pies, and desserts. Purple Sweet Potato is prized for its antioxidant-rich pigments and health benefits.",
+              "growth_info": {
+                "growth_mode": "Vining",
+                "days_to_harvest": {
+                  "lower_estimate": 90,
+                  "higher_estimate": 120
+                },
+                "plant_height": "12-18 inches (vines spread 6-10 feet)",
+                "spacing": "12 inches",
+                "is_container_variety": false,
+                "recommended_container_size": "Not recommended",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Light purple",
+                "leaf_color": "Green"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering",
+                "feeding_requirement": "Rich soil with balanced fertilizer",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "3-4 pounds per plant",
+                "best_uses": ["Mashed potatoes", "Pies", "Desserts"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Excellent",
+                "cold_tolerance": "Poor",
+                "frost_tolerance": false,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Moderate disease resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Sweet, nutty, and slightly floral"
+              },
+              "root_characteristics": {
+                "root_color": "Vibrant purple flesh, light tan to purple skin",
+                "root_shape": "Oblong to irregular",
+                "root_size": "Medium",
+                "texture": "Moist and creamy",
+                "storage_life": "4-6 months when properly cured"
+              },
+              "fun_fact": "Purple Sweet Potato is native to the island of Okinawa in Japan and is a staple food in the Okinawan diet, known for promoting longevity and health.",
+              "planting_tip": "Plant Purple Sweet Potato slips in well-drained, loose soil. Choose a sunny location for optimal growth. Plant slips about 3 inches deep and 12 inches apart in rows spaced 36-42 inches apart. Keep the soil consistently moist but not waterlogged."
+            }
+          ]
+        }
+    ]
+}
+
+
+
+
+
