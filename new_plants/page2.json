@@ -1,6 +1,6 @@
 {
-    "next": "https://raw.githubusercontent.com/BorisOften/MyGardenDataBase/main/new_plants/page3.json",
-    "previous": "https://raw.githubusercontent.com/BorisOften/MyGardenDataBase/main/new_plants/page1.json",
+    "next": "https://raw.githubusercontent.com/BorisOften/MyGardenDataBase/staging/new_plants/page3.json",
+    "previous": "https://raw.githubusercontent.com/BorisOften/MyGardenDataBase/staging/new_plants/page1.json",
     "results": [
         {
           "id": 5,
@@ -868,7 +868,7 @@
             "drainage_requirement": "Excellent drainage essential",
             "days_to_germination": "14-21 days",
             "frost_tolerance": true,
-            "planting_depth": "Surface sow, lightly cover",
+            "planting_depth": "Surface sow",
             "spacing": "24-36 inches",
             "life_cycle": "Perennial",
             "season": "Warm",

@@ -1,6 +1,6 @@
 {
-    "next": "https://raw.githubusercontent.com/BorisOften/MyGardenDataBase/main/new_plants/page6.json",
-    "previous": "https://raw.githubusercontent.com/BorisOften/MyGardenDataBase/main/new_plants/page4.json",
+    "next": "https://raw.githubusercontent.com/BorisOften/MyGardenDataBase/staging/new_plants/page6.json",
+    "previous": "https://raw.githubusercontent.com/BorisOften/MyGardenDataBase/staging/new_plants/page4.json",
     "results": [
         {
             "id": 20,
@@ -526,7 +526,7 @@
                 "drainage_requirement": "Well-drained",
                 "days_to_germination": "7-10 days",
                 "frost_tolerance": true,
-                "planting_depth": "1/4 inch for seeds, 1 inch for sets",
+                "planting_depth": "1/4 inch",
                 "spacing": "4-6 inches",
                 "life_cycle": "Biennial",
                 "season": "Cool",

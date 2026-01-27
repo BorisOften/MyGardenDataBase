@@ -1,5 +1,5 @@
 {
-    "next": "https://raw.githubusercontent.com/BorisOften/MyGardenDataBase/main/new_plants/page2.json",
+    "next": "https://raw.githubusercontent.com/BorisOften/MyGardenDataBase/staging/new_plants/page2.json",
     "previous": null,
     "results": [
         {
@@ -19,7 +19,7 @@
                 "drainage_requirement": "Well-drained",
                 "days_to_germination": "5-7 days",
                 "frost_tolerance": false,
-                "planting_depth": "1/4 - 1/2 inch deep",
+                "planting_depth": "1/4 - 1/2 inch",
                 "spacing": "2-3 feet apart",
                 "life_cycle": "Annual",
                 "season": "Warm",
