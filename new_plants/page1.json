@@ -862,7 +862,385 @@
                   "flower_characteristics": null,
                   "fun_fact": "Did you know? Chocolate Cherry tomatoes are often praised for their rich flavor, combining sweetness with earthy undertones.",
                   "planting_tip": "Plant Chocolate Cherry tomatoes in well-drained soil with good sunlight. Provide sturdy support for indeterminate vines. Water consistently, aiming for twice a week, and fertilize every two weeks. Prune to manage plant shape and promote air circulation. Enjoy the unique and rich flavor of Chocolate Cherry tomatoes!"
-                }
+                },
+                {
+  "id": 15,
+  "name": "Sungold",
+  "description": "Sungold tomatoes are a highly popular hybrid cherry tomato variety renowned for their exceptional sweetness and vibrant golden-orange color. These indeterminate vines produce abundant clusters of small, glossy fruits that burst with tropical, fruity flavor. Often described as candy-like, Sungold tomatoes are a favorite among gardeners and are perfect for fresh eating, making them one of the most sought-after cherry tomato varieties.",
+  "growth_info": {
+    "growth_mode": "Indeterminate",
+    "days_to_harvest": {
+      "lower_estimate": 55,
+      "higher_estimate": 65
+    },
+    "plant_height": "6-8 feet",
+    "spacing": "3-4 feet apart",
+    "is_container_variety": true,
+    "recommended_container_size": "7 gallons minimum",
+    "needs_support": true
+  },
+  "appearance": {
+    "flower_color": "Yellow",
+    "leaf_color": "Green"
+  },
+  "care_requirements": {
+    "water_requirement": "Twice a week",
+    "feeding_requirement": "Every two weeks",
+    "requires_pruning": true
+  },
+  "harvest_storage": {
+    "typical_yield": "20-25 pounds per plant",
+    "best_uses": ["Snacking", "Salads", "Fresh Eating"]
+  },
+  "tolerances": {
+    "heat_tolerance": "High",
+    "cold_tolerance": "Low",
+    "frost_tolerance": false,
+    "drought_tolerance": "Medium",
+    "disease_resistance": ["F", "TMV"]
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Intensely sweet, tropical, fruity with hints of apricot"
+  },
+  "fruit_characteristics": {
+    "fruit_color": "Golden-Orange",
+    "fruit_weight": "Less than 1 ounce",
+    "skin_thickness": "Thin",
+    "seed_cavity_size": "Small",
+    "storage_quality": "Fair",
+    "crack_resistance": "Medium"
+  },
+  "herb_characteristics": null,
+  "root_characteristics": null,
+  "leaf_crop_characteristics": null,
+  "flower_characteristics": null,
+  "fun_fact": "Did you know? Sungold tomatoes are so sweet they often measure higher on the Brix scale (sugar content) than many dessert fruits!",
+  "planting_tip": "Plant Sungold tomatoes in well-drained soil with full sunlight. Provide sturdy support for the vigorous indeterminate vines. Water consistently, aiming for twice a week, and fertilize every two weeks. Prune to manage plant shape and promote air circulation. Harvest frequently to encourage continuous production of these delicious golden gems!"
+},
+{
+  "id": 16,
+  "name": "Celebrity",
+  "description": "Celebrity tomatoes are a popular determinate hybrid variety known for their reliability, disease resistance, and consistent production. These vigorous plants produce medium to large, globe-shaped fruits with a classic red color and excellent flavor. Developed for both home gardeners and commercial growers, Celebrity tomatoes are prized for their ability to thrive in various growing conditions and their resistance to multiple common tomato diseases.",
+  "growth_info": {
+    "growth_mode": "Determinate",
+    "days_to_harvest": {
+      "lower_estimate": 70,
+      "higher_estimate": 80
+    },
+    "plant_height": "3-4 feet",
+    "spacing": "2-3 feet apart",
+    "is_container_variety": true,
+    "recommended_container_size": "7 gallons minimum",
+    "needs_support": true
+  },
+  "appearance": {
+    "flower_color": "Yellow",
+    "leaf_color": "Green"
+  },
+  "care_requirements": {
+    "water_requirement": "Once a week",
+    "feeding_requirement": "Every two weeks",
+    "requires_pruning": false
+  },
+  "harvest_storage": {
+    "typical_yield": "20-30 pounds per plant",
+    "best_uses": ["Slicing", "Salads", "Sandwiches", "Canning"]
+  },
+  "tolerances": {
+    "heat_tolerance": "High",
+    "cold_tolerance": "Low",
+    "frost_tolerance": false,
+    "drought_tolerance": "Medium",
+    "disease_resistance": ["V", "F", "FF", "N", "TMV", "ASC"]
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Classic tomato flavor, well-balanced acidity and sweetness"
+  },
+  "fruit_characteristics": {
+    "fruit_color": "Red",
+    "fruit_weight": "7-10 ounces",
+    "skin_thickness": "Medium",
+    "seed_cavity_size": "Medium",
+    "storage_quality": "Excellent",
+    "crack_resistance": "High"
+  },
+  "herb_characteristics": null,
+  "root_characteristics": null,
+  "leaf_crop_characteristics": null,
+  "flower_characteristics": null,
+  "fun_fact": "Did you know? Celebrity tomatoes won the All-America Selections award in 1984 and remain one of the most disease-resistant tomato varieties available to home gardeners.",
+  "planting_tip": "Plant Celebrity tomatoes in well-drained soil with full sunlight. These determinate plants benefit from support, though they're more compact than indeterminate varieties. Water consistently, aiming for once a week, and fertilize every two weeks. Minimal pruning is needed. Enjoy a concentrated harvest of uniform, flavorful tomatoes perfect for preserving or fresh eating!"
+},
+{
+  "id": 17,
+  "name": "Amish Paste",
+  "description": "Amish Paste tomatoes are a beloved heirloom variety treasured for their excellent paste-making qualities and rich flavor. Originating from the Amish community in Wisconsin, these indeterminate tomatoes produce large, ox-heart shaped fruits with deep red color and meaty texture. With fewer seeds and less juice than typical slicing tomatoes, Amish Paste is ideal for sauces, canning, and paste, while also being delicious fresh.",
+  "growth_info": {
+    "growth_mode": "Indeterminate",
+    "days_to_harvest": {
+      "lower_estimate": 80,
+      "higher_estimate": 90
+    },
+    "plant_height": "5-7 feet",
+    "spacing": "3-4 feet apart",
+    "is_container_variety": true,
+    "recommended_container_size": "10 gallons minimum",
+    "needs_support": true
+  },
+  "appearance": {
+    "flower_color": "Yellow",
+    "leaf_color": "Green"
+  },
+  "care_requirements": {
+    "water_requirement": "Twice a week",
+    "feeding_requirement": "Every three weeks",
+    "requires_pruning": true
+  },
+  "harvest_storage": {
+    "typical_yield": "20-25 pounds per plant",
+    "best_uses": ["Paste", "Sauces", "Canning", "Fresh Eating"]
+  },
+  "tolerances": {
+    "heat_tolerance": "Medium",
+    "cold_tolerance": "Low",
+    "frost_tolerance": false,
+    "drought_tolerance": "Medium",
+    "disease_resistance": []
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Rich, sweet, full-bodied with low acidity"
+  },
+  "fruit_characteristics": {
+    "fruit_color": "Deep Red",
+    "fruit_weight": "6-10 ounces",
+    "skin_thickness": "Medium",
+    "seed_cavity_size": "Small",
+    "storage_quality": "Excellent",
+    "crack_resistance": "High"
+  },
+  "herb_characteristics": null,
+  "root_characteristics": null,
+  "leaf_crop_characteristics": null,
+  "flower_characteristics": null,
+  "fun_fact": "Did you know? Amish Paste tomatoes are considered one of the best dual-purpose tomatoes, excelling both as a paste tomato and for fresh eating.",
+  "planting_tip": "Plant Amish Paste tomatoes in well-drained soil with full sunlight. Provide sturdy support for indeterminate vines that will bear heavy fruits. Water consistently, aiming for twice a week, and fertilize every three weeks. Prune to manage plant shape and promote air circulation. These productive plants will reward you with abundant harvests perfect for preserving!"
+},
+{
+  "id": 18,
+  "name": "Black Cherry",
+  "description": "Black Cherry tomatoes are a striking indeterminate variety that combines the convenience of cherry tomato size with the complex, rich flavor of dark heirloom tomatoes. These vigorous vines produce prolific clusters of deep mahogany-purple fruits that are incredibly sweet with a hint of smokiness. Black Cherry tomatoes are perfect for adding visual drama and exceptional flavor to salads, appetizers, and garden snacking.",
+  "growth_info": {
+    "growth_mode": "Indeterminate",
+    "days_to_harvest": {
+      "lower_estimate": 65,
+      "higher_estimate": 75
+    },
+    "plant_height": "6-8 feet",
+    "spacing": "3-4 feet apart",
+    "is_container_variety": true,
+    "recommended_container_size": "7 gallons minimum",
+    "needs_support": true
+  },
+  "appearance": {
+    "flower_color": "Yellow",
+    "leaf_color": "Green"
+  },
+  "care_requirements": {
+    "water_requirement": "Twice a week",
+    "feeding_requirement": "Every two weeks",
+    "requires_pruning": true
+  },
+  "harvest_storage": {
+    "typical_yield": "18-22 pounds per plant",
+    "best_uses": ["Snacking", "Salads", "Roasting", "Garnishes"]
+  },
+  "tolerances": {
+    "heat_tolerance": "High",
+    "cold_tolerance": "Low",
+    "frost_tolerance": false,
+    "drought_tolerance": "Medium",
+    "disease_resistance": []
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Exceptionally sweet with complex, smoky undertones"
+  },
+  "fruit_characteristics": {
+    "fruit_color": "Deep Mahogany-Purple",
+    "fruit_weight": "1-1.5 ounces",
+    "skin_thickness": "Thin",
+    "seed_cavity_size": "Small",
+    "storage_quality": "Fair",
+    "crack_resistance": "Medium"
+  },
+  "herb_characteristics": null,
+  "root_characteristics": null,
+  "leaf_crop_characteristics": null,
+  "flower_characteristics": null,
+  "fun_fact": "Did you know? Black Cherry tomatoes develop their deepest, darkest color when exposed to full sun, making them a stunning addition to any garden.",
+  "planting_tip": "Plant Black Cherry tomatoes in well-drained soil with maximum sunlight exposure to enhance their dark coloration. Provide sturdy support for vigorous indeterminate vines. Water consistently, aiming for twice a week, and fertilize every two weeks. Prune to manage plant shape and promote air circulation. Harvest when fruits are deeply colored and slightly soft to the touch!"
+},
+{
+  "id": 19,
+  "name": "Pineapple",
+  "description": "Pineapple tomatoes are a spectacular heirloom beefsteak variety known for their enormous size, bi-colored appearance, and exceptional sweet flavor. These indeterminate tomatoes feature stunning yellow fruits with red marbling inside, often weighing over a pound each. With a tropical, fruity sweetness and low acidity, Pineapple tomatoes are perfect for fresh eating and make show-stopping additions to gourmet dishes and heirloom tomato platters.",
+  "growth_info": {
+    "growth_mode": "Indeterminate",
+    "days_to_harvest": {
+      "lower_estimate": 85,
+      "higher_estimate": 95
+    },
+    "plant_height": "6-9 feet",
+    "spacing": "3-4 feet apart",
+    "is_container_variety": true,
+    "recommended_container_size": "10 gallons minimum",
+    "needs_support": true
+  },
+  "appearance": {
+    "flower_color": "Yellow",
+    "leaf_color": "Green"
+  },
+  "care_requirements": {
+    "water_requirement": "Twice a week",
+    "feeding_requirement": "Every three weeks",
+    "requires_pruning": true
+  },
+  "harvest_storage": {
+    "typical_yield": "15-20 pounds per plant",
+    "best_uses": ["Slicing", "Fresh Eating", "Gourmet Dishes", "Sandwiches"]
+  },
+  "tolerances": {
+    "heat_tolerance": "Medium",
+    "cold_tolerance": "Low",
+    "frost_tolerance": false,
+    "drought_tolerance": "Low",
+    "disease_resistance": []
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Sweet, fruity, tropical with very low acidity"
+  },
+  "fruit_characteristics": {
+    "fruit_color": "Yellow with Red Marbling",
+    "fruit_weight": "16-32 ounces",
+    "skin_thickness": "Thin",
+    "seed_cavity_size": "Large",
+    "storage_quality": "Fair",
+    "crack_resistance": "Low"
+  },
+  "herb_characteristics": null,
+  "root_characteristics": null,
+  "leaf_crop_characteristics": null,
+  "flower_characteristics": null,
+  "fun_fact": "Did you know? Pineapple tomatoes can produce fruits weighing up to 2 pounds, and each slice reveals a beautiful marbled pattern of yellow and red flesh.",
+  "planting_tip": "Plant Pineapple tomatoes in rich, well-drained soil with full sunlight. Provide very sturdy support for these tall vines that will bear extremely heavy fruits. Water consistently, aiming for twice a week, and fertilize every three weeks. Prune to manage plant shape and reduce weight on branches. Handle ripe fruits carefully as they're prone to cracking due to their size and thin skin!"
+},
+{
+  "id": 20,
+  "name": "Rutgers",
+  "description": "Rutgers tomatoes are a classic American heirloom variety developed in 1934 at Rutgers University in New Jersey. These determinate tomatoes produce medium to large, globe-shaped fruits with excellent flavor and are known for their reliability and productivity. Originally bred for commercial canning but beloved by home gardeners, Rutgers tomatoes offer the perfect balance of old-fashioned tomato taste and modern growing convenience.",
+  "growth_info": {
+    "growth_mode": "Determinate",
+    "days_to_harvest": {
+      "lower_estimate": 75,
+      "higher_estimate": 85
+    },
+    "plant_height": "3-4 feet",
+    "spacing": "2-3 feet apart",
+    "is_container_variety": true,
+    "recommended_container_size": "7 gallons minimum",
+    "needs_support": true
+  },
+  "appearance": {
+    "flower_color": "Yellow",
+    "leaf_color": "Green"
+  },
+  "care_requirements": {
+    "water_requirement": "Once a week",
+    "feeding_requirement": "Every two weeks",
+    "requires_pruning": false
+  },
+  "harvest_storage": {
+    "typical_yield": "18-22 pounds per plant",
+    "best_uses": ["Canning", "Slicing", "Sauces", "Fresh Eating"]
+  },
+  "tolerances": {
+    "heat_tolerance": "High",
+    "cold_tolerance": "Low",
+    "frost_tolerance": false,
+    "drought_tolerance": "Medium",
+    "disease_resistance": ["F"]
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Classic, old-fashioned tomato flavor with balanced acidity"
+  },
+  "fruit_characteristics": {
+    "fruit_color": "Deep Red",
+    "fruit_weight": "6-8 ounces",
+    "skin_thickness": "Medium",
+    "seed_cavity_size": "Medium",
+    "storage_quality": "Excellent",
+    "crack_resistance": "High"
+  },
+  "herb_characteristics": null,
+  "root_characteristics": null,
+  "leaf_crop_characteristics": null,
+  "flower_characteristics": null,
+  "fun_fact": "Did you know? Rutgers tomatoes were once the most popular tomato variety in America and helped establish New Jersey's reputation as the 'Garden State.'",
+  "planting_tip": "Plant Rutgers tomatoes in well-drained soil with full sunlight. These compact determinate plants benefit from caging or staking. Water consistently, aiming for once a week, and fertilize every two weeks. Minimal pruning is needed. Expect a concentrated harvest period perfect for canning and preserving projects. This variety is particularly well-suited to hot, humid climates!"
+},
+{
+  "id": 21,
+  "name": "Juliet",
+  "description": "Juliet tomatoes are an award-winning grape tomato variety that won the All-America Selections award in 1999. These compact indeterminate vines produce abundant clusters of glossy, elongated fruits that resist cracking and have excellent storage quality. With a perfect balance of sweetness and acidity, Juliet tomatoes are incredibly versatile and have become a favorite for both fresh eating and cooking applications.",
+  "growth_info": {
+    "growth_mode": "Indeterminate",
+    "days_to_harvest": {
+      "lower_estimate": 60,
+      "higher_estimate": 70
+    },
+    "plant_height": "4-6 feet",
+    "spacing": "2-3 feet apart",
+    "is_container_variety": true,
+    "recommended_container_size": "7 gallons minimum",
+    "needs_support": true
+  },
+  "appearance": {
+    "flower_color": "Yellow",
+    "leaf_color": "Green"
+  },
+  "care_requirements": {
+    "water_requirement": "Twice a week",
+    "feeding_requirement": "Every two weeks",
+    "requires_pruning": true
+  },
+  "harvest_storage": {
+    "typical_yield": "15-18 pounds per plant",
+    "best_uses": ["Snacking", "Salads", "Roasting", "Kabobs"]
+  },
+  "tolerances": {
+    "heat_tolerance": "High",
+    "cold_tolerance": "Low",
+    "frost_tolerance": false,
+    "drought_tolerance": "Medium",
+    "disease_resistance": ["LB"]
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Sweet with balanced acidity, rich tomato flavor"
+  },
+  "fruit_characteristics": {
+    "fruit_color": "Deep Red",
+    "fruit_weight": "1-1.5 ounces",
+    "skin_thickness": "Thick",
+    "seed_cavity_size": "Small",
+    "storage_quality": "Excellent",
+    "crack_resistance": "High"
+  },
+  "herb_characteristics": null,
+  "root_characteristics": null,
+  "leaf_crop_characteristics": null,
+  "flower_characteristics": null,
+  "fun_fact": "Did you know? Juliet tomatoes were the first grape tomato to win the All-America Selections award and are famous for their outstanding crack resistance and long shelf life.",
+  "planting_tip": "Plant Juliet tomatoes in well-drained soil with full sunlight. Provide support for these productive indeterminate vines. Water consistently, aiming for twice a week, and fertilize every two weeks. Prune to manage plant shape and promote air circulation. These tomatoes store exceptionally well and continue producing abundantly throughout the growing season!"
+}
             ]
         },
         {
@@ -1624,7 +2002,267 @@
               "flower_characteristics": null,
               "fun_fact": "Did you know? Triple Curled Parsley is often used not only for its culinary qualities but also as an attractive edging plant in garden beds.",
               "planting_tip": "Plant Triple Curled Parsley in well-drained soil with partial to full sunlight. Water regularly, keeping the soil consistently moist. Fertilize every four weeks to support healthy growth. Prune regularly to encourage a bushy habit and to harvest fresh leaves for culinary use."
-            }
+            },
+            {
+  "id": 4,
+  "name": "Giant of Italy",
+  "description": "Giant of Italy Parsley is a vigorous flat-leaf variety known for its exceptionally large, dark green leaves and robust flavor. This biennial herb produces leaves that can grow up to 6 inches long, making it one of the most productive parsley varieties. With its intense parsley flavor and impressive size, Giant of Italy is favored by chefs and home gardeners who want maximum yield and flavor from their herb gardens.",
+  "growth_info": {
+    "growth_mode": "Biennial",
+    "days_to_harvest": {
+      "lower_estimate": 75,
+      "higher_estimate": 85
+    },
+    "plant_height": "18-24 inches",
+    "spacing": "10-14 inches",
+    "is_container_variety": true,
+    "recommended_container_size": "2-3 gallons minimum",
+    "needs_support": false
+  },
+  "appearance": {
+    "flower_color": "White",
+    "leaf_color": "Dark Green"
+  },
+  "care_requirements": {
+    "water_requirement": "Regularly",
+    "feeding_requirement": "Every four weeks",
+    "requires_pruning": true
+  },
+  "harvest_storage": {
+    "typical_yield": "2-3 cups per harvest, multiple harvests per season",
+    "best_uses": ["Culinary", "Salads", "Pesto", "Cooking"]
+  },
+  "tolerances": {
+    "heat_tolerance": "Medium",
+    "cold_tolerance": "High",
+    "frost_tolerance": true,
+    "drought_tolerance": "Low",
+    "disease_resistance": []
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Intense, robust, slightly sweet"
+  },
+  "fruit_characteristics": null,
+  "herb_characteristics": {
+    "leaf_texture": "Flat, large, smooth",
+    "aroma_intensity": "Strong",
+    "culinary_strength": "Strong",
+    "bolt_resistance": "Medium"
+  },
+  "root_characteristics": null,
+  "leaf_crop_characteristics": null,
+  "flower_characteristics": null,
+  "fun_fact": "Did you know? Giant of Italy Parsley can produce leaves up to three times larger than standard flat-leaf varieties, making it incredibly productive.",
+  "planting_tip": "Plant Giant of Italy Parsley in rich, well-drained soil with full to partial sunlight. Water regularly, keeping the soil consistently moist. Fertilize every four weeks to support the large leaf production. Prune regularly from the outside stems to encourage continuous growth and bushy habit. This variety benefits from extra space due to its vigorous growth."
+},
+{
+  "id": 5,
+  "name": "Forest Green",
+  "description": "Forest Green Parsley is a premium curly-leaf variety featuring tightly packed, dark green curls that are both beautiful and flavorful. This biennial herb is prized for its exceptional cold hardiness and slow-bolting characteristics. With a more pronounced flavor than standard curly parsley, Forest Green is ideal for garnishing, culinary use, and ornamental plantings in herb gardens.",
+  "growth_info": {
+    "growth_mode": "Biennial",
+    "days_to_harvest": {
+      "lower_estimate": 70,
+      "higher_estimate": 85
+    },
+    "plant_height": "10-14 inches",
+    "spacing": "8-10 inches",
+    "is_container_variety": true,
+    "recommended_container_size": "1-2 gallons minimum",
+    "needs_support": false
+  },
+  "appearance": {
+    "flower_color": "White",
+    "leaf_color": "Deep Forest Green"
+  },
+  "care_requirements": {
+    "water_requirement": "Regularly",
+    "feeding_requirement": "Every four weeks",
+    "requires_pruning": true
+  },
+  "harvest_storage": {
+    "typical_yield": "1-2 cups per harvest, multiple harvests per season",
+    "best_uses": ["Garnishes", "Culinary", "Drying", "Freezing"]
+  },
+  "tolerances": {
+    "heat_tolerance": "Low",
+    "cold_tolerance": "Very High",
+    "frost_tolerance": true,
+    "drought_tolerance": "Low",
+    "disease_resistance": []
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Fresh, pronounced, slightly peppery"
+  },
+  "fruit_characteristics": null,
+  "herb_characteristics": {
+    "leaf_texture": "Tightly curled, dense",
+    "aroma_intensity": "Medium-Strong",
+    "culinary_strength": "Medium-Strong",
+    "bolt_resistance": "High"
+  },
+  "root_characteristics": null,
+  "leaf_crop_characteristics": null,
+  "flower_characteristics": null,
+  "fun_fact": "Did you know? Forest Green Parsley is one of the most cold-hardy parsley varieties and can often survive winter in zones 7 and above with minimal protection.",
+  "planting_tip": "Plant Forest Green Parsley in well-drained soil with partial to full sunlight. Water regularly, maintaining consistent soil moisture. Fertilize every four weeks to promote healthy growth. Prune regularly to maintain compact growth and prevent bolting. This variety is excellent for fall planting due to its exceptional cold tolerance."
+},
+{
+  "id": 6,
+  "name": "Paramount",
+  "description": "Paramount Parsley is a superior flat-leaf variety bred for its uniform growth, dark green color, and exceptional flavor. This biennial herb produces vigorous, upright plants with abundant foliage that maintains its quality throughout the growing season. Paramount is favored by commercial growers and home gardeners alike for its reliability, disease resistance, and outstanding culinary qualities.",
+  "growth_info": {
+    "growth_mode": "Biennial",
+    "days_to_harvest": {
+      "lower_estimate": 70,
+      "higher_estimate": 80
+    },
+    "plant_height": "14-20 inches",
+    "spacing": "10-12 inches",
+    "is_container_variety": true,
+    "recommended_container_size": "2-3 gallons minimum",
+    "needs_support": false
+  },
+  "appearance": {
+    "flower_color": "White",
+    "leaf_color": "Dark Green"
+  },
+  "care_requirements": {
+    "water_requirement": "Regularly",
+    "feeding_requirement": "Every four weeks",
+    "requires_pruning": true
+  },
+  "harvest_storage": {
+    "typical_yield": "1.5-2.5 cups per harvest, multiple harvests per season",
+    "best_uses": ["Culinary", "Fresh Use", "Salads", "Sauces"]
+  },
+  "tolerances": {
+    "heat_tolerance": "Medium",
+    "cold_tolerance": "High",
+    "frost_tolerance": true,
+    "drought_tolerance": "Low",
+    "disease_resistance": ["Septoria Leaf Spot"]
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Clean, fresh, well-balanced"
+  },
+  "fruit_characteristics": null,
+  "herb_characteristics": {
+    "leaf_texture": "Flat, smooth, uniform",
+    "aroma_intensity": "Medium-Strong",
+    "culinary_strength": "Medium-Strong",
+    "bolt_resistance": "High"
+  },
+  "root_characteristics": null,
+  "leaf_crop_characteristics": null,
+  "flower_characteristics": null,
+  "fun_fact": "Did you know? Paramount Parsley was specifically bred for improved disease resistance and uniform growth, making it a reliable choice for both home and commercial production.",
+  "planting_tip": "Plant Paramount Parsley in well-drained, fertile soil with full to partial sunlight. Water regularly, ensuring consistent moisture levels. Fertilize every four weeks to support vigorous growth. Prune regularly from the outer stems to encourage bushier growth and continuous production. This variety's disease resistance makes it ideal for humid climates."
+},
+{
+  "id": 7,
+  "name": "Moss Curled",
+  "description": "Moss Curled Parsley is a classic curly variety featuring extremely tight, moss-like curls that create a beautiful, decorative appearance. This biennial herb has been a garden favorite for generations, valued for its ornamental beauty and mild, fresh flavor. The densely curled leaves make it an excellent choice for garnishing, while its compact growth habit is perfect for borders and container gardens.",
+  "growth_info": {
+    "growth_mode": "Biennial",
+    "days_to_harvest": {
+      "lower_estimate": 75,
+      "higher_estimate": 90
+    },
+    "plant_height": "10-12 inches",
+    "spacing": "8-10 inches",
+    "is_container_variety": true,
+    "recommended_container_size": "1-2 gallons minimum",
+    "needs_support": false
+  },
+  "appearance": {
+    "flower_color": "White",
+    "leaf_color": "Bright to Medium Green"
+  },
+  "care_requirements": {
+    "water_requirement": "Regularly",
+    "feeding_requirement": "Every four weeks",
+    "requires_pruning": true
+  },
+  "harvest_storage": {
+    "typical_yield": "1-1.5 cups per harvest, multiple harvests per season",
+    "best_uses": ["Garnishes", "Ornamental", "Culinary", "Edible Borders"]
+  },
+  "tolerances": {
+    "heat_tolerance": "Low",
+    "cold_tolerance": "High",
+    "frost_tolerance": true,
+    "drought_tolerance": "Low",
+    "disease_resistance": []
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Mild, fresh, delicate"
+  },
+  "fruit_characteristics": null,
+  "herb_characteristics": {
+    "leaf_texture": "Extremely curled, moss-like",
+    "aroma_intensity": "Mild-Medium",
+    "culinary_strength": "Mild",
+    "bolt_resistance": "Medium"
+  },
+  "root_characteristics": null,
+  "leaf_crop_characteristics": null,
+  "flower_characteristics": null,
+  "fun_fact": "Did you know? Moss Curled Parsley's extremely tight curls can trap moisture, making it important to ensure good air circulation to prevent fungal issues.",
+  "planting_tip": "Plant Moss Curled Parsley in well-drained soil with partial to full sunlight. Water regularly at the base of plants to avoid wetting foliage. Fertilize every four weeks for optimal growth. Prune regularly to maintain compact shape and encourage new growth. Space plants adequately to ensure good air circulation around the densely curled foliage."
+},
+{
+  "id": 8,
+  "name": "Plain Leaf",
+  "description": "Plain Leaf Parsley, also known as Single Leaf or Celery-Leaved Parsley, is a traditional variety with simple, less-divided leaves that resemble celery foliage. This biennial herb is valued for its intense parsley flavor and ease of cleaning. Popular in Middle Eastern and Mediterranean cuisines, Plain Leaf Parsley offers a stronger, more concentrated flavor than both curly and standard flat-leaf varieties.",
+  "growth_info": {
+    "growth_mode": "Biennial",
+    "days_to_harvest": {
+      "lower_estimate": 65,
+      "higher_estimate": 80
+    },
+    "plant_height": "12-18 inches",
+    "spacing": "8-12 inches",
+    "is_container_variety": true,
+    "recommended_container_size": "1-2 gallons minimum",
+    "needs_support": false
+  },
+  "appearance": {
+    "flower_color": "White",
+    "leaf_color": "Medium to Dark Green"
+  },
+  "care_requirements": {
+    "water_requirement": "Regularly",
+    "feeding_requirement": "Every four weeks",
+    "requires_pruning": true
+  },
+  "harvest_storage": {
+    "typical_yield": "1-2 cups per harvest, multiple harvests per season",
+    "best_uses": ["Culinary", "Middle Eastern Dishes", "Tabbouleh", "Sauces"]
+  },
+  "tolerances": {
+    "heat_tolerance": "Medium",
+    "cold_tolerance": "High",
+    "frost_tolerance": true,
+    "drought_tolerance": "Low",
+    "disease_resistance": []
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Intense, concentrated, slightly celery-like"
+  },
+  "fruit_characteristics": null,
+  "herb_characteristics": {
+    "leaf_texture": "Flat, simple, broad",
+    "aroma_intensity": "Strong",
+    "culinary_strength": "Strong",
+    "bolt_resistance": "Medium"
+  },
+  "root_characteristics": null,
+  "leaf_crop_characteristics": null,
+  "flower_characteristics": null,
+  "fun_fact": "Did you know? Plain Leaf Parsley is the traditional parsley used in authentic tabbouleh and is prized in Middle Eastern cooking for its bold, uncompromising flavor.",
+  "planting_tip": "Plant Plain Leaf Parsley in well-drained, fertile soil with full to partial sunlight. Water regularly, keeping soil consistently moist. Fertilize every four weeks to support vigorous growth. Prune regularly to encourage branching and prevent early bolting. The simple leaf structure makes this variety particularly easy to wash and prepare for cooking."
+}
           ]
         },
         {
@@ -1875,7 +2513,247 @@
               },
               "fun_fact": "Did you know? Santo Cilantro is widely used in many cuisines for its distinctive flavor, often described as fresh and citrusy.",
               "planting_tip": "Plant Santo Cilantro in well-drained soil with partial to full sunlight. Water regularly, keeping the soil consistently moist. Fertilize every four weeks to support healthy growth. Prune regularly to encourage leaf production and prevent premature flowering."
-            }
+            },
+            {
+  "id": 3,
+  "name": "Calypso",
+  "description": "Calypso Cilantro is a heat-tolerant variety bred specifically to resist bolting in warmer conditions. This annual herb produces vigorous, upright plants with abundant foliage and a strong, classic cilantro flavor. Calypso is an excellent choice for gardeners in warmer climates or those looking to extend their cilantro harvest through the summer months.",
+  "growth_info": {
+    "growth_mode": "Upright",
+    "days_to_harvest": {
+      "lower_estimate": 50,
+      "higher_estimate": 75
+    },
+    "plant_height": "18-24 inches",
+    "spacing": "6-8 inches",
+    "is_container_variety": true,
+    "recommended_container_size": "10-12 inches deep",
+    "needs_support": false
+  },
+  "appearance": {
+    "flower_color": "White",
+    "leaf_color": "Dark Green"
+  },
+  "care_requirements": {
+    "water_requirement": "Regular watering to keep soil consistently moist",
+    "feeding_requirement": "Light feeding every four weeks with balanced fertilizer",
+    "requires_pruning": true
+  },
+  "harvest_storage": {
+    "typical_yield": "Extended harvest of fresh leaves",
+    "best_uses": ["Culinary", "Salsas", "Asian Cuisine", "Mexican Dishes", "Garnishes"]
+  },
+  "tolerances": {
+    "heat_tolerance": "High - excellent bolt resistance in heat",
+    "cold_tolerance": "Moderate - tolerates light frost",
+    "frost_tolerance": false,
+    "drought_tolerance": "Low - requires consistent moisture",
+    "disease_resistance": ["Bolting Resistance"]
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Strong, classic cilantro flavor with bright citrus notes"
+  },
+  "herb_characteristics": {
+    "leaf_texture": "Tender with sturdy stems",
+    "aroma_intensity": "Very strong and pungent",
+    "culinary_strength": "Strong",
+    "bolt_resistance": "Very High"
+  },
+  "fun_fact": "Did you know? Calypso Cilantro can tolerate temperatures up to 10°F warmer than standard varieties before bolting, making it ideal for summer growing.",
+  "planting_tip": "Plant Calypso Cilantro in well-drained soil with partial to full sunlight. Water regularly, keeping the soil consistently moist. Fertilize every four weeks to support healthy growth. Prune regularly to encourage bushy leaf production. This variety thrives in warmer conditions where other cilantros would bolt quickly."
+},
+{
+  "id": 4,
+  "name": "Leisure",
+  "description": "Leisure Cilantro is a premium slow-bolting variety that provides an exceptionally long harvest period. This annual herb produces large, flavorful leaves with a classic cilantro taste and aroma. Leisure is valued by both home gardeners and commercial growers for its reliability, vigorous growth, and extended productivity even in less-than-ideal conditions.",
+  "growth_info": {
+    "growth_mode": "Upright",
+    "days_to_harvest": {
+      "lower_estimate": 45,
+      "higher_estimate": 70
+    },
+    "plant_height": "18-24 inches",
+    "spacing": "6-8 inches",
+    "is_container_variety": true,
+    "recommended_container_size": "10-12 inches deep",
+    "needs_support": false
+  },
+  "appearance": {
+    "flower_color": "White",
+    "leaf_color": "Medium to Dark Green"
+  },
+  "care_requirements": {
+    "water_requirement": "Regular watering to keep soil consistently moist",
+    "feeding_requirement": "Light feeding every four weeks with balanced fertilizer",
+    "requires_pruning": true
+  },
+  "harvest_storage": {
+    "typical_yield": "Abundant, extended harvest of fresh leaves",
+    "best_uses": ["Culinary", "Fresh Eating", "Salsas", "Chutneys", "Southeast Asian Cuisine"]
+  },
+  "tolerances": {
+    "heat_tolerance": "Medium - better heat tolerance than standard varieties",
+    "cold_tolerance": "Moderate - tolerates light frost",
+    "frost_tolerance": false,
+    "drought_tolerance": "Low - requires consistent moisture",
+    "disease_resistance": ["Bolting Resistance"]
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Robust, fresh, and citrusy with classic cilantro notes"
+  },
+  "herb_characteristics": {
+    "leaf_texture": "Large, tender, and succulent",
+    "aroma_intensity": "Strong and aromatic",
+    "culinary_strength": "Medium-Strong",
+    "bolt_resistance": "Very High"
+  },
+  "fun_fact": "Did you know? Leisure Cilantro produces leaves that are notably larger than standard varieties, providing more usable herb per harvest.",
+  "planting_tip": "Plant Leisure Cilantro in well-drained, fertile soil with partial to full sunlight. Water regularly, maintaining consistent soil moisture. Fertilize every four weeks to support vigorous growth. Harvest outer leaves regularly to encourage continuous production. Succession plant every 2-3 weeks for non-stop harvest."
+},
+{
+  "id": 5,
+  "name": "Long Standing",
+  "description": "Long Standing Cilantro is a traditional variety bred for its exceptional resistance to bolting and extended harvest period. This annual herb produces reliable, uniform plants with classic cilantro flavor and appearance. As one of the most dependable cilantro varieties available, Long Standing is perfect for gardeners who want consistent production throughout the growing season.",
+  "growth_info": {
+    "growth_mode": "Upright",
+    "days_to_harvest": {
+      "lower_estimate": 45,
+      "higher_estimate": 65
+    },
+    "plant_height": "18-20 inches",
+    "spacing": "6-8 inches",
+    "is_container_variety": true,
+    "recommended_container_size": "10-12 inches deep",
+    "needs_support": false
+  },
+  "appearance": {
+    "flower_color": "White",
+    "leaf_color": "Bright to Medium Green"
+  },
+  "care_requirements": {
+    "water_requirement": "Regular watering to keep soil consistently moist",
+    "feeding_requirement": "Light feeding every four weeks with balanced fertilizer",
+    "requires_pruning": true
+  },
+  "harvest_storage": {
+    "typical_yield": "Consistent, long-term harvest of fresh leaves",
+    "best_uses": ["Culinary", "Salsas", "Marinades", "Fresh Use", "Drying"]
+  },
+  "tolerances": {
+    "heat_tolerance": "Medium - good heat tolerance with slow bolting",
+    "cold_tolerance": "Moderate - tolerates light frost",
+    "frost_tolerance": false,
+    "drought_tolerance": "Low - requires consistent moisture",
+    "disease_resistance": ["Bolting Resistance"]
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Traditional, balanced cilantro flavor with citrus undertones"
+  },
+  "herb_characteristics": {
+    "leaf_texture": "Medium, tender with good substance",
+    "aroma_intensity": "Strong and fresh",
+    "culinary_strength": "Medium-Strong",
+    "bolt_resistance": "High"
+  },
+  "fun_fact": "Did you know? Long Standing Cilantro has been a garden staple for decades, valued for its reliability and consistent performance across different growing conditions.",
+  "planting_tip": "Plant Long Standing Cilantro in well-drained soil with partial to full sunlight. Water regularly to maintain consistent soil moisture. Fertilize every four weeks with a balanced fertilizer. Prune regularly to encourage bushy growth and delay flowering. This variety performs well in spring and fall plantings."
+},
+{
+  "id": 6,
+  "name": "Cruiser",
+  "description": "Cruiser Cilantro is a fast-growing, bolt-resistant variety known for its vigorous production and uniform plant habit. This annual herb produces lush, aromatic foliage with a strong cilantro flavor ideal for fresh use. Cruiser is particularly valued for its quick maturity and ability to produce multiple harvests when properly maintained, making it an excellent choice for succession planting.",
+  "growth_info": {
+    "growth_mode": "Upright",
+    "days_to_harvest": {
+      "lower_estimate": 40,
+      "higher_estimate": 55
+    },
+    "plant_height": "16-20 inches",
+    "spacing": "6-8 inches",
+    "is_container_variety": true,
+    "recommended_container_size": "8-10 inches deep",
+    "needs_support": false
+  },
+  "appearance": {
+    "flower_color": "White",
+    "leaf_color": "Bright Green"
+  },
+  "care_requirements": {
+    "water_requirement": "Regular watering to keep soil consistently moist",
+    "feeding_requirement": "Light feeding every three to four weeks with balanced fertilizer",
+    "requires_pruning": true
+  },
+  "harvest_storage": {
+    "typical_yield": "Quick, abundant harvest of fresh leaves",
+    "best_uses": ["Culinary", "Fresh Salsas", "Tacos", "Garnishes", "Quick Meals"]
+  },
+  "tolerances": {
+    "heat_tolerance": "Medium - moderate bolt resistance",
+    "cold_tolerance": "Moderate - tolerates light frost",
+    "frost_tolerance": false,
+    "drought_tolerance": "Low - requires consistent moisture",
+    "disease_resistance": ["Bolting Resistance"]
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Fresh, bright, citrusy with strong cilantro essence"
+  },
+  "herb_characteristics": {
+    "leaf_texture": "Tender and delicate",
+    "aroma_intensity": "Very strong and pungent",
+    "culinary_strength": "Strong",
+    "bolt_resistance": "High"
+  },
+  "fun_fact": "Did you know? Cruiser Cilantro's fast maturity makes it perfect for gardeners who want fresh cilantro quickly and can succession plant for continuous harvest.",
+  "planting_tip": "Plant Cruiser Cilantro in well-drained soil with partial to full sunlight. Water regularly, ensuring consistent moisture. Fertilize every three to four weeks to support rapid growth. Harvest frequently to encourage continued production. Plant new seeds every 2-3 weeks for a continuous supply of fresh cilantro."
+},
+{
+  "id": 7,
+  "name": "Marino",
+  "description": "Marino Cilantro is a premium variety developed for exceptional bolt resistance and superior leaf production. This annual herb features dark green, glossy leaves with an intense cilantro flavor and aroma. Marino is particularly well-suited for commercial production and serious home gardeners who demand consistent quality and extended harvest periods, even in challenging growing conditions.",
+  "growth_info": {
+    "growth_mode": "Upright",
+    "days_to_harvest": {
+      "lower_estimate": 50,
+      "higher_estimate": 70
+    },
+    "plant_height": "20-24 inches",
+    "spacing": "6-8 inches",
+    "is_container_variety": true,
+    "recommended_container_size": "10-12 inches deep",
+    "needs_support": false
+  },
+  "appearance": {
+    "flower_color": "White",
+    "leaf_color": "Dark Glossy Green"
+  },
+  "care_requirements": {
+    "water_requirement": "Regular watering to keep soil consistently moist",
+    "feeding_requirement": "Light feeding every four weeks with balanced fertilizer",
+    "requires_pruning": true
+  },
+  "harvest_storage": {
+    "typical_yield": "Extended, abundant harvest of premium-quality leaves",
+    "best_uses": ["Culinary", "Professional Cooking", "Salsas", "Garnishes", "Fresh Use"]
+  },
+  "tolerances": {
+    "heat_tolerance": "High - excellent bolt resistance",
+    "cold_tolerance": "Moderate - tolerates light frost",
+    "frost_tolerance": false,
+    "drought_tolerance": "Low - requires consistent moisture",
+    "disease_resistance": ["Bolting Resistance", "Downy Mildew Tolerance"]
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Intense, aromatic, classic cilantro with powerful citrus notes"
+  },
+  "herb_characteristics": {
+    "leaf_texture": "Glossy, substantial, and crisp",
+    "aroma_intensity": "Very strong and intense",
+    "culinary_strength": "Very Strong",
+    "bolt_resistance": "Very High"
+  },
+  "fun_fact": "Did you know? Marino Cilantro is often chosen by professional chefs and commercial growers for its superior quality, dark color, and remarkable shelf life after harvest.",
+  "planting_tip": "Plant Marino Cilantro in fertile, well-drained soil with partial to full sunlight. Water regularly to maintain consistent moisture. Fertilize every four weeks with a balanced fertilizer. Prune regularly to promote bushier growth and maximize leaf production. This variety's superior bolt resistance makes it ideal for extended growing seasons."
+}
           ]
         },
         {
@@ -2126,7 +3004,247 @@
               },
               "fun_fact": "Did you know? French Thyme is a key ingredient in the classic French herb blend 'Herbes de Provence,' which is used in a variety of Mediterranean dishes.",
               "planting_tip": "Plant French Thyme in well-drained soil with full sunlight. Water moderately, allowing the soil to dry out between watering. Fertilize every six weeks to promote healthy growth. Prune regularly to maintain a bushy habit and harvest fresh leaves for culinary use."
-            }
+            },
+            {
+  "id": 3,
+  "name": "Creeping Thyme",
+  "description": "Creeping Thyme, also known as Mother of Thyme, is a low-growing, mat-forming perennial herb that creates a beautiful ground cover. This variety is prized for its ornamental value and ability to tolerate foot traffic, making it ideal for pathways, rock gardens, and between stepping stones. While less commonly used in cooking than upright varieties, Creeping Thyme still offers aromatic leaves and produces abundant flowers that attract pollinators.",
+  "growth_info": {
+    "growth_mode": "Prostrate, mat-forming",
+    "days_to_harvest": {
+      "lower_estimate": 75,
+      "higher_estimate": 90
+    },
+    "plant_height": "2-6 inches",
+    "spacing": "12-18 inches",
+    "is_container_variety": true,
+    "recommended_container_size": "8-10 inches deep, wide containers preferred",
+    "needs_support": false
+  },
+  "appearance": {
+    "flower_color": "Purple, Pink, or White",
+    "leaf_color": "Medium Green"
+  },
+  "care_requirements": {
+    "water_requirement": "Moderate - allow soil to dry between waterings",
+    "feeding_requirement": "Light feeding every eight weeks with balanced fertilizer",
+    "requires_pruning": true
+  },
+  "harvest_storage": {
+    "typical_yield": "Moderate harvest of fresh sprigs",
+    "best_uses": ["Ground Cover", "Pathways", "Rock Gardens", "Ornamental", "Light Culinary Use"]
+  },
+  "tolerances": {
+    "heat_tolerance": "Very High - excellent in hot, dry conditions",
+    "cold_tolerance": "Very High - extremely hardy perennial",
+    "frost_tolerance": true,
+    "drought_tolerance": "Very High - extremely drought tolerant",
+    "disease_resistance": ["Root Rot Resistant when well-drained", "General Disease Resistance"]
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Mild thyme flavor with subtle earthy notes"
+  },
+  "herb_characteristics": {
+    "leaf_texture": "Tiny, rounded leaves with soft texture",
+    "aroma_intensity": "Medium - pleasant aromatic scent",
+    "culinary_strength": "Mild",
+    "bolt_resistance": "N/A - perennial herb"
+  },
+  "fun_fact": "Did you know? Creeping Thyme can tolerate light foot traffic and releases a pleasant fragrance when stepped on, making it perfect for pathways and lawn alternatives.",
+  "planting_tip": "Plant Creeping Thyme in well-drained soil with full sunlight. Water sparingly once established, allowing soil to dry between waterings. Fertilize lightly every eight weeks. Prune or shear after flowering to maintain dense growth. This variety spreads readily and makes an excellent low-maintenance ground cover."
+},
+{
+  "id": 4,
+  "name": "Caraway Thyme",
+  "description": "Caraway Thyme is a distinctive culinary herb that combines traditional thyme characteristics with a unique caraway seed flavor. This low-growing perennial features dark green leaves and produces delicate pink flowers. The unusual flavor profile makes it a favorite among adventurous cooks and herb enthusiasts, adding complexity to dishes that benefit from both thyme and caraway notes.",
+  "growth_info": {
+    "growth_mode": "Low-growing, spreading",
+    "days_to_harvest": {
+      "lower_estimate": 60,
+      "higher_estimate": 90
+    },
+    "plant_height": "3-6 inches",
+    "spacing": "8-12 inches",
+    "is_container_variety": true,
+    "recommended_container_size": "6-8 inches deep",
+    "needs_support": false
+  },
+  "appearance": {
+    "flower_color": "Pink to Pale Purple",
+    "leaf_color": "Dark Green"
+  },
+  "care_requirements": {
+    "water_requirement": "Moderate - allow soil to dry between waterings",
+    "feeding_requirement": "Light feeding every six weeks with balanced fertilizer",
+    "requires_pruning": true
+  },
+  "harvest_storage": {
+    "typical_yield": "Continuous harvest of fresh sprigs",
+    "best_uses": ["Culinary", "Rye Bread", "Cheese Dishes", "Sauerkraut", "Ground Cover"]
+  },
+  "tolerances": {
+    "heat_tolerance": "High - thrives in hot conditions",
+    "cold_tolerance": "Very High - hardy perennial",
+    "frost_tolerance": true,
+    "drought_tolerance": "High - drought tolerant once established",
+    "disease_resistance": ["Root Rot Resistant when well-drained"]
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Distinctive caraway seed flavor blended with subtle thyme notes"
+  },
+  "herb_characteristics": {
+    "leaf_texture": "Small, narrow leaves with fine texture",
+    "aroma_intensity": "Strong - distinctive caraway scent",
+    "culinary_strength": "Medium-Strong",
+    "bolt_resistance": "N/A - perennial herb"
+  },
+  "fun_fact": "Did you know? Caraway Thyme's unique flavor makes it a perfect substitute when a recipe calls for both thyme and caraway seeds, simplifying herb combinations.",
+  "planting_tip": "Plant Caraway Thyme in well-drained soil with full sunlight. Water moderately, allowing soil to dry between waterings. Fertilize every six weeks to promote healthy growth. Prune after flowering to maintain compact growth. This variety pairs exceptionally well with dishes featuring cabbage, potatoes, and cheese."
+},
+{
+  "id": 5,
+  "name": "Orange Thyme",
+  "description": "Orange Thyme is a fragrant culinary herb that combines traditional thyme flavor with bright citrus notes reminiscent of orange zest. This upright perennial herb features dark green leaves edged with subtle variegation and produces pale pink flowers. The distinctive orange aroma and flavor make it an excellent choice for both sweet and savory dishes, particularly those featuring poultry, seafood, and fruit.",
+  "growth_info": {
+    "growth_mode": "Upright, compact",
+    "days_to_harvest": {
+      "lower_estimate": 60,
+      "higher_estimate": 90
+    },
+    "plant_height": "8-12 inches",
+    "spacing": "8-12 inches",
+    "is_container_variety": true,
+    "recommended_container_size": "6-8 inches deep",
+    "needs_support": false
+  },
+  "appearance": {
+    "flower_color": "Pale Pink to White",
+    "leaf_color": "Dark Green with subtle yellow-green edges"
+  },
+  "care_requirements": {
+    "water_requirement": "Moderate - allow soil to dry between waterings",
+    "feeding_requirement": "Light feeding every six weeks with balanced fertilizer",
+    "requires_pruning": true
+  },
+  "harvest_storage": {
+    "typical_yield": "Continuous harvest of fresh sprigs",
+    "best_uses": ["Culinary", "Poultry Dishes", "Seafood", "Desserts", "Tea", "Aromatherapy"]
+  },
+  "tolerances": {
+    "heat_tolerance": "High - thrives in hot conditions",
+    "cold_tolerance": "High - hardy perennial",
+    "frost_tolerance": true,
+    "drought_tolerance": "High - drought tolerant once established",
+    "disease_resistance": ["Root Rot Resistant when well-drained"]
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Bright orange citrus notes combined with traditional thyme flavor"
+  },
+  "herb_characteristics": {
+    "leaf_texture": "Small, narrow leaves with smooth texture",
+    "aroma_intensity": "Very strong - intense orange-citrus scent",
+    "culinary_strength": "Medium",
+    "bolt_resistance": "N/A - perennial herb"
+  },
+  "fun_fact": "Did you know? Orange Thyme is excellent for infusing oils and vinegars, and its bright citrus aroma makes it a popular choice for herbal sachets and potpourri.",
+  "planting_tip": "Plant Orange Thyme in well-drained soil with full sunlight. Water moderately, allowing soil to dry between waterings. Fertilize every six weeks for optimal growth. Prune regularly to maintain compact shape and encourage fresh growth. Harvest sprigs before flowering for the most intense orange flavor."
+},
+{
+  "id": 6,
+  "name": "Woolly Thyme",
+  "description": "Woolly Thyme is a unique ornamental ground cover variety featuring soft, fuzzy, gray-green foliage that feels like wool to the touch. This low-growing perennial creates dense mats and is primarily grown for its exceptional ornamental value in rock gardens, between pavers, and as a lawn alternative. While less aromatic than culinary thymes, Woolly Thyme produces charming pink flowers and tolerates light foot traffic.",
+  "growth_info": {
+    "growth_mode": "Prostrate, mat-forming",
+    "days_to_harvest": {
+      "lower_estimate": 90,
+      "higher_estimate": 120
+    },
+    "plant_height": "1-3 inches",
+    "spacing": "12-18 inches",
+    "is_container_variety": true,
+    "recommended_container_size": "8-12 inches deep, wide containers preferred",
+    "needs_support": false
+  },
+  "appearance": {
+    "flower_color": "Pink to Rose-Purple",
+    "leaf_color": "Gray-Green with fuzzy texture"
+  },
+  "care_requirements": {
+    "water_requirement": "Low to Moderate - allow soil to dry between waterings",
+    "feeding_requirement": "Minimal feeding - once every eight weeks with diluted fertilizer",
+    "requires_pruning": false
+  },
+  "harvest_storage": {
+    "typical_yield": "Minimal - primarily ornamental",
+    "best_uses": ["Ground Cover", "Ornamental", "Rock Gardens", "Pathways", "Xeriscaping"]
+  },
+  "tolerances": {
+    "heat_tolerance": "Very High - excellent in hot, dry conditions",
+    "cold_tolerance": "Very High - extremely hardy perennial",
+    "frost_tolerance": true,
+    "drought_tolerance": "Very High - extremely drought tolerant",
+    "disease_resistance": ["Root Rot Resistant when well-drained", "Excellent General Disease Resistance"]
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Very mild thyme flavor - not typically used in cooking"
+  },
+  "herb_characteristics": {
+    "leaf_texture": "Tiny, fuzzy, soft woolly leaves",
+    "aroma_intensity": "Very mild - subtle aromatic scent when crushed",
+    "culinary_strength": "Very Mild - primarily ornamental",
+    "bolt_resistance": "N/A - perennial herb"
+  },
+  "fun_fact": "Did you know? Woolly Thyme's soft, fuzzy texture makes it a favorite for sensory gardens, and its dense growth helps prevent weeds while creating a living carpet.",
+  "planting_tip": "Plant Woolly Thyme in well-drained soil with full sunlight. Water sparingly once established, as this variety thrives in dry conditions. Requires minimal fertilization. Little to no pruning needed. Excellent for filling spaces between stepping stones and creating soft, textured ground cover in dry, sunny areas."
+},
+{
+  "id": 7,
+  "name": "Silver Thyme",
+  "description": "Silver Thyme is an attractive variegated culinary herb featuring silvery-white edges on its small green leaves, creating a stunning ornamental display. This upright perennial combines excellent culinary value with exceptional visual appeal, making it a dual-purpose addition to herb gardens and ornamental landscapes. The classic thyme flavor is complemented by a slightly milder, sweeter taste compared to common thyme varieties.",
+  "growth_info": {
+    "growth_mode": "Upright, compact",
+    "days_to_harvest": {
+      "lower_estimate": 60,
+      "higher_estimate": 90
+    },
+    "plant_height": "8-12 inches",
+    "spacing": "8-12 inches",
+    "is_container_variety": true,
+    "recommended_container_size": "6-8 inches deep",
+    "needs_support": false
+  },
+  "appearance": {
+    "flower_color": "Pale Pink to Lavender",
+    "leaf_color": "Green with silvery-white variegated edges"
+  },
+  "care_requirements": {
+    "water_requirement": "Moderate - allow soil to dry between waterings",
+    "feeding_requirement": "Light feeding every six weeks with balanced fertilizer",
+    "requires_pruning": true
+  },
+  "harvest_storage": {
+    "typical_yield": "Continuous harvest of fresh sprigs",
+    "best_uses": ["Culinary", "Ornamental Gardens", "Containers", "Garnishes", "Roasts", "Vegetables"]
+  },
+  "tolerances": {
+    "heat_tolerance": "High - thrives in hot conditions",
+    "cold_tolerance": "High - hardy perennial",
+    "frost_tolerance": true,
+    "drought_tolerance": "High - drought tolerant once established",
+    "disease_resistance": ["Root Rot Resistant when well-drained"]
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Classic thyme flavor with slightly sweeter, milder notes"
+  },
+  "herb_characteristics": {
+    "leaf_texture": "Small, narrow variegated leaves with smooth texture",
+    "aroma_intensity": "Strong and aromatic",
+    "culinary_strength": "Medium",
+    "bolt_resistance": "N/A - perennial herb"
+  },
+  "fun_fact": "Did you know? Silver Thyme's beautiful variegation brightens shady corners of the herb garden, and the silvery edges become more pronounced in cooler weather.",
+  "planting_tip": "Plant Silver Thyme in well-drained soil with full sunlight to partial shade. Water moderately, allowing soil to dry between waterings. Fertilize every six weeks to maintain vibrant variegation. Prune regularly to maintain compact shape and encourage new variegated growth. This variety makes an excellent edging plant or container centerpiece."
+}
           ]
         }
     ]

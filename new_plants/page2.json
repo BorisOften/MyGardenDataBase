@@ -346,7 +346,247 @@
               },
               "fun_fact": "Did you know? Lemon Balm has been traditionally used to promote relaxation and improve mood, and is a member of the mint family.",
               "planting_tip": "Plant Lemon Balm in well-drained soil with partial to full sunlight. Water regularly, keeping the soil consistently moist. Fertilize every four weeks to support healthy growth. Prune regularly to prevent leggy growth and encourage bushiness. Harvest leaves for culinary and aromatic use. Cut back before flowering to maintain best flavor."
-            }
+            },
+            {
+  "id": 5,
+  "name": "Orange Mint",
+  "description": "Orange Mint is a delightful mint variety that combines traditional mint flavor with bright citrus notes reminiscent of orange peel. This perennial herb features smooth, rounded leaves with a distinct orange fragrance and is excellent for both culinary and ornamental purposes. Orange Mint adds a unique citrusy-mint twist to beverages, desserts, and savory dishes, making it a versatile addition to any herb garden.",
+  "growth_info": {
+    "growth_mode": "Spreading via rhizomes",
+    "days_to_harvest": {
+      "lower_estimate": 60,
+      "higher_estimate": 90
+    },
+    "plant_height": "12-24 inches",
+    "spacing": "12-18 inches",
+    "is_container_variety": true,
+    "recommended_container_size": "12-14 inches deep (to contain spreading)",
+    "needs_support": false
+  },
+  "appearance": {
+    "flower_color": "Lavender to Purple",
+    "leaf_color": "Bright to Medium Green"
+  },
+  "care_requirements": {
+    "water_requirement": "Regular watering to keep soil consistently moist",
+    "feeding_requirement": "Light feeding every four weeks with balanced fertilizer",
+    "requires_pruning": true
+  },
+  "harvest_storage": {
+    "typical_yield": "Continuous abundant harvest throughout growing season",
+    "best_uses": ["Culinary", "Beverages", "Fruit Salads", "Desserts", "Iced Tea", "Cocktails"]
+  },
+  "tolerances": {
+    "heat_tolerance": "Moderate - prefers cooler conditions",
+    "cold_tolerance": "Very High - hardy perennial",
+    "frost_tolerance": true,
+    "drought_tolerance": "Low - requires consistent moisture",
+    "disease_resistance": []
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Refreshing mint with distinct orange citrus notes - sweeter and fruitier than peppermint"
+  },
+  "herb_characteristics": {
+    "leaf_texture": "Smooth, rounded leaves with slightly fuzzy texture",
+    "aroma_intensity": "Very strong - intense orange-mint scent",
+    "culinary_strength": "Medium-Strong",
+    "bolt_resistance": "N/A - perennial herb"
+  },
+  "fun_fact": "Did you know? Orange Mint's essential oils contain compounds similar to those found in orange peel, giving it an authentic citrus aroma that complements its minty freshness.",
+  "planting_tip": "Plant Orange Mint in well-drained soil with partial to full sunlight. Water regularly, keeping the soil consistently moist. Fertilize every four weeks to support healthy growth. Prune regularly to maintain compact growth and prevent flowering. Best grown in containers to control aggressive spreading. Excellent for pairing with chocolate and fruit-based desserts."
+},
+{
+  "id": 6,
+  "name": "Ginger Mint",
+  "description": "Ginger Mint is a striking mint variety featuring bright yellow and green variegated foliage with a subtle ginger-mint flavor. This perennial herb is prized for its ornamental beauty and unique taste that combines traditional mint with hints of ginger spice. Ginger Mint adds both visual interest and culinary versatility to gardens, making it popular for decorative plantings, beverages, and Asian-inspired cuisine.",
+  "growth_info": {
+    "growth_mode": "Spreading via rhizomes",
+    "days_to_harvest": {
+      "lower_estimate": 60,
+      "higher_estimate": 90
+    },
+    "plant_height": "18-30 inches",
+    "spacing": "12-18 inches",
+    "is_container_variety": true,
+    "recommended_container_size": "12-14 inches deep (to contain spreading)",
+    "needs_support": false
+  },
+  "appearance": {
+    "flower_color": "Lavender",
+    "leaf_color": "Bright Green with Yellow Variegation"
+  },
+  "care_requirements": {
+    "water_requirement": "Regular watering to keep soil consistently moist",
+    "feeding_requirement": "Light feeding every four weeks with balanced fertilizer",
+    "requires_pruning": true
+  },
+  "harvest_storage": {
+    "typical_yield": "Continuous harvest throughout growing season",
+    "best_uses": ["Culinary", "Ornamental", "Teas", "Asian Cuisine", "Stir-fries", "Fruit Dishes"]
+  },
+  "tolerances": {
+    "heat_tolerance": "Moderate - prefers cooler conditions",
+    "cold_tolerance": "High - hardy perennial",
+    "frost_tolerance": true,
+    "drought_tolerance": "Low - requires consistent moisture",
+    "disease_resistance": []
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Mild mint flavor with subtle ginger-spice notes and fruity undertones"
+  },
+  "herb_characteristics": {
+    "leaf_texture": "Smooth, variegated leaves with serrated edges",
+    "aroma_intensity": "Medium - pleasant mint with ginger hints",
+    "culinary_strength": "Mild to Medium",
+    "bolt_resistance": "N/A - perennial herb"
+  },
+  "fun_fact": "Did you know? Ginger Mint's stunning variegation becomes more pronounced in bright light, making it one of the most ornamental mint varieties for container gardens and borders.",
+  "planting_tip": "Plant Ginger Mint in well-drained soil with partial to full sunlight for best variegation. Water regularly, keeping the soil consistently moist. Fertilize every four weeks to maintain vibrant coloring. Prune regularly to encourage new variegated growth and prevent reversion to solid green. Excellent as an ornamental edging plant or container specimen."
+},
+{
+  "id": 7,
+  "name": "Pineapple Mint",
+  "description": "Pineapple Mint is a beautiful variegated mint variety with creamy white edges on its soft, fuzzy leaves and a delightful fruity flavor. This perennial herb combines ornamental appeal with culinary versatility, offering a mild mint taste with tropical pineapple notes. Less aggressive than many mint varieties, Pineapple Mint is perfect for containers, borders, and as a stunning edible garnish.",
+  "growth_info": {
+    "growth_mode": "Spreading via rhizomes (less aggressive than other mints)",
+    "days_to_harvest": {
+      "lower_estimate": 60,
+      "higher_estimate": 90
+    },
+    "plant_height": "12-18 inches",
+    "spacing": "12-18 inches",
+    "is_container_variety": true,
+    "recommended_container_size": "10-12 inches deep",
+    "needs_support": false
+  },
+  "appearance": {
+    "flower_color": "White",
+    "leaf_color": "Green with Creamy White Variegated Edges"
+  },
+  "care_requirements": {
+    "water_requirement": "Regular watering to keep soil consistently moist",
+    "feeding_requirement": "Light feeding every four weeks with balanced fertilizer",
+    "requires_pruning": true
+  },
+  "harvest_storage": {
+    "typical_yield": "Moderate to abundant harvest throughout growing season",
+    "best_uses": ["Culinary", "Garnishes", "Ornamental", "Fruit Salads", "Desserts", "Summer Drinks"]
+  },
+  "tolerances": {
+    "heat_tolerance": "Moderate - prefers cooler conditions",
+    "cold_tolerance": "High - hardy perennial",
+    "frost_tolerance": true,
+    "drought_tolerance": "Low - requires consistent moisture",
+    "disease_resistance": []
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Mild, fruity mint with sweet pineapple notes - very gentle and pleasant"
+  },
+  "herb_characteristics": {
+    "leaf_texture": "Soft, fuzzy, rounded leaves with woolly appearance and white margins",
+    "aroma_intensity": "Medium - fruity and sweet",
+    "culinary_strength": "Mild",
+    "bolt_resistance": "N/A - perennial herb"
+  },
+  "fun_fact": "Did you know? Pineapple Mint is actually a variegated form of Apple Mint and is one of the most ornamental mints, often used in edible landscaping and flower arrangements.",
+  "planting_tip": "Plant Pineapple Mint in well-drained soil with partial sun to maintain best variegation (too much sun can scorch leaves). Water regularly, keeping soil consistently moist. Fertilize every four weeks. Prune regularly to maintain variegation and remove any solid green shoots immediately. Less invasive than other mints but still benefits from container growing."
+},
+{
+  "id": 8,
+  "name": "Mojito Mint",
+  "description": "Mojito Mint, also known as Cuban Mint or Yerba Buena, is the authentic mint variety traditionally used in classic Cuban mojitos. This perennial herb features bright green leaves with a perfectly balanced mint flavor that's neither too strong nor too mild. With a smoother, less harsh taste than peppermint and more robust flavor than spearmint, Mojito Mint is the ideal choice for cocktails, beverages, and Caribbean cuisine.",
+  "growth_info": {
+    "growth_mode": "Spreading via rhizomes",
+    "days_to_harvest": {
+      "lower_estimate": 60,
+      "higher_estimate": 90
+    },
+    "plant_height": "18-24 inches",
+    "spacing": "12-18 inches",
+    "is_container_variety": true,
+    "recommended_container_size": "12-14 inches deep (to contain spreading)",
+    "needs_support": false
+  },
+  "appearance": {
+    "flower_color": "White to Pale Lavender",
+    "leaf_color": "Bright Medium Green"
+  },
+  "care_requirements": {
+    "water_requirement": "Regular watering to keep soil consistently moist",
+    "feeding_requirement": "Light feeding every four weeks with balanced fertilizer",
+    "requires_pruning": true
+  },
+  "harvest_storage": {
+    "typical_yield": "Continuous abundant harvest throughout growing season",
+    "best_uses": ["Cocktails", "Mojitos", "Beverages", "Caribbean Cuisine", "Lemonades", "Fruit Drinks"]
+  },
+  "tolerances": {
+    "heat_tolerance": "High - tolerates heat better than many mints",
+    "cold_tolerance": "High - hardy perennial",
+    "frost_tolerance": true,
+    "drought_tolerance": "Low - requires consistent moisture",
+    "disease_resistance": []
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Perfectly balanced mint flavor - smooth, refreshing, with citrus hints and no harsh aftertaste"
+  },
+  "herb_characteristics": {
+    "leaf_texture": "Smooth, bright leaves with slightly wrinkled texture and serrated edges",
+    "aroma_intensity": "Strong and refreshing",
+    "culinary_strength": "Medium - perfectly balanced",
+    "bolt_resistance": "N/A - perennial herb"
+  },
+  "fun_fact": "Did you know? Mojito Mint is specifically cultivated for its smooth, well-balanced flavor that doesn't overpower drinks, making it the preferred mint for professional bartenders worldwide.",
+  "planting_tip": "Plant Mojito Mint in well-drained soil with partial to full sunlight. Water regularly, keeping soil consistently moist. Fertilize every four weeks to support vigorous growth. Prune regularly to encourage bushy growth and prevent flowering. Harvest frequently for best flavor. Excellent heat tolerance makes it ideal for warm-climate gardens."
+},
+{
+  "id": 9,
+  "name": "Corsican Mint",
+  "description": "Corsican Mint is a unique, miniature mint variety that forms a dense, moss-like ground cover with tiny, rounded leaves. This perennial herb releases a strong peppermint fragrance when walked upon, making it perfect for planting between stepping stones and in rock gardens. While primarily ornamental, Corsican Mint can be used sparingly in culinary applications and is prized for creating fragrant, low-maintenance ground cover in shady areas.",
+  "growth_info": {
+    "growth_mode": "Mat-forming ground cover",
+    "days_to_harvest": {
+      "lower_estimate": 90,
+      "higher_estimate": 120
+    },
+    "plant_height": "0.5-1 inch",
+    "spacing": "6-12 inches",
+    "is_container_variety": true,
+    "recommended_container_size": "6-8 inches deep, wide shallow containers preferred",
+    "needs_support": false
+  },
+  "appearance": {
+    "flower_color": "Tiny Lavender to Purple",
+    "leaf_color": "Bright Green"
+  },
+  "care_requirements": {
+    "water_requirement": "Regular watering to keep soil consistently moist - prefers high humidity",
+    "feeding_requirement": "Light feeding every six weeks with diluted fertilizer",
+    "requires_pruning": false
+  },
+  "harvest_storage": {
+    "typical_yield": "Minimal - primarily ornamental use",
+    "best_uses": ["Ground Cover", "Between Pavers", "Ornamental", "Fragrant Pathways", "Rock Gardens"]
+  },
+  "tolerances": {
+    "heat_tolerance": "Low - prefers cool, moist conditions",
+    "cold_tolerance": "Moderate - may not survive harsh winters",
+    "frost_tolerance": false,
+    "drought_tolerance": "Very Low - requires constant moisture",
+    "disease_resistance": []
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Intense peppermint flavor - very concentrated in tiny leaves"
+  },
+  "herb_characteristics": {
+    "leaf_texture": "Tiny, round leaves (2-4mm) creating moss-like carpet",
+    "aroma_intensity": "Very strong - intense peppermint scent when crushed",
+    "culinary_strength": "Very Strong - use sparingly",
+    "bolt_resistance": "N/A - perennial herb"
+  },
+  "fun_fact": "Did you know? Corsican Mint is one of the smallest mint species and can tolerate light foot traffic, releasing a wonderful peppermint fragrance when stepped on, making it perfect for scented pathways.",
+  "planting_tip": "Plant Corsican Mint in moist, well-drained soil with partial to full shade. Requires consistent moisture and high humidity - water frequently to prevent drying. Fertilize lightly every six weeks. No pruning needed. Excellent for cool, shady areas where other plants struggle. Not suitable for hot, dry climates. Grows best in zones 6-9."
+}
           ]
         },
         {
@@ -597,7 +837,247 @@
               },
               "fun_fact": "Did you know? Mammoth Dill is prized for its large and showy flower heads (up to 8 inches across), making it the go-to choice for pickling enthusiasts and large-scale herb production.",
               "planting_tip": "Plant Mammoth Dill seeds directly in well-drained soil with full sunlight - do not transplant. Space plants adequately as they grow very tall. May need staking in windy areas. Water moderately. This variety is best for garden beds rather than containers due to its height. Excellent for seed harvest."
-            }
+            },
+            {
+  "id": 3,
+  "name": "Dukat Dill",
+  "description": "Dukat Dill is a premium European variety known for its exceptional flavor and high essential oil content. This annual herb produces abundant, aromatic foliage with a sweeter, more refined taste than common dill varieties. Dukat is slower to bolt than most dill varieties, providing an extended harvest period. It's a favorite among chefs and serious gardeners for its superior culinary quality and productivity.",
+  "growth_info": {
+    "growth_mode": "Upright, well-branched",
+    "days_to_harvest": {
+      "lower_estimate": 40,
+      "higher_estimate": 65
+    },
+    "plant_height": "24-36 inches",
+    "spacing": "12-18 inches",
+    "is_container_variety": true,
+    "recommended_container_size": "12 inches deep (for taproot)",
+    "needs_support": false
+  },
+  "appearance": {
+    "flower_color": "Yellow umbrella-shaped clusters",
+    "leaf_color": "Dark Blue-Green feathery foliage"
+  },
+  "care_requirements": {
+    "water_requirement": "Moderate - keep soil evenly moist but not waterlogged",
+    "feeding_requirement": "Light feeding every six weeks with balanced fertilizer",
+    "requires_pruning": true
+  },
+  "harvest_storage": {
+    "typical_yield": "Extended abundant harvest of premium-quality leaves",
+    "best_uses": ["Culinary", "Fresh Use", "Pickling", "Scandinavian Cuisine", "Fish Dishes", "Salads"]
+  },
+  "tolerances": {
+    "heat_tolerance": "Medium - better heat tolerance than standard dill",
+    "cold_tolerance": "Moderate - tolerates light frost",
+    "frost_tolerance": false,
+    "drought_tolerance": "Low - requires consistent moisture",
+    "disease_resistance": []
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Sweet, refined dill flavor with rich anise notes - less bitter than common dill"
+  },
+  "herb_characteristics": {
+    "leaf_texture": "Fine, delicate feathery leaves - more tender than standard dill",
+    "aroma_intensity": "Very strong - highly aromatic with high oil content",
+    "culinary_strength": "Strong - very flavorful",
+    "bolt_resistance": "High - significantly slower to bolt"
+  },
+  "fun_fact": "Did you know? Dukat Dill contains up to 15% more essential oils than common dill varieties, giving it superior flavor and aroma, which is why it's the preferred choice in Scandinavian cuisine.",
+  "planting_tip": "Plant Dukat Dill seeds directly in well-drained soil with full sunlight - avoid transplanting due to taproot. Water moderately, keeping soil evenly moist. Fertilize every six weeks. Its slow-bolting nature allows for extended harvest. Succession plant every 3-4 weeks for continuous supply. Harvest regularly to encourage more leaf production."
+},
+{
+  "id": 4,
+  "name": "Long Island Mammoth",
+  "description": "Long Island Mammoth Dill is a traditional American heirloom variety prized for its exceptional vigor and massive seed heads. This annual herb grows tall and strong, producing enormous flower umbels perfect for pickling cucumbers and making dill seed. A commercial favorite for over a century, Long Island Mammoth delivers abundant foliage and seeds, making it ideal for large-scale preservation and culinary use.",
+  "growth_info": {
+    "growth_mode": "Very tall, upright, extremely vigorous",
+    "days_to_harvest": {
+      "lower_estimate": 50,
+      "higher_estimate": 75
+    },
+    "plant_height": "40-60 inches",
+    "spacing": "18-24 inches",
+    "is_container_variety": false,
+    "recommended_container_size": "Not recommended - too tall for containers",
+    "needs_support": true
+  },
+  "appearance": {
+    "flower_color": "Very large yellow umbrella-shaped clusters (8-10 inches wide)",
+    "leaf_color": "Blue-Green feathery foliage"
+  },
+  "care_requirements": {
+    "water_requirement": "Moderate - keep soil evenly moist but not waterlogged",
+    "feeding_requirement": "Light feeding every six weeks with balanced fertilizer",
+    "requires_pruning": true
+  },
+  "harvest_storage": {
+    "typical_yield": "Extremely abundant leaves and massive seed heads",
+    "best_uses": ["Pickling", "Dill Seeds", "Commercial Production", "Large-scale Canning", "Dried Dill"]
+  },
+  "tolerances": {
+    "heat_tolerance": "Low - bolts in heat",
+    "cold_tolerance": "Moderate - tolerates light frost",
+    "frost_tolerance": false,
+    "drought_tolerance": "Medium - more drought tolerant than other varieties",
+    "disease_resistance": []
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Classic, robust dill flavor with strong anise-caraway notes"
+  },
+  "herb_characteristics": {
+    "leaf_texture": "Coarse, substantial feathery leaves on thick stems",
+    "aroma_intensity": "Very strong - intensely pungent",
+    "culinary_strength": "Very Strong",
+    "bolt_resistance": "Low - bolts readily"
+  },
+  "fun_fact": "Did you know? Long Island Mammoth has been the standard commercial pickling dill in America since the early 1900s and can produce seed heads up to 10 inches across - perfect for canning whole cucumbers.",
+  "planting_tip": "Plant Long Island Mammoth seeds directly in well-drained soil with full sunlight in a permanent location. Space generously as plants grow very large. Stake in windy areas to prevent toppling. Water moderately. Best suited for garden beds and commercial production. Allow plants to fully mature for maximum seed production."
+},
+{
+  "id": 5,
+  "name": "Superdukat",
+  "description": "Superdukat Dill is an improved strain of the popular Dukat variety, bred for even greater productivity and slower bolting. This annual herb combines exceptional flavor with remarkable heat tolerance and extended harvest period. Superdukat produces lush, dark blue-green foliage with intensely aromatic leaves that maintain their quality longer than standard varieties, making it a top choice for serious culinary enthusiasts and market gardeners.",
+  "growth_info": {
+    "growth_mode": "Upright, well-branched, vigorous",
+    "days_to_harvest": {
+      "lower_estimate": 45,
+      "higher_estimate": 70
+    },
+    "plant_height": "30-36 inches",
+    "spacing": "12-18 inches",
+    "is_container_variety": true,
+    "recommended_container_size": "12-14 inches deep (for taproot)",
+    "needs_support": false
+  },
+  "appearance": {
+    "flower_color": "Yellow umbrella-shaped clusters",
+    "leaf_color": "Dark Blue-Green feathery foliage"
+  },
+  "care_requirements": {
+    "water_requirement": "Moderate - keep soil evenly moist but not waterlogged",
+    "feeding_requirement": "Light feeding every six weeks with balanced fertilizer",
+    "requires_pruning": true
+  },
+  "harvest_storage": {
+    "typical_yield": "Very abundant, extended harvest of premium leaves",
+    "best_uses": ["Culinary", "Professional Cooking", "Fresh Market", "Pickling", "Fish Dishes", "Gravlax"]
+  },
+  "tolerances": {
+    "heat_tolerance": "High - excellent heat tolerance for a dill variety",
+    "cold_tolerance": "Moderate - tolerates light frost",
+    "frost_tolerance": false,
+    "drought_tolerance": "Low - requires consistent moisture",
+    "disease_resistance": []
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Exceptionally sweet, refined dill flavor with complex anise notes"
+  },
+  "herb_characteristics": {
+    "leaf_texture": "Fine, delicate, abundantly feathered leaves",
+    "aroma_intensity": "Very strong - extremely aromatic with very high oil content",
+    "culinary_strength": "Very Strong - intensely flavorful",
+    "bolt_resistance": "Very High - among the slowest to bolt"
+  },
+  "fun_fact": "Did you know? Superdukat was specifically bred to withstand warmer temperatures and extend the harvest season by several weeks compared to standard dill, making it ideal for summer growing in warm climates.",
+  "planting_tip": "Plant Superdukat seeds directly in well-drained soil with full sunlight - do not transplant. Water moderately, maintaining even moisture. Fertilize every six weeks. Excellent for warm-season growing where other dills bolt quickly. Harvest outer leaves regularly to encourage continued production. Can be succession planted every 4 weeks."
+},
+{
+  "id": 6,
+  "name": "Greensleeves",
+  "description": "Greensleeves Dill is a unique slow-bolting variety bred specifically for extended leaf production. This annual herb maintains its vegetative growth much longer than traditional dill varieties, producing abundant feathery foliage over an extended period. With its compact, bushy habit and delayed flowering, Greensleeves is ideal for gardeners who want continuous fresh dill leaves without the quick transition to seed production.",
+  "growth_info": {
+    "growth_mode": "Compact, bushy, multi-branched",
+    "days_to_harvest": {
+      "lower_estimate": 40,
+      "higher_estimate": 60
+    },
+    "plant_height": "24-30 inches",
+    "spacing": "10-14 inches",
+    "is_container_variety": true,
+    "recommended_container_size": "12 inches deep (for taproot)",
+    "needs_support": false
+  },
+  "appearance": {
+    "flower_color": "Yellow umbrella-shaped clusters (produced late)",
+    "leaf_color": "Bright Blue-Green feathery foliage"
+  },
+  "care_requirements": {
+    "water_requirement": "Moderate - keep soil evenly moist but not waterlogged",
+    "feeding_requirement": "Light feeding every four weeks with balanced fertilizer",
+    "requires_pruning": true
+  },
+  "harvest_storage": {
+    "typical_yield": "Extended continuous leaf harvest over long period",
+    "best_uses": ["Culinary", "Fresh Use", "Containers", "Salads", "Fish Dishes", "Continuous Harvest"]
+  },
+  "tolerances": {
+    "heat_tolerance": "High - excellent heat tolerance with delayed bolting",
+    "cold_tolerance": "Moderate - tolerates light frost",
+    "frost_tolerance": false,
+    "drought_tolerance": "Low - requires consistent moisture",
+    "disease_resistance": []
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Fresh, bright dill flavor with mild anise notes - sweeter than standard dill"
+  },
+  "herb_characteristics": {
+    "leaf_texture": "Fine to medium feathery leaves, dense and abundant",
+    "aroma_intensity": "Strong - fresh and aromatic",
+    "culinary_strength": "Medium-Strong",
+    "bolt_resistance": "Very High - bred for extended vegetative growth"
+  },
+  "fun_fact": "Did you know? Greensleeves can produce harvestable leaves for up to 10-12 weeks before flowering, compared to 6-8 weeks for standard dill varieties, making it perfect for fresh leaf production.",
+  "planting_tip": "Plant Greensleeves seeds directly in well-drained soil with full sunlight. Water moderately, keeping soil evenly moist. Fertilize every four weeks to support extended leaf production. Harvest regularly to encourage bushier growth. Excellent for containers and intensive production. Less need for succession planting due to extended harvest period."
+},
+{
+  "id": 7,
+  "name": "Tetra Dill",
+  "description": "Tetra Dill is a specialized tetraploid variety with thicker stems, larger leaves, and more robust growth than standard diploid dill. This annual herb was developed through chromosome doubling, resulting in exceptionally vigorous plants with enhanced flavor and aroma. Tetra produces abundant, substantial foliage perfect for both fresh use and drying, making it a favorite for commercial herb production and serious home gardeners seeking maximum yield.",
+  "growth_info": {
+    "growth_mode": "Upright, robust, thick-stemmed",
+    "days_to_harvest": {
+      "lower_estimate": 45,
+      "higher_estimate": 65
+    },
+    "plant_height": "30-40 inches",
+    "spacing": "14-18 inches",
+    "is_container_variety": true,
+    "recommended_container_size": "14 inches deep (for strong taproot)",
+    "needs_support": false
+  },
+  "appearance": {
+    "flower_color": "Yellow umbrella-shaped clusters",
+    "leaf_color": "Deep Blue-Green feathery foliage"
+  },
+  "care_requirements": {
+    "water_requirement": "Moderate - keep soil evenly moist but not waterlogged",
+    "feeding_requirement": "Moderate feeding every four weeks with balanced fertilizer",
+    "requires_pruning": true
+  },
+  "harvest_storage": {
+    "typical_yield": "Very abundant harvest of large, flavorful leaves",
+    "best_uses": ["Culinary", "Commercial Production", "Drying", "Pickling", "Fresh Market", "Value-added Products"]
+  },
+  "tolerances": {
+    "heat_tolerance": "Medium - moderate heat tolerance",
+    "cold_tolerance": "Moderate - tolerates light frost",
+    "frost_tolerance": false,
+    "drought_tolerance": "Medium - more drought tolerant than standard dill",
+    "disease_resistance": []
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Intense, concentrated dill flavor with powerful anise notes - very aromatic"
+  },
+  "herb_characteristics": {
+    "leaf_texture": "Coarse, substantial, thick feathery leaves on robust stems",
+    "aroma_intensity": "Extremely strong - very high essential oil content",
+    "culinary_strength": "Very Strong - highly concentrated flavor",
+    "bolt_resistance": "Medium - standard bolting tendency"
+  },
+  "fun_fact": "Did you know? Tetra Dill's tetraploid genetics give it four sets of chromosomes instead of the normal two, resulting in larger cells, thicker stems, and up to 30% more essential oils than standard dill varieties.",
+  "planting_tip": "Plant Tetra Dill seeds directly in well-drained, fertile soil with full sunlight - requires more nutrients than standard dill. Water moderately and fertilize regularly every four weeks to support vigorous growth. Space plants adequately as they grow quite robust. Excellent for drying due to high oil content. Harvest regularly for best quality."
+}
           ]
         },
         {
@@ -848,7 +1328,247 @@
               },
               "fun_fact": "Did you know? Tricolor Sage not only adds flavor to dishes but also serves as an attractive garnish due to its vibrant foliage. The variegation is most pronounced in cooler weather!",
               "planting_tip": "Plant Tricolor Sage in well-drained soil with full sunlight (more sun intensifies the colors). Water moderately, allowing the soil to dry out between watering. Fertilize once a month during the growing season. Prune regularly to maintain compact shape and encourage colorful new growth. Harvest leaves for culinary and decorative use. May need winter protection in zone 6."
-            }
+            },
+            {
+  "id": 3,
+  "name": "Purple Sage",
+  "description": "Purple Sage is a striking ornamental and culinary herb featuring beautiful purple-gray foliage with a soft, velvety texture. This perennial subshrub combines the classic sage flavor with stunning visual appeal, making it equally valuable in the kitchen and garden. Purple Sage is slightly milder than common sage and is prized for its drought tolerance, aromatic leaves, and ability to add both flavor and color to culinary creations and landscape designs.",
+  "growth_info": {
+    "growth_mode": "Upright, woody subshrub",
+    "days_to_harvest": {
+      "lower_estimate": 75,
+      "higher_estimate": 90
+    },
+    "plant_height": "18-24 inches",
+    "spacing": "18-24 inches",
+    "is_container_variety": true,
+    "recommended_container_size": "12-14 inches deep",
+    "needs_support": false
+  },
+  "appearance": {
+    "flower_color": "Lavender to Purple",
+    "leaf_color": "Purple-Gray with silvery undertones"
+  },
+  "care_requirements": {
+    "water_requirement": "Low to moderate - drought tolerant once established, allow soil to dry between waterings",
+    "feeding_requirement": "Light feeding once a month during growing season",
+    "requires_pruning": true
+  },
+  "harvest_storage": {
+    "typical_yield": "Continuous harvest from established plants - best before flowering",
+    "best_uses": ["Culinary", "Ornamental", "Teas", "Dried Herbs", "Roasted Meats", "Decorative Garnishes"]
+  },
+  "tolerances": {
+    "heat_tolerance": "High - thrives in hot, dry conditions",
+    "cold_tolerance": "Very High - hardy to zone 5",
+    "frost_tolerance": true,
+    "drought_tolerance": "Very High - highly drought tolerant once established",
+    "disease_resistance": ["Root Rot Resistant when well-drained"]
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Earthy, slightly peppery sage flavor with subtle fruity notes - milder than common sage"
+  },
+  "herb_characteristics": {
+    "leaf_texture": "Velvety, soft purple-gray leaves with fuzzy surface",
+    "aroma_intensity": "Strong - aromatic and herbaceous",
+    "culinary_strength": "Medium-Strong",
+    "bolt_resistance": "N/A - perennial herb"
+  },
+  "fun_fact": "Did you know? Purple Sage's vibrant color deepens in cooler weather and full sun, and young leaves are often the most intensely purple before maturing to purple-gray.",
+  "planting_tip": "Plant Purple Sage in well-drained soil with full sunlight for best color development. Water sparingly, allowing soil to dry between waterings. Fertilize lightly once a month during growing season. Prune regularly after flowering to maintain compact shape and encourage new purple growth. Harvest young leaves for most intense color and flavor. Excellent for xeriscaping."
+},
+{
+  "id": 4,
+  "name": "Golden Sage",
+  "description": "Golden Sage is a beautiful variegated variety featuring bright green leaves with golden-yellow edges and splashes. This perennial herb offers the classic sage flavor while adding a bright, sunny accent to herb gardens and containers. Golden Sage is valued for its ornamental beauty, culinary uses, and ability to brighten shady corners of the garden with its luminous foliage.",
+  "growth_info": {
+    "growth_mode": "Compact, bushy subshrub",
+    "days_to_harvest": {
+      "lower_estimate": 75,
+      "higher_estimate": 90
+    },
+    "plant_height": "12-18 inches",
+    "spacing": "18-24 inches",
+    "is_container_variety": true,
+    "recommended_container_size": "10-12 inches deep",
+    "needs_support": false
+  },
+  "appearance": {
+    "flower_color": "Blue-purple",
+    "leaf_color": "Green with Golden-Yellow variegation"
+  },
+  "care_requirements": {
+    "water_requirement": "Low to moderate - allow soil to dry between waterings, avoid overwatering",
+    "feeding_requirement": "Light feeding once a month during growing season",
+    "requires_pruning": true
+  },
+  "harvest_storage": {
+    "typical_yield": "Moderate harvest - slower growing than common sage",
+    "best_uses": ["Culinary", "Ornamental", "Containers", "Landscaping", "Edible Borders", "Garnishes"]
+  },
+  "tolerances": {
+    "heat_tolerance": "Moderate - less heat tolerant than common sage",
+    "cold_tolerance": "High - hardy to zone 6",
+    "frost_tolerance": true,
+    "drought_tolerance": "High - drought tolerant once established",
+    "disease_resistance": []
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Classic sage flavor, slightly milder and sweeter than common sage"
+  },
+  "herb_characteristics": {
+    "leaf_texture": "Velvety, variegated leaves with golden-yellow margins",
+    "aroma_intensity": "Strong - aromatic and pleasant",
+    "culinary_strength": "Medium",
+    "bolt_resistance": "N/A - perennial herb"
+  },
+  "fun_fact": "Did you know? Golden Sage's bright variegation can help illuminate darker areas of the garden, and the yellow coloring becomes more intense with adequate sunlight and cooler temperatures.",
+  "planting_tip": "Plant Golden Sage in well-drained soil with full sun to partial shade - some afternoon shade prevents leaf scorch in hot climates. Water moderately, allowing soil to dry between waterings. Fertilize lightly once a month. Prune regularly to maintain variegation and remove any solid green shoots immediately (they're more vigorous and will take over). Best color in spring and fall."
+},
+{
+  "id": 5,
+  "name": "Berggarten Sage",
+  "description": "Berggarten Sage is a German cultivar known for its large, rounded leaves and compact, non-flowering habit. This perennial herb produces broad, silvery-green foliage with exceptional flavor and minimal flowering, allowing for extended leaf production throughout the season. Berggarten is prized by chefs for its superior culinary quality and by gardeners for its attractive, low-maintenance growth habit.",
+  "growth_info": {
+    "growth_mode": "Compact, mounding subshrub",
+    "days_to_harvest": {
+      "lower_estimate": 75,
+      "higher_estimate": 90
+    },
+    "plant_height": "18-24 inches",
+    "spacing": "24-30 inches",
+    "is_container_variety": true,
+    "recommended_container_size": "12-14 inches deep",
+    "needs_support": false
+  },
+  "appearance": {
+    "flower_color": "Rarely flowers - pale blue when it does",
+    "leaf_color": "Silvery Gray-Green"
+  },
+  "care_requirements": {
+    "water_requirement": "Low to moderate - drought tolerant once established, allow soil to dry between waterings",
+    "feeding_requirement": "Light feeding once a month during growing season",
+    "requires_pruning": true
+  },
+  "harvest_storage": {
+    "typical_yield": "Abundant continuous harvest - produces more leaves due to minimal flowering",
+    "best_uses": ["Culinary", "Professional Cooking", "Dried Herbs", "Stuffing", "Butter", "Roasted Vegetables"]
+  },
+  "tolerances": {
+    "heat_tolerance": "Very High - excellent heat tolerance",
+    "cold_tolerance": "Very High - hardy to zone 5",
+    "frost_tolerance": true,
+    "drought_tolerance": "Very High - highly drought tolerant once established",
+    "disease_resistance": ["Root Rot Resistant when well-drained", "Excellent Disease Resistance"]
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Rich, robust sage flavor - slightly sweeter and less bitter than common sage"
+  },
+  "herb_characteristics": {
+    "leaf_texture": "Large, broad, rounded leaves with velvety silvery surface - nearly twice the size of common sage",
+    "aroma_intensity": "Very strong - intensely aromatic",
+    "culinary_strength": "Strong - highly flavorful",
+    "bolt_resistance": "N/A - rarely flowers"
+  },
+  "fun_fact": "Did you know? Berggarten Sage rarely produces flowers, which means it puts all its energy into producing large, flavorful leaves - making it one of the most productive culinary sages available!",
+  "planting_tip": "Plant Berggarten Sage in well-drained soil with full sunlight. Water sparingly, allowing soil to dry between waterings. Fertilize lightly once a month during growing season. Prune lightly to maintain shape - less pruning needed than common sage due to minimal flowering. Harvest large leaves regularly for culinary use. Excellent for zones with hot summers."
+},
+{
+  "id": 6,
+  "name": "White Sage",
+  "description": "White Sage, also known as Bee Sage, is a distinctive California native with striking silvery-white foliage and powerful aromatic properties. This perennial subshrub is sacred to many Indigenous peoples and is traditionally used for ceremonial smudging and spiritual practices. White Sage features intensely aromatic leaves covered in fine white hairs and produces tall spikes of white to pale lavender flowers that attract numerous pollinators.",
+  "growth_info": {
+    "growth_mode": "Upright, open subshrub",
+    "days_to_harvest": {
+      "lower_estimate": 90,
+      "higher_estimate": 120
+    },
+    "plant_height": "24-36 inches (flower spikes to 60 inches)",
+    "spacing": "36-48 inches",
+    "is_container_variety": true,
+    "recommended_container_size": "16-18 inches deep",
+    "needs_support": false
+  },
+  "appearance": {
+    "flower_color": "White to Pale Lavender on tall spikes",
+    "leaf_color": "Silvery-White to Pale Gray-Green"
+  },
+  "care_requirements": {
+    "water_requirement": "Very low - extremely drought tolerant, water sparingly only when established",
+    "feeding_requirement": "Minimal - light feeding once or twice during growing season",
+    "requires_pruning": true
+  },
+  "harvest_storage": {
+    "typical_yield": "Moderate harvest - harvest sustainably for ceremonial use",
+    "best_uses": ["Ceremonial Smudging", "Aromatherapy", "Spiritual Practices", "Dried Bundles", "Ornamental", "Pollinator Gardens"]
+  },
+  "tolerances": {
+    "heat_tolerance": "Very High - thrives in hot, arid conditions",
+    "cold_tolerance": "Moderate - hardy to zone 8",
+    "frost_tolerance": false,
+    "drought_tolerance": "Extremely High - native to arid climates",
+    "disease_resistance": ["Excellent Disease Resistance", "Root Rot Resistant when well-drained"]
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Very strong, pungent, camphor-like with eucalyptus notes - not typically used for culinary purposes"
+  },
+  "herb_characteristics": {
+    "leaf_texture": "Thick, fleshy leaves densely covered with fine white hairs",
+    "aroma_intensity": "Extremely strong - powerfully aromatic and cleansing",
+    "culinary_strength": "Not culinary - ceremonial and aromatic use only",
+    "bolt_resistance": "N/A - perennial herb"
+  },
+  "fun_fact": "Did you know? White Sage has been used for centuries by Indigenous peoples of the Southwest for purification ceremonies, and it's important to harvest sustainably and respect its cultural significance.",
+  "planting_tip": "Plant White Sage in extremely well-drained, sandy or gravelly soil with full sunlight. Water very sparingly - overwatering is fatal. Requires excellent drainage and low humidity. No fertilizer needed in native soils. Prune after flowering. Best suited for dry, Mediterranean climates or xeriscaping. Not recommended for humid regions. Harvest respectfully and sustainably."
+},
+{
+  "id": 7,
+  "name": "Clary Sage",
+  "description": "Clary Sage is a biennial or short-lived perennial herb known for its large, aromatic leaves and spectacular flower spikes with colorful bracts. This ornamental and medicinal sage produces impressive flowering displays in its second year, with pink, purple, or white bracts surrounding small flowers. Clary Sage has been traditionally used for its essential oils, medicinal properties, and as a flavoring agent, though it has a distinctly different flavor from culinary sage.",
+  "growth_info": {
+    "growth_mode": "Upright, rosette-forming biennial",
+    "days_to_harvest": {
+      "lower_estimate": 90,
+      "higher_estimate": 120
+    },
+    "plant_height": "36-48 inches when flowering",
+    "spacing": "18-24 inches",
+    "is_container_variety": true,
+    "recommended_container_size": "14-16 inches deep",
+    "needs_support": false
+  },
+  "appearance": {
+    "flower_color": "Pink, Purple, or White bracts with small blue-white flowers",
+    "leaf_color": "Gray-Green with wrinkled texture"
+  },
+  "care_requirements": {
+    "water_requirement": "Moderate - prefers consistent moisture but tolerates some drought",
+    "feeding_requirement": "Light feeding monthly during growing season",
+    "requires_pruning": true
+  },
+  "harvest_storage": {
+    "typical_yield": "Abundant leaves in first year, spectacular flowers in second year",
+    "best_uses": ["Ornamental", "Essential Oils", "Dried Flowers", "Aromatherapy", "Medicinal Teas", "Cut Flowers"]
+  },
+  "tolerances": {
+    "heat_tolerance": "Moderate - tolerates heat but prefers moderate climates",
+    "cold_tolerance": "High - hardy to zone 5",
+    "frost_tolerance": true,
+    "drought_tolerance": "Moderate - somewhat drought tolerant once established",
+    "disease_resistance": []
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Bitter, musky flavor with floral notes - distinctly different from culinary sage, not recommended for cooking"
+  },
+  "herb_characteristics": {
+    "leaf_texture": "Large, wrinkled, heart-shaped leaves with hairy surface",
+    "aroma_intensity": "Very strong - intense, sweet-musky fragrance",
+    "culinary_strength": "Not culinary - medicinal and aromatic use",
+    "bolt_resistance": "N/A - biennial, flowers in second year"
+  },
+  "fun_fact": "Did you know? Clary Sage essential oil is one of the most valuable sage oils in aromatherapy and perfumery, and the plant's name 'Clary' comes from 'clear eye,' referring to its traditional use for eye treatments.",
+  "planting_tip": "Plant Clary Sage in well-drained soil with full sun to partial shade. Water moderately, maintaining consistent moisture. Fertilize monthly during growing season. Forms leafy rosette first year, then produces spectacular flower spikes in second year. Deadhead spent flowers or allow to self-seed. Excellent for cottage gardens and pollinator plantings. Harvest leaves in first year, flowers in second year."
+}
           ]
         },
         {
@@ -1099,7 +1819,247 @@
               },
               "fun_fact": "Did you know? Barbecue Rosemary is specifically bred for its robust flavor and sturdy stems, making it perfect for use as skewers for grilled kebabs - the stems impart flavor while cooking!",
               "planting_tip": "Plant Barbecue Rosemary in well-drained soil with full sunlight. Water sparingly, allowing the soil to dry out between watering. Fertilize lightly once a month or less. Prune regularly to maintain shape and encourage strong stem growth. Harvest mature woody stems for use as aromatic skewers, and fresh sprigs for marinades and rubs. Strip leaves from stems to create natural kebab skewers."
-            }
+            },
+            {
+  "id": 3,
+  "name": "Prostrate Rosemary",
+  "description": "Prostrate Rosemary, also known as Creeping Rosemary, is a low-growing, cascading variety with trailing stems that make it perfect for hanging baskets, containers, and ground cover. This perennial herb features the classic rosemary fragrance and flavor while offering unique ornamental value with its graceful, weeping habit. Prostrate Rosemary produces abundant pale blue flowers and is excellent for slopes, walls, and erosion control.",
+  "growth_info": {
+    "growth_mode": "Prostrate, trailing, cascading",
+    "days_to_harvest": {
+      "lower_estimate": 90,
+      "higher_estimate": 120
+    },
+    "plant_height": "6-12 inches (spreads 4-8 feet wide)",
+    "spacing": "36-48 inches",
+    "is_container_variety": true,
+    "recommended_container_size": "12-14 inches deep, hanging baskets ideal",
+    "needs_support": false
+  },
+  "appearance": {
+    "flower_color": "Pale Blue to Lavender",
+    "leaf_color": "Dark Green needle-like leaves"
+  },
+  "care_requirements": {
+    "water_requirement": "Low - drought tolerant once established, allow soil to dry between waterings",
+    "feeding_requirement": "Light feeding once a month during growing season, or less",
+    "requires_pruning": true
+  },
+  "harvest_storage": {
+    "typical_yield": "Continuous harvest from cascading stems",
+    "best_uses": ["Culinary", "Ornamental", "Ground Cover", "Hanging Baskets", "Erosion Control", "Rock Gardens"]
+  },
+  "tolerances": {
+    "heat_tolerance": "Very High - thrives in hot, dry conditions",
+    "cold_tolerance": "Moderate - hardy to zone 8",
+    "frost_tolerance": true,
+    "drought_tolerance": "Very High - extremely drought tolerant once established",
+    "disease_resistance": ["Root Rot Resistant when well-drained"]
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Classic rosemary flavor - pine-like with mild camphor notes"
+  },
+  "herb_characteristics": {
+    "leaf_texture": "Needle-like, dark green leaves on trailing stems",
+    "aroma_intensity": "Strong - aromatic and resinous",
+    "culinary_strength": "Medium-Strong",
+    "bolt_resistance": "N/A - perennial herb"
+  },
+  "fun_fact": "Did you know? Prostrate Rosemary can cascade down walls and slopes, creating stunning living curtains of fragrant foliage, and is one of the most profuse bloomers among rosemary varieties!",
+  "planting_tip": "Plant Prostrate Rosemary in well-drained soil with full sunlight, ideally on slopes or in elevated containers. Water sparingly, allowing soil to dry between waterings. Fertilize lightly once a month or less. Prune to control spread and shape cascading growth. Excellent for hanging baskets where stems can trail freely. Harvest sprigs from trailing stems year-round in mild climates."
+},
+{
+  "id": 4,
+  "name": "Blue Boy Rosemary",
+  "description": "Blue Boy Rosemary is a compact, dwarf variety perfect for small gardens, containers, and edging. This perennial herb maintains a naturally rounded, bushy shape without extensive pruning and produces abundant bright blue flowers. Despite its diminutive size, Blue Boy offers full-strength rosemary flavor and fragrance, making it ideal for kitchen windowsills, small patios, and urban gardening where space is limited.",
+  "growth_info": {
+    "growth_mode": "Compact, rounded, dwarf",
+    "days_to_harvest": {
+      "lower_estimate": 90,
+      "higher_estimate": 120
+    },
+    "plant_height": "12-24 inches",
+    "spacing": "18-24 inches",
+    "is_container_variety": true,
+    "recommended_container_size": "8-10 inches deep",
+    "needs_support": false
+  },
+  "appearance": {
+    "flower_color": "Bright Blue",
+    "leaf_color": "Dark Green needle-like leaves"
+  },
+  "care_requirements": {
+    "water_requirement": "Low - drought tolerant once established, allow soil to dry between waterings",
+    "feeding_requirement": "Light feeding once a month during growing season, or less",
+    "requires_pruning": false
+  },
+  "harvest_storage": {
+    "typical_yield": "Moderate continuous harvest from compact plants",
+    "best_uses": ["Culinary", "Small Containers", "Windowsills", "Edging", "Small Gardens", "Indoor Growing"]
+  },
+  "tolerances": {
+    "heat_tolerance": "High - tolerates hot conditions well",
+    "cold_tolerance": "Moderate - hardy to zone 8",
+    "frost_tolerance": true,
+    "drought_tolerance": "High - drought tolerant once established",
+    "disease_resistance": ["Root Rot Resistant when well-drained"]
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Full-strength rosemary flavor - pine-like with sweet undertones"
+  },
+  "herb_characteristics": {
+    "leaf_texture": "Short, fine needle-like leaves, densely packed",
+    "aroma_intensity": "Strong - aromatic despite compact size",
+    "culinary_strength": "Medium-Strong",
+    "bolt_resistance": "N/A - perennial herb"
+  },
+  "fun_fact": "Did you know? Blue Boy Rosemary is one of the smallest rosemary varieties, rarely exceeding 2 feet in height, making it perfect for those who want fresh rosemary but have limited space!",
+  "planting_tip": "Plant Blue Boy Rosemary in well-drained soil with full sunlight. Water sparingly, allowing soil to dry between waterings. Fertilize lightly once a month or less. Minimal pruning needed - naturally maintains compact, rounded shape. Perfect for container growing and can be brought indoors for winter in cold climates. Excellent for windowsill herb gardens."
+},
+{
+  "id": 5,
+  "name": "Miss Jessopp's Upright",
+  "description": "Miss Jessopp's Upright Rosemary is a vigorous, strongly upright variety known for its tall, columnar growth habit and excellent culinary quality. This perennial herb produces abundant pale blue flowers and maintains a narrow, vertical form without extensive training. Named after a Victorian gardener, Miss Jessopp's Upright is prized for its strong flavor, cold hardiness, and architectural presence in the garden.",
+  "growth_info": {
+    "growth_mode": "Strongly upright, columnar",
+    "days_to_harvest": {
+      "lower_estimate": 90,
+      "higher_estimate": 120
+    },
+    "plant_height": "48-72 inches",
+    "spacing": "24-30 inches",
+    "is_container_variety": true,
+    "recommended_container_size": "14-16 inches deep",
+    "needs_support": false
+  },
+  "appearance": {
+    "flower_color": "Pale Blue to Lavender",
+    "leaf_color": "Medium Green needle-like leaves"
+  },
+  "care_requirements": {
+    "water_requirement": "Low - drought tolerant once established, allow soil to dry between waterings",
+    "feeding_requirement": "Light feeding once a month during growing season, or less",
+    "requires_pruning": true
+  },
+  "harvest_storage": {
+    "typical_yield": "Very abundant continuous harvest from tall, productive plants",
+    "best_uses": ["Culinary", "Hedging", "Landscaping", "Roasts", "Mediterranean Dishes", "Topiary"]
+  },
+  "tolerances": {
+    "heat_tolerance": "Very High - thrives in hot conditions",
+    "cold_tolerance": "High - hardy to zone 6-7 with protection",
+    "frost_tolerance": true,
+    "drought_tolerance": "Very High - extremely drought tolerant once established",
+    "disease_resistance": ["Root Rot Resistant when well-drained"]
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Strong, classic rosemary flavor with intense pine and camphor notes"
+  },
+  "herb_characteristics": {
+    "leaf_texture": "Medium-length needle-like leaves on upright stems",
+    "aroma_intensity": "Very strong - intensely aromatic",
+    "culinary_strength": "Strong - robust flavor",
+    "bolt_resistance": "N/A - perennial herb"
+  },
+  "fun_fact": "Did you know? Miss Jessopp's Upright can grow 5-6 feet tall while remaining quite narrow, making it perfect for creating living hedges or vertical accents in the garden without taking up much horizontal space!",
+  "planting_tip": "Plant Miss Jessopp's Upright in well-drained soil with full sunlight. Water sparingly, allowing soil to dry between waterings. Fertilize lightly once a month or less. Prune to maintain desired height and shape - responds well to shaping. Excellent for creating rosemary hedges or topiaries. In zone 6, provide winter mulch protection and wind shelter."
+},
+{
+  "id": 6,
+  "name": "Golden Rain Rosemary",
+  "description": "Golden Rain Rosemary is a striking variegated variety featuring green needles streaked with golden-yellow, creating a bright, sunny appearance in the garden. This perennial herb offers the classic rosemary flavor while providing exceptional ornamental value with its colorful foliage. Golden Rain is particularly beautiful in spring when new growth emerges with the most intense golden coloration, making it a favorite for decorative containers and landscape accents.",
+  "growth_info": {
+    "growth_mode": "Upright, semi-erect",
+    "days_to_harvest": {
+      "lower_estimate": 90,
+      "higher_estimate": 120
+    },
+    "plant_height": "24-36 inches",
+    "spacing": "24-30 inches",
+    "is_container_variety": true,
+    "recommended_container_size": "12-14 inches deep",
+    "needs_support": false
+  },
+  "appearance": {
+    "flower_color": "Light Blue",
+    "leaf_color": "Green with Golden-Yellow variegation"
+  },
+  "care_requirements": {
+    "water_requirement": "Low to moderate - allow soil to dry between waterings, slightly less drought tolerant than green varieties",
+    "feeding_requirement": "Light feeding once a month during growing season",
+    "requires_pruning": true
+  },
+  "harvest_storage": {
+    "typical_yield": "Moderate harvest - slower growing than solid green varieties",
+    "best_uses": ["Culinary", "Ornamental", "Containers", "Decorative Landscaping", "Edible Garnishes"]
+  },
+  "tolerances": {
+    "heat_tolerance": "Moderate - less heat tolerant than green varieties, benefits from afternoon shade in hot climates",
+    "cold_tolerance": "Moderate - hardy to zone 8",
+    "frost_tolerance": true,
+    "drought_tolerance": "Moderate - less drought tolerant than solid green varieties",
+    "disease_resistance": []
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Classic rosemary flavor - pine-like with mild camphor notes, similar to standard rosemary"
+  },
+  "herb_characteristics": {
+    "leaf_texture": "Needle-like leaves with golden-yellow streaks and variegation",
+    "aroma_intensity": "Strong - aromatic",
+    "culinary_strength": "Medium-Strong",
+    "bolt_resistance": "N/A - perennial herb"
+  },
+  "fun_fact": "Did you know? Golden Rain Rosemary's golden variegation is most pronounced in cooler weather and with adequate sunlight, and the plant may occasionally produce solid green shoots that should be pruned to maintain variegation!",
+  "planting_tip": "Plant Golden Rain Rosemary in well-drained soil with full sun to partial shade (afternoon shade in hot climates prevents leaf scorch). Water moderately, allowing soil to dry between waterings. Fertilize monthly to support variegated growth. Prune regularly and remove any solid green shoots immediately as they're more vigorous. Best golden color develops in spring and fall."
+},
+{
+  "id": 7,
+  "name": "Salem Rosemary",
+  "description": "Salem Rosemary is a cold-hardy, upright variety developed specifically for northern climates and challenging growing conditions. This perennial herb features pale blue flowers and good culinary quality while offering exceptional cold tolerance rivaling that of Arp. Salem maintains a neat, upright habit and produces abundant foliage with classic rosemary flavor, making it an excellent choice for gardeners in zones where most rosemary varieties struggle.",
+  "growth_info": {
+    "growth_mode": "Upright, bushy",
+    "days_to_harvest": {
+      "lower_estimate": 90,
+      "higher_estimate": 120
+    },
+    "plant_height": "36-48 inches",
+    "spacing": "24-30 inches",
+    "is_container_variety": true,
+    "recommended_container_size": "12-14 inches deep",
+    "needs_support": false
+  },
+  "appearance": {
+    "flower_color": "Pale Blue",
+    "leaf_color": "Medium to Dark Green needle-like leaves"
+  },
+  "care_requirements": {
+    "water_requirement": "Low - drought tolerant once established, allow soil to dry between waterings",
+    "feeding_requirement": "Light feeding once a month during growing season, or less",
+    "requires_pruning": true
+  },
+  "harvest_storage": {
+    "typical_yield": "Abundant continuous harvest from established plants",
+    "best_uses": ["Culinary", "Cold Climate Gardens", "Containers", "Roasts", "Bread", "Mediterranean Dishes"]
+  },
+  "tolerances": {
+    "heat_tolerance": "Very High - thrives in hot conditions",
+    "cold_tolerance": "Very High - hardy to zone 6, excellent cold tolerance",
+    "frost_tolerance": true,
+    "drought_tolerance": "Very High - extremely drought tolerant once established",
+    "disease_resistance": ["Root Rot Resistant when well-drained", "Good Disease Resistance"]
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Medium to strong rosemary flavor - pine-like with balanced resinous notes"
+  },
+  "herb_characteristics": {
+    "leaf_texture": "Needle-like, medium green leaves with good texture",
+    "aroma_intensity": "Strong - aromatic and pleasant",
+    "culinary_strength": "Medium-Strong",
+    "bolt_resistance": "N/A - perennial herb"
+  },
+  "fun_fact": "Did you know? Salem Rosemary was developed to withstand harsh winters and can survive temperatures down to 0°F (-18°C) with proper mulching, making it one of the best choices for northern gardeners!",
+  "planting_tip": "Plant Salem Rosemary in well-drained soil with full sunlight. Water sparingly, allowing soil to dry between waterings. Fertilize lightly once a month or less. Prune regularly to maintain shape and encourage bushiness. In zone 6, plant in protected location with good drainage and apply winter mulch. Can overwinter outdoors in most zone 6 locations with proper care. Excellent alternative to Arp for cold climates."
+}
           ]
         },
         {
@@ -1350,7 +2310,247 @@
               },
               "fun_fact": "Did you know? Society Garlic got its name because it was considered more 'polite' than regular garlic - it doesn't leave a strong odor on the breath! It's also a South African native and is deer and pest resistant.",
               "planting_tip": "Plant Society Garlic in well-drained soil with full to partial sunlight. Water moderately initially, then allow soil to dry between watering once established - very drought tolerant. Fertilize lightly every four to six weeks. Deadhead spent flowers to encourage more blooms. Both leaves and flowers are edible. Note: Not cold-hardy like true chives - treat as annual in cold zones or grow in containers and overwinter indoors."
-            }
+            },
+            {
+  "id": 3,
+  "name": "Siberian Garlic Chives",
+  "description": "Siberian Garlic Chives, also known as Blue Chives or Allium nutans, are a unique variety with distinctive blue-green foliage and nodding pink to purple flowers. This perennial herb offers a mild garlic-onion flavor and exceptional cold hardiness. Siberian Garlic Chives are prized for their ornamental beauty, culinary versatility, and ability to thrive in harsh climates where other chives might struggle.",
+  "growth_info": {
+    "growth_mode": "Clumping, upright with arching leaves",
+    "days_to_harvest": {
+      "lower_estimate": 60,
+      "higher_estimate": 90
+    },
+    "plant_height": "18-24 inches",
+    "spacing": "10-12 inches",
+    "is_container_variety": true,
+    "recommended_container_size": "10-12 inches deep",
+    "needs_support": false
+  },
+  "appearance": {
+    "flower_color": "Pink to Purple nodding clusters",
+    "leaf_color": "Blue-Green flat blades"
+  },
+  "care_requirements": {
+    "water_requirement": "Moderate - keep soil consistently moist but not waterlogged",
+    "feeding_requirement": "Light feeding every four to six weeks during growing season",
+    "requires_pruning": true
+  },
+  "harvest_storage": {
+    "typical_yield": "Continuous harvest of leaves and edible flowers",
+    "best_uses": ["Culinary", "Ornamental", "Cold Climate Gardens", "Salads", "Stir-fries", "Cut Flowers"]
+  },
+  "tolerances": {
+    "heat_tolerance": "Moderate - tolerates heat but prefers cooler conditions",
+    "cold_tolerance": "Extremely High - hardy to zone 2-3, one of the hardiest alliums",
+    "frost_tolerance": true,
+    "drought_tolerance": "Moderate - somewhat drought tolerant once established",
+    "disease_resistance": []
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Mild garlic-onion blend with slight sweetness - balanced flavor between common and garlic chives"
+  },
+  "herb_characteristics": {
+    "leaf_texture": "Flat, blue-green leaves that arch gracefully",
+    "aroma_intensity": "Medium - pleasant garlic-onion scent",
+    "culinary_strength": "Mild to Medium",
+    "bolt_resistance": "N/A - perennial herb, flowers are ornamental and edible"
+  },
+  "fun_fact": "Did you know? Siberian Garlic Chives are native to mountainous regions of Siberia and Central Asia, which explains their exceptional cold tolerance - they can survive temperatures well below -40°F!",
+  "planting_tip": "Plant Siberian Garlic Chives in well-drained soil with full to partial sunlight. Water moderately, keeping soil consistently moist. Fertilize every four to six weeks during growing season. The attractive nodding flowers make excellent cut flowers. Harvest leaves as needed and divide clumps every 3-4 years. Excellent choice for cold-climate gardens where other varieties may not thrive."
+},
+{
+  "id": 4,
+  "name": "Fine Leaf Chives",
+  "description": "Fine Leaf Chives, also known as Fine-Leaved Chives or Slender Chives, are a delicate variety with extremely thin, thread-like leaves and a refined onion flavor. This perennial herb is prized by chefs for its elegant appearance and tender texture. Fine Leaf Chives produce abundant purple flowers and are perfect for garnishing delicate dishes where the standard chive might be too coarse or overpowering.",
+  "growth_info": {
+    "growth_mode": "Clumping, grass-like with fine texture",
+    "days_to_harvest": {
+      "lower_estimate": 60,
+      "higher_estimate": 90
+    },
+    "plant_height": "10-14 inches",
+    "spacing": "6-10 inches",
+    "is_container_variety": true,
+    "recommended_container_size": "6-8 inches deep",
+    "needs_support": false
+  },
+  "appearance": {
+    "flower_color": "Purple-pink pom-poms (smaller than common chives)",
+    "leaf_color": "Bright Green very thin hollow tubes"
+  },
+  "care_requirements": {
+    "water_requirement": "Moderate - keep soil consistently moist but not waterlogged",
+    "feeding_requirement": "Light feeding every four weeks during growing season",
+    "requires_pruning": true
+  },
+  "harvest_storage": {
+    "typical_yield": "Continuous harvest - produces abundant fine foliage",
+    "best_uses": ["Culinary", "Gourmet Garnishes", "Fine Dining", "Delicate Soups", "Cream Sauces", "Elegant Presentations"]
+  },
+  "tolerances": {
+    "heat_tolerance": "Moderate - prefers cooler temperatures",
+    "cold_tolerance": "Very High - hardy to zone 3",
+    "frost_tolerance": true,
+    "drought_tolerance": "Low - requires consistent moisture",
+    "disease_resistance": []
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Very mild, delicate onion flavor - subtle and refined with sweet undertones"
+  },
+  "herb_characteristics": {
+    "leaf_texture": "Extremely slender, hollow, thread-like leaves - much finer than common chives",
+    "aroma_intensity": "Mild - gentle, sweet onion scent",
+    "culinary_strength": "Very Mild - delicate and refined",
+    "bolt_resistance": "N/A - perennial herb, flowers are edible"
+  },
+  "fun_fact": "Did you know? Fine Leaf Chives are a favorite in French cuisine and high-end restaurants for their delicate appearance - they're often used as 'herbes fines' and add elegance without overwhelming delicate dishes!",
+  "planting_tip": "Plant Fine Leaf Chives in well-drained, rich soil with full to partial sunlight. Water regularly, keeping soil consistently moist. Fertilize every four weeks to support delicate growth. Harvest frequently by cutting 1-2 inches above soil level to encourage tender new growth. The fine texture makes them perfect for mincing finely as garnish. Divide clumps every 2-3 years to maintain vigor."
+},
+{
+  "id": 5,
+  "name": "Giant Siberian Chives",
+  "description": "Giant Siberian Chives are a robust, large-leaved variety with broad, flat foliage and a strong garlic flavor. This perennial herb produces the largest leaves of any chive variety, making it highly productive and valued for culinary use. Giant Siberian Chives offer exceptional cold hardiness combined with vigorous growth, producing showy white flower clusters and abundant foliage throughout the growing season.",
+  "growth_info": {
+    "growth_mode": "Clumping, vigorous upright",
+    "days_to_harvest": {
+      "lower_estimate": 60,
+      "higher_estimate": 90
+    },
+    "plant_height": "24-36 inches",
+    "spacing": "12-18 inches",
+    "is_container_variety": true,
+    "recommended_container_size": "12-14 inches deep",
+    "needs_support": false
+  },
+  "appearance": {
+    "flower_color": "White star-shaped clusters (very large)",
+    "leaf_color": "Dark Green broad flat blades"
+  },
+  "care_requirements": {
+    "water_requirement": "Moderate - keep soil consistently moist but not waterlogged",
+    "feeding_requirement": "Moderate feeding every three to four weeks during growing season",
+    "requires_pruning": true
+  },
+  "harvest_storage": {
+    "typical_yield": "Extremely abundant harvest - very productive variety",
+    "best_uses": ["Culinary", "Asian Cuisines", "Stir-fries", "Dumplings", "Kimchi", "Large-scale Production"]
+  },
+  "tolerances": {
+    "heat_tolerance": "High - tolerates heat well",
+    "cold_tolerance": "Extremely High - hardy to zone 2",
+    "frost_tolerance": true,
+    "drought_tolerance": "Moderate - somewhat drought tolerant once established",
+    "disease_resistance": []
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Strong garlic flavor with robust onion undertones - more intense than standard garlic chives"
+  },
+  "herb_characteristics": {
+    "leaf_texture": "Very broad, flat leaves (up to 1 inch wide) - largest of all chive varieties",
+    "aroma_intensity": "Strong - pronounced garlic scent",
+    "culinary_strength": "Strong - bold garlic flavor",
+    "bolt_resistance": "N/A - perennial herb, produces large showy flowers"
+  },
+  "fun_fact": "Did you know? Giant Siberian Chives can produce leaves up to 3 feet tall and 1 inch wide, making them the most productive chive variety - a single clump can provide enough harvest for multiple dishes!",
+  "planting_tip": "Plant Giant Siberian Chives in well-drained, fertile soil with full to partial sunlight. Water regularly and fertilize every three to four weeks to support vigorous growth. Space plants generously as clumps grow very large. Harvest outer leaves regularly to encourage new growth. Divide large clumps every 3-4 years. Excellent for market gardeners and those wanting maximum yield from minimal space."
+},
+{
+  "id": 6,
+  "name": "Forescate Chives",
+  "description": "Forescate Chives are a unique ornamental variety bred specifically for their abundant, vibrant pink to rose-purple flowers and compact growth habit. This perennial herb produces numerous flowers over an extended period, making it valuable as both an edible ornamental and culinary herb. Forescate offers the mild onion flavor of common chives while providing exceptional visual appeal with its profuse blooms that attract pollinators.",
+  "growth_info": {
+    "growth_mode": "Compact, clumping",
+    "days_to_harvest": {
+      "lower_estimate": 60,
+      "higher_estimate": 90
+    },
+    "plant_height": "8-12 inches",
+    "spacing": "8-10 inches",
+    "is_container_variety": true,
+    "recommended_container_size": "6-8 inches deep",
+    "needs_support": false
+  },
+  "appearance": {
+    "flower_color": "Vibrant Rose-Purple to Pink pom-poms (very abundant)",
+    "leaf_color": "Bright Green hollow tubes"
+  },
+  "care_requirements": {
+    "water_requirement": "Moderate - keep soil consistently moist but not waterlogged",
+    "feeding_requirement": "Light feeding every four weeks during growing season",
+    "requires_pruning": true
+  },
+  "harvest_storage": {
+    "typical_yield": "Moderate harvest of leaves, exceptional flower production",
+    "best_uses": ["Ornamental", "Edible Flowers", "Border Plantings", "Container Gardens", "Pollinator Gardens", "Culinary Garnishes"]
+  },
+  "tolerances": {
+    "heat_tolerance": "Moderate - prefers cooler temperatures",
+    "cold_tolerance": "Very High - hardy to zone 3",
+    "frost_tolerance": true,
+    "drought_tolerance": "Low - requires consistent moisture",
+    "disease_resistance": []
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Mild, delicate onion flavor in leaves - flowers have sweet, mild onion taste"
+  },
+  "herb_characteristics": {
+    "leaf_texture": "Slender, hollow, cylindrical leaves (similar to common chives)",
+    "aroma_intensity": "Mild - gentle onion scent",
+    "culinary_strength": "Mild",
+    "bolt_resistance": "N/A - perennial herb, bred for abundant flowering"
+  },
+  "fun_fact": "Did you know? Forescate Chives can produce flowers almost continuously from late spring through fall, making them one of the longest-blooming chive varieties - perfect for edible landscaping and attracting beneficial insects!",
+  "planting_tip": "Plant Forescate Chives in well-drained soil with full to partial sunlight. Water regularly, keeping soil consistently moist. Fertilize every four weeks to support abundant flowering. Deadhead spent flowers to encourage more blooms, or leave some to self-seed. Both leaves and flowers are edible. Excellent for edging beds, containers, and pollinator gardens. Divide every 2-3 years for best flowering."
+},
+{
+  "id": 7,
+  "name": "Staro Chives",
+  "description": "Staro Chives are a vigorous, high-yielding variety bred for commercial production and home gardens seeking maximum productivity. This perennial herb produces thick, uniform clumps of bright green, hollow leaves with excellent flavor and texture. Staro is valued for its rapid regrowth after cutting, disease resistance, and ability to produce abundant harvests throughout the growing season, making it a favorite among market gardeners and culinary enthusiasts.",
+  "growth_info": {
+    "growth_mode": "Dense clumping, very vigorous",
+    "days_to_harvest": {
+      "lower_estimate": 50,
+      "higher_estimate": 75
+    },
+    "plant_height": "14-18 inches",
+    "spacing": "10-12 inches",
+    "is_container_variety": true,
+    "recommended_container_size": "10-12 inches deep",
+    "needs_support": false
+  },
+  "appearance": {
+    "flower_color": "Purple-pink pom-poms",
+    "leaf_color": "Bright to Dark Green hollow tubes"
+  },
+  "care_requirements": {
+    "water_requirement": "Moderate - keep soil consistently moist but not waterlogged",
+    "feeding_requirement": "Moderate feeding every three weeks during growing season for maximum production",
+    "requires_pruning": true
+  },
+  "harvest_storage": {
+    "typical_yield": "Extremely abundant continuous harvest - commercial-grade production",
+    "best_uses": ["Culinary", "Commercial Production", "Market Gardens", "Freezing", "Drying", "Fresh Market"]
+  },
+  "tolerances": {
+    "heat_tolerance": "Moderate - tolerates heat reasonably well",
+    "cold_tolerance": "Very High - hardy to zone 3",
+    "frost_tolerance": true,
+    "drought_tolerance": "Low - requires consistent moisture for best production",
+    "disease_resistance": ["Good Disease Resistance", "Vigorous Growth"]
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Classic mild onion flavor - consistent and reliable with good intensity"
+  },
+  "herb_characteristics": {
+    "leaf_texture": "Uniform, hollow, cylindrical leaves with excellent texture",
+    "aroma_intensity": "Medium - pleasant onion scent",
+    "culinary_strength": "Medium - well-balanced onion flavor",
+    "bolt_resistance": "N/A - perennial herb, flowers are edible"
+  },
+  "fun_fact": "Did you know? Staro Chives can be harvested up to 6-8 times per season with proper care and feeding, producing significantly more yield than standard chive varieties - making them ideal for those who use chives frequently!",
+  "planting_tip": "Plant Staro Chives in rich, well-drained soil with full to partial sunlight. Water regularly and fertilize every three weeks to support vigorous production. Harvest by cutting leaves 2 inches above soil level when they reach 6-8 inches tall. Plants recover quickly and produce new growth within 2 weeks. Divide clumps annually or every 2 years to maintain maximum productivity. Excellent for intensive production and commercial growing."
+}
           ]
         }
     ]
