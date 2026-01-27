@@ -763,7 +763,7 @@
             "frost_tolerance": true,
             "planting_depth": "1/2 inch",
             "spacing": "18-24 inches",
-            "life_cycle": "Biennial (grown as annual)",
+            "life_cycle": "Biennial",
             "season": "Cool",
             "typical_yield_range": "50-100 sprouts per plant",
             "companion_plants": ["Cabbage", "Broccoli", "Kale", "Beets", "Chard", "Potatoes"],
