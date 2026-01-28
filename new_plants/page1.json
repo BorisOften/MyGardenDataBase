@@ -917,330 +917,384 @@
   "fun_fact": "Did you know? Sungold tomatoes are so sweet they often measure higher on the Brix scale (sugar content) than many dessert fruits!",
   "planting_tip": "Plant Sungold tomatoes in well-drained soil with full sunlight. Provide sturdy support for the vigorous indeterminate vines. Water consistently, aiming for twice a week, and fertilize every two weeks. Prune to manage plant shape and promote air circulation. Harvest frequently to encourage continuous production of these delicious golden gems!"
 },
-{
-  "id": 16,
-  "name": "Celebrity",
-  "description": "Celebrity tomatoes are a popular determinate hybrid variety known for their reliability, disease resistance, and consistent production. These vigorous plants produce medium to large, globe-shaped fruits with a classic red color and excellent flavor. Developed for both home gardeners and commercial growers, Celebrity tomatoes are prized for their ability to thrive in various growing conditions and their resistance to multiple common tomato diseases.",
-  "growth_info": {
-    "growth_mode": "Determinate",
-    "days_to_harvest": {
-      "lower_estimate": 70,
-      "higher_estimate": 80
-    },
-    "plant_height": "3-4 feet",
-    "spacing": "2-3 feet apart",
-    "is_container_variety": true,
-    "recommended_container_size": "7 gallons minimum",
-    "needs_support": true
-  },
-  "appearance": {
-    "flower_color": "Yellow",
-    "leaf_color": "Green"
-  },
-  "care_requirements": {
-    "water_requirement": "Once a week",
-    "feeding_requirement": "Every two weeks",
-    "requires_pruning": false
-  },
-  "harvest_storage": {
-    "typical_yield": "20-30 pounds per plant",
-    "best_uses": ["Slicing", "Salads", "Sandwiches", "Canning"]
-  },
-  "tolerances": {
-    "heat_tolerance": "High",
-    "cold_tolerance": "Low",
-    "frost_tolerance": false,
-    "drought_tolerance": "Medium",
-    "disease_resistance": ["V", "F", "FF", "N", "TMV", "ASC"]
-  },
-  "flavor_characteristics": {
-    "flavor_profile": "Classic tomato flavor, well-balanced acidity and sweetness"
-  },
-  "fruit_characteristics": {
-    "fruit_color": "Red",
-    "fruit_weight": "7-10 ounces",
-    "skin_thickness": "Medium",
-    "seed_cavity_size": "Medium",
-    "storage_quality": "Excellent",
-    "crack_resistance": "High"
-  },
-  "herb_characteristics": null,
-  "root_characteristics": null,
-  "leaf_crop_characteristics": null,
-  "flower_characteristics": null,
-  "fun_fact": "Did you know? Celebrity tomatoes won the All-America Selections award in 1984 and remain one of the most disease-resistant tomato varieties available to home gardeners.",
-  "planting_tip": "Plant Celebrity tomatoes in well-drained soil with full sunlight. These determinate plants benefit from support, though they're more compact than indeterminate varieties. Water consistently, aiming for once a week, and fertilize every two weeks. Minimal pruning is needed. Enjoy a concentrated harvest of uniform, flavorful tomatoes perfect for preserving or fresh eating!"
-},
-{
-  "id": 17,
-  "name": "Amish Paste",
-  "description": "Amish Paste tomatoes are a beloved heirloom variety treasured for their excellent paste-making qualities and rich flavor. Originating from the Amish community in Wisconsin, these indeterminate tomatoes produce large, ox-heart shaped fruits with deep red color and meaty texture. With fewer seeds and less juice than typical slicing tomatoes, Amish Paste is ideal for sauces, canning, and paste, while also being delicious fresh.",
-  "growth_info": {
-    "growth_mode": "Indeterminate",
-    "days_to_harvest": {
-      "lower_estimate": 80,
-      "higher_estimate": 90
-    },
-    "plant_height": "5-7 feet",
-    "spacing": "3-4 feet apart",
-    "is_container_variety": true,
-    "recommended_container_size": "10 gallons minimum",
-    "needs_support": true
-  },
-  "appearance": {
-    "flower_color": "Yellow",
-    "leaf_color": "Green"
-  },
-  "care_requirements": {
-    "water_requirement": "Twice a week",
-    "feeding_requirement": "Every three weeks",
-    "requires_pruning": true
-  },
-  "harvest_storage": {
-    "typical_yield": "20-25 pounds per plant",
-    "best_uses": ["Paste", "Sauces", "Canning", "Fresh Eating"]
-  },
-  "tolerances": {
-    "heat_tolerance": "Medium",
-    "cold_tolerance": "Low",
-    "frost_tolerance": false,
-    "drought_tolerance": "Medium",
-    "disease_resistance": []
-  },
-  "flavor_characteristics": {
-    "flavor_profile": "Rich, sweet, full-bodied with low acidity"
-  },
-  "fruit_characteristics": {
-    "fruit_color": "Deep Red",
-    "fruit_weight": "6-10 ounces",
-    "skin_thickness": "Medium",
-    "seed_cavity_size": "Small",
-    "storage_quality": "Excellent",
-    "crack_resistance": "High"
-  },
-  "herb_characteristics": null,
-  "root_characteristics": null,
-  "leaf_crop_characteristics": null,
-  "flower_characteristics": null,
-  "fun_fact": "Did you know? Amish Paste tomatoes are considered one of the best dual-purpose tomatoes, excelling both as a paste tomato and for fresh eating.",
-  "planting_tip": "Plant Amish Paste tomatoes in well-drained soil with full sunlight. Provide sturdy support for indeterminate vines that will bear heavy fruits. Water consistently, aiming for twice a week, and fertilize every three weeks. Prune to manage plant shape and promote air circulation. These productive plants will reward you with abundant harvests perfect for preserving!"
-},
-{
-  "id": 18,
-  "name": "Black Cherry",
-  "description": "Black Cherry tomatoes are a striking indeterminate variety that combines the convenience of cherry tomato size with the complex, rich flavor of dark heirloom tomatoes. These vigorous vines produce prolific clusters of deep mahogany-purple fruits that are incredibly sweet with a hint of smokiness. Black Cherry tomatoes are perfect for adding visual drama and exceptional flavor to salads, appetizers, and garden snacking.",
-  "growth_info": {
-    "growth_mode": "Indeterminate",
-    "days_to_harvest": {
-      "lower_estimate": 65,
-      "higher_estimate": 75
-    },
-    "plant_height": "6-8 feet",
-    "spacing": "3-4 feet apart",
-    "is_container_variety": true,
-    "recommended_container_size": "7 gallons minimum",
-    "needs_support": true
-  },
-  "appearance": {
-    "flower_color": "Yellow",
-    "leaf_color": "Green"
-  },
-  "care_requirements": {
-    "water_requirement": "Twice a week",
-    "feeding_requirement": "Every two weeks",
-    "requires_pruning": true
-  },
-  "harvest_storage": {
-    "typical_yield": "18-22 pounds per plant",
-    "best_uses": ["Snacking", "Salads", "Roasting", "Garnishes"]
-  },
-  "tolerances": {
-    "heat_tolerance": "High",
-    "cold_tolerance": "Low",
-    "frost_tolerance": false,
-    "drought_tolerance": "Medium",
-    "disease_resistance": []
-  },
-  "flavor_characteristics": {
-    "flavor_profile": "Exceptionally sweet with complex, smoky undertones"
-  },
-  "fruit_characteristics": {
-    "fruit_color": "Deep Mahogany-Purple",
-    "fruit_weight": "1-1.5 ounces",
-    "skin_thickness": "Thin",
-    "seed_cavity_size": "Small",
-    "storage_quality": "Fair",
-    "crack_resistance": "Medium"
-  },
-  "herb_characteristics": null,
-  "root_characteristics": null,
-  "leaf_crop_characteristics": null,
-  "flower_characteristics": null,
-  "fun_fact": "Did you know? Black Cherry tomatoes develop their deepest, darkest color when exposed to full sun, making them a stunning addition to any garden.",
-  "planting_tip": "Plant Black Cherry tomatoes in well-drained soil with maximum sunlight exposure to enhance their dark coloration. Provide sturdy support for vigorous indeterminate vines. Water consistently, aiming for twice a week, and fertilize every two weeks. Prune to manage plant shape and promote air circulation. Harvest when fruits are deeply colored and slightly soft to the touch!"
-},
-{
-  "id": 19,
-  "name": "Pineapple",
-  "description": "Pineapple tomatoes are a spectacular heirloom beefsteak variety known for their enormous size, bi-colored appearance, and exceptional sweet flavor. These indeterminate tomatoes feature stunning yellow fruits with red marbling inside, often weighing over a pound each. With a tropical, fruity sweetness and low acidity, Pineapple tomatoes are perfect for fresh eating and make show-stopping additions to gourmet dishes and heirloom tomato platters.",
-  "growth_info": {
-    "growth_mode": "Indeterminate",
-    "days_to_harvest": {
-      "lower_estimate": 85,
-      "higher_estimate": 95
-    },
-    "plant_height": "6-9 feet",
-    "spacing": "3-4 feet apart",
-    "is_container_variety": true,
-    "recommended_container_size": "10 gallons minimum",
-    "needs_support": true
-  },
-  "appearance": {
-    "flower_color": "Yellow",
-    "leaf_color": "Green"
-  },
-  "care_requirements": {
-    "water_requirement": "Twice a week",
-    "feeding_requirement": "Every three weeks",
-    "requires_pruning": true
-  },
-  "harvest_storage": {
-    "typical_yield": "15-20 pounds per plant",
-    "best_uses": ["Slicing", "Fresh Eating", "Gourmet Dishes", "Sandwiches"]
-  },
-  "tolerances": {
-    "heat_tolerance": "Medium",
-    "cold_tolerance": "Low",
-    "frost_tolerance": false,
-    "drought_tolerance": "Low",
-    "disease_resistance": []
-  },
-  "flavor_characteristics": {
-    "flavor_profile": "Sweet, fruity, tropical with very low acidity"
-  },
-  "fruit_characteristics": {
-    "fruit_color": "Yellow with Red Marbling",
-    "fruit_weight": "16-32 ounces",
-    "skin_thickness": "Thin",
-    "seed_cavity_size": "Large",
-    "storage_quality": "Fair",
-    "crack_resistance": "Low"
-  },
-  "herb_characteristics": null,
-  "root_characteristics": null,
-  "leaf_crop_characteristics": null,
-  "flower_characteristics": null,
-  "fun_fact": "Did you know? Pineapple tomatoes can produce fruits weighing up to 2 pounds, and each slice reveals a beautiful marbled pattern of yellow and red flesh.",
-  "planting_tip": "Plant Pineapple tomatoes in rich, well-drained soil with full sunlight. Provide very sturdy support for these tall vines that will bear extremely heavy fruits. Water consistently, aiming for twice a week, and fertilize every three weeks. Prune to manage plant shape and reduce weight on branches. Handle ripe fruits carefully as they're prone to cracking due to their size and thin skin!"
-},
-{
-  "id": 20,
-  "name": "Rutgers",
-  "description": "Rutgers tomatoes are a classic American heirloom variety developed in 1934 at Rutgers University in New Jersey. These determinate tomatoes produce medium to large, globe-shaped fruits with excellent flavor and are known for their reliability and productivity. Originally bred for commercial canning but beloved by home gardeners, Rutgers tomatoes offer the perfect balance of old-fashioned tomato taste and modern growing convenience.",
-  "growth_info": {
-    "growth_mode": "Determinate",
-    "days_to_harvest": {
-      "lower_estimate": 75,
-      "higher_estimate": 85
-    },
-    "plant_height": "3-4 feet",
-    "spacing": "2-3 feet apart",
-    "is_container_variety": true,
-    "recommended_container_size": "7 gallons minimum",
-    "needs_support": true
-  },
-  "appearance": {
-    "flower_color": "Yellow",
-    "leaf_color": "Green"
-  },
-  "care_requirements": {
-    "water_requirement": "Once a week",
-    "feeding_requirement": "Every two weeks",
-    "requires_pruning": false
-  },
-  "harvest_storage": {
-    "typical_yield": "18-22 pounds per plant",
-    "best_uses": ["Canning", "Slicing", "Sauces", "Fresh Eating"]
-  },
-  "tolerances": {
-    "heat_tolerance": "High",
-    "cold_tolerance": "Low",
-    "frost_tolerance": false,
-    "drought_tolerance": "Medium",
-    "disease_resistance": ["F"]
-  },
-  "flavor_characteristics": {
-    "flavor_profile": "Classic, old-fashioned tomato flavor with balanced acidity"
-  },
-  "fruit_characteristics": {
-    "fruit_color": "Deep Red",
-    "fruit_weight": "6-8 ounces",
-    "skin_thickness": "Medium",
-    "seed_cavity_size": "Medium",
-    "storage_quality": "Excellent",
-    "crack_resistance": "High"
-  },
-  "herb_characteristics": null,
-  "root_characteristics": null,
-  "leaf_crop_characteristics": null,
-  "flower_characteristics": null,
-  "fun_fact": "Did you know? Rutgers tomatoes were once the most popular tomato variety in America and helped establish New Jersey's reputation as the 'Garden State.'",
-  "planting_tip": "Plant Rutgers tomatoes in well-drained soil with full sunlight. These compact determinate plants benefit from caging or staking. Water consistently, aiming for once a week, and fertilize every two weeks. Minimal pruning is needed. Expect a concentrated harvest period perfect for canning and preserving projects. This variety is particularly well-suited to hot, humid climates!"
-},
-{
-  "id": 21,
-  "name": "Juliet",
-  "description": "Juliet tomatoes are an award-winning grape tomato variety that won the All-America Selections award in 1999. These compact indeterminate vines produce abundant clusters of glossy, elongated fruits that resist cracking and have excellent storage quality. With a perfect balance of sweetness and acidity, Juliet tomatoes are incredibly versatile and have become a favorite for both fresh eating and cooking applications.",
-  "growth_info": {
-    "growth_mode": "Indeterminate",
-    "days_to_harvest": {
-      "lower_estimate": 60,
-      "higher_estimate": 70
-    },
-    "plant_height": "4-6 feet",
-    "spacing": "2-3 feet apart",
-    "is_container_variety": true,
-    "recommended_container_size": "7 gallons minimum",
-    "needs_support": true
-  },
-  "appearance": {
-    "flower_color": "Yellow",
-    "leaf_color": "Green"
-  },
-  "care_requirements": {
-    "water_requirement": "Twice a week",
-    "feeding_requirement": "Every two weeks",
-    "requires_pruning": true
-  },
-  "harvest_storage": {
-    "typical_yield": "15-18 pounds per plant",
-    "best_uses": ["Snacking", "Salads", "Roasting", "Kabobs"]
-  },
-  "tolerances": {
-    "heat_tolerance": "High",
-    "cold_tolerance": "Low",
-    "frost_tolerance": false,
-    "drought_tolerance": "Medium",
-    "disease_resistance": ["LB"]
-  },
-  "flavor_characteristics": {
-    "flavor_profile": "Sweet with balanced acidity, rich tomato flavor"
-  },
-  "fruit_characteristics": {
-    "fruit_color": "Deep Red",
-    "fruit_weight": "1-1.5 ounces",
-    "skin_thickness": "Thick",
-    "seed_cavity_size": "Small",
-    "storage_quality": "Excellent",
-    "crack_resistance": "High"
-  },
-  "herb_characteristics": null,
-  "root_characteristics": null,
-  "leaf_crop_characteristics": null,
-  "flower_characteristics": null,
-  "fun_fact": "Did you know? Juliet tomatoes were the first grape tomato to win the All-America Selections award and are famous for their outstanding crack resistance and long shelf life.",
-  "planting_tip": "Plant Juliet tomatoes in well-drained soil with full sunlight. Provide support for these productive indeterminate vines. Water consistently, aiming for twice a week, and fertilize every two weeks. Prune to manage plant shape and promote air circulation. These tomatoes store exceptionally well and continue producing abundantly throughout the growing season!"
-}
+                {
+                    "id": 16,
+                    "name": "Celebrity",
+                    "description": "Celebrity tomatoes are a popular determinate hybrid variety known for their reliability, disease resistance, and consistent production. These vigorous plants produce medium to large, globe-shaped fruits with a classic red color and excellent flavor. Developed for both home gardeners and commercial growers, Celebrity tomatoes are prized for their ability to thrive in various growing conditions and their resistance to multiple common tomato diseases.",
+                    "growth_info": {
+                        "growth_mode": "Determinate",
+                        "days_to_harvest": {
+                            "lower_estimate": 70,
+                            "higher_estimate": 80
+                        },
+                        "plant_height": "3-4 feet",
+                        "spacing": "2-3 feet apart",
+                        "is_container_variety": true,
+                        "recommended_container_size": "7 gallons minimum",
+                        "needs_support": true
+                    },
+                    "appearance": {
+                        "flower_color": "Yellow",
+                        "leaf_color": "Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Once a week",
+                        "feeding_requirement": "Every two weeks",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "20-30 pounds per plant",
+                        "best_uses": ["Slicing", "Salads", "Sandwiches", "Canning"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "High",
+                        "cold_tolerance": "Low",
+                        "frost_tolerance": false,
+                        "drought_tolerance": "Medium",
+                        "disease_resistance": ["V", "F", "FF", "N", "TMV", "ASC"]
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Classic tomato flavor, well-balanced acidity and sweetness"
+                    },
+                    "fruit_characteristics": {
+                        "fruit_color": "Red",
+                        "fruit_weight": "7-10 ounces",
+                        "skin_thickness": "Medium",
+                        "seed_cavity_size": "Medium",
+                        "storage_quality": "Excellent",
+                        "crack_resistance": "High"
+                    },
+                    "herb_characteristics": null,
+                    "root_characteristics": null,
+                    "leaf_crop_characteristics": null,
+                    "flower_characteristics": null,
+                    "fun_fact": "Did you know? Celebrity tomatoes won the All-America Selections award in 1984 and remain one of the most disease-resistant tomato varieties available to home gardeners.",
+                    "planting_tip": "Plant Celebrity tomatoes in well-drained soil with full sunlight. These determinate plants benefit from support, though they're more compact than indeterminate varieties. Water consistently, aiming for once a week, and fertilize every two weeks. Minimal pruning is needed. Enjoy a concentrated harvest of uniform, flavorful tomatoes perfect for preserving or fresh eating!"
+                },
+                {
+                    "id": 17,
+                    "name": "Amish Paste",
+                    "description": "Amish Paste tomatoes are a beloved heirloom variety treasured for their excellent paste-making qualities and rich flavor. Originating from the Amish community in Wisconsin, these indeterminate tomatoes produce large, ox-heart shaped fruits with deep red color and meaty texture. With fewer seeds and less juice than typical slicing tomatoes, Amish Paste is ideal for sauces, canning, and paste, while also being delicious fresh.",
+                    "growth_info": {
+                        "growth_mode": "Indeterminate",
+                        "days_to_harvest": {
+                            "lower_estimate": 80,
+                            "higher_estimate": 90
+                        },
+                        "plant_height": "5-7 feet",
+                        "spacing": "3-4 feet apart",
+                        "is_container_variety": true,
+                        "recommended_container_size": "10 gallons minimum",
+                        "needs_support": true
+                    },
+                    "appearance": {
+                        "flower_color": "Yellow",
+                        "leaf_color": "Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Twice a week",
+                        "feeding_requirement": "Every three weeks",
+                        "requires_pruning": true
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "20-25 pounds per plant",
+                        "best_uses": ["Paste", "Sauces", "Canning", "Fresh Eating"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Medium",
+                        "cold_tolerance": "Low",
+                        "frost_tolerance": false,
+                        "drought_tolerance": "Medium",
+                        "disease_resistance": []
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Rich, sweet, full-bodied with low acidity"
+                    },
+                    "fruit_characteristics": {
+                        "fruit_color": "Deep Red",
+                        "fruit_weight": "6-10 ounces",
+                        "skin_thickness": "Medium",
+                        "seed_cavity_size": "Small",
+                        "storage_quality": "Excellent",
+                        "crack_resistance": "High"
+                    },
+                    "herb_characteristics": null,
+                    "root_characteristics": null,
+                    "leaf_crop_characteristics": null,
+                    "flower_characteristics": null,
+                    "fun_fact": "Did you know? Amish Paste tomatoes are considered one of the best dual-purpose tomatoes, excelling both as a paste tomato and for fresh eating.",
+                    "planting_tip": "Plant Amish Paste tomatoes in well-drained soil with full sunlight. Provide sturdy support for indeterminate vines that will bear heavy fruits. Water consistently, aiming for twice a week, and fertilize every three weeks. Prune to manage plant shape and promote air circulation. These productive plants will reward you with abundant harvests perfect for preserving!"
+                },
+                {
+                    "id": 18,
+                    "name": "Black Cherry",
+                    "description": "Black Cherry tomatoes are a striking indeterminate variety that combines the convenience of cherry tomato size with the complex, rich flavor of dark heirloom tomatoes. These vigorous vines produce prolific clusters of deep mahogany-purple fruits that are incredibly sweet with a hint of smokiness. Black Cherry tomatoes are perfect for adding visual drama and exceptional flavor to salads, appetizers, and garden snacking.",
+                    "growth_info": {
+                        "growth_mode": "Indeterminate",
+                        "days_to_harvest": {
+                            "lower_estimate": 65,
+                            "higher_estimate": 75
+                        },
+                        "plant_height": "6-8 feet",
+                        "spacing": "3-4 feet apart",
+                        "is_container_variety": true,
+                        "recommended_container_size": "7 gallons minimum",
+                        "needs_support": true
+                    },
+                    "appearance": {
+                        "flower_color": "Yellow",
+                        "leaf_color": "Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Twice a week",
+                        "feeding_requirement": "Every two weeks",
+                        "requires_pruning": true
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "18-22 pounds per plant",
+                        "best_uses": ["Snacking", "Salads", "Roasting", "Garnishes"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "High",
+                        "cold_tolerance": "Low",
+                        "frost_tolerance": false,
+                        "drought_tolerance": "Medium",
+                        "disease_resistance": []
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Exceptionally sweet with complex, smoky undertones"
+                    },
+                    "fruit_characteristics": {
+                        "fruit_color": "Deep Mahogany-Purple",
+                        "fruit_weight": "1-1.5 ounces",
+                        "skin_thickness": "Thin",
+                        "seed_cavity_size": "Small",
+                        "storage_quality": "Fair",
+                        "crack_resistance": "Medium"
+                    },
+                    "herb_characteristics": null,
+                    "root_characteristics": null,
+                    "leaf_crop_characteristics": null,
+                    "flower_characteristics": null,
+                    "fun_fact": "Did you know? Black Cherry tomatoes develop their deepest, darkest color when exposed to full sun, making them a stunning addition to any garden.",
+                    "planting_tip": "Plant Black Cherry tomatoes in well-drained soil with maximum sunlight exposure to enhance their dark coloration. Provide sturdy support for vigorous indeterminate vines. Water consistently, aiming for twice a week, and fertilize every two weeks. Prune to manage plant shape and promote air circulation. Harvest when fruits are deeply colored and slightly soft to the touch!"
+                },
+                {
+                    "id": 19,
+                    "name": "Pineapple",
+                    "description": "Pineapple tomatoes are a spectacular heirloom beefsteak variety known for their enormous size, bi-colored appearance, and exceptional sweet flavor. These indeterminate tomatoes feature stunning yellow fruits with red marbling inside, often weighing over a pound each. With a tropical, fruity sweetness and low acidity, Pineapple tomatoes are perfect for fresh eating and make show-stopping additions to gourmet dishes and heirloom tomato platters.",
+                    "growth_info": {
+                        "growth_mode": "Indeterminate",
+                        "days_to_harvest": {
+                            "lower_estimate": 85,
+                            "higher_estimate": 95
+                        },
+                        "plant_height": "6-9 feet",
+                        "spacing": "3-4 feet apart",
+                        "is_container_variety": true,
+                        "recommended_container_size": "10 gallons minimum",
+                        "needs_support": true
+                    },
+                    "appearance": {
+                        "flower_color": "Yellow",
+                        "leaf_color": "Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Twice a week",
+                        "feeding_requirement": "Every three weeks",
+                        "requires_pruning": true
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "15-20 pounds per plant",
+                        "best_uses": ["Slicing", "Fresh Eating", "Gourmet Dishes", "Sandwiches"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Medium",
+                        "cold_tolerance": "Low",
+                        "frost_tolerance": false,
+                        "drought_tolerance": "Low",
+                        "disease_resistance": []
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Sweet, fruity, tropical with very low acidity"
+                    },
+                    "fruit_characteristics": {
+                        "fruit_color": "Yellow with Red Marbling",
+                        "fruit_weight": "16-32 ounces",
+                        "skin_thickness": "Thin",
+                        "seed_cavity_size": "Large",
+                        "storage_quality": "Fair",
+                        "crack_resistance": "Low"
+                    },
+                    "herb_characteristics": null,
+                    "root_characteristics": null,
+                    "leaf_crop_characteristics": null,
+                    "flower_characteristics": null,
+                    "fun_fact": "Did you know? Pineapple tomatoes can produce fruits weighing up to 2 pounds, and each slice reveals a beautiful marbled pattern of yellow and red flesh.",
+                    "planting_tip": "Plant Pineapple tomatoes in rich, well-drained soil with full sunlight. Provide very sturdy support for these tall vines that will bear extremely heavy fruits. Water consistently, aiming for twice a week, and fertilize every three weeks. Prune to manage plant shape and reduce weight on branches. Handle ripe fruits carefully as they're prone to cracking due to their size and thin skin!"
+                },
+                {
+                    "id": 20,
+                    "name": "Rutgers",
+                    "description": "Rutgers tomatoes are a classic American heirloom variety developed in 1934 at Rutgers University in New Jersey. These determinate tomatoes produce medium to large, globe-shaped fruits with excellent flavor and are known for their reliability and productivity. Originally bred for commercial canning but beloved by home gardeners, Rutgers tomatoes offer the perfect balance of old-fashioned tomato taste and modern growing convenience.",
+                    "growth_info": {
+                        "growth_mode": "Determinate",
+                        "days_to_harvest": {
+                            "lower_estimate": 75,
+                            "higher_estimate": 85
+                        },
+                        "plant_height": "3-4 feet",
+                        "spacing": "2-3 feet apart",
+                        "is_container_variety": true,
+                        "recommended_container_size": "7 gallons minimum",
+                        "needs_support": true
+                    },
+                    "appearance": {
+                        "flower_color": "Yellow",
+                        "leaf_color": "Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Once a week",
+                        "feeding_requirement": "Every two weeks",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "18-22 pounds per plant",
+                        "best_uses": ["Canning", "Slicing", "Sauces", "Fresh Eating"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "High",
+                        "cold_tolerance": "Low",
+                        "frost_tolerance": false,
+                        "drought_tolerance": "Medium",
+                        "disease_resistance": ["F"]
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Classic, old-fashioned tomato flavor with balanced acidity"
+                    },
+                    "fruit_characteristics": {
+                        "fruit_color": "Deep Red",
+                        "fruit_weight": "6-8 ounces",
+                        "skin_thickness": "Medium",
+                        "seed_cavity_size": "Medium",
+                        "storage_quality": "Excellent",
+                        "crack_resistance": "High"
+                    },
+                    "herb_characteristics": null,
+                    "root_characteristics": null,
+                    "leaf_crop_characteristics": null,
+                    "flower_characteristics": null,
+                    "fun_fact": "Did you know? Rutgers tomatoes were once the most popular tomato variety in America and helped establish New Jersey's reputation as the 'Garden State.'",
+                    "planting_tip": "Plant Rutgers tomatoes in well-drained soil with full sunlight. These compact determinate plants benefit from caging or staking. Water consistently, aiming for once a week, and fertilize every two weeks. Minimal pruning is needed. Expect a concentrated harvest period perfect for canning and preserving projects. This variety is particularly well-suited to hot, humid climates!"
+                },
+                {
+                    "id": 21,
+                    "name": "Juliet",
+                    "description": "Juliet tomatoes are an award-winning grape tomato variety that won the All-America Selections award in 1999. These compact indeterminate vines produce abundant clusters of glossy, elongated fruits that resist cracking and have excellent storage quality. With a perfect balance of sweetness and acidity, Juliet tomatoes are incredibly versatile and have become a favorite for both fresh eating and cooking applications.",
+                    "growth_info": {
+                        "growth_mode": "Indeterminate",
+                        "days_to_harvest": {
+                            "lower_estimate": 60,
+                            "higher_estimate": 70
+                        },
+                        "plant_height": "4-6 feet",
+                        "spacing": "2-3 feet apart",
+                        "is_container_variety": true,
+                        "recommended_container_size": "7 gallons minimum",
+                        "needs_support": true
+                    },
+                    "appearance": {
+                        "flower_color": "Yellow",
+                        "leaf_color": "Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Twice a week",
+                        "feeding_requirement": "Every two weeks",
+                        "requires_pruning": true
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "15-18 pounds per plant",
+                        "best_uses": ["Snacking", "Salads", "Roasting", "Kabobs"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "High",
+                        "cold_tolerance": "Low",
+                        "frost_tolerance": false,
+                        "drought_tolerance": "Medium",
+                        "disease_resistance": ["LB"]
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Sweet with balanced acidity, rich tomato flavor"
+                    },
+                    "fruit_characteristics": {
+                        "fruit_color": "Deep Red",
+                        "fruit_weight": "1-1.5 ounces",
+                        "skin_thickness": "Thick",
+                        "seed_cavity_size": "Small",
+                        "storage_quality": "Excellent",
+                        "crack_resistance": "High"
+                    },
+                    "herb_characteristics": null,
+                    "root_characteristics": null,
+                    "leaf_crop_characteristics": null,
+                    "flower_characteristics": null,
+                    "fun_fact": "Did you know? Juliet tomatoes were the first grape tomato to win the All-America Selections award and are famous for their outstanding crack resistance and long shelf life.",
+                    "planting_tip": "Plant Juliet tomatoes in well-drained soil with full sunlight. Provide support for these productive indeterminate vines. Water consistently, aiming for twice a week, and fertilize every two weeks. Prune to manage plant shape and promote air circulation. These tomatoes store exceptionally well and continue producing abundantly throughout the growing season!"
+                },
+                {
+                  "id": 22,
+                  "name": "Tiny Tim",
+                  "description": "Tiny Tim is a dwarf determinate tomato variety perfect for container gardening, windowsills, and small spaces. This compact plant produces clusters of bright red, cherry-sized fruits with classic tomato flavor. Developed in the 1940s, Tiny Tim remains one of the most popular micro-dwarf tomatoes, reaching only 8-12 inches in height while still producing abundant harvests. Its miniature size and decorative appearance make it ideal for indoor growing and children's gardens.",
+                  "growth_info": {
+                    "growth_mode": "Determinate",
+                    "days_to_harvest": {
+                      "lower_estimate": 45,
+                      "higher_estimate": 60
+                    },
+                    "plant_height": "8-12 inches",
+                    "spacing": "6-8 inches apart",
+                    "is_container_variety": true,
+                    "recommended_container_size": "1-2 gallons minimum",
+                    "needs_support": false
+                  },
+                  "appearance": {
+                    "flower_color": "Yellow",
+                    "leaf_color": "Green"
+                  },
+                  "care_requirements": {
+                    "water_requirement": "Daily to every other day (small containers dry quickly)",
+                    "feeding_requirement": "Every two weeks with diluted fertilizer",
+                    "requires_pruning": false
+                  },
+                  "harvest_storage": {
+                    "typical_yield": "1-2 pounds per plant",
+                    "best_uses": ["Snacking", "Fresh eating", "Salads", "Garnish", "Indoor growing"]
+                  },
+                  "tolerances": {
+                    "heat_tolerance": "Medium",
+                    "cold_tolerance": "Low",
+                    "frost_tolerance": false,
+                    "drought_tolerance": "Low",
+                    "disease_resistance": []
+                  },
+                  "flavor_characteristics": {
+                    "flavor_profile": "Mild, sweet, classic tomato flavor with balanced acidity"
+                  },
+                  "fruit_characteristics": {
+                    "fruit_color": "Bright red",
+                    "fruit_weight": "0.5-0.75 ounces",
+                    "skin_thickness": "Thin",
+                    "seed_cavity_size": "Small",
+                    "storage_quality": "Fair",
+                    "crack_resistance": "Low to medium"
+                  },
+                  "herb_characteristics": null,
+                  "root_characteristics": null,
+                  "leaf_crop_characteristics": null,
+                  "flower_characteristics": null,
+                  "fun_fact": "Did you know? Tiny Tim tomatoes are so compact they can be grown successfully on sunny windowsills indoors! They're one of the smallest tomato varieties in existence and have been delighting gardeners since the 1940s.",
+                  "planting_tip": "Plant Tiny Tim in small containers (6-8 inch pots work well) with well-draining potting soil in full sun or bright indoor light. Water frequently as small containers dry out quickly. No staking or pruning needed due to the plant's dwarf habit. Perfect for introducing children to gardening, balcony gardens, or year-round indoor production. Start harvesting when fruits turn fully red and slightly soft to the touch."
+                }
             ]
         },
         {

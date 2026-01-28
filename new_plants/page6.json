@@ -490,6 +490,102 @@
               },
               "fun_fact": "Safir Celery is known for its compact growth habit and intense flavor, making it a favorite in European cuisine.",
               "planting_tip": "Plant Safir Celery seeds or transplants in well-drained, fertile soil. Choose a sunny location for optimal growth. Keep the soil consistently moist, but not waterlogged. Hill soil around the base of the plants as they grow to blanch the stalks and reduce bitterness."
+            },
+            {
+              "id": 8,
+              "name": "Utah 52-70R Improved",
+              "description": "Utah 52-70R Improved is an enhanced version of the classic Utah celery, bred for better uniformity and disease resistance. It produces tall, thick stalks with a rich green color and excellent crunch. This variety is particularly reliable for home gardeners and maintains the classic celery flavor that made the original Utah varieties so popular. It matures in about 100-120 days.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 100,
+                  "higher_estimate": 120
+                },
+                "plant_height": "18-24 inches",
+                "spacing": "8-10 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "12-14 inches deep",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "White to greenish-white",
+                "leaf_color": "Rich dark green"
+              },
+              "care_requirements": {
+                "water_requirement": "Consistent moisture, daily in hot weather",
+                "feeding_requirement": "Rich, well-composted soil with regular fertilization",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "10-14 stalks per plant",
+                "best_uses": ["Fresh eating", "Soups", "Stews", "Stocks"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Poor",
+                "cold_tolerance": "Good",
+                "frost_tolerance": false,
+                "drought_tolerance": "Poor",
+                "disease_resistance": ["Fusarium yellows resistance", "Improved disease resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Classic celery flavor, crisp and slightly sweet"
+              },
+              "leaf_crop_characteristics": {
+                "head_type": "Stalk bundle",
+                "leaf_texture": "Thick and crisp",
+                "days_to_maturity": "100-120 days",
+                "bolt_resistance": "Good"
+              },
+              "fun_fact": "Utah 52-70R Improved was developed specifically to address common disease issues while maintaining the beloved flavor and texture of traditional Utah celery.",
+              "planting_tip": "Start seeds indoors 10-12 weeks before the last frost date. Transplant seedlings into rich, moisture-retentive soil. Hill soil around the base as plants grow to encourage blanching and sweeter stalks. Mulch heavily to retain moisture."
+            },
+            {
+              "id": 9,
+              "name": "Conquistador",
+              "description": "Conquistador Celery is a high-performing hybrid variety developed for commercial and home production. It features exceptionally uniform, thick stalks with excellent heart formation and a balanced sweet-savory flavor. Known for its vigorous growth and reliability, Conquistador produces heavy yields of premium-quality celery. It matures in about 85-95 days and stores exceptionally well after harvest.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 85,
+                  "higher_estimate": 95
+                },
+                "plant_height": "20-26 inches",
+                "spacing": "10 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "14 inches deep",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "White to greenish-white",
+                "leaf_color": "Medium to dark green"
+              },
+              "care_requirements": {
+                "water_requirement": "Consistent moisture, do not allow to dry out",
+                "feeding_requirement": "Rich soil with heavy fertilization every 2-3 weeks",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "12-16 stalks per plant",
+                "best_uses": ["Fresh eating", "Salads", "Soups", "Juicing", "Storage"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Poor",
+                "cold_tolerance": "Excellent",
+                "frost_tolerance": false,
+                "drought_tolerance": "Poor",
+                "disease_resistance": ["Fusarium yellows resistance", "Leaf spot resistance", "Septoria resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Balanced sweet-savory, mild and clean"
+              },
+              "leaf_crop_characteristics": {
+                "head_type": "Stalk bundle",
+                "leaf_texture": "Very thick and exceptionally crisp",
+                "days_to_maturity": "85-95 days",
+                "bolt_resistance": "Excellent"
+              },
+              "fun_fact": "Conquistador is favored by commercial growers for its uniformity and long shelf life, often staying fresh in refrigeration for 4-6 weeks.",
+              "planting_tip": "Conquistador benefits from starting indoors and transplanting when seedlings have 3-4 true leaves. Plant in deeply worked, nitrogen-rich soil. Side-dress with compost monthly for best yields. Blanch stalks by wrapping with paper or cardboard 2-3 weeks before harvest for milder flavor."
             }
           ]
         },
@@ -891,6 +987,251 @@
               },
               "fun_fact": "Silverskin Garlic is named for the silvery appearance of its outer skin.",
               "planting_tip": "Plant Silverskin Garlic cloves in well-drained, fertile soil with plenty of organic matter. Choose a sunny location for optimal growth. Plant cloves with the pointed end facing upwards, about 2 inches deep and 6 inches apart. Keep the soil consistently moist, but not waterlogged."
+            },
+            {
+              "id": 6,
+              "name": "Music",
+              "description": "Music Garlic is a highly regarded hardneck variety from Italy, prized by garlic connoisseurs for its exceptional flavor and large, easy-to-peel cloves. It produces beautiful white bulbs with 4-6 large cloves per bulb. Music is known for its robust, full-bodied flavor that becomes mellow and sweet when roasted. This porcelain-type garlic is a favorite among chefs and home gardeners alike for its reliability and outstanding taste.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 180,
+                  "higher_estimate": 210
+                },
+                "plant_height": "24-30 inches",
+                "spacing": "6-8 inches",
+                "is_container_variety": false,
+                "recommended_container_size": "Not recommended",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Produces flower scape",
+                "leaf_color": "Blue-green"
+              },
+              "care_requirements": {
+                "water_requirement": "Weekly watering, reduce before harvest",
+                "feeding_requirement": "Rich soil with balanced fertilizer in spring",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "1 bulb per clove planted",
+                "best_uses": ["Roasting", "Cooking", "Scapes", "Gourmet dishes"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Moderate",
+                "cold_tolerance": "Excellent",
+                "frost_tolerance": true,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Good disease resistance", "White rot resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Strong, robust, and full-bodied with sweet notes when roasted"
+              },
+              "root_characteristics": {
+                "root_color": "Bright white wrapper",
+                "root_shape": "Large, round bulbs with 4-6 very large cloves",
+                "root_size": "3-4 ounces per bulb, extra-large cloves",
+                "texture": "Firm with easy-to-peel cloves",
+                "storage_life": "5-7 months when properly cured"
+              },
+              "fun_fact": "Music Garlic produces some of the largest cloves of any garlic variety, making it a favorite for those who dislike peeling small cloves.",
+              "planting_tip": "Plant Music Garlic cloves in fall, 4-6 weeks before the ground freezes. Plant in well-drained soil enriched with compost. Space cloves 6-8 inches apart with pointed end up, 2-3 inches deep. Mulch heavily with straw after the ground freezes. Remove scapes in late spring to encourage larger bulb development."
+            },
+            {
+              "id": 7,
+              "name": "Chesnok Red",
+              "description": "Chesnok Red is a stunning purple-striped hardneck garlic variety that originated in the Republic of Georgia. It's known for its beautiful appearance and exceptional flavor, particularly when baked or roasted. The cloves have a rich, complex taste that's strong when raw but becomes sweet and nutty when cooked. Chesnok Red is a favorite for making roasted garlic spreads and is also excellent in any cooked application.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 180,
+                  "higher_estimate": 210
+                },
+                "plant_height": "20-26 inches",
+                "spacing": "6 inches",
+                "is_container_variety": false,
+                "recommended_container_size": "Not recommended",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Produces flower scape",
+                "leaf_color": "Green"
+              },
+              "care_requirements": {
+                "water_requirement": "Weekly watering, reduce 2 weeks before harvest",
+                "feeding_requirement": "Rich soil with balanced fertilizer and compost",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "1 bulb per clove planted",
+                "best_uses": ["Roasting", "Baking", "Cooking", "Roasted garlic spreads"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Moderate",
+                "cold_tolerance": "Excellent",
+                "frost_tolerance": true,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Good disease resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Rich and complex when raw, sweet and nutty when roasted"
+              },
+              "root_characteristics": {
+                "root_color": "Purple-striped wrapper",
+                "root_shape": "Round bulbs with 9-12 medium cloves",
+                "root_size": "2-3 ounces per bulb, medium to large",
+                "texture": "Firm and creamy when roasted",
+                "storage_life": "6-8 months when properly cured"
+              },
+              "fun_fact": "Chesnok Red's name comes from the Russian word 'chesnok,' which means garlic, highlighting its Eastern European heritage.",
+              "planting_tip": "Plant Chesnok Red in fall in well-drained soil with plenty of organic matter. Plant cloves 2 inches deep and 6 inches apart with pointed end up. This variety performs best with consistent moisture throughout the growing season. Harvest scapes when they curl for best bulb development."
+            },
+            {
+              "id": 8,
+              "name": "Spanish Roja",
+              "description": "Spanish Roja is a classic Creole-type garlic variety known for its spicy, hot flavor and beautiful purple-striped bulbs. Originating from Spain, this variety thrives in warmer climates and produces bulbs with 8-12 cloves. Spanish Roja is excellent for those who prefer a stronger garlic flavor and is particularly well-suited for salsas, hot sauces, and bold-flavored dishes. It's a hardneck variety that produces delicious scapes in late spring.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 150,
+                  "higher_estimate": 180
+                },
+                "plant_height": "18-24 inches",
+                "spacing": "6 inches",
+                "is_container_variety": false,
+                "recommended_container_size": "Not recommended",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Produces flower scape",
+                "leaf_color": "Green"
+              },
+              "care_requirements": {
+                "water_requirement": "Moderate watering, reduce before harvest",
+                "feeding_requirement": "Well-amended soil with balanced fertilizer",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "1 bulb per clove planted",
+                "best_uses": ["Salsas", "Hot sauces", "Mexican dishes", "Scapes"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Excellent",
+                "cold_tolerance": "Moderate",
+                "frost_tolerance": true,
+                "drought_tolerance": "Good",
+                "disease_resistance": ["Moderate disease resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Hot, spicy, and intensely pungent"
+              },
+              "root_characteristics": {
+                "root_color": "Deep purple-striped wrapper",
+                "root_shape": "Bulbous with 8-12 medium cloves",
+                "root_size": "2-3 ounces per bulb, medium",
+                "texture": "Firm and spicy",
+                "storage_life": "4-6 months when properly cured"
+              },
+              "fun_fact": "Spanish Roja is one of the oldest garlic varieties grown in the Pacific Northwest, having been brought to the region by Spanish settlers.",
+              "planting_tip": "Plant Spanish Roja cloves in fall in well-drained soil. This variety adapts well to warmer climates and can be planted later than other hardneck varieties in mild winter areas. Plant cloves 2 inches deep and 6 inches apart. Harvest scapes to promote larger bulb formation."
+            },
+            {
+              "id": 9,
+              "name": "German Extra Hardy",
+              "description": "German Extra Hardy is one of the most cold-tolerant garlic varieties available, making it an excellent choice for northern gardeners. This robust hardneck porcelain-type garlic produces large white bulbs with 4-6 extra-large cloves. It has a strong, spicy flavor when raw that mellows to a rich, complex taste when cooked. German Extra Hardy is known for its reliable performance and exceptional winter hardiness.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 180,
+                  "higher_estimate": 220
+                },
+                "plant_height": "24-30 inches",
+                "spacing": "6-8 inches",
+                "is_container_variety": false,
+                "recommended_container_size": "Not recommended",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Produces flower scape",
+                "leaf_color": "Blue-green"
+              },
+              "care_requirements": {
+                "water_requirement": "Weekly watering, reduce before harvest",
+                "feeding_requirement": "Rich soil with spring fertilization",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "1 bulb per clove planted",
+                "best_uses": ["Cooking", "Roasting", "Scapes", "Winter storage"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Moderate",
+                "cold_tolerance": "Outstanding",
+                "frost_tolerance": true,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Excellent disease resistance", "Rust resistant"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Strong and spicy when raw, rich and complex when cooked"
+              },
+              "root_characteristics": {
+                "root_color": "White wrapper with occasional purple blush",
+                "root_shape": "Large, blocky bulbs with 4-6 very large cloves",
+                "root_size": "3-4 ounces per bulb, extra-large",
+                "texture": "Very firm and dense",
+                "storage_life": "7-9 months when properly cured"
+              },
+              "fun_fact": "German Extra Hardy can survive winter temperatures as low as -40°F, making it one of the most cold-hardy garlic varieties in existence.",
+              "planting_tip": "Plant German Extra Hardy in fall, ideally 4-6 weeks before hard freeze. This variety benefits from cold stratification. Plant cloves 2-3 inches deep and 6-8 inches apart. Mulch heavily with straw or leaves. This variety stores exceptionally well, making it ideal for long-term use."
+            },
+            {
+              "id": 10,
+              "name": "Persian Star",
+              "description": "Persian Star is a striking purple-striped hardneck garlic that originated in Uzbekistan. It belongs to the Purple Stripe group and is known for its beautiful appearance and complex, rich flavor. Persian Star produces bulbs with 8-12 cloves and has an excellent balance of heat and sweetness. This variety is particularly attractive when raw but maintains excellent flavor when cooked. It's a favorite among garlic lovers for its distinctive taste and eye-catching purple stripes.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 180,
+                  "higher_estimate": 210
+                },
+                "plant_height": "20-26 inches",
+                "spacing": "6 inches",
+                "is_container_variety": false,
+                "recommended_container_size": "Not recommended",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Produces flower scape",
+                "leaf_color": "Green with purple tinge"
+              },
+              "care_requirements": {
+                "water_requirement": "Weekly watering, consistent moisture important",
+                "feeding_requirement": "Rich soil with balanced fertilizer",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "1 bulb per clove planted",
+                "best_uses": ["Raw in salads", "Cooking", "Scapes", "Gourmet dishes"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Moderate",
+                "cold_tolerance": "Excellent",
+                "frost_tolerance": true,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Good disease resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Complex and well-balanced with sweet and spicy notes"
+              },
+              "root_characteristics": {
+                "root_color": "Deep purple-striped wrapper",
+                "root_shape": "Round bulbs with 8-12 cloves arranged in two layers",
+                "root_size": "2-3 ounces per bulb, medium to large",
+                "texture": "Firm and juicy",
+                "storage_life": "5-7 months when properly cured"
+              },
+              "fun_fact": "Persian Star is named for the beautiful star-like pattern its cloves form when the bulb is cut horizontally through the middle.",
+              "planting_tip": "Plant Persian Star in fall in well-drained, fertile soil. Plant cloves 2 inches deep and 6 inches apart with pointed end up. This variety benefits from consistent moisture throughout the growing season. Remove scapes when they emerge to direct energy into bulb development. The scapes are particularly flavorful and shouldn't be wasted."
             }
           ]
         },
@@ -1286,6 +1627,246 @@
               },
               "fun_fact": "Purple Cape Broccoli is a traditional variety that has been cultivated in the Cape region of South Africa for centuries.",
               "planting_tip": "Plant Purple Cape Broccoli seeds or transplants in well-drained, fertile soil. Choose a sunny location for optimal growth. Keep the soil consistently moist, but not waterlogged. Provide consistent feeding with balanced fertilizer to support healthy growth."
+            },
+            {
+              "id": 6,
+              "name": "Waltham 29",
+              "description": "Waltham 29 Broccoli is a cold-hardy heirloom variety developed at the University of Massachusetts. It produces large, blue-green heads with excellent side shoot production after the main head is harvested. Known for its reliability and cold tolerance, Waltham 29 has a classic broccoli flavor with slightly sweet notes. It matures in about 60-75 days and is a favorite among home gardeners for its extended harvest period.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 60,
+                  "higher_estimate": 75
+                },
+                "plant_height": "24-30 inches",
+                "spacing": "18-24 inches",
+                "is_container_variety": false,
+                "recommended_container_size": "Not recommended",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Yellow (if allowed to bolt)",
+                "leaf_color": "Blue-green"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering, keep soil consistently moist",
+                "feeding_requirement": "Balanced fertilizer every 3-4 weeks",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "1.5-2 pounds per plant",
+                "best_uses": ["Fresh eating", "Freezing", "Steaming", "Stir-fries"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Poor",
+                "cold_tolerance": "Excellent",
+                "frost_tolerance": true,
+                "drought_tolerance": "Poor",
+                "disease_resistance": ["Good disease resistance", "Cold hardy"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Classic broccoli flavor with sweet undertones"
+              },
+              "leaf_crop_characteristics": {
+                "head_type": "Large central head with abundant side shoots",
+                "leaf_texture": "Medium-sized florets, tender",
+                "days_to_maturity": "60-75 days",
+                "bolt_resistance": "Good"
+              },
+              "fun_fact": "Waltham 29 was specifically bred to withstand New England winters and continues to be a popular choice for fall and overwintering crops.",
+              "planting_tip": "Plant Waltham 29 in mid to late summer for fall harvest. It performs exceptionally well in cool weather and can tolerate light frosts. After harvesting the main head, continue to fertilize and water to encourage abundant side shoot production for weeks of continued harvest."
+            },
+            {
+              "id": 7,
+              "name": "Belstar",
+              "description": "Belstar Broccoli is a premium hybrid variety known for its uniform, dome-shaped heads and excellent heat tolerance. It produces dark blue-green heads with tight beads and good weight. Belstar is particularly valued for its ability to perform well in both spring and fall plantings, making it versatile for different growing seasons. It matures in about 66-75 days and is a reliable choice for gardeners seeking consistent quality.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 66,
+                  "higher_estimate": 75
+                },
+                "plant_height": "20-24 inches",
+                "spacing": "18 inches",
+                "is_container_variety": false,
+                "recommended_container_size": "Not recommended",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Yellow (if allowed to bolt)",
+                "leaf_color": "Blue-green"
+              },
+              "care_requirements": {
+                "water_requirement": "Weekly deep watering, more in hot weather",
+                "feeding_requirement": "Rich soil with balanced fertilizer every 3 weeks",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "1.5-2 pounds per plant",
+                "best_uses": ["Fresh eating", "Steaming", "Roasting", "Salads"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Good",
+                "cold_tolerance": "Excellent",
+                "frost_tolerance": true,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Downy mildew resistance", "Excellent disease resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Sweet and mild with excellent texture"
+              },
+              "leaf_crop_characteristics": {
+                "head_type": "Uniform dome-shaped head, 6-7 inches diameter",
+                "leaf_texture": "Tight beads, very uniform",
+                "days_to_maturity": "66-75 days",
+                "bolt_resistance": "Excellent"
+              },
+              "fun_fact": "Belstar is a favorite among market growers due to its uniformity, making it ideal for commercial production and farmers markets.",
+              "planting_tip": "Plant Belstar in spring or fall for best results. Its heat tolerance makes it more forgiving than many varieties in warmer conditions. Transplant seedlings when they have 4-5 true leaves. Mulch around plants to maintain consistent soil moisture and temperature."
+            },
+            {
+              "id": 8,
+              "name": "Di Cicco",
+              "description": "Di Cicco Broccoli is a beloved Italian heirloom variety that has been grown since the 1890s. It produces medium-sized blue-green heads followed by an abundance of side shoots, providing an extended harvest period. Di Cicco has excellent cold tolerance and a rich, sweet broccoli flavor. It matures in about 48-85 days depending on growing conditions and is particularly well-suited for home gardens where continuous production is desired.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 48,
+                  "higher_estimate": 85
+                },
+                "plant_height": "24-36 inches",
+                "spacing": "18-24 inches",
+                "is_container_variety": false,
+                "recommended_container_size": "Not recommended",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Yellow (if allowed to bolt)",
+                "leaf_color": "Blue-green"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering, consistent moisture important",
+                "feeding_requirement": "Rich soil with balanced fertilizer every 3-4 weeks",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "1-2 pounds per plant over extended harvest",
+                "best_uses": ["Fresh eating", "Freezing", "Stir-fries", "Steaming"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Moderate",
+                "cold_tolerance": "Excellent",
+                "frost_tolerance": true,
+                "drought_tolerance": "Poor",
+                "disease_resistance": ["Moderate disease resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Sweet, rich, and traditional broccoli flavor"
+              },
+              "leaf_crop_characteristics": {
+                "head_type": "Medium central head with prolific side shoots",
+                "leaf_texture": "Medium florets, tender",
+                "days_to_maturity": "48-85 days",
+                "bolt_resistance": "Good"
+              },
+              "fun_fact": "Di Cicco is one of the oldest broccoli varieties still commonly grown today and was introduced to American gardeners by Italian immigrants.",
+              "planting_tip": "Plant Di Cicco for both spring and fall crops. After harvesting the main head, continue to feed and water the plant to encourage prolific side shoot production. Side shoots can be harvested for several weeks, making this an excellent choice for families wanting extended fresh broccoli."
+            },
+            {
+              "id": 9,
+              "name": "Destiny",
+              "description": "Destiny Broccoli is a high-performing hybrid variety bred for uniformity and disease resistance. It produces large, tight heads with excellent bead quality and a vibrant blue-green color. Destiny is known for its strong plant vigor and ability to produce consistently sized heads, making it popular with both home gardeners and commercial growers. It matures in about 65-70 days and has good heat tolerance for a broccoli variety.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 65,
+                  "higher_estimate": 70
+                },
+                "plant_height": "18-24 inches",
+                "spacing": "18 inches",
+                "is_container_variety": false,
+                "recommended_container_size": "Not recommended",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Yellow (if allowed to bolt)",
+                "leaf_color": "Blue-green"
+              },
+              "care_requirements": {
+                "water_requirement": "Weekly deep watering, consistent moisture",
+                "feeding_requirement": "Rich soil with balanced fertilizer every 3 weeks",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "1.5-2 pounds per plant",
+                "best_uses": ["Fresh eating", "Steaming", "Roasting", "Freezing"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Good",
+                "cold_tolerance": "Excellent",
+                "frost_tolerance": true,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Downy mildew resistance", "Fusarium resistance", "Excellent overall disease resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Sweet and mild with tender texture"
+              },
+              "leaf_crop_characteristics": {
+                "head_type": "Large uniform head, 7-8 inches diameter",
+                "leaf_texture": "Very tight beads, premium quality",
+                "days_to_maturity": "65-70 days",
+                "bolt_resistance": "Excellent"
+              },
+              "fun_fact": "Destiny was specifically bred to produce uniform, market-quality heads that rival the best commercial varieties while being accessible to home gardeners.",
+              "planting_tip": "Plant Destiny in well-prepared soil with plenty of organic matter. Space plants adequately to allow for good air circulation, which helps prevent disease. This variety performs well in both spring and fall plantings and maintains good head quality even in variable weather conditions."
+            },
+            {
+              "id": 10,
+              "name": "Gypsy",
+              "description": "Gypsy Broccoli is a fast-maturing hybrid variety known for its adaptability and reliable performance. It produces medium to large heads with excellent flavor and good side shoot production after the main harvest. Gypsy has strong plant vigor and good tolerance to various growing conditions. It matures in about 58-70 days, making it one of the earlier varieties available, and is particularly well-suited for succession planting.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 58,
+                  "higher_estimate": 70
+                },
+                "plant_height": "20-26 inches",
+                "spacing": "18 inches",
+                "is_container_variety": false,
+                "recommended_container_size": "Not recommended",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Yellow (if allowed to bolt)",
+                "leaf_color": "Dark green"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering, keep soil moist",
+                "feeding_requirement": "Balanced fertilizer every 3-4 weeks",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "1-1.5 pounds per plant",
+                "best_uses": ["Fresh eating", "Stir-fries", "Steaming", "Salads"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Moderate",
+                "cold_tolerance": "Good",
+                "frost_tolerance": true,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Good disease resistance", "Adaptable to various conditions"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Sweet and tender with classic broccoli taste"
+              },
+              "leaf_crop_characteristics": {
+                "head_type": "Medium to large head with good side shoots",
+                "leaf_texture": "Medium florets, tender",
+                "days_to_maturity": "58-70 days",
+                "bolt_resistance": "Good"
+              },
+              "fun_fact": "Gypsy's fast maturity time makes it an excellent choice for gardeners wanting to fit in multiple successions of broccoli throughout the growing season.",
+              "planting_tip": "Plant Gypsy every 2-3 weeks for continuous harvest throughout the season. Its adaptability makes it forgiving of less-than-perfect conditions. Start seeds indoors 4-6 weeks before transplanting, or direct sow in areas with longer growing seasons. Harvest the main head promptly to encourage side shoot development."
             }
           ]
         },
@@ -1681,6 +2262,246 @@
               },
               "fun_fact": "Graffiti Cauliflower's vibrant purple color makes it an eye-catching addition to dishes and a favorite among chefs and home cooks.",
               "planting_tip": "Plant Graffiti Cauliflower seeds or transplants in well-drained, fertile soil. Choose a sunny location for optimal growth. Keep the soil consistently moist, but not waterlogged. Provide consistent feeding with balanced fertilizer to support healthy growth."
+            },
+            {
+              "id": 6,
+              "name": "Amazing",
+              "description": "Amazing Cauliflower is a high-performing hybrid variety known for its large, smooth, dome-shaped white heads and excellent heat tolerance. It produces consistently uniform curds with excellent wrapper leaf coverage for natural protection. Amazing is particularly valued for its ability to perform well in challenging conditions and its extended harvest window. It matures in about 68-75 days and is a reliable choice for both spring and fall plantings.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 68,
+                  "higher_estimate": 75
+                },
+                "plant_height": "18-24 inches",
+                "spacing": "18-24 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "14-16 inches deep, 5 gallons",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "White (edible curd)",
+                "leaf_color": "Blue-green"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering, consistent moisture important",
+                "feeding_requirement": "Balanced fertilizer every 3-4 weeks",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "2-3 pounds per plant",
+                "best_uses": ["Fresh eating", "Roasting", "Steaming", "Freezing"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Good",
+                "cold_tolerance": "Excellent",
+                "frost_tolerance": true,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Downy mildew resistance", "Excellent overall disease resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Mild, sweet, and creamy"
+              },
+              "leaf_crop_characteristics": {
+                "head_type": "Large dome-shaped curd, 7-8 inches",
+                "leaf_texture": "Smooth, very dense florets",
+                "days_to_maturity": "68-75 days",
+                "bolt_resistance": "Excellent"
+              },
+              "fun_fact": "Amazing Cauliflower lives up to its name with impressive heat tolerance, making it more forgiving than most cauliflower varieties in warm weather.",
+              "planting_tip": "Plant Amazing in well-prepared soil with plenty of organic matter. This variety's natural wrapper leaf coverage helps protect curds from sun damage, reducing the need for manual blanching. Water consistently and mulch to maintain even soil moisture. Its heat tolerance makes it an excellent choice for areas with unpredictable spring weather."
+            },
+            {
+              "id": 7,
+              "name": "Veronica",
+              "description": "Veronica Cauliflower is a stunning bright green Romanesco-type variety with beautiful fractal spiral patterns and exceptional flavor. It produces lime-green heads with pointed florets arranged in mesmerizing geometric spirals. Veronica has a delicate, nutty flavor that's milder than traditional Romanesco and maintains its vibrant color when cooked. It matures in about 80-85 days and is a showstopper on any plate.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 80,
+                  "higher_estimate": 85
+                },
+                "plant_height": "18-24 inches",
+                "spacing": "18-24 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "14-16 inches deep, 5 gallons",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Lime-green (edible curd)",
+                "leaf_color": "Blue-green"
+              },
+              "care_requirements": {
+                "water_requirement": "Weekly deep watering, consistent moisture",
+                "feeding_requirement": "Rich soil with balanced fertilizer every 3 weeks",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "1.5-2 pounds per plant",
+                "best_uses": ["Roasting", "Steaming", "Fresh platters", "Gourmet dishes"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Poor",
+                "cold_tolerance": "Excellent",
+                "frost_tolerance": true,
+                "drought_tolerance": "Poor",
+                "disease_resistance": ["Moderate disease resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Delicate, nutty, and slightly sweet"
+              },
+              "leaf_crop_characteristics": {
+                "head_type": "Fractal spiral curd, 6-7 inches",
+                "leaf_texture": "Pointed geometric florets",
+                "days_to_maturity": "80-85 days",
+                "bolt_resistance": "Moderate"
+              },
+              "fun_fact": "Veronica's fractal patterns follow the Fibonacci sequence, making it a favorite subject for food photographers and a conversation starter at dinner parties.",
+              "planting_tip": "Plant Veronica in fall for best results, as it prefers cool growing conditions. Provide consistent moisture and fertility. Harvest when the spirals are fully formed but before they begin to separate. The entire head is edible and incredibly beautiful when roasted whole."
+            },
+            {
+              "id": 8,
+              "name": "Skywalker",
+              "description": "Skywalker Cauliflower is a premium white hybrid variety bred for uniformity and exceptional head quality. It produces bright white, tightly beaded curds with excellent dome shape and self-wrapping leaves that provide natural blanching. Skywalker is known for its consistent performance and resistance to stress, making it reliable across different growing conditions. It matures in about 70-75 days and stores well after harvest.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 70,
+                  "higher_estimate": 75
+                },
+                "plant_height": "20-26 inches",
+                "spacing": "18-24 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "14-16 inches deep, 5 gallons",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Bright white (edible curd)",
+                "leaf_color": "Blue-green"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering, keep soil consistently moist",
+                "feeding_requirement": "Balanced fertilizer every 3-4 weeks",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "2-3 pounds per plant",
+                "best_uses": ["Fresh eating", "Roasting", "Cauliflower rice", "Freezing"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Moderate",
+                "cold_tolerance": "Excellent",
+                "frost_tolerance": true,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Downy mildew resistance", "Good disease resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Pure, mild, and sweet"
+              },
+              "leaf_crop_characteristics": {
+                "head_type": "Uniform dome curd, 7-9 inches",
+                "leaf_texture": "Very tight, smooth beads",
+                "days_to_maturity": "70-75 days",
+                "bolt_resistance": "Good"
+              },
+              "fun_fact": "Skywalker was named for its ability to 'rise above' challenging growing conditions, consistently producing high-quality heads even when other varieties struggle.",
+              "planting_tip": "Transplant Skywalker seedlings when they have 4-5 true leaves. Space adequately for good air circulation. The self-wrapping leaves naturally protect the curd, but in very sunny conditions, you may still want to tie outer leaves over the head 1-2 weeks before harvest for pristine white color."
+            },
+            {
+              "id": 9,
+              "name": "Flame Star",
+              "description": "Flame Star Cauliflower is a vibrant orange variety with brilliant color that intensifies when cooked. It produces stunning orange heads with compact, dense florets and excellent flavor. Flame Star is rich in beta-carotene, providing 25 times more vitamin A than white cauliflower. It has a sweet, mild flavor with subtle nutty undertones. It matures in about 75-80 days and maintains its striking color through cooking.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 75,
+                  "higher_estimate": 80
+                },
+                "plant_height": "18-24 inches",
+                "spacing": "18 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "14-16 inches deep, 5 gallons",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Bright orange (edible curd)",
+                "leaf_color": "Green"
+              },
+              "care_requirements": {
+                "water_requirement": "Weekly deep watering, consistent moisture",
+                "feeding_requirement": "Rich soil with balanced fertilizer every 3 weeks",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "1.5-2.5 pounds per plant",
+                "best_uses": ["Roasting", "Curries", "Purees", "Fresh platters"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Poor",
+                "cold_tolerance": "Excellent",
+                "frost_tolerance": true,
+                "drought_tolerance": "Poor",
+                "disease_resistance": ["Moderate disease resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Sweet, mild, with nutty undertones"
+              },
+              "leaf_crop_characteristics": {
+                "head_type": "Vibrant orange curd, 6-8 inches",
+                "leaf_texture": "Dense, compact florets",
+                "days_to_maturity": "75-80 days",
+                "bolt_resistance": "Moderate"
+              },
+              "fun_fact": "Flame Star's color becomes even more vibrant when cooked, making it a favorite for colorful vegetable medleys and adding visual interest to dishes.",
+              "planting_tip": "Plant Flame Star in fertile, well-drained soil with consistent moisture. Unlike white varieties, the orange color means you don't need to blanch the heads - the color is a feature, not a flaw! Harvest when heads are fully colored and firm. Great for adding nutrition and color to kids' meals."
+            },
+            {
+              "id": 10,
+              "name": "Goodman",
+              "description": "Goodman Cauliflower is a reliable early-season variety known for producing pure white, compact heads with excellent wrapper leaves for natural self-blanching. It has strong plant vigor and good cold tolerance, making it ideal for early spring or fall planting. Goodman produces consistently sized heads with smooth, tight curds and a classic mild cauliflower flavor. It matures in about 60-65 days, making it one of the faster varieties available.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 60,
+                  "higher_estimate": 65
+                },
+                "plant_height": "18-22 inches",
+                "spacing": "18 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "14-16 inches deep, 5 gallons",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Pure white (edible curd)",
+                "leaf_color": "Blue-green"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering, consistent moisture important",
+                "feeding_requirement": "Balanced fertilizer every 3-4 weeks",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "1.5-2 pounds per plant",
+                "best_uses": ["Fresh eating", "Steaming", "Stir-fries", "Soups"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Poor",
+                "cold_tolerance": "Excellent",
+                "frost_tolerance": true,
+                "drought_tolerance": "Poor",
+                "disease_resistance": ["Good disease resistance", "Cold hardy"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Classic mild and sweet"
+              },
+              "leaf_crop_characteristics": {
+                "head_type": "Compact round curd, 6-7 inches",
+                "leaf_texture": "Tight, smooth florets",
+                "days_to_maturity": "60-65 days",
+                "bolt_resistance": "Good"
+              },
+              "fun_fact": "Goodman is a favorite among market gardeners for its reliability and early maturity, often being the first cauliflower ready for harvest in spring.",
+              "planting_tip": "Plant Goodman for early spring or fall harvest. Its fast maturity makes it excellent for succession planting. Start seeds indoors 4-6 weeks before transplanting. The strong wrapper leaves provide good self-blanching, but check heads regularly as they develop quickly. Best harvested young for optimal tenderness."
             }
           ]
         },
@@ -2038,6 +2859,256 @@
                     },
                     "fun_fact": "Listada de Gandía Eggplants are named after the town of Gandía in Spain, where they are believed to have originated.",
                     "planting_tip": "Plant Listada de Gandía Eggplant seeds or transplants in well-drained soil enriched with compost. Choose a sunny location with warm temperatures. Water consistently to keep the soil evenly moist, especially during hot and dry periods. Provide support for the plants as they grow to prevent the heavy fruit from weighing down the branches."
+                },
+                {
+                    "id": 5,
+                    "name": "Fairy Tale",
+                    "description": "Fairy Tale Eggplant is a charming miniature variety with elongated, slender fruits featuring stunning purple and white striped skin. These petite eggplants have an exceptionally sweet, mild flavor with tender, creamy flesh and very few seeds. Fairy Tale is perfect for grilling whole, roasting, or adding to vegetable medleys. The compact plants are highly productive and ideal for small gardens or containers.",
+                    "growth_info": {
+                        "growth_mode": "Upright",
+                        "days_to_harvest": {
+                            "lower_estimate": 50,
+                            "higher_estimate": 65
+                        },
+                        "plant_height": "18-24 inches",
+                        "spacing": "18 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "3-5 gallons",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "Purple",
+                        "leaf_color": "Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering, keep soil consistently moist",
+                        "feeding_requirement": "Balanced fertilizer every 2-3 weeks",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "10-12 fruits per plant",
+                        "best_uses": ["Grilling whole", "Roasting", "Stir-fries", "Kebabs"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "High",
+                        "cold_tolerance": "Low",
+                        "frost_tolerance": false,
+                        "drought_tolerance": "Low",
+                        "disease_resistance": ["Good disease resistance"]
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Exceptionally sweet, mild, tender with no bitterness"
+                    },
+                    "fruit_characteristics": {
+                        "fruit_color": "Purple and white stripes",
+                        "fruit_weight": "2-3 ounces",
+                        "skin_thickness": "Thin",
+                        "seed_cavity_size": "Very small",
+                        "storage_quality": "Best used fresh, 3-5 days refrigerated",
+                        "crack_resistance": "Good"
+                    },
+                    "fun_fact": "Fairy Tale Eggplant won the All-America Selections award for its exceptional flavor, productivity, and ornamental appeal in the garden.",
+                    "planting_tip": "Plant Fairy Tale Eggplant in warm soil after all danger of frost has passed. The compact size makes it perfect for container gardening on patios or balconies. Harvest fruits when they're 3-4 inches long for the best flavor and texture. The more you harvest, the more the plant will produce."
+                },
+                {
+                    "id": 6,
+                    "name": "Thai Long Green",
+                    "description": "Thai Long Green Eggplant is a slender, elongated variety popular in Southeast Asian cuisine. It produces light green fruits that are 10-12 inches long with tender skin and mild, sweet flesh. This variety has fewer seeds than most eggplants and maintains its firm texture when cooked, making it ideal for curries, stir-fries, and grilling. The plants are vigorous and highly productive throughout the season.",
+                    "growth_info": {
+                        "growth_mode": "Upright",
+                        "days_to_harvest": {
+                            "lower_estimate": 60,
+                            "higher_estimate": 70
+                        },
+                        "plant_height": "24-36 inches",
+                        "spacing": "18-24 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "5 gallons",
+                        "needs_support": true
+                    },
+                    "appearance": {
+                        "flower_color": "White to light purple",
+                        "leaf_color": "Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering, more frequent in hot weather",
+                        "feeding_requirement": "Balanced fertilizer every 2-3 weeks",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "8-10 fruits per plant",
+                        "best_uses": ["Thai curries", "Stir-fries", "Grilling", "Steaming"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Excellent",
+                        "cold_tolerance": "Low",
+                        "frost_tolerance": false,
+                        "drought_tolerance": "Low",
+                        "disease_resistance": ["Good disease resistance"]
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Mild, sweet, maintains firm texture when cooked"
+                    },
+                    "fruit_characteristics": {
+                        "fruit_color": "Light green",
+                        "fruit_weight": "6-8 ounces",
+                        "skin_thickness": "Thin",
+                        "seed_cavity_size": "Small",
+                        "storage_quality": "Good for 5-7 days refrigerated",
+                        "crack_resistance": "Good"
+                    },
+                    "fun_fact": "Thai Long Green Eggplant is a staple in Thai green curry and is prized for its ability to absorb flavors while maintaining its texture.",
+                    "planting_tip": "Plant Thai Long Green Eggplant in full sun and warm soil. This variety thrives in hot weather and benefits from consistent moisture. Harvest fruits when they're glossy and firm, typically at 10-12 inches long. Support plants with stakes or cages as they can become heavy with fruit."
+                },
+                {
+                    "id": 7,
+                    "name": "White Beauty",
+                    "description": "White Beauty Eggplant, also known as Casper or White Egg, is an elegant variety producing pure white, oval-shaped fruits with smooth, glossy skin. It has a mild, mushroom-like flavor with creamy, tender flesh and very few seeds. White Beauty is less bitter than traditional purple varieties and holds its white color when cooked. It's excellent for grilling, roasting, or preparing baba ganoush with a lighter appearance.",
+                    "growth_info": {
+                        "growth_mode": "Upright",
+                        "days_to_harvest": {
+                            "lower_estimate": 65,
+                            "higher_estimate": 75
+                        },
+                        "plant_height": "24-30 inches",
+                        "spacing": "18-24 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "5 gallons",
+                        "needs_support": true
+                    },
+                    "appearance": {
+                        "flower_color": "White to pale purple",
+                        "leaf_color": "Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering, keep soil consistently moist",
+                        "feeding_requirement": "Balanced fertilizer every 2-3 weeks",
+                        "requires_pruning": true
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "5-7 fruits per plant",
+                        "best_uses": ["Grilling", "Roasting", "Baba ganoush", "Stuffing"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "High",
+                        "cold_tolerance": "Low",
+                        "frost_tolerance": false,
+                        "drought_tolerance": "Low",
+                        "disease_resistance": ["Moderate disease resistance"]
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Mild, mushroom-like, creamy with minimal bitterness"
+                    },
+                    "fruit_characteristics": {
+                        "fruit_color": "Pure white",
+                        "fruit_weight": "10-12 ounces",
+                        "skin_thickness": "Medium",
+                        "seed_cavity_size": "Small",
+                        "storage_quality": "Good for 1 week refrigerated",
+                        "crack_resistance": "Good"
+                    },
+                    "fun_fact": "White Beauty Eggplant's pure white color and egg-like shape are actually closer to how eggplants got their name - early varieties were white and resembled goose eggs.",
+                    "planting_tip": "Plant White Beauty in rich, well-draining soil in full sun. Harvest when fruits are glossy and firm but before they begin to yellow, which indicates over-maturity. The white skin makes it easy to spot any blemishes, so handle fruits carefully and harvest regularly to encourage continued production."
+                },
+                {
+                    "id": 8,
+                    "name": "Ping Tung Long",
+                    "description": "Ping Tung Long Eggplant is a Taiwanese heirloom variety producing exceptionally long, slender purple fruits that can reach 12-18 inches in length. It has tender, thin skin that doesn't require peeling and sweet, mild flesh with very few seeds. Ping Tung Long is highly productive and maintains excellent quality even in hot, humid conditions. It's perfect for Asian stir-fries, grilling, and braising dishes.",
+                    "growth_info": {
+                        "growth_mode": "Upright",
+                        "days_to_harvest": {
+                            "lower_estimate": 60,
+                            "higher_estimate": 70
+                        },
+                        "plant_height": "30-36 inches",
+                        "spacing": "24 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "5-7 gallons",
+                        "needs_support": true
+                    },
+                    "appearance": {
+                        "flower_color": "Purple",
+                        "leaf_color": "Green with purple veins"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering, more frequent in hot weather",
+                        "feeding_requirement": "Balanced fertilizer every 2-3 weeks",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "10-15 fruits per plant",
+                        "best_uses": ["Stir-fries", "Grilling", "Braising", "Asian dishes"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Excellent",
+                        "cold_tolerance": "Low",
+                        "frost_tolerance": false,
+                        "drought_tolerance": "Low",
+                        "disease_resistance": ["Good disease resistance", "Heat tolerant"]
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Sweet, mild, tender with no bitterness"
+                    },
+                    "fruit_characteristics": {
+                        "fruit_color": "Dark lavender-purple",
+                        "fruit_weight": "4-6 ounces",
+                        "skin_thickness": "Very thin",
+                        "seed_cavity_size": "Very small",
+                        "storage_quality": "Good for 5-7 days refrigerated",
+                        "crack_resistance": "Good"
+                    },
+                    "fun_fact": "Ping Tung Long is named after Pingtung County in Taiwan and is considered one of the most flavorful and productive Asian eggplant varieties.",
+                    "planting_tip": "Plant Ping Tung Long in warm soil with full sun exposure. This variety is exceptionally productive, so provide sturdy support for the plants. Harvest fruits when they're 10-15 inches long and still glossy. Regular harvesting encourages the plant to produce more fruits throughout the season."
+                },
+                {
+                    "id": 9,
+                    "name": "Antigua",
+                    "description": "Antigua Eggplant is a stunning lavender-pink variety with a unique teardrop shape and beautiful coloring. It produces medium-sized fruits with creamy white flesh that has an exceptionally mild, sweet flavor and tender texture. Antigua is prized for its beautiful appearance, making it a favorite at farmers markets, and it performs consistently across different growing conditions. The plants are compact and well-suited for container growing.",
+                    "growth_info": {
+                        "growth_mode": "Upright",
+                        "days_to_harvest": {
+                            "lower_estimate": 60,
+                            "higher_estimate": 70
+                        },
+                        "plant_height": "24-30 inches",
+                        "spacing": "18-24 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "5 gallons",
+                        "needs_support": true
+                    },
+                    "appearance": {
+                        "flower_color": "Purple",
+                        "leaf_color": "Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering, keep soil consistently moist",
+                        "feeding_requirement": "Balanced fertilizer every 2-3 weeks",
+                        "requires_pruning": true
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "6-8 fruits per plant",
+                        "best_uses": ["Grilling", "Roasting", "Sautéing", "Display"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "High",
+                        "cold_tolerance": "Low",
+                        "frost_tolerance": false,
+                        "drought_tolerance": "Low",
+                        "disease_resistance": ["Tobacco Mosaic Virus", "Good overall disease resistance"]
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Exceptionally mild, sweet, creamy with tender texture"
+                    },
+                    "fruit_characteristics": {
+                        "fruit_color": "Lavender-pink",
+                        "fruit_weight": "8-10 ounces",
+                        "skin_thickness": "Medium",
+                        "seed_cavity_size": "Small",
+                        "storage_quality": "Good for 1 week refrigerated",
+                        "crack_resistance": "Excellent"
+                    },
+                    "fun_fact": "Antigua Eggplant's unique lavender-pink color and classic teardrop shape make it a favorite for ornamental gardens as well as culinary use.",
+                    "planting_tip": "Plant Antigua in rich, well-draining soil with full sun exposure. The compact plants are well-suited for containers and small gardens. Harvest when fruits are glossy and have reached full color - typically 4-6 inches long. The beautiful color makes them perfect for fresh market sales or adding visual appeal to home-cooked dishes."
                 }
             ]
         }
