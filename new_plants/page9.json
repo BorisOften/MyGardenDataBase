@@ -250,6 +250,246 @@
               },
               "fun_fact": "Lucullus chard is named after Lucullus, a wealthy Roman general famous for his lavish feasts, reflecting the culinary elegance this vegetable brings to European cooking traditions.",
               "planting_tip": "Lucullus is an excellent choice for spring and fall gardening and performs well in both seasons. Direct sow seeds 1/2 inch deep or transplant seedlings. Space plants 9-12 inches apart. The distinctive yellow-green leaves make it visually interesting in the garden and on the plate. Keep soil consistently moist and apply mulch to help regulate temperature and moisture. Begin harvesting when leaves are 6-8 inches long by cutting outer stems at the base. The pale yellow stems are particularly tender and cook quickly. This variety is excellent for succession planting for continuous harvest."
+            },
+            {
+              "id": 3,
+              "name": "Ruby Red",
+              "description": "Ruby Red is a stunning chard variety with deep crimson-red stems and dark green leaves with prominent red veining. This colorful variety is both ornamental and productive, offering excellent flavor with slightly earthy, sweet notes. The vibrant red stems retain their color when cooked and add visual drama to any dish or garden bed.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 50,
+                  "higher_estimate": 65
+                },
+                "plant_height": "18-24 inches",
+                "spacing": "8-12 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "10-12 inches deep",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Yellow",
+                "leaf_color": "Dark green with red veining"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering, 1-2 inches per week",
+                "feeding_requirement": "Moderate feeder, apply balanced fertilizer every 4-6 weeks",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "55-75 leaves per square foot",
+                "best_uses": ["Sautéing", "Steaming", "Ornamental gardens", "Fresh eating", "Cooking"]
+              },
+              "tolerances": {
+                "heat_tolerance": "High",
+                "cold_tolerance": "High",
+                "frost_tolerance": true,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": []
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Earthy, slightly sweet with subtle mineral notes and mild flavor"
+              },
+              "leafCropCharacteristics": {
+                "head_type": "Loose leaves on thick red stems",
+                "leaf_texture": "Smooth to slightly crinkled, tender, large",
+                "days_to_maturity": "50-65 days",
+                "bolt_resistance": "Very good"
+              },
+              "fun_fact": "Ruby Red chard's vibrant color comes from betalain pigments, the same compounds found in beets! These antioxidants are believed to have anti-inflammatory properties.",
+              "planting_tip": "Ruby Red chard performs best in full sun where the red coloring is most intense. Direct sow seeds 1/2 inch deep in spring or summer, spacing 8-12 inches apart. The dramatic coloring makes this variety excellent for ornamental edible gardens and containers. Keep soil consistently moist for the most tender leaves. Harvest outer leaves when 6-8 inches long, cutting at the base of the stem. The red stems are beautiful when separated from leaves and sautéed separately. Young leaves can be used raw in salads for a colorful addition."
+            },
+            {
+              "id": 4,
+              "name": "Peppermint",
+              "description": "Peppermint is a striking chard variety featuring candy-cane striped stems in bright pink and white with dark green leaves and pink veining. This eye-catching variety combines ornamental beauty with excellent culinary quality. The stems are tender and sweet, and the overall plant adds a whimsical, colorful element to gardens and dishes alike.",
+              "growth_info": {
+                "growth_mode": "Upright spreading",
+                "days_to_harvest": {
+                  "lower_estimate": 50,
+                  "higher_estimate": 65
+                },
+                "plant_height": "18-22 inches",
+                "spacing": "8-12 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "10 inches deep",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Yellow to pink",
+                "leaf_color": "Dark green with pink veining"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering, 1-2 inches per week",
+                "feeding_requirement": "Moderate feeder, apply balanced fertilizer every 4-6 weeks",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "50-70 leaves per square foot",
+                "best_uses": ["Ornamental display", "Sautéing", "Fresh eating", "Decorative garnish", "Cooking"]
+              },
+              "tolerances": {
+                "heat_tolerance": "High",
+                "cold_tolerance": "High",
+                "frost_tolerance": true,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": []
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Mild, sweet, tender with delicate flavor"
+              },
+              "leafCropCharacteristics": {
+                "head_type": "Loose leaves on pink and white striped stems",
+                "leaf_texture": "Smooth to slightly savoyed, tender, medium to large",
+                "days_to_maturity": "50-65 days",
+                "bolt_resistance": "Very good"
+              },
+              "fun_fact": "Peppermint chard's striped stems look so much like candy canes that it's often planted in children's gardens to make vegetables more appealing and fun to grow and eat!",
+              "planting_tip": "Peppermint chard is as easy to grow as it is beautiful. Direct sow seeds in spring through summer, spacing 8-12 inches apart. This variety thrives in full sun where stem colors are most vibrant. The candy-striped appearance makes it perfect for ornamental containers and edible landscaping. Keep soil consistently moist and harvest outer leaves regularly to encourage continued production. The striking stems are beautiful when displayed whole in cooking. Young leaves work well in raw salads, while mature leaves are excellent sautéed."
+            },
+            {
+              "id": 5,
+              "name": "Perpetual Spinach",
+              "description": "Perpetual Spinach, also called spinach beet or leaf beet, is a chard variety that closely resembles spinach in both appearance and flavor. This variety produces smooth, tender leaves with narrow stems and a mild, spinach-like taste. It's more heat-tolerant than true spinach and provides continuous harvests throughout the growing season, making it an excellent spinach alternative for summer gardens.",
+              "growth_info": {
+                "growth_mode": "Upright compact",
+                "days_to_harvest": {
+                  "lower_estimate": 45,
+                  "higher_estimate": 60
+                },
+                "plant_height": "14-20 inches",
+                "spacing": "6-10 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "10 inches deep",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Yellow to green",
+                "leaf_color": "Medium to dark green"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering, 1-1.5 inches per week",
+                "feeding_requirement": "Moderate feeder, apply balanced fertilizer every 4-6 weeks",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "60-80 leaves per square foot",
+                "best_uses": ["Spinach substitute", "Salads", "Cooking", "Sautéing", "Smoothies"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Very high",
+                "cold_tolerance": "High",
+                "frost_tolerance": true,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": []
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Mild, spinach-like, tender with subtle sweetness"
+              },
+              "leafCropCharacteristics": {
+                "head_type": "Loose leaves on thin stems",
+                "leaf_texture": "Smooth, tender, spinach-like",
+                "days_to_maturity": "45-60 days",
+                "bolt_resistance": "Excellent"
+              },
+              "fun_fact": "Perpetual Spinach is actually a type of chard (Beta vulgaris) rather than true spinach (Spinacia oleracea), but it fooled gardeners for centuries with its spinach-like leaves and flavor!",
+              "planting_tip": "Perpetual Spinach is the solution for gardeners who love spinach but struggle with bolting in warm weather. Direct sow seeds in spring through summer, spacing 6-10 inches apart. This variety thrives in full sun to partial shade and tolerates heat much better than true spinach. Keep soil consistently moist for the most tender, mild-flavored leaves. Begin harvesting outer leaves when 4-6 inches long. Young leaves are excellent raw in salads, while larger leaves work well cooked like spinach. This variety can produce continuously for months with regular harvesting."
+            },
+            {
+              "id": 6,
+              "name": "Rhubarb Chard",
+              "description": "Rhubarb Chard is a beautiful heirloom variety featuring deep red to burgundy stems and dark green, glossy leaves with red veining. This variety resembles rhubarb in appearance and offers rich, earthy flavor with slightly sweet undertones. It's both ornamental and highly productive, making it a favorite for gardens where beauty and function matter equally.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 55,
+                  "higher_estimate": 70
+                },
+                "plant_height": "20-26 inches",
+                "spacing": "9-12 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "12 inches deep",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Yellow",
+                "leaf_color": "Dark green with red veining"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering, 1-2 inches per week",
+                "feeding_requirement": "Moderate to heavy feeder, apply balanced fertilizer every 4 weeks",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "55-75 leaves per square foot",
+                "best_uses": ["Sautéing", "Braising", "Ornamental display", "Cooking", "Soups"]
+              },
+              "tolerances": {
+                "heat_tolerance": "High",
+                "cold_tolerance": "Very high",
+                "frost_tolerance": true,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": []
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Rich, earthy, slightly sweet with deeper flavor than green varieties"
+              },
+              "leafCropCharacteristics": {
+                "head_type": "Loose leaves on thick burgundy-red stems",
+                "leaf_texture": "Smooth to slightly crinkled, tender, large",
+                "days_to_maturity": "55-70 days",
+                "bolt_resistance": "Excellent"
+              },
+              "fun_fact": "Despite its name and appearance, Rhubarb Chard is not related to rhubarb at all! The name comes from the stunning red stems that resemble rhubarb stalks, though chard stems are much more tender.",
+              "planting_tip": "Rhubarb Chard is a vigorous grower that performs well in full sun where the red color intensifies. Direct sow seeds 1/2 inch deep or transplant seedlings, spacing 9-12 inches apart. This heirloom variety is excellent in ornamental borders and edible landscapes. Keep soil consistently moist and provide regular feeding for the best production. Harvest outer leaves when 6-8 inches long. The dramatic red stems are stunning when cooked and hold their color better than some red varieties. This variety continues producing well into fall and can withstand light frosts."
+            },
+            {
+              "id": 7,
+              "name": "Golden Sunrise",
+              "description": "Golden Sunrise is a cheerful chard variety with bright golden-yellow stems and medium green leaves with yellow veining. This variety brings sunshine to the garden with its vibrant coloring while offering tender, mild-flavored leaves and sweet stems. It's less common than red or white varieties but equally productive and visually striking.",
+              "growth_info": {
+                "growth_mode": "Upright spreading",
+                "days_to_harvest": {
+                  "lower_estimate": 50,
+                  "higher_estimate": 65
+                },
+                "plant_height": "18-22 inches",
+                "spacing": "8-12 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "10-12 inches deep",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Yellow",
+                "leaf_color": "Medium green with yellow veining"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering, 1-2 inches per week",
+                "feeding_requirement": "Moderate feeder, apply balanced fertilizer every 4-6 weeks",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "50-70 leaves per square foot",
+                "best_uses": ["Sautéing", "Cooking", "Fresh eating", "Ornamental gardens", "Steaming"]
+              },
+              "tolerances": {
+                "heat_tolerance": "High",
+                "cold_tolerance": "High",
+                "frost_tolerance": true,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": []
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Mild, sweet, tender with delicate, pleasant flavor"
+              },
+              "leafCropCharacteristics": {
+                "head_type": "Loose leaves on bright yellow stems",
+                "leaf_texture": "Smooth to slightly crinkled, tender, medium to large",
+                "days_to_maturity": "50-65 days",
+                "bolt_resistance": "Very good"
+              },
+              "fun_fact": "Golden Sunrise chard's bright yellow stems are particularly high in beta-carotene and bring a cheerful, sunny appearance to both gardens and plates—perfect for brightening up dreary days!",
+              "planting_tip": "Golden Sunrise thrives in full sun where the golden color is most vibrant. Direct sow seeds in spring or summer, spacing 8-12 inches apart. The bright yellow stems make this variety excellent for colorful mixed plantings and containers. Keep soil consistently moist and well-fed for tender, sweet-tasting stems. Harvest outer leaves when 6-8 inches long by cutting at the base. The golden stems are particularly sweet and tender, making them delicious when sautéed separately from the leaves. This variety pairs beautifully with red-stemmed varieties for a colorful display."
             }
           ]
         },
@@ -504,6 +744,251 @@
               },
               "fun_fact": "Purple Passion asparagus contains higher levels of anthocyanins, the same antioxidant compounds found in blueberries and red wine, making it not only beautiful but potentially more nutritious.",
               "planting_tip": "Purple Passion requires the same cultural practices as other asparagus varieties but is somewhat less cold hardy than green varieties, making it better suited to zones 6 and warmer. Plant crowns in well-prepared beds with excellent drainage in early spring. Space 12-18 inches apart and plant 6-8 inches deep. The distinctive purple color is most vibrant in cool weather and fades slightly in hot summers. Do not harvest the first two years. Beginning in year 3, harvest spears when they're 6-8 inches tall for best tenderness. The purple color turns green when steamed or boiled, but grilling preserves some of the purple hue. This variety makes an excellent ornamental as well as productive plant."
+            },
+            {
+              "id": 3,
+              "name": "Jersey Giant",
+              "description": "Jersey Giant is an all-male hybrid asparagus variety developed at Rutgers University, known for producing exceptionally large, thick spears with excellent flavor. This vigorous variety is highly productive and disease-resistant, yielding uniform, dark green spears that are tender and flavorful. Jersey Giant is one of the most reliable commercial and home garden varieties available.",
+              "growth_info": {
+                "growth_mode": "Vertical clumping",
+                "days_to_harvest": {
+                  "lower_estimate": 365,
+                  "higher_estimate": 730
+                },
+                "plant_height": "36-48 inches (foliage in season)",
+                "spacing": "12-18 inches",
+                "is_container_variety": false,
+                "recommended_container_size": "Not suitable for containers",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Greenish-yellow",
+                "leaf_color": "Bright green"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering, 1-2 inches per week during growing season",
+                "feeding_requirement": "Heavy feeder, apply balanced fertilizer in spring and after harvest",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "1.5-2.5 pounds per plant annually after year 3",
+                "best_uses": ["Fresh eating", "Steaming", "Grilling", "Roasting", "Commercial production"]
+              },
+              "tolerances": {
+                "heat_tolerance": "High",
+                "cold_tolerance": "Very high",
+                "frost_tolerance": true,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Rust resistance", "Fusarium wilt resistance", "Crown rot resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Tender, sweet, mild with excellent classic asparagus flavor"
+              },
+              "rootCharacteristics": {
+                "root_color": "White to cream",
+                "root_shape": "Deep extensive rhizome system",
+                "root_size": "Very large, vigorous crown system",
+                "texture": "Robust fibrous roots with strong crowns",
+                "storage_life": "Long-lived perennial, 20+ years"
+              },
+              "fun_fact": "Jersey Giant produces spears so thick and uniform that it's a favorite among commercial growers—some spears can be as thick as a quarter! It's part of the famous 'Jersey' series developed at Rutgers University.",
+              "planting_tip": "Jersey Giant thrives in full sun with deep, well-draining soil rich in organic matter. Plant crowns in early spring in trenches 8-10 inches deep, spacing 12-18 inches apart. Cover initially with 2-3 inches of soil and gradually fill as shoots emerge. This variety's vigor means it can produce harvestable spears slightly earlier than other varieties—lightly harvest in year 3 for 3-4 weeks, then extend to 8-10 weeks from year 4 onward. Apply heavy mulch and feed generously after harvest season. The thick spears are best harvested when 6-8 inches tall for optimal tenderness."
+            },
+            {
+              "id": 4,
+              "name": "Millennium",
+              "description": "Millennium is a modern all-male hybrid asparagus variety bred for exceptional cold hardiness and disease resistance. This variety produces high yields of medium to large, dark green spears with excellent flavor and tenderness. Millennium performs exceptionally well in northern climates and has superior tolerance to asparagus diseases, making it one of the most reliable varieties for challenging growing conditions.",
+              "growth_info": {
+                "growth_mode": "Vertical clumping",
+                "days_to_harvest": {
+                  "lower_estimate": 365,
+                  "higher_estimate": 730
+                },
+                "plant_height": "30-40 inches (foliage in season)",
+                "spacing": "12-18 inches",
+                "is_container_variety": false,
+                "recommended_container_size": "Not suitable for containers",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Greenish-yellow",
+                "leaf_color": "Medium to bright green"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering, 1-2 inches per week during growing season",
+                "feeding_requirement": "Heavy feeder, apply balanced fertilizer in spring and after harvest",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "1.25-2 pounds per plant annually after year 3",
+                "best_uses": ["Fresh eating", "Steaming", "Grilling", "Freezing", "Northern gardens"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Moderate to high",
+                "cold_tolerance": "Exceptional",
+                "frost_tolerance": true,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Superior rust resistance", "Fusarium resistance", "Crown rot resistance", "Excellent overall disease package"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Sweet, tender, mild with pleasant classic flavor"
+              },
+              "rootCharacteristics": {
+                "root_color": "White to pale tan",
+                "root_shape": "Deep vigorous rhizome system",
+                "root_size": "Strong, well-developed crown system",
+                "texture": "Robust fibrous roots, very hardy",
+                "storage_life": "Extremely long-lived perennial, 25+ years"
+              },
+              "fun_fact": "Millennium asparagus was specifically bred to thrive in the coldest asparagus-growing regions and is one of the few varieties that performs reliably in zone 3, making it a game-changer for northern gardeners!",
+              "planting_tip": "Millennium is ideal for cold-climate gardeners in zones 3-8. Plant crowns in early spring as soon as soil can be worked, in trenches 6-8 inches deep with 12-18 inches spacing. This variety's exceptional cold hardiness means it breaks dormancy reliably even after harsh winters. Plant in full sun with well-amended soil for best results. The superior disease resistance makes Millennium particularly valuable in areas with asparagus disease pressure. Do not harvest for the first two years, then harvest lightly in year 3. Mulch heavily in fall to protect crowns in coldest climates."
+            },
+            {
+              "id": 5,
+              "name": "UC 157",
+              "description": "UC 157 is a heat-tolerant asparagus variety developed by the University of California specifically for warmer climates. This all-male hybrid produces consistent yields of medium-sized, green spears with excellent flavor even in regions where traditional varieties struggle. UC 157 has good disease resistance and performs reliably in mild-winter, hot-summer climates.",
+              "growth_info": {
+                "growth_mode": "Vertical clumping",
+                "days_to_harvest": {
+                  "lower_estimate": 365,
+                  "higher_estimate": 730
+                },
+                "plant_height": "28-36 inches (foliage in season)",
+                "spacing": "12-18 inches",
+                "is_container_variety": false,
+                "recommended_container_size": "Not suitable for containers",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Greenish-yellow",
+                "leaf_color": "Medium green"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering, 1.5-2 inches per week, especially in hot weather",
+                "feeding_requirement": "Heavy feeder, apply balanced fertilizer in spring and after harvest",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "1-1.75 pounds per plant annually after year 3",
+                "best_uses": ["Fresh eating", "Steaming", "Sautéing", "Warm climate production"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Exceptional",
+                "cold_tolerance": "Moderate",
+                "frost_tolerance": true,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Fusarium resistance", "Good heat stress tolerance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Mild, tender, pleasant with good flavor even in warm conditions"
+              },
+              "rootCharacteristics": {
+                "root_color": "White to tan",
+                "root_shape": "Moderate depth rhizome system",
+                "root_size": "Well-adapted crown system for warm climates",
+                "texture": "Fibrous, heat-tolerant root structure",
+                "storage_life": "Long-lived perennial, 15-20 years"
+              },
+              "fun_fact": "UC 157 is one of the few asparagus varieties that can produce reliably in California's Central Valley and other hot-summer regions where traditional cold-loving varieties fail to thrive!",
+              "planting_tip": "UC 157 is specifically suited for zones 7-10 and warm-climate regions with mild winters. Plant crowns in late winter or early spring in well-draining soil amended with organic matter. Space 12-18 inches apart in trenches 6-8 inches deep. This variety requires less winter chill than traditional varieties, making it ideal for Mediterranean and warm climates. Provide consistent moisture during hot weather and mulch heavily to keep roots cool. In very hot climates, afternoon shade can be beneficial. Harvest spears when 6-8 inches tall before tips begin to open."
+            },
+            {
+              "id": 6,
+              "name": "Precoce d'Argenteuil",
+              "description": "Precoce d'Argenteuil is a treasured French heirloom asparagus variety dating back to the 1800s, renowned for producing thick, white spears with purple-tinged tips when grown using traditional blanching methods. This variety has exceptional flavor and is prized in European cuisine for its tender, sweet spears. It can be grown as green or white asparagus depending on cultivation method.",
+              "growth_info": {
+                "growth_mode": "Vertical clumping",
+                "days_to_harvest": {
+                  "lower_estimate": 365,
+                  "higher_estimate": 730
+                },
+                "plant_height": "32-44 inches (foliage in season)",
+                "spacing": "14-20 inches",
+                "is_container_variety": false,
+                "recommended_container_size": "Not suitable for containers",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Greenish-yellow",
+                "leaf_color": "Bright green, delicate ferns"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering, 1-2 inches per week during growing season",
+                "feeding_requirement": "Heavy feeder, apply balanced fertilizer in spring and after harvest",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "1-1.5 pounds per plant annually after year 3",
+                "best_uses": ["Gourmet cooking", "White asparagus production", "French cuisine", "Fresh eating"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Moderate",
+                "cold_tolerance": "Very high",
+                "frost_tolerance": true,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Moderate disease resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Exceptionally sweet, tender, delicate with refined flavor and minimal bitterness"
+              },
+              "rootCharacteristics": {
+                "root_color": "White to pale tan",
+                "root_shape": "Deep rhizome system",
+                "root_size": "Well-developed crown system",
+                "texture": "Fibrous, traditional root structure",
+                "storage_life": "Long-lived perennial, 15-20 years"
+              },
+              "fun_fact": "Precoce d'Argenteuil is the traditional variety used for producing white asparagus in France and Germany! The spears are mounded with soil to blanch them, creating the pale, tender spears prized in European haute cuisine.",
+              "planting_tip": "Precoce d'Argenteuil can be grown as green asparagus using standard methods or as white asparagus using traditional blanching. For green asparagus, plant crowns 6-8 inches deep in early spring with 14-20 inches spacing. For white asparagus production, mound 8-12 inches of soil over the planting area in spring and harvest spears when they just begin to emerge from the mound. This labor-intensive method produces the prized white spears. This variety performs best in zones 4-8 with cold winters. The thick spears and exceptional flavor make the extra effort worthwhile for gourmet gardeners."
+            },
+            {
+              "id": 7,
+              "name": "Atlas",
+              "description": "Atlas is a robust all-male hybrid asparagus variety developed for exceptional productivity and uniformity. This variety produces abundant, thick, dark green spears with tight tips and excellent flavor. Atlas has strong disease resistance and vigorous growth, making it a reliable choice for both commercial production and home gardens seeking maximum yields.",
+              "growth_info": {
+                "growth_mode": "Vertical clumping",
+                "days_to_harvest": {
+                  "lower_estimate": 365,
+                  "higher_estimate": 730
+                },
+                "plant_height": "36-48 inches (foliage in season)",
+                "spacing": "12-18 inches",
+                "is_container_variety": false,
+                "recommended_container_size": "Not suitable for containers",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Greenish-yellow",
+                "leaf_color": "Dark green"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering, 1-2 inches per week during growing season",
+                "feeding_requirement": "Heavy feeder, apply balanced fertilizer in spring and after harvest",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "1.5-2.5 pounds per plant annually after year 3",
+                "best_uses": ["Fresh eating", "Commercial production", "Steaming", "Grilling", "Freezing"]
+              },
+              "tolerances": {
+                "heat_tolerance": "High",
+                "cold_tolerance": "Very high",
+                "frost_tolerance": true,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Rust resistance", "Fusarium wilt resistance", "Excellent disease package"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Sweet, tender, classic asparagus flavor with excellent quality"
+              },
+              "rootCharacteristics": {
+                "root_color": "White to cream",
+                "root_shape": "Deep extensive rhizome system",
+                "root_size": "Large, vigorous crown system",
+                "texture": "Very robust fibrous roots with strong crowns",
+                "storage_life": "Long-lived perennial, 20+ years"
+              },
+              "fun_fact": "Atlas asparagus is named for the Greek Titan who held up the sky, reflecting this variety's exceptional strength, vigor, and ability to support heavy yields year after year!",
+              "planting_tip": "Atlas performs best in full sun with deep, fertile, well-draining soil rich in organic matter. Plant crowns in early spring in trenches 8-10 inches deep, spacing 12-18 inches apart. This variety's exceptional vigor means it establishes quickly and can begin light harvesting in year 3. From year 4 onward, harvest for 8-10 weeks, cutting spears when 6-8 inches tall. The thick, uniform spears make Atlas excellent for freezing and commercial production. Apply heavy mulch and fertilize generously in spring and after harvest season. Cut back ferns in fall after they turn yellow. Atlas is suitable for zones 3-8."
             }
           ]
         }
