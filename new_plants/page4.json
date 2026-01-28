@@ -2773,6 +2773,256 @@
               },
               "fun_fact": "Wando Pea is named after the Wando River in South Carolina. Its heat-tolerance and consistent performance have made it a popular choice for Southern gardeners.",
               "planting_tip": "For successful cultivation of Wando Pea, provide well-drained soil and support for the climbing vines. Water consistently, especially during warmer periods. Harvest when the pods are well-filled, and the peas are tender. Consider succession planting for continuous harvest throughout the growing season."
+            },
+            {
+              "id": 4,
+              "name": "Oregon Sugar Pod II",
+              "description": "Oregon Sugar Pod II is a premium snow pea variety producing abundant, tender, flat pods with exceptional sweetness. This improved selection features disease-resistant vines that produce early and heavily. The crisp, stringless pods are harvested young when flat and eaten whole, pod and all. Oregon Sugar Pod II is perfect for stir-fries, salads, and fresh eating. With climbing vines and excellent cold tolerance, it's a reliable choice for cool-season gardens and provides weeks of continuous harvest.",
+              "growth_info": {
+                "growth_mode": "Climbing",
+                "days_to_harvest": {
+                  "lower_estimate": 60,
+                  "higher_estimate": 70
+                },
+                "plant_height": "24-30 inches",
+                "spacing": "4-6 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "12-inch deep container minimum with trellis",
+                "needs_support": true
+              },
+              "appearance": {
+                "flower_color": "Purple-pink",
+                "leaf_color": "Green"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering - keep soil consistently moist, especially during flowering",
+                "feeding_requirement": "Light feeding - peas fix their own nitrogen, avoid excess nitrogen",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "0.3-0.5 ounce per pod, very prolific",
+                "best_uses": ["Stir-fries", "Fresh Eating", "Salads", "Asian Cuisine"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Poor",
+                "cold_tolerance": "Excellent",
+                "frost_tolerance": true,
+                "drought_tolerance": "Low",
+                "disease_resistance": ["Powdery Mildew", "Pea Enation Mosaic Virus"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Sweet, crisp, and tender - mild pea flavor, stringless"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Bright green",
+                "fruit_weight": "0.3-0.5 ounce",
+                "skin_thickness": "Very thin and tender - eat whole with pod",
+                "seed_cavity_size": "Very small - flat pods harvested before peas develop",
+                "storage_quality": "Good - 5-7 days refrigerated",
+                "crack_resistance": "Good"
+              },
+              "fun_fact": "Did you know? Oregon Sugar Pod II is an improved variety of the classic Oregon Sugar Pod, bred for better disease resistance and heavier yields! Snow peas are harvested flat before the peas inside develop, making the entire pod edible. They're a staple in Asian cuisine and stir-fries!",
+              "planting_tip": "Plant Oregon Sugar Pod II seeds 1-2 inches deep in cool soil (as early as 4-6 weeks before last frost). Provide trellis or support for climbing vines. Water consistently. Harvest pods when flat and 2-3 inches long, before peas inside develop. Pick every 1-2 days to encourage continuous production. The more you harvest, the more it produces! Excellent for succession planting."
+            },
+            {
+              "id": 5,
+              "name": "Cascadia",
+              "description": "Cascadia is a premium snap pea variety bred specifically for disease resistance and exceptional flavor. This modern hybrid produces thick, crunchy pods with outstanding sweetness that surpasses even Sugar Snap. Cascadia features short, bushy vines that require minimal support, making it perfect for small gardens and containers. The stringless pods are enjoyed whole and provide concentrated harvests over a shorter period. Developed at Oregon State University, Cascadia combines convenience with gourmet quality.",
+              "growth_info": {
+                "growth_mode": "Semi-bush, compact",
+                "days_to_harvest": {
+                  "lower_estimate": 58,
+                  "higher_estimate": 68
+                },
+                "plant_height": "24-30 inches",
+                "spacing": "4-6 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "12-inch deep container minimum",
+                "needs_support": true
+              },
+              "appearance": {
+                "flower_color": "White",
+                "leaf_color": "Green"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering - consistent moisture for sweet, tender pods",
+                "feeding_requirement": "Light feeding - peas fix their own nitrogen",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "0.5-1 ounce per pod",
+                "best_uses": ["Fresh Eating", "Snacking", "Stir-fries", "Salads"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Poor",
+                "cold_tolerance": "Excellent",
+                "frost_tolerance": true,
+                "drought_tolerance": "Low",
+                "disease_resistance": ["Powdery Mildew", "Pea Enation Mosaic Virus", "Downy Mildew"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Exceptionally sweet and crunchy - superior flavor to standard snap peas, stringless"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Medium green",
+                "fruit_weight": "0.5-1 ounce",
+                "skin_thickness": "Medium - thick, crunchy, edible whole",
+                "seed_cavity_size": "Small to medium - eat whole with pod",
+                "storage_quality": "Excellent - 1-2 weeks refrigerated",
+                "crack_resistance": "Excellent"
+              },
+              "fun_fact": "Did you know? Cascadia was bred at Oregon State University and is considered by many to be the best-tasting snap pea available - even sweeter than Sugar Snap! Its compact vines and excellent disease resistance make it perfect for home gardens. The thick, crunchy pods have superior texture and sweetness.",
+              "planting_tip": "Plant Cascadia seeds 1-2 inches deep in cool soil 4-6 weeks before last frost. Compact vines need minimal support - just short stakes or pea netting. Water consistently for best flavor. Harvest when pods are plump and bright green. The concentrated harvest makes this perfect for succession planting every 2 weeks. Excellent disease resistance means reliable harvests!"
+            },
+            {
+              "id": 6,
+              "name": "Tom Thumb",
+              "description": "Tom Thumb is an heirloom dwarf pea variety dating back to the 1850s, perfect for small gardens, containers, and children's gardens. This ultra-compact variety grows only 8-10 inches tall and requires no support, making it ideal for front-of-border plantings and window boxes. Despite its diminutive size, Tom Thumb produces sweet, tender shelling peas with classic pea flavor. The tiny plants are charming and productive, perfect for those with limited space or for introducing children to vegetable gardening.",
+              "growth_info": {
+                "growth_mode": "Dwarf bush",
+                "days_to_harvest": {
+                  "lower_estimate": 50,
+                  "higher_estimate": 60
+                },
+                "plant_height": "8-10 inches",
+                "spacing": "3-4 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "6-8 inch deep container",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "White",
+                "leaf_color": "Green"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering - keep soil consistently moist",
+                "feeding_requirement": "Light feeding - peas fix their own nitrogen",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "0.2-0.4 ounce per pod",
+                "best_uses": ["Fresh Eating", "Container Growing", "Children's Gardens", "Small Spaces"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Poor",
+                "cold_tolerance": "Excellent",
+                "frost_tolerance": true,
+                "drought_tolerance": "Low",
+                "disease_resistance": []
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Sweet, tender, classic pea flavor"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Green",
+                "fruit_weight": "0.2-0.4 ounce",
+                "skin_thickness": "Thin - shell before eating",
+                "seed_cavity_size": "Small - 3-5 peas per pod",
+                "storage_quality": "Good - best used fresh within a few days",
+                "crack_resistance": "Good"
+              },
+              "fun_fact": "Did you know? Tom Thumb has been grown since the 1850s and is one of the oldest pea varieties still available! At only 8-10 inches tall, it's the perfect pea for containers, window boxes, and children's gardens. No support needed! Despite its tiny size, it produces surprisingly well.",
+              "planting_tip": "Plant Tom Thumb seeds 1 inch deep in cool soil 4-6 weeks before last frost. Perfect for containers, window boxes, and small spaces! Space plants 3-4 inches apart. No support needed - plants are self-supporting. Water consistently. Harvest when pods are plump. The tiny plants and early harvest make this perfect for succession planting. Great for teaching children about growing vegetables!"
+            },
+            {
+              "id": 7,
+              "name": "Maestro",
+              "description": "Maestro is a modern shelling pea variety bred for exceptional productivity, disease resistance, and concentrated harvest. This improved variety produces abundant, dark green pods filled with 9-11 plump, sweet peas. Maestro features excellent powdery mildew resistance and consistent performance in various conditions. The climbing vines set heavy crops over a concentrated period, making it perfect for preserving. With superior flavor and reliability, Maestro is popular among both home gardeners and market growers.",
+              "growth_info": {
+                "growth_mode": "Climbing",
+                "days_to_harvest": {
+                  "lower_estimate": 60,
+                  "higher_estimate": 70
+                },
+                "plant_height": "24-36 inches",
+                "spacing": "4-6 inches",
+                "is_container_variety": false,
+                "recommended_container_size": "Not suitable for containers",
+                "needs_support": true
+              },
+              "appearance": {
+                "flower_color": "White",
+                "leaf_color": "Dark green"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering - especially during flowering and pod-filling",
+                "feeding_requirement": "Light feeding - peas fix their own nitrogen",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "0.8-1.2 ounces per pod, very productive",
+                "best_uses": ["Fresh Eating", "Freezing", "Canning", "Cooking"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Poor",
+                "cold_tolerance": "Excellent",
+                "frost_tolerance": true,
+                "drought_tolerance": "Low",
+                "disease_resistance": ["Powdery Mildew", "Fusarium Wilt", "Downy Mildew"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Very sweet, tender, rich pea flavor - excellent fresh or frozen"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Dark green",
+                "fruit_weight": "0.8-1.2 ounces",
+                "skin_thickness": "Medium - shell before eating",
+                "seed_cavity_size": "Large - 9-11 peas per pod",
+                "storage_quality": "Excellent - freezes exceptionally well",
+                "crack_resistance": "Excellent"
+              },
+              "fun_fact": "Did you know? Maestro produces pods with 9-11 peas each - more than most shelling pea varieties! It was bred for commercial production but is perfect for home gardeners who want to freeze or preserve large quantities. The concentrated harvest and excellent disease resistance make it very reliable.",
+              "planting_tip": "Plant Maestro seeds 1-2 inches deep in cool soil 4-6 weeks before last frost. Provide sturdy trellis or support for productive vines. Water consistently, especially during flowering and pod development. Harvest when pods are plump and well-filled but still bright green. Perfect for large harvests and preserving - the concentrated crop makes processing easier! Excellent for market gardens."
+            },
+            {
+              "id": 8,
+              "name": "Golden Sweet",
+              "description": "Golden Sweet is a stunning and unique snow pea variety with beautiful golden-yellow pods that add both color and flavor to gardens and plates. This novelty variety produces tender, sweet, edible pods that are best harvested young when the color is most vibrant. Golden Sweet combines ornamental beauty with culinary value - the golden pods are eye-catching in stir-fries and salads. The climbing vines and purple-pink flowers make this an attractive edible landscape plant. A conversation starter that's as delicious as it is beautiful.",
+              "growth_info": {
+                "growth_mode": "Climbing",
+                "days_to_harvest": {
+                  "lower_estimate": 65,
+                  "higher_estimate": 75
+                },
+                "plant_height": "48-60 inches",
+                "spacing": "4-6 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "14-16 inch deep container with tall trellis",
+                "needs_support": true
+              },
+              "appearance": {
+                "flower_color": "Purple-pink (ornamental)",
+                "leaf_color": "Green"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering - consistent moisture for tender pods and good color",
+                "feeding_requirement": "Light feeding - peas fix their own nitrogen",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "0.3-0.5 ounce per pod",
+                "best_uses": ["Fresh Eating", "Stir-fries", "Salads", "Ornamental", "Garnishes"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Poor",
+                "cold_tolerance": "Excellent",
+                "frost_tolerance": true,
+                "drought_tolerance": "Low",
+                "disease_resistance": []
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Sweet, tender, mild pea flavor - similar to green snow peas with added visual appeal"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Golden yellow",
+                "fruit_weight": "0.3-0.5 ounce",
+                "skin_thickness": "Thin and tender - eat whole with pod",
+                "seed_cavity_size": "Very small - flat pods harvested young",
+                "storage_quality": "Good - best used fresh within 5 days",
+                "crack_resistance": "Good"
+              },
+              "fun_fact": "Did you know? Golden Sweet peas are easy to spot during harvest - the bright yellow pods stand out against the green foliage, making it impossible to miss any! They add beautiful color to stir-fries and salads. The pods turn green when cooked, but stay yellow when eaten raw. Perfect for adding visual interest to the garden and plate!",
+              "planting_tip": "Plant Golden Sweet seeds 1-2 inches deep in cool soil 4-6 weeks before last frost. Provide tall, sturdy trellis (vines can reach 5 feet). Water consistently. Harvest pods when flat and 2-3 inches long while still bright yellow for best color and tenderness. The purple-pink flowers and golden pods make this an edible ornamental! Great conversation starter in the garden."
             }
           ]
         }
