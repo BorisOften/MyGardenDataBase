@@ -155,6 +155,496 @@
                     },
                     "fun_fact": "Radishes are one of the fastest-growing vegetables and can be ready for harvest in as little as three weeks from planting.",
                     "planting_tip": "For successful cultivation of Cherry Belle Radish, direct sow seeds in well-draining soil with moderate fertility. Plant in a sunny location for optimal growth. Keep the soil consistently moist to encourage rapid root development. Radishes are best harvested when they are young and tender. Consider successive plantings for a continuous harvest throughout the growing season."
+                },
+                {
+                    "id": 1,
+                    "name": "French Breakfast",
+                    "description": "French Breakfast Radish is a classic European heirloom variety known for its elongated cylindrical shape with a vibrant red top that fades to white at the tip. It has a mild, crisp flavor that's less peppery than many radishes, making it perfect for eating fresh with butter and salt in the traditional French style. This fast-growing variety is ideal for successive plantings and adds elegant color to salads and crudité platters.",
+                    "growth_info": {
+                        "growth_mode": "Compact",
+                        "days_to_harvest": {
+                            "lower_estimate": 22,
+                            "higher_estimate": 28
+                        },
+                        "plant_height": "4-6 inches",
+                        "spacing": "1-2 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "6-8 inches deep",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "White",
+                        "leaf_color": "Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering, keep soil consistently moist",
+                        "feeding_requirement": "Moderate fertility, light fertilizer if needed",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "12-20 radishes per square foot",
+                        "best_uses": ["Fresh eating with butter", "Salads", "Crudités", "Garnishes"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Low",
+                        "cold_tolerance": "High",
+                        "frost_tolerance": true,
+                        "drought_tolerance": "Low",
+                        "disease_resistance": []
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Mild, crisp, slightly sweet with gentle peppery notes"
+                    },
+                    "root_characteristics": {
+                        "root_color": "Red top fading to white tip",
+                        "root_shape": "Cylindrical, elongated",
+                        "root_size": "2-3 inches long, 3/4 inch diameter",
+                        "texture": "Crisp and tender",
+                        "storage_life": "1-2 weeks refrigerated"
+                    },
+                    "fun_fact": "French Breakfast radishes are traditionally served in France as a breakfast or appetizer with fresh butter and sea salt, a simple preparation that highlights their mild, crisp flavor.",
+                    "planting_tip": "Direct sow French Breakfast radishes in cool weather for best results. Plant seeds 1/2 inch deep and thin to proper spacing once seedlings emerge. Harvest when roots are 2-3 inches long for optimal flavor and texture. These radishes can become woody if left in the ground too long, so check them frequently."
+                },
+                {
+                    "id": 2,
+                    "name": "Watermelon",
+                    "description": "Watermelon Radish, also known as Red Meat or Beauty Heart, is a stunning Chinese heirloom variety with pale green to white skin that conceals a vibrant pink to magenta interior. The color intensifies toward the center, resembling a watermelon when sliced. It has a mild, slightly sweet flavor with less heat than traditional radishes. This variety is prized for adding dramatic color to salads and pickles and is often sliced thin to showcase its beautiful interior.",
+                    "growth_info": {
+                        "growth_mode": "Compact",
+                        "days_to_harvest": {
+                            "lower_estimate": 50,
+                            "higher_estimate": 65
+                        },
+                        "plant_height": "6-8 inches",
+                        "spacing": "2-3 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "8-10 inches deep",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "White to pale purple",
+                        "leaf_color": "Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering, consistent moisture important",
+                        "feeding_requirement": "Moderate to rich fertility for larger roots",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "8-12 radishes per square foot",
+                        "best_uses": ["Salads", "Pickling", "Roasting", "Garnishes"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Moderate",
+                        "cold_tolerance": "Excellent",
+                        "frost_tolerance": true,
+                        "drought_tolerance": "Low",
+                        "disease_resistance": ["Good cold weather disease resistance"]
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Mild, slightly sweet, crisp with minimal heat"
+                    },
+                    "root_characteristics": {
+                        "root_color": "White-green exterior, vibrant pink-magenta interior",
+                        "root_shape": "Round to slightly elongated",
+                        "root_size": "2-4 inches diameter",
+                        "texture": "Crisp and juicy",
+                        "storage_life": "2-3 weeks refrigerated"
+                    },
+                    "fun_fact": "Watermelon Radish's stunning interior color develops most vibrantly in cool weather, making it a perfect fall crop. The color is so dramatic that it's often used as an edible garnish in high-end restaurants.",
+                    "planting_tip": "Plant Watermelon radishes in late summer for fall harvest, as they develop the best color and flavor in cool weather. Space seeds 2-3 inches apart and provide consistent moisture. These radishes take longer to mature than spring varieties, so be patient. Harvest when roots are 2-4 inches in diameter for the best flavor and texture."
+                },
+                {
+                    "id": 3,
+                    "name": "Easter Egg",
+                    "description": "Easter Egg Radish is a delightful mix variety that produces round radishes in an array of colors including pink, purple, red, white, and bi-colors. Each root is a surprise, making harvest fun for gardeners of all ages. These radishes have a mild, crisp flavor and uniform maturity despite their color variation. Easter Egg radishes are perfect for adding color variety to salads and vegetable platters and are excellent for introducing children to gardening.",
+                    "growth_info": {
+                        "growth_mode": "Compact",
+                        "days_to_harvest": {
+                            "lower_estimate": 25,
+                            "higher_estimate": 30
+                        },
+                        "plant_height": "4-6 inches",
+                        "spacing": "1-2 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "6 inches deep",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "White",
+                        "leaf_color": "Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering, keep soil consistently moist",
+                        "feeding_requirement": "Moderate fertility, light fertilizer if needed",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "15-25 radishes per square foot",
+                        "best_uses": ["Salads", "Snacking", "Vegetable platters", "Children's gardens"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Low",
+                        "cold_tolerance": "High",
+                        "frost_tolerance": true,
+                        "drought_tolerance": "Low",
+                        "disease_resistance": []
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Crisp, mild, slightly peppery with consistent flavor across colors"
+                    },
+                    "root_characteristics": {
+                        "root_color": "Mixed colors: pink, purple, red, white, and bi-colors",
+                        "root_shape": "Round",
+                        "root_size": "3/4 to 1 inch diameter",
+                        "texture": "Crisp and crunchy",
+                        "storage_life": "1-2 weeks refrigerated"
+                    },
+                    "fun_fact": "Easter Egg radishes are named for their colorful appearance that resembles Easter eggs. Each plant produces radishes in different colors, making every harvest a colorful surprise!",
+                    "planting_tip": "Direct sow Easter Egg radish seeds in early spring or fall for best results. Plant in well-draining soil with full sun to partial shade. Thin seedlings to 1-2 inches apart once they emerge. For continuous harvest, make successive sowings every 10-14 days. The variety of colors develops consistently, so you'll get a rainbow mix in each planting."
+                },
+                {
+                    "id": 4,
+                    "name": "Daikon",
+                    "description": "Daikon Radish, also known as Japanese White Radish or Mooli, is a large, mild-flavored Asian variety that produces long, white cylindrical roots. It has crisp, juicy flesh with a milder flavor than European radishes, making it versatile for both raw and cooked applications. Daikon is essential in Asian cuisine and can be eaten fresh, pickled, cooked in soups and stews, or grated as a condiment. This variety requires more growing time than spring radishes but produces substantial roots.",
+                    "growth_info": {
+                        "growth_mode": "Compact",
+                        "days_to_harvest": {
+                            "lower_estimate": 50,
+                            "higher_estimate": 70
+                        },
+                        "plant_height": "12-18 inches",
+                        "spacing": "4-6 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "12-18 inches deep",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "White to pale purple",
+                        "leaf_color": "Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering, consistent moisture for even growth",
+                        "feeding_requirement": "Moderate to rich fertility, balanced fertilizer",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "4-6 radishes per square foot",
+                        "best_uses": ["Asian dishes", "Pickling", "Soups", "Stir-fries", "Grated condiment"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Moderate",
+                        "cold_tolerance": "Excellent",
+                        "frost_tolerance": true,
+                        "drought_tolerance": "Low",
+                        "disease_resistance": ["Good disease resistance"]
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Mild, crisp, slightly sweet with subtle peppery notes"
+                    },
+                    "root_characteristics": {
+                        "root_color": "White",
+                        "root_shape": "Long cylindrical",
+                        "root_size": "12-18 inches long, 2-3 inches diameter",
+                        "texture": "Crisp, juicy, and dense",
+                        "storage_life": "2-4 weeks refrigerated, several months in root cellar"
+                    },
+                    "fun_fact": "Daikon radishes can grow to impressive sizes - some varieties in Japan have been known to reach over 3 feet long and weigh more than 50 pounds! The name 'daikon' literally means 'large root' in Japanese.",
+                    "planting_tip": "Plant Daikon radish in late summer or early fall for best results, as it prefers cool weather for root development. Ensure deep, loose soil free of rocks and debris to allow for straight root growth. Space seeds 4-6 inches apart and thin if needed. Daikon can also be used as a cover crop to break up compacted soil with its deep taproot."
+                },
+                {
+                    "id": 5,
+                    "name": "Black Spanish Round",
+                    "description": "Black Spanish Round Radish is a hardy winter variety with distinctive black skin and crisp white interior flesh. This heirloom radish has a robust, pungent flavor that's more intense than spring radishes, making it excellent for those who enjoy bold flavors. Black Spanish radishes have excellent storage capabilities and become sweeter after exposure to frost. They're traditionally used in European cuisine, particularly in Germany and Eastern Europe, where they're enjoyed raw with salt or cooked in hearty winter dishes.",
+                    "growth_info": {
+                        "growth_mode": "Compact",
+                        "days_to_harvest": {
+                            "lower_estimate": 50,
+                            "higher_estimate": 60
+                        },
+                        "plant_height": "8-12 inches",
+                        "spacing": "3-4 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "10-12 inches deep",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "White",
+                        "leaf_color": "Dark green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering, especially during root development",
+                        "feeding_requirement": "Moderate fertility, balanced fertilizer",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "6-10 radishes per square foot",
+                        "best_uses": ["Raw with salt", "Pickling", "Roasting", "Winter storage"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Moderate",
+                        "cold_tolerance": "Excellent",
+                        "frost_tolerance": true,
+                        "drought_tolerance": "Moderate",
+                        "disease_resistance": ["Excellent disease resistance", "Very cold hardy"]
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Robust, pungent, spicy with earthy notes; sweetens after frost"
+                    },
+                    "root_characteristics": {
+                        "root_color": "Black exterior, white interior",
+                        "root_shape": "Round to slightly flattened",
+                        "root_size": "3-4 inches diameter",
+                        "texture": "Dense, crisp, and firm",
+                        "storage_life": "3-6 months in cool storage"
+                    },
+                    "fun_fact": "Black Spanish radishes have been cultivated since the 16th century and were once considered a valuable winter food source in Europe due to their excellent storage capabilities and nutritional value.",
+                    "planting_tip": "Plant Black Spanish Round radishes in mid to late summer for fall and winter harvest. They prefer cool weather and actually improve in flavor after exposure to light frost. Provide deep, loose soil for proper root development. These radishes can be stored in a root cellar or refrigerator for months, making them an excellent winter vegetable. Harvest before the ground freezes hard."
+                },
+                {
+                    "id": 6,
+                    "name": "Icicle",
+                    "description": "Icicle Radish, also known as White Icicle or Lady Finger, is a classic white heirloom variety with long, tapered roots resembling icicles. It has mild, crisp flesh with a delicate, slightly sweet flavor that's less peppery than red radishes. Icicle radishes remain crisp and mild even as they grow larger, making them forgiving for gardeners. They're excellent for fresh eating, pickling, and adding a mild radish flavor to salads without overpowering other ingredients.",
+                    "growth_info": {
+                        "growth_mode": "Compact",
+                        "days_to_harvest": {
+                            "lower_estimate": 25,
+                            "higher_estimate": 35
+                        },
+                        "plant_height": "6-8 inches",
+                        "spacing": "2-3 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "8-10 inches deep",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "White",
+                        "leaf_color": "Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering, keep soil consistently moist",
+                        "feeding_requirement": "Moderate fertility, light fertilizer if needed",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "10-15 radishes per square foot",
+                        "best_uses": ["Fresh eating", "Salads", "Pickling", "Sandwiches"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Moderate",
+                        "cold_tolerance": "High",
+                        "frost_tolerance": true,
+                        "drought_tolerance": "Low",
+                        "disease_resistance": []
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Mild, crisp, slightly sweet with gentle bite"
+                    },
+                    "root_characteristics": {
+                        "root_color": "Pure white",
+                        "root_shape": "Long tapered, carrot-like",
+                        "root_size": "4-6 inches long, 3/4 inch diameter",
+                        "texture": "Crisp and crunchy",
+                        "storage_life": "1-2 weeks refrigerated"
+                    },
+                    "fun_fact": "Icicle radishes were introduced to America in the 1860s and quickly became popular for their mild flavor and ability to stay tender even when mature, unlike many radishes that become pithy.",
+                    "planting_tip": "Direct sow Icicle radish seeds in early spring or fall. Plant seeds 1/2 inch deep and thin to 2-3 inches apart. These radishes are more heat-tolerant than many varieties and hold their quality longer without becoming woody. Harvest when roots are 4-6 inches long for best texture and flavor."
+                },
+                {
+                    "id": 7,
+                    "name": "Champion",
+                    "description": "Champion Radish is a reliable round variety known for its uniform size, bright red color, and consistent performance. It produces smooth, globe-shaped roots with crisp white flesh and a classic radish flavor that's moderately peppery. Champion is prized for its slow-bolting characteristics and ability to hold well in the ground without becoming pithy or hollow. This variety is excellent for market growers and home gardeners seeking dependable results.",
+                    "growth_info": {
+                        "growth_mode": "Compact",
+                        "days_to_harvest": {
+                            "lower_estimate": 25,
+                            "higher_estimate": 32
+                        },
+                        "plant_height": "4-6 inches",
+                        "spacing": "1-2 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "6 inches deep",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "White",
+                        "leaf_color": "Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering, keep soil consistently moist",
+                        "feeding_requirement": "Moderate fertility, light fertilizer if needed",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "15-25 radishes per square foot",
+                        "best_uses": ["Salads", "Fresh eating", "Garnishes", "Market sales"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Moderate",
+                        "cold_tolerance": "High",
+                        "frost_tolerance": true,
+                        "drought_tolerance": "Low",
+                        "disease_resistance": ["Good disease resistance"]
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Classic radish flavor, moderately peppery, crisp"
+                    },
+                    "root_characteristics": {
+                        "root_color": "Bright red",
+                        "root_shape": "Round, uniform",
+                        "root_size": "1 to 1.25 inches diameter",
+                        "texture": "Crisp and firm",
+                        "storage_life": "1-2 weeks refrigerated"
+                    },
+                    "fun_fact": "Champion radishes are favored by market gardeners for their uniform appearance and reliable performance, making them ideal for producing consistent, attractive bunches for sale.",
+                    "planting_tip": "Plant Champion radishes in spring or fall in well-draining soil. Space seeds 1 inch apart and thin if needed. This variety's slow-bolting characteristic means you can harvest over a longer period without the radishes becoming woody. Water consistently for best root development and to prevent cracking."
+                },
+                {
+                    "id": 8,
+                    "name": "Purple Plum",
+                    "description": "Purple Plum Radish is a striking variety with vibrant purple-magenta skin and crisp white flesh. These round radishes have a sweet, mild flavor with just a hint of spice, making them appealing to those who find traditional radishes too pungent. Purple Plum radishes add beautiful color to salads and vegetable platters, and their color intensifies in cool weather. They're fast-growing and maintain excellent quality without becoming pithy.",
+                    "growth_info": {
+                        "growth_mode": "Compact",
+                        "days_to_harvest": {
+                            "lower_estimate": 25,
+                            "higher_estimate": 30
+                        },
+                        "plant_height": "4-6 inches",
+                        "spacing": "1-2 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "6 inches deep",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "White to pale purple",
+                        "leaf_color": "Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering, keep soil consistently moist",
+                        "feeding_requirement": "Moderate fertility, light fertilizer if needed",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "15-25 radishes per square foot",
+                        "best_uses": ["Salads", "Fresh eating", "Garnishes", "Pickling"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Low to moderate",
+                        "cold_tolerance": "High",
+                        "frost_tolerance": true,
+                        "drought_tolerance": "Low",
+                        "disease_resistance": []
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Sweet, mild, crisp with minimal heat"
+                    },
+                    "root_characteristics": {
+                        "root_color": "Purple-magenta exterior, white interior",
+                        "root_shape": "Round",
+                        "root_size": "3/4 to 1.25 inches diameter",
+                        "texture": "Crisp and juicy",
+                        "storage_life": "1-2 weeks refrigerated"
+                    },
+                    "fun_fact": "Purple Plum radishes get their name from their plum-like color and shape. The purple pigment is from anthocyanins, the same antioxidants found in blueberries and purple cabbage.",
+                    "planting_tip": "Direct sow Purple Plum radishes in early spring or fall for the most vibrant color. Plant in full sun and provide consistent moisture. The purple color develops best in cool weather, making this an excellent choice for spring and fall gardens. Harvest when roots reach 3/4 to 1 inch for optimal flavor and texture."
+                },
+                {
+                    "id": 9,
+                    "name": "Rat Tail",
+                    "description": "Rat Tail Radish, also known as Aerial Radish or Edible Podded Radish, is a unique variety grown primarily for its edible seed pods rather than its roots. When allowed to flower and set seed, it produces long, crunchy, slightly spicy pods that can be eaten fresh, pickled, or stir-fried. The pods have a milder radish flavor than the roots and add interesting texture to dishes. This variety is popular in Asian cuisine and is an excellent conversation starter in the garden.",
+                    "growth_info": {
+                        "growth_mode": "Upright",
+                        "days_to_harvest": {
+                            "lower_estimate": 45,
+                            "higher_estimate": 60
+                        },
+                        "plant_height": "18-36 inches",
+                        "spacing": "4-6 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "10-12 inches deep",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "White to pale purple",
+                        "leaf_color": "Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering during pod development",
+                        "feeding_requirement": "Light to moderate fertility",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "30-50 pods per plant",
+                        "best_uses": ["Fresh eating", "Pickling", "Stir-fries", "Asian dishes"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Moderate to high",
+                        "cold_tolerance": "Moderate",
+                        "frost_tolerance": false,
+                        "drought_tolerance": "Moderate",
+                        "disease_resistance": []
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Crunchy, mildly spicy, radish flavor in edible pods"
+                    },
+                    "root_characteristics": {
+                        "root_color": "Not typically harvested for roots",
+                        "root_shape": "Small, woody (pods are the crop)",
+                        "root_size": "Pods: 3-6 inches long",
+                        "texture": "Pods: crisp and crunchy",
+                        "storage_life": "Pods best used fresh, 3-5 days refrigerated"
+                    },
+                    "fun_fact": "Rat Tail radishes are grown specifically for their seed pods, which look like thin green beans or, as the name suggests, rat tails. They're a unique way to enjoy radish flavor without harvesting roots!",
+                    "planting_tip": "Plant Rat Tail radish in spring or early summer and allow plants to flower and produce pods - this is the opposite of traditional radish cultivation. Harvest pods when they're young and tender, about 3-4 inches long, before they become tough. The more you harvest, the more pods the plant will produce."
+                },
+                {
+                    "id": 10,
+                    "name": "Sparkler",
+                    "description": "Sparkler Radish, also known as Scarlet Turnip White Tip, is a beautiful bicolor variety with bright red tops that fade to white bottoms, creating an eye-catching two-tone effect. This classic radish has mild, crisp flesh with a balanced flavor that's neither too hot nor too bland. Sparkler is known for its quick maturity, uniform size, and attractive appearance that makes it popular for fresh market sales and home gardens. The white tip helps gardeners judge maturity at a glance.",
+                    "growth_info": {
+                        "growth_mode": "Compact",
+                        "days_to_harvest": {
+                            "lower_estimate": 22,
+                            "higher_estimate": 28
+                        },
+                        "plant_height": "4-6 inches",
+                        "spacing": "1-2 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "6 inches deep",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "White",
+                        "leaf_color": "Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering, keep soil consistently moist",
+                        "feeding_requirement": "Moderate fertility, light fertilizer if needed",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "15-25 radishes per square foot",
+                        "best_uses": ["Salads", "Fresh eating", "Garnishes", "Crudités"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Low",
+                        "cold_tolerance": "High",
+                        "frost_tolerance": true,
+                        "drought_tolerance": "Low",
+                        "disease_resistance": []
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Mild, crisp, balanced with pleasant crunch"
+                    },
+                    "root_characteristics": {
+                        "root_color": "Red top with white bottom (bicolor)",
+                        "root_shape": "Round to slightly flattened",
+                        "root_size": "3/4 to 1 inch diameter",
+                        "texture": "Crisp and tender",
+                        "storage_life": "1-2 weeks refrigerated"
+                    },
+                    "fun_fact": "Sparkler radishes have been popular since the early 1900s and were named for their sparkling appearance with the bright red and crisp white contrast. They're often used in garnishes because of their attractive coloring.",
+                    "planting_tip": "Direct sow Sparkler radishes in early spring or fall. Plant seeds 1/2 inch deep and thin to 1-2 inches apart. The white tip becomes more pronounced as the radish matures, serving as a helpful visual indicator for harvest timing. Harvest promptly when radishes reach 3/4 to 1 inch for the best flavor and to prevent them from becoming pithy."
                 }
             ]
         },
@@ -311,6 +801,251 @@
                     },
                     "fun_fact": "Beets are not only valued for their roots but also for their nutritious and edible leaves, known as beet greens. Beet greens can be cooked or eaten raw in salads.",
                     "planting_tip": "For successful cultivation of Detroit Dark Red Beet, directly sow seeds in well-draining soil with moderate fertility. Plant in a sunny to partially shaded location for optimal growth. Keep the soil consistently moist to encourage tender root development. Harvest beets when they reach the desired size, typically around 2-3 inches in diameter. Beet greens can also be harvested for culinary use."
+                },
+                {
+                    "id": 1,
+                    "name": "Golden",
+                    "description": "Golden Beet, also known as Burpee's Golden, is a stunning variety with bright golden-yellow roots and sweet, mild flavor. Unlike red beets, Golden beets don't bleed or stain, making them perfect for salads and mixed vegetable dishes. They have a slightly milder, less earthy flavor than red beets with a hint of sweetness. The greens are also edible and have a mild flavor. Golden beets are excellent roasted, pickled, or eaten raw in salads.",
+                    "growth_info": {
+                        "growth_mode": "Upright",
+                        "days_to_harvest": {
+                            "lower_estimate": 55,
+                            "higher_estimate": 70
+                        },
+                        "plant_height": "12-18 inches",
+                        "spacing": "2-4 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "12 inches deep",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "Green",
+                        "leaf_color": "Green with yellow-green veins"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering, keep soil consistently moist",
+                        "feeding_requirement": "Moderate fertility, balanced fertilizer",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "8-12 beets per square foot",
+                        "best_uses": ["Salads", "Roasting", "Pickling", "Raw preparations"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Moderate",
+                        "cold_tolerance": "High",
+                        "frost_tolerance": true,
+                        "drought_tolerance": "Low to Moderate",
+                        "disease_resistance": []
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Sweet, mild, less earthy than red beets"
+                    },
+                    "root_characteristics": {
+                        "root_color": "Golden-yellow",
+                        "root_shape": "Round, globe-shaped",
+                        "root_size": "2-3 inches diameter",
+                        "texture": "Tender and smooth",
+                        "storage_life": "2-3 months refrigerated or in cool storage"
+                    },
+                    "fun_fact": "Golden beets won't stain your hands, cutting board, or other vegetables in a dish, making them a favorite for chefs and home cooks who want beet flavor without the mess!",
+                    "planting_tip": "Direct sow Golden beet seeds in early spring or late summer for fall harvest. Plant in well-draining soil with consistent moisture. Thin seedlings to 2-4 inches apart when they're 2 inches tall. Golden beets are ready to harvest when roots are 1.5-3 inches in diameter. The flavor is sweetest when harvested young."
+                },
+                {
+                    "id": 2,
+                    "name": "Chioggia",
+                    "description": "Chioggia Beet, also known as Candy Cane or Bull's Eye Beet, is an Italian heirloom variety with stunning concentric pink and white rings inside. The exterior is red with white stripes, but when sliced, it reveals beautiful candy cane-like circular patterns. Chioggia has a sweet, mild flavor that's less earthy than red beets. The rings fade somewhat when cooked, so it's best showcased raw or lightly cooked. The unique appearance makes it a showstopper in salads and on crudité platters.",
+                    "growth_info": {
+                        "growth_mode": "Upright",
+                        "days_to_harvest": {
+                            "lower_estimate": 50,
+                            "higher_estimate": 60
+                        },
+                        "plant_height": "12-18 inches",
+                        "spacing": "2-4 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "12 inches deep",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "Green",
+                        "leaf_color": "Green with red veins"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering, keep soil consistently moist",
+                        "feeding_requirement": "Moderate fertility, balanced fertilizer",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "8-12 beets per square foot",
+                        "best_uses": ["Raw salads", "Pickling", "Light roasting", "Garnishes"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Moderate",
+                        "cold_tolerance": "High",
+                        "frost_tolerance": true,
+                        "drought_tolerance": "Low to Moderate",
+                        "disease_resistance": []
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Sweet, mild, tender with minimal earthiness"
+                    },
+                    "root_characteristics": {
+                        "root_color": "Red exterior with pink and white concentric rings inside",
+                        "root_shape": "Round, slightly flattened",
+                        "root_size": "2-3 inches diameter",
+                        "texture": "Tender and fine-grained",
+                        "storage_life": "2-3 months refrigerated or in cool storage"
+                    },
+                    "fun_fact": "Chioggia beets are named after the fishing town of Chioggia, Italy, near Venice, where this beautiful heirloom variety has been grown for centuries. When sliced thinly, they resemble peppermint candy!",
+                    "planting_tip": "Plant Chioggia beets in spring or fall in loose, well-draining soil. For the most dramatic ring pattern, harvest when roots are 1.5-2.5 inches in diameter. To preserve the beautiful rings, serve raw or lightly steamed - extended cooking causes the colors to bleed together. Slice thinly on a mandoline for the most impressive presentation."
+                },
+                {
+                    "id": 3,
+                    "name": "Cylindra",
+                    "description": "Cylindra Beet, also known as Formanova or Butter Slicer, is a unique Danish heirloom variety with elongated cylindrical roots that can grow 6-8 inches long. The uniform shape produces consistently sized slices, making it ideal for canning, pickling, and presenting uniform rounds on plates. Cylindra has sweet, tender flesh with excellent flavor and is easier to slice than round beets. The unusual shape also makes harvesting and peeling easier.",
+                    "growth_info": {
+                        "growth_mode": "Upright",
+                        "days_to_harvest": {
+                            "lower_estimate": 55,
+                            "higher_estimate": 70
+                        },
+                        "plant_height": "12-18 inches",
+                        "spacing": "3-4 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "14-16 inches deep",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "Green",
+                        "leaf_color": "Green with red veins"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering, consistent moisture for even growth",
+                        "feeding_requirement": "Moderate to rich fertility, balanced fertilizer",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "6-10 beets per square foot",
+                        "best_uses": ["Slicing", "Canning", "Pickling", "Roasting"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Moderate",
+                        "cold_tolerance": "High",
+                        "frost_tolerance": true,
+                        "drought_tolerance": "Low to Moderate",
+                        "disease_resistance": []
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Sweet, tender, rich beet flavor"
+                    },
+                    "root_characteristics": {
+                        "root_color": "Deep red",
+                        "root_shape": "Cylindrical, elongated",
+                        "root_size": "6-8 inches long, 2 inches diameter",
+                        "texture": "Tender and uniform",
+                        "storage_life": "3-4 months refrigerated or in cool storage"
+                    },
+                    "fun_fact": "Cylindra beets are sometimes called 'Butter Slicers' because their uniform cylindrical shape produces perfect, even slices that look like they've been cut with a butter knife - ideal for presentation!",
+                    "planting_tip": "Plant Cylindra beets in deep, loose soil free of rocks to allow the long roots to develop straight. Space seeds 3-4 inches apart to give the elongated roots room to grow. Harvest when roots are 6-8 inches long. The cylindrical shape makes them easier to peel and slice than round varieties."
+                },
+                {
+                    "id": 4,
+                    "name": "Bull's Blood",
+                    "description": "Bull's Blood Beet is a striking variety grown primarily for its deep burgundy-red leaves, though the roots are also edible. The foliage is incredibly dark red to purple, making it popular as an ornamental plant, microgreen, or baby leaf crop. When grown for roots, Bull's Blood produces small to medium dark red beets with good flavor. The leaves are excellent in salads, particularly when harvested young, and add dramatic color to mixed greens and garnishes.",
+                    "growth_info": {
+                        "growth_mode": "Upright",
+                        "days_to_harvest": {
+                            "lower_estimate": 35,
+                            "higher_estimate": 60
+                        },
+                        "plant_height": "12-18 inches",
+                        "spacing": "2-4 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "10-12 inches deep",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "Green",
+                        "leaf_color": "Deep burgundy-red to purple"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering, keep soil consistently moist",
+                        "feeding_requirement": "Moderate fertility, balanced fertilizer",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "8-12 beets per square foot, or continuous leaf harvest",
+                        "best_uses": ["Baby greens", "Microgreens", "Salad mix", "Roots for cooking"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Moderate",
+                        "cold_tolerance": "High",
+                        "frost_tolerance": true,
+                        "drought_tolerance": "Low to Moderate",
+                        "disease_resistance": []
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Leaves: mild, earthy; Roots: sweet, typical beet flavor"
+                    },
+                    "root_characteristics": {
+                        "root_color": "Dark red to purple",
+                        "root_shape": "Round, globe-shaped",
+                        "root_size": "2-3 inches diameter",
+                        "texture": "Tender and smooth",
+                        "storage_life": "2-3 months refrigerated or in cool storage"
+                    },
+                    "fun_fact": "Bull's Blood beets are named for their incredibly dark red foliage that resembles the color of blood. They're popular with chefs for adding dramatic color to salad mixes and garnishes!",
+                    "planting_tip": "Plant Bull's Blood for a dual-purpose crop - harvest leaves continuously while young for salads and microgreens, or allow plants to mature for root production. For baby greens, plant densely and begin harvesting leaves at 3-4 inches tall. For roots, space 2-4 inches apart and harvest when 2-3 inches in diameter."
+                },
+                {
+                    "id": 5,
+                    "name": "Avalanche",
+                    "description": "Avalanche Beet, also known as Albino Beet or White Beet, is a unique white-fleshed variety with pale exterior and pure white interior. It has an exceptionally sweet, mild flavor without the earthiness that some people find off-putting in red beets. Avalanche doesn't bleed or stain, making it versatile for dishes where color bleeding is undesirable. The white color intensifies the sweet flavor, and the roots maintain their color when cooked. It's excellent for people who want beet nutrition without the typical beet taste.",
+                    "growth_info": {
+                        "growth_mode": "Upright",
+                        "days_to_harvest": {
+                            "lower_estimate": 50,
+                            "higher_estimate": 65
+                        },
+                        "plant_height": "12-18 inches",
+                        "spacing": "2-4 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "12 inches deep",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "Green",
+                        "leaf_color": "Light green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering, keep soil consistently moist",
+                        "feeding_requirement": "Moderate fertility, balanced fertilizer",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "8-12 beets per square foot",
+                        "best_uses": ["Salads", "Roasting", "Mixed vegetable dishes", "Raw preparations"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Moderate",
+                        "cold_tolerance": "High",
+                        "frost_tolerance": true,
+                        "drought_tolerance": "Low to Moderate",
+                        "disease_resistance": []
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Very sweet, mild, minimal earthiness, almost turnip-like"
+                    },
+                    "root_characteristics": {
+                        "root_color": "White exterior and interior",
+                        "root_shape": "Round, globe-shaped",
+                        "root_size": "2-3 inches diameter",
+                        "texture": "Tender, smooth, and fine-grained",
+                        "storage_life": "2-3 months refrigerated or in cool storage"
+                    },
+                    "fun_fact": "Avalanche beets are perfect for people who think they don't like beets! The white color eliminates the visual 'beet-ness' and the flavor is so mild and sweet that it converts many beet skeptics.",
+                    "planting_tip": "Plant Avalanche beets in spring or fall in well-draining soil with consistent moisture. Harvest when roots are 1.5-3 inches in diameter for optimal sweetness and tenderness. The white roots won't show the same visual cues for maturity as red beets, so check size by gently uncovering the top of the root. Great for introducing children to beets due to the mild, sweet flavor."
                 }
             ]
         },
@@ -742,6 +1477,276 @@
               "flower_characteristics": null,
               "fun_fact": "Cocozelle produces exceptionally large, flavorful flowers that are prized in Italian cooking for stuffing and frying. Many gardeners grow it specifically for the flowers!",
               "planting_tip": "For the best flavor and texture, harvest Cocozelle when fruits are 6-8 inches long. The striped pattern makes it easy to spot in the garden. This variety benefits from regular harvesting to maintain production."
+            },
+            {
+              "id": 6,
+              "name": "Dunja",
+              "description": "Dunja is a high-yielding European zucchini variety known for its smooth, cylindrical dark green fruits and open plant habit that makes harvesting easy. It produces consistently sized fruits with excellent flavor and texture. Dunja is particularly valued for its strong disease resistance and ability to maintain production even under stress conditions. The fruits have tender skin and dense, flavorful flesh.",
+              "growth_info": {
+                "growth_mode": "Bush",
+                "days_to_harvest": {
+                  "lower_estimate": 48,
+                  "higher_estimate": 55
+                },
+                "plant_height": "24-32 inches",
+                "spacing": "30-36 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "5 gallons minimum",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Yellow",
+                "leaf_color": "Medium green with open habit"
+              },
+              "care_requirements": {
+                "water_requirement": "1-2 inches per week, consistent moisture",
+                "feeding_requirement": "Balanced fertilizer every 2-3 weeks",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "8-12 pounds per plant",
+                "best_uses": ["Grilling", "Sautéing", "Baking", "Zoodles", "Freezing"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Very good",
+                "cold_tolerance": "Poor",
+                "frost_tolerance": false,
+                "drought_tolerance": "Good",
+                "disease_resistance": ["Excellent powdery mildew resistance", "Good viral resistance", "Zucchini Yellow Mosaic Virus resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Mild, slightly sweet, classic zucchini flavor with good texture"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Dark green with slight mottling",
+                "fruit_weight": "8-10 ounces at optimal harvest",
+                "skin_thickness": "Thin and tender",
+                "seed_cavity_size": "Small when harvested young",
+                "storage_quality": "Refrigerate for up to 1 week",
+                "crack_resistance": "Excellent"
+              },
+              "herb_characteristics": null,
+              "root_characteristics": null,
+              "leaf_crop_characteristics": null,
+              "flower_characteristics": null,
+              "fun_fact": "Dunja's open plant habit means the fruits are exposed and easy to spot, reducing the chances of accidentally letting zucchini grow into baseball bats!",
+              "planting_tip": "Dunja's disease resistance makes it an excellent choice for organic gardeners and areas where powdery mildew is common. The open plant structure improves air circulation, further reducing disease pressure. Harvest when 6-8 inches long for optimal quality."
+            },
+            {
+              "id": 7,
+              "name": "Patio Star",
+              "description": "Patio Star is a compact, space-saving zucchini specifically bred for container gardening and small spaces. Despite its diminutive size, it produces full-sized, dark green fruits with excellent flavor. The ultra-compact plants have short internodes and upright growth, making them perfect for patios, balconies, or small urban gardens. Patio Star offers all the productivity of standard zucchini in a fraction of the space.",
+              "growth_info": {
+                "growth_mode": "Compact Bush",
+                "days_to_harvest": {
+                  "lower_estimate": 45,
+                  "higher_estimate": 52
+                },
+                "plant_height": "18-24 inches",
+                "spacing": "18-24 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "3-5 gallons",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Yellow",
+                "leaf_color": "Dark green, compact foliage"
+              },
+              "care_requirements": {
+                "water_requirement": "1-2 inches per week, more frequent in containers",
+                "feeding_requirement": "Balanced fertilizer every 2 weeks, more frequent in containers",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "4-6 pounds per plant",
+                "best_uses": ["Grilling", "Sautéing", "Baking", "Small space gardens"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Good",
+                "cold_tolerance": "Poor",
+                "frost_tolerance": false,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Moderate powdery mildew resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Mild, sweet, classic zucchini flavor"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Dark green",
+                "fruit_weight": "6-8 ounces at optimal harvest",
+                "skin_thickness": "Thin and tender",
+                "seed_cavity_size": "Small when harvested young",
+                "storage_quality": "Refrigerate for up to 1 week",
+                "crack_resistance": "Good"
+              },
+              "herb_characteristics": null,
+              "root_characteristics": null,
+              "leaf_crop_characteristics": null,
+              "flower_characteristics": null,
+              "fun_fact": "Patio Star can be grown successfully in a pot on a balcony or patio, making fresh zucchini accessible to apartment dwellers and urban gardeners!",
+              "planting_tip": "When growing Patio Star in containers, ensure adequate drainage and water more frequently than in-ground plants. Use quality potting mix enriched with compost. The compact size means multiple plants can fit in a small space - perfect for succession planting."
+            },
+            {
+              "id": 8,
+              "name": "Tromboncino",
+              "description": "Tromboncino, also known as Zucchetta or Trombone Squash, is an Italian heirloom climbing zucchini with unique curved, elongated fruits that can grow 2-3 feet long. Unlike bush zucchini, it grows as a vigorous vine and produces pale green, trumpet-shaped fruits with a bulbous end. Tromboncino has exceptional flavor - sweet, nutty, and less watery than standard zucchini. It's highly resistant to squash vine borers and can be grown vertically to save space.",
+              "growth_info": {
+                "growth_mode": "Vining",
+                "days_to_harvest": {
+                  "lower_estimate": 55,
+                  "higher_estimate": 65
+                },
+                "plant_height": "6-10 feet (vining)",
+                "spacing": "36-48 inches",
+                "is_container_variety": false,
+                "recommended_container_size": "Not recommended for containers",
+                "needs_support": true
+              },
+              "appearance": {
+                "flower_color": "Large yellow-orange",
+                "leaf_color": "Light to medium green"
+              },
+              "care_requirements": {
+                "water_requirement": "1-2 inches per week, consistent moisture",
+                "feeding_requirement": "Rich soil with balanced fertilizer every 2-3 weeks",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "10-15 pounds per plant",
+                "best_uses": ["Grilling", "Roasting", "Sautéing", "Italian dishes", "Can be stored like winter squash if mature"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Excellent",
+                "cold_tolerance": "Poor",
+                "frost_tolerance": false,
+                "drought_tolerance": "Good",
+                "disease_resistance": ["Excellent squash vine borer resistance", "Good powdery mildew resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Sweet, nutty, rich with less water content than standard zucchini"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Pale green, smooth skin",
+                "fruit_weight": "1-3 pounds at optimal harvest",
+                "skin_thickness": "Thin when young, thickens if left to mature",
+                "seed_cavity_size": "Small in neck, larger in bulb",
+                "storage_quality": "Refrigerate for 1-2 weeks; can store months if left to fully mature",
+                "crack_resistance": "Excellent"
+              },
+              "herb_characteristics": null,
+              "root_characteristics": null,
+              "leaf_crop_characteristics": null,
+              "flower_characteristics": null,
+              "fun_fact": "Tromboncino means 'little trombone' in Italian, referring to the fruit's trumpet-like shape. If left to fully mature, it can be stored and used like winter squash for several months!",
+              "planting_tip": "Grow Tromboncino on a sturdy trellis, fence, or arbor to save space and keep fruits straight. The vining habit helps avoid squash vine borers since the stem is above ground. Harvest young at 6-12 inches for zucchini texture, or let mature for winter squash. The curved fruits hanging from a trellis are quite ornamental."
+            },
+            {
+              "id": 9,
+              "name": "Zebra Cross",
+              "description": "Zebra Cross is a striking hybrid zucchini featuring distinctive light and dark green striped fruits that create a zebra-like pattern. This variety combines beautiful appearance with excellent productivity and disease resistance. The fruits have tender flesh, mild flavor, and maintain their striped pattern even when cooked lightly. Zebra Cross plants are compact and well-suited to home gardens.",
+              "growth_info": {
+                "growth_mode": "Bush",
+                "days_to_harvest": {
+                  "lower_estimate": 50,
+                  "higher_estimate": 58
+                },
+                "plant_height": "24-30 inches",
+                "spacing": "24-36 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "5 gallons minimum",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Yellow",
+                "leaf_color": "Medium to dark green"
+              },
+              "care_requirements": {
+                "water_requirement": "1-2 inches per week, consistent moisture",
+                "feeding_requirement": "Balanced fertilizer every 2-3 weeks",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "7-10 pounds per plant",
+                "best_uses": ["Grilling", "Sautéing", "Raw in salads", "Display platters"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Good",
+                "cold_tolerance": "Poor",
+                "frost_tolerance": false,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Good powdery mildew resistance", "Moderate viral resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Mild, slightly sweet, delicate with smooth texture"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Light green with dark green stripes (zebra pattern)",
+                "fruit_weight": "6-8 ounces at optimal harvest",
+                "skin_thickness": "Thin and very tender",
+                "seed_cavity_size": "Small when harvested young",
+                "storage_quality": "Refrigerate for up to 1 week",
+                "crack_resistance": "Good"
+              },
+              "herb_characteristics": null,
+              "root_characteristics": null,
+              "leaf_crop_characteristics": null,
+              "flower_characteristics": null,
+              "fun_fact": "Zebra Cross zucchini's attractive striped pattern makes it a favorite at farmers markets and for garnishing plates in restaurants. The stripes remain visible even after light cooking!",
+              "planting_tip": "Harvest Zebra Cross when 6-8 inches long for the most attractive striping and best flavor. The striped pattern makes it easy to spot fruits in the garden. Great for adding visual interest to vegetable gardens and dishes alike."
+            },
+            {
+              "id": 10,
+              "name": "Magda",
+              "description": "Magda is a Middle Eastern heirloom variety that produces pale green to cream-colored fruits with a distinctive bulbous bottom and narrow neck. This unique zucchini has sweet, nutty flavor and dense, less watery flesh compared to standard varieties. Magda is popular in Mediterranean and Middle Eastern cuisines and is excellent for stuffing due to its shape. The plants are productive and somewhat heat-tolerant.",
+              "growth_info": {
+                "growth_mode": "Bush",
+                "days_to_harvest": {
+                  "lower_estimate": 50,
+                  "higher_estimate": 60
+                },
+                "plant_height": "24-36 inches",
+                "spacing": "30-36 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "5 gallons minimum",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Yellow-orange",
+                "leaf_color": "Medium green"
+              },
+              "care_requirements": {
+                "water_requirement": "1-2 inches per week, consistent moisture",
+                "feeding_requirement": "Balanced fertilizer every 2-3 weeks",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "6-8 pounds per plant",
+                "best_uses": ["Stuffing", "Middle Eastern dishes", "Grilling", "Roasting"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Very good",
+                "cold_tolerance": "Poor",
+                "frost_tolerance": false,
+                "drought_tolerance": "Good",
+                "disease_resistance": ["Moderate disease resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Sweet, nutty, rich with dense flesh and less water content"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Pale green to cream",
+                "fruit_weight": "4-6 ounces at optimal harvest",
+                "skin_thickness": "Medium, smooth",
+                "seed_cavity_size": "Good for stuffing when harvested at 4-5 inches",
+                "storage_quality": "Refrigerate for up to 10 days",
+                "crack_resistance": "Good"
+              },
+              "herb_characteristics": null,
+              "root_characteristics": null,
+              "leaf_crop_characteristics": null,
+              "flower_characteristics": null,
+              "fun_fact": "Magda zucchini is also known as Lebanese White Bush Marrow and is a traditional ingredient in dishes like kousa mahshi (stuffed zucchini), where the unique shape makes them perfect for stuffing!",
+              "planting_tip": "Harvest Magda when fruits are 4-6 inches long for the best flavor and perfect stuffing size. The pale color makes fruits easy to spot in the garden. This variety's heat tolerance makes it a good choice for warmer climates where standard zucchini may struggle."
             }
           ]
         },
@@ -1227,6 +2232,276 @@
               "flower_characteristics": null,
               "fun_fact": "Honeoye is one of the earliest strawberries to ripen in spring, often producing fruit 1-2 weeks before other June-bearing varieties!",
               "planting_tip": "Honeoye is perfect for zones 3-8 and excels in the Northeast. Its early harvest means you can enjoy strawberries before most other varieties. The firm berries freeze exceptionally well for year-round enjoyment."
+            },
+            {
+              "id": 7,
+              "name": "Earliglow",
+              "description": "Earliglow is a highly regarded June-bearing strawberry variety celebrated for its exceptional flavor, often considered the best-tasting strawberry available. It's an early-season variety that produces medium-sized, dark red berries with intense sweetness and aroma. Earliglow has excellent disease resistance and is particularly well-suited to eastern and midwestern climates. The berries are firm enough for fresh eating and freezing.",
+              "growth_info": {
+                "growth_mode": "June-bearing",
+                "days_to_harvest": {
+                  "lower_estimate": 75,
+                  "higher_estimate": 85
+                },
+                "plant_height": "6-10 inches",
+                "spacing": "12-18 inches apart, rows 36-42 inches apart",
+                "is_container_variety": true,
+                "recommended_container_size": "12 inches deep, 16-18 inches wide per plant",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "White",
+                "leaf_color": "Medium to dark green"
+              },
+              "care_requirements": {
+                "water_requirement": "1-1.5 inches per week, especially during fruiting",
+                "feeding_requirement": "Balanced fertilizer in early spring and after harvest",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "1-1.5 quarts per plant in main season",
+                "best_uses": ["Fresh eating", "Freezing", "Desserts", "Preserves"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Moderate",
+                "cold_tolerance": "Excellent",
+                "frost_tolerance": true,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Verticillium wilt", "Red stele", "Leaf scorch", "Leaf spot", "Excellent overall disease resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Exceptionally sweet, intensely aromatic, complex berry flavor"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Dark glossy red",
+                "fruit_weight": "0.5-0.7 ounces",
+                "skin_thickness": "Firm",
+                "seed_cavity_size": "N/A",
+                "storage_quality": "Very good firmness, refrigerate for up to 7 days",
+                "crack_resistance": "Very good"
+              },
+              "herb_characteristics": null,
+              "root_characteristics": null,
+              "leaf_crop_characteristics": null,
+              "flower_characteristics": null,
+              "fun_fact": "Earliglow consistently wins taste tests among strawberry connoisseurs and is often called the 'gold standard' for strawberry flavor. Many consider it the best-tasting variety ever developed!",
+              "planting_tip": "Earliglow is ideal for zones 4-8 and ripens very early in the season. While berries are smaller than some varieties, the incredible flavor more than compensates. Plant in full sun with excellent drainage for best results. The superior disease resistance makes it perfect for organic growing."
+            },
+            {
+              "id": 8,
+              "name": "Tristar",
+              "description": "Tristar is a day-neutral strawberry variety that produces medium-sized, firm berries with excellent flavor throughout the growing season. It's known for producing fewer runners than other day-neutral varieties, which means more energy goes into fruit production. Tristar has good disease resistance and performs well in various climates. The compact plants are ideal for containers and small gardens.",
+              "growth_info": {
+                "growth_mode": "Day-neutral/Everbearing",
+                "days_to_harvest": {
+                  "lower_estimate": 85,
+                  "higher_estimate": 110
+                },
+                "plant_height": "6-10 inches",
+                "spacing": "10-12 inches apart, rows 24-30 inches apart",
+                "is_container_variety": true,
+                "recommended_container_size": "10-12 inches deep, 12-14 inches wide per plant",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "White",
+                "leaf_color": "Dark green, compact foliage"
+              },
+              "care_requirements": {
+                "water_requirement": "1-1.5 inches per week, consistent moisture",
+                "feeding_requirement": "Balanced fertilizer every 3-4 weeks during production",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "1-1.5 quarts per plant per season",
+                "best_uses": ["Fresh eating", "Desserts", "Containers", "Small gardens"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Good",
+                "cold_tolerance": "Very good",
+                "frost_tolerance": true,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Verticillium wilt", "Red stele", "Good overall disease resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Sweet, well-balanced, classic strawberry flavor with good aroma"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Medium to bright red",
+                "fruit_weight": "0.5-0.8 ounces",
+                "skin_thickness": "Firm",
+                "seed_cavity_size": "N/A",
+                "storage_quality": "Good firmness, refrigerate for up to 5-7 days",
+                "crack_resistance": "Good"
+              },
+              "herb_characteristics": null,
+              "root_characteristics": null,
+              "leaf_crop_characteristics": null,
+              "flower_characteristics": null,
+              "fun_fact": "Tristar produces very few runners, making it excellent for containers and raised beds where you want controlled, compact growth focused on berry production!",
+              "planting_tip": "Tristar is perfect for container gardening due to its compact habit and minimal runner production. Plant in well-draining potting mix and fertilize regularly for continuous production. Ideal for zones 3-8 and produces well even in partial shade."
+            },
+            {
+              "id": 9,
+              "name": "Allstar",
+              "description": "Allstar is a reliable mid-season June-bearing strawberry variety known for its large, firm, bright red berries and excellent productivity. It has outstanding disease resistance, particularly to red stele and verticillium wilt, making it a dependable choice for various growing conditions. Allstar produces consistently sized berries that are perfect for fresh eating, freezing, and preserving. The plants are vigorous and produce moderate runners.",
+              "growth_info": {
+                "growth_mode": "June-bearing",
+                "days_to_harvest": {
+                  "lower_estimate": 85,
+                  "higher_estimate": 100
+                },
+                "plant_height": "8-12 inches",
+                "spacing": "12-18 inches apart, rows 36-42 inches apart",
+                "is_container_variety": true,
+                "recommended_container_size": "12 inches deep, 16-18 inches wide per plant",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "White",
+                "leaf_color": "Medium green, vigorous"
+              },
+              "care_requirements": {
+                "water_requirement": "1-1.5 inches per week",
+                "feeding_requirement": "Balanced fertilizer in early spring and after harvest",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "2-3 quarts per plant in main season",
+                "best_uses": ["Fresh eating", "Freezing", "Preserves", "Commercial use"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Good",
+                "cold_tolerance": "Very good",
+                "frost_tolerance": true,
+                "drought_tolerance": "Good",
+                "disease_resistance": ["Red stele", "Verticillium wilt", "Leaf diseases", "Excellent overall disease resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Mild, sweet, pleasant with good balance"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Bright glossy red",
+                "fruit_weight": "0.8-1.2 ounces",
+                "skin_thickness": "Very firm",
+                "seed_cavity_size": "N/A",
+                "storage_quality": "Excellent firmness, freezes very well, refrigerate for up to 10 days",
+                "crack_resistance": "Excellent"
+              },
+              "herb_characteristics": null,
+              "root_characteristics": null,
+              "leaf_crop_characteristics": null,
+              "flower_characteristics": null,
+              "fun_fact": "Allstar was specifically bred for disease resistance and adaptability, making it one of the most reliable strawberry varieties for both home gardeners and commercial growers across a wide range of climates!",
+              "planting_tip": "Allstar performs exceptionally well in zones 4-8 and adapts to various soil types. Its superior disease resistance makes it ideal for organic growing. The firm berries transport well and are excellent for freezing whole. Plant in full sun for maximum yield."
+            },
+            {
+              "id": 10,
+              "name": "San Andreas",
+              "description": "San Andreas is a premium day-neutral strawberry variety developed in California that produces large, firm, conical berries with outstanding flavor and appearance. It has excellent heat tolerance and disease resistance, making it suitable for warmer climates where other varieties struggle. San Andreas produces consistently throughout the growing season with high yields and exceptional fruit quality. The berries have a bright red color inside and out with excellent shelf life.",
+              "growth_info": {
+                "growth_mode": "Day-neutral/Everbearing",
+                "days_to_harvest": {
+                  "lower_estimate": 90,
+                  "higher_estimate": 120
+                },
+                "plant_height": "8-12 inches",
+                "spacing": "12-15 inches apart, rows 24-36 inches apart",
+                "is_container_variety": true,
+                "recommended_container_size": "12 inches deep, 14-16 inches wide per plant",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "White",
+                "leaf_color": "Medium to dark green"
+              },
+              "care_requirements": {
+                "water_requirement": "1-2 inches per week, consistent moisture critical",
+                "feeding_requirement": "Balanced fertilizer every 2-3 weeks during production",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "1.5-2.5 quarts per plant per season",
+                "best_uses": ["Fresh eating", "Market sales", "Desserts", "Freezing"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Excellent",
+                "cold_tolerance": "Good",
+                "frost_tolerance": true,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Verticillium wilt", "Phytophthora crown rot", "Anthracnose", "Powdery mildew", "Excellent overall disease resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Sweet, complex, well-balanced with excellent aroma"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Bright red throughout",
+                "fruit_weight": "1.0-1.5 ounces",
+                "skin_thickness": "Very firm",
+                "seed_cavity_size": "N/A",
+                "storage_quality": "Excellent firmness and shelf life, refrigerate for up to 10 days",
+                "crack_resistance": "Excellent"
+              },
+              "herb_characteristics": null,
+              "root_characteristics": null,
+              "leaf_crop_characteristics": null,
+              "flower_characteristics": null,
+              "fun_fact": "San Andreas was developed specifically to produce large, flavorful berries in warm climates where traditional varieties struggle. It's become a favorite for California growers and home gardeners in warmer zones!",
+              "planting_tip": "San Andreas excels in zones 5-10 and performs particularly well in warm coastal and Mediterranean climates. Remove flowers for the first 4-6 weeks after planting to establish strong plants. The large, firm berries hold up well for market sales and shipping, making this variety popular with small-scale commercial growers."
+            },
+            {
+              "id": 11,
+              "name": "Sparkle",
+              "description": "Sparkle is a late-season June-bearing strawberry variety prized for its exceptional flavor and high sugar content, making it ideal for preserves and freezing. The medium-sized berries are dark red with excellent aroma and sweetness. Sparkle is particularly cold-hardy and has good disease resistance. It's been a favorite among home gardeners in northern regions since the 1940s and is considered one of the best varieties for making jam and jelly.",
+              "growth_info": {
+                "growth_mode": "June-bearing",
+                "days_to_harvest": {
+                  "lower_estimate": 90,
+                  "higher_estimate": 105
+                },
+                "plant_height": "6-10 inches",
+                "spacing": "12-18 inches apart, rows 36-42 inches apart",
+                "is_container_variety": true,
+                "recommended_container_size": "12 inches deep, 16-18 inches wide per plant",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "White",
+                "leaf_color": "Dark green"
+              },
+              "care_requirements": {
+                "water_requirement": "1-1.5 inches per week",
+                "feeding_requirement": "Balanced fertilizer in early spring and after harvest",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "1-2 quarts per plant in main season",
+                "best_uses": ["Preserves", "Jam", "Freezing", "Fresh eating"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Moderate",
+                "cold_tolerance": "Excellent",
+                "frost_tolerance": true,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Red stele", "Verticillium wilt", "Good leaf disease resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Very sweet, intense strawberry flavor, highly aromatic"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Dark glossy red",
+                "fruit_weight": "0.5-0.8 ounces",
+                "skin_thickness": "Medium-firm",
+                "seed_cavity_size": "N/A",
+                "storage_quality": "Good, best for processing, refrigerate for up to 5-7 days",
+                "crack_resistance": "Good"
+              },
+              "herb_characteristics": null,
+              "root_characteristics": null,
+              "leaf_crop_characteristics": null,
+              "flower_characteristics": null,
+              "fun_fact": "Sparkle strawberries have such high sugar content that they're often called the 'jam berry' - they make preserves with less added sugar than most varieties and have intense flavor even when frozen!",
+              "planting_tip": "Sparkle is perfect for zones 3-8 and excels in the northern United States and Canada. As a late-season variety, it extends the strawberry harvest when planted with early varieties like Earliglow or Honeoye. The plants produce abundant runners, making it easy to expand your patch. Best for processing rather than fresh market due to softer texture."
             }
           ]
         },
@@ -1712,6 +2987,276 @@
               "flower_characteristics": null,
               "fun_fact": "Chandler berries are so large they're often compared to the size of a quarter! Some berries can weigh as much as 4-5 regular blueberries combined, making them spectacular for fresh eating and impressing visitors.",
               "planting_tip": "Chandler needs 800-1000 chill hours (zones 5-7). Give it plenty of space - it's a vigorous grower. The extended harvest period means you'll be picking berries for over a month. Heavy pruning maintains berry size. Plant with mid-season varieties for cross-pollination."
+            },
+            {
+              "id": 7,
+              "name": "Toro",
+              "description": "Toro is a mid to late-season Northern Highbush variety that produces very large, firm berries with outstanding flavor and excellent sweetness. It's known for consistent heavy yields, good cold hardiness, and attractive upright growth habit. Toro berries have a distinctive small picking scar and excellent shelf life. The variety is popular with both commercial growers and home gardeners for its reliability and premium berry quality.",
+              "growth_info": {
+                "growth_mode": "Upright, vigorous",
+                "days_to_harvest": {
+                  "lower_estimate": 1095,
+                  "higher_estimate": 1460
+                },
+                "plant_height": "5-7 feet",
+                "spacing": "4-6 feet apart",
+                "is_container_variety": true,
+                "recommended_container_size": "20-24 inches deep, 22-26 inches wide",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "White",
+                "leaf_color": "Dark green, brilliant red-orange fall color"
+              },
+              "care_requirements": {
+                "water_requirement": "1-2 inches per week, consistent moisture",
+                "feeding_requirement": "Acid fertilizer in spring",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "12-20 pounds per mature bush",
+                "best_uses": ["Fresh eating", "Baking", "Freezing", "Market sales"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Moderate",
+                "cold_tolerance": "Excellent",
+                "frost_tolerance": true,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Mummy berry", "Good overall disease resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Very sweet, rich, well-balanced with mild acidity"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Medium to dark blue",
+                "fruit_weight": "0.08-0.11 ounces per berry (very large)",
+                "skin_thickness": "Very firm",
+                "seed_cavity_size": "Small seeds",
+                "storage_quality": "Excellent - very firm with small picking scar, refrigerate for up to 2-3 weeks",
+                "crack_resistance": "Excellent"
+              },
+              "herb_characteristics": null,
+              "root_characteristics": null,
+              "leaf_crop_characteristics": null,
+              "flower_characteristics": null,
+              "fun_fact": "Toro means 'bull' in Spanish, a fitting name for this powerhouse variety that produces heavy yields of large, premium berries year after year! It's considered one of the best-tasting large-fruited varieties.",
+              "planting_tip": "Toro needs 800-1000 chill hours (zones 5-7). Plant with early or mid-season varieties for extended harvest and cross-pollination. The vigorous, upright growth makes harvesting easy. Prune to maintain shape and prevent overcrowding. Toro's exceptional firmness makes it excellent for selling at farmers markets."
+            },
+            {
+              "id": 8,
+              "name": "Pink Lemonade",
+              "description": "Pink Lemonade is a unique Rabbiteye variety that produces stunning pink berries with sweet, tangy flavor reminiscent of pink lemonade. The berries start green, turn pink, and eventually become deep rose-pink when fully ripe. Pink Lemonade has excellent heat tolerance and low chill requirements, making it suitable for warmer climates. The ornamental value is outstanding with white flowers, colorful berries, and brilliant fall foliage.",
+              "growth_info": {
+                "growth_mode": "Upright, vigorous",
+                "days_to_harvest": {
+                  "lower_estimate": 1095,
+                  "higher_estimate": 1460
+                },
+                "plant_height": "4-5 feet",
+                "spacing": "4-5 feet apart",
+                "is_container_variety": true,
+                "recommended_container_size": "18-24 inches deep, 20-24 inches wide",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "White",
+                "leaf_color": "Medium green, red-purple fall color"
+              },
+              "care_requirements": {
+                "water_requirement": "1-2 inches per week, consistent moisture",
+                "feeding_requirement": "Acid fertilizer in spring and mid-summer",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "5-10 pounds per mature bush",
+                "best_uses": ["Fresh eating", "Smoothies", "Desserts", "Ornamental gardens"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Excellent",
+                "cold_tolerance": "Good",
+                "frost_tolerance": true,
+                "drought_tolerance": "Good",
+                "disease_resistance": ["Good disease resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Sweet-tart, tangy, unique flavor reminiscent of pink lemonade"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Pink to rose-pink when ripe",
+                "fruit_weight": "0.04-0.06 ounces per berry",
+                "skin_thickness": "Medium-firm",
+                "seed_cavity_size": "Small seeds",
+                "storage_quality": "Good, refrigerate for up to 7-10 days",
+                "crack_resistance": "Good"
+              },
+              "herb_characteristics": null,
+              "root_characteristics": null,
+              "leaf_crop_characteristics": null,
+              "flower_characteristics": null,
+              "fun_fact": "Pink Lemonade is the first truly pink-berried blueberry variety! The unusual color makes it a conversation starter and adds visual interest to fruit salads, desserts, and the garden itself. Kids especially love the unique pink berries!",
+              "planting_tip": "Pink Lemonade needs 300-500 chill hours (zones 6-10). Plant with another Rabbiteye variety for cross-pollination - this is essential for good fruit set. Let berries fully ripen to deep pink for best flavor. The ornamental value makes it perfect for edible landscapes and containers on patios."
+            },
+            {
+              "id": 9,
+              "name": "Draper",
+              "description": "Draper is an early to mid-season Northern Highbush variety known for producing large, firm, extremely flavorful berries with exceptional sweetness. It has excellent cold hardiness and disease resistance. Draper berries ripen uniformly, making harvest easier, and have outstanding shelf life. The compact, upright growth habit makes it ideal for both commercial production and home gardens. Many consider Draper to have among the best flavor of any blueberry.",
+              "growth_info": {
+                "growth_mode": "Upright, compact",
+                "days_to_harvest": {
+                  "lower_estimate": 1095,
+                  "higher_estimate": 1460
+                },
+                "plant_height": "4-5 feet",
+                "spacing": "4-5 feet apart",
+                "is_container_variety": true,
+                "recommended_container_size": "18-24 inches deep, 20-24 inches wide",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "White",
+                "leaf_color": "Medium to dark green, red fall color"
+              },
+              "care_requirements": {
+                "water_requirement": "1-2 inches per week, consistent moisture",
+                "feeding_requirement": "Acid fertilizer in early spring",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "10-18 pounds per mature bush",
+                "best_uses": ["Fresh eating", "Baking", "Freezing", "Market sales"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Moderate",
+                "cold_tolerance": "Excellent",
+                "frost_tolerance": true,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Mummy berry", "Anthracnose fruit rot", "Excellent overall disease resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Exceptionally sweet, complex, aromatic with outstanding flavor"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Light to medium blue",
+                "fruit_weight": "0.07-0.09 ounces per berry (large)",
+                "skin_thickness": "Very firm",
+                "seed_cavity_size": "Very small seeds",
+                "storage_quality": "Outstanding - extremely firm with excellent shelf life, refrigerate for up to 3 weeks",
+                "crack_resistance": "Excellent"
+              },
+              "herb_characteristics": null,
+              "root_characteristics": null,
+              "leaf_crop_characteristics": null,
+              "flower_characteristics": null,
+              "fun_fact": "Draper was named after Dr. Arlen Draper, a legendary USDA blueberry breeder who developed over 40 blueberry varieties during his career! The variety lives up to its namesake with exceptional quality and flavor.",
+              "planting_tip": "Draper needs 800-1000 chill hours (zones 4-7). The compact habit makes it excellent for smaller gardens and containers. Berries ripen relatively uniformly on each cluster, making harvest efficient. Plant with Duke or Bluecrop for cross-pollination. The exceptional firmness makes Draper perfect for fresh market sales."
+            },
+            {
+              "id": 10,
+              "name": "Jubilee",
+              "description": "Jubilee is a Southern Highbush variety developed for warm, low-chill climates that produces large, firm, sweet berries with excellent flavor. It's known for consistent high yields, good disease resistance, and adaptability to various soil types. Jubilee ripens mid to late season and has good heat tolerance. The berries have excellent shelf life and maintain quality even in warm conditions, making it a top choice for southern growers.",
+              "growth_info": {
+                "growth_mode": "Upright, vigorous",
+                "days_to_harvest": {
+                  "lower_estimate": 1095,
+                  "higher_estimate": 1460
+                },
+                "plant_height": "5-6 feet",
+                "spacing": "4-5 feet apart",
+                "is_container_variety": true,
+                "recommended_container_size": "18-24 inches deep, 20-24 inches wide",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "White to pale pink",
+                "leaf_color": "Dark green, semi-evergreen in mild climates"
+              },
+              "care_requirements": {
+                "water_requirement": "1-2 inches per week, needs consistent moisture in heat",
+                "feeding_requirement": "Acid fertilizer in early spring and mid-summer",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "10-15 pounds per mature bush",
+                "best_uses": ["Fresh eating", "Baking", "Freezing", "Commercial production"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Excellent",
+                "cold_tolerance": "Moderate",
+                "frost_tolerance": true,
+                "drought_tolerance": "Good",
+                "disease_resistance": ["Anthracnose", "Good overall disease resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Sweet, rich, well-balanced with good aroma"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Medium to dark blue",
+                "fruit_weight": "0.07-0.09 ounces per berry (large)",
+                "skin_thickness": "Very firm",
+                "seed_cavity_size": "Small seeds",
+                "storage_quality": "Excellent - very firm with good shelf life, refrigerate for up to 2 weeks",
+                "crack_resistance": "Excellent"
+              },
+              "herb_characteristics": null,
+              "root_characteristics": null,
+              "leaf_crop_characteristics": null,
+              "flower_characteristics": null,
+              "fun_fact": "Jubilee was released in 2003 and quickly became popular in warm climate regions where traditional Northern Highbush varieties struggle. Its name celebrates the joyful success of growing high-quality blueberries in warmer zones!",
+              "planting_tip": "Jubilee needs 400-500 chill hours (zones 7-9). Plant with other Southern Highbush varieties like O'Neal or Misty for cross-pollination and extended harvest. Mulch heavily to keep roots cool and maintain soil acidity. The vigorous growth and high yields make it excellent for both home and small commercial production."
+            },
+            {
+              "id": 11,
+              "name": "Elliot",
+              "description": "Elliot is a very late-season Northern Highbush variety that extends the blueberry harvest into late summer and early fall. It produces medium-sized, firm berries with good flavor and excellent productivity. Elliot is extremely cold-hardy, disease-resistant, and reliable. The late ripening means berries develop during cooler weather, resulting in good flavor and allowing gardeners to enjoy fresh blueberries when other varieties have finished producing.",
+              "growth_info": {
+                "growth_mode": "Upright, vigorous",
+                "days_to_harvest": {
+                  "lower_estimate": 1095,
+                  "higher_estimate": 1460
+                },
+                "plant_height": "5-6 feet",
+                "spacing": "4-5 feet apart",
+                "is_container_variety": true,
+                "recommended_container_size": "18-24 inches deep, 20-24 inches wide",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "White",
+                "leaf_color": "Medium green, orange-red fall color"
+              },
+              "care_requirements": {
+                "water_requirement": "1-2 inches per week, consistent moisture",
+                "feeding_requirement": "Acid fertilizer in spring",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "12-20 pounds per mature bush",
+                "best_uses": ["Fresh eating", "Baking", "Freezing", "Preserves"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Moderate",
+                "cold_tolerance": "Excellent",
+                "frost_tolerance": true,
+                "drought_tolerance": "Good",
+                "disease_resistance": ["Mummy berry", "Phytophthora root rot", "Excellent overall disease resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Sweet-tart, good flavor with aromatic notes"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Medium blue",
+                "fruit_weight": "0.04-0.06 ounces per berry (medium)",
+                "skin_thickness": "Firm",
+                "seed_cavity_size": "Small seeds",
+                "storage_quality": "Very good - firm berries, refrigerate for up to 2 weeks",
+                "crack_resistance": "Excellent"
+              },
+              "herb_characteristics": null,
+              "root_characteristics": null,
+              "leaf_crop_characteristics": null,
+              "flower_characteristics": null,
+              "fun_fact": "Elliot is the champion of late-season blueberries, often producing fruit into September in northern climates! Plant it with early varieties like Duke for fresh blueberries from early summer through fall - a harvest spanning 2-3 months!",
+              "planting_tip": "Elliot needs 800-1000 chill hours (zones 4-7). Essential for extending harvest season - ripens 3-4 weeks after Bluecrop. The upright, vigorous growth makes it easy to manage. Very cold-hardy and reliable. Plant with mid-season varieties for cross-pollination. Perfect for gardeners who want fresh berries as long as possible!"
             }
           ]
         }
