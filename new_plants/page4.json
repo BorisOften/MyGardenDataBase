@@ -400,7 +400,252 @@
               },
               "fun_fact": "Paris Market carrots were popularized in the 19th century in French markets, known for their petite size and sweet flavor.",
               "planting_tip": "For successful cultivation, plant Paris Market carrot seeds in well-drained soil, especially in containers. Ensure consistent moisture and provide adequate spacing for the small roots. Harvest when the roots are mature, typically 50-60 days after planting."
-            }
+            },
+            {
+  "id": 6,
+  "name": "Danvers 126",
+  "description": "Danvers 126 is a classic American heirloom carrot variety dating back to the 1870s, known for its exceptional adaptability to heavy or clay soils where other carrots struggle. This reliable variety produces uniform, deep orange roots with excellent flavor and texture. Danvers 126 is prized for its vigorous growth, high yields, and superior storage qualities. The tapered roots resist cracking and splitting, making them ideal for both fresh eating and long-term storage.",
+  "growth_info": {
+    "growth_mode": "Upright",
+    "days_to_harvest": {
+      "lower_estimate": 65,
+      "higher_estimate": 75
+    },
+    "plant_height": "12-18 inches",
+    "spacing": "2-4 inches",
+    "is_container_variety": false,
+    "recommended_container_size": "Not suitable for containers",
+    "needs_support": false
+  },
+  "appearance": {
+    "flower_color": "White",
+    "leaf_color": "Deep green"
+  },
+  "care_requirements": {
+    "water_requirement": "Regular watering - keep soil consistently moist, more tolerant of variable moisture than other varieties",
+    "feeding_requirement": "Balanced fertilizer - light feeding, avoid excess nitrogen",
+    "requires_pruning": false
+  },
+  "harvest_storage": {
+    "typical_yield": "6-8 ounces per root",
+    "best_uses": ["Fresh Eating", "Cooking", "Long-term Storage", "Juicing", "Market Growing"]
+  },
+  "tolerances": {
+    "heat_tolerance": "Good - tolerates summer heat well",
+    "cold_tolerance": "Excellent - sweetens after frost",
+    "frost_tolerance": true,
+    "drought_tolerance": "Moderate - more tolerant than modern varieties",
+    "disease_resistance": ["Alternaria Leaf Blight", "Good overall disease resistance"]
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Sweet, rich, classic carrot flavor - excellent for fresh eating and cooking"
+  },
+  "root_characteristics": {
+    "root_color": "Deep orange",
+    "root_shape": "Tapered, conical",
+    "root_size": "6-8 inches long, 2-3 inches at shoulder",
+    "texture": "Crisp, dense, and sweet",
+    "storage_life": "4-6 months in proper storage - excellent keeper"
+  },
+  "fun_fact": "Did you know? Danvers 126 was developed in Danvers, Massachusetts in the 1870s and became so popular that Danvers was once known as the 'Onion Capital' before transitioning to being famous for carrots! This variety can handle heavy clay soils that would make other carrots fork or deform.",
+  "planting_tip": "Plant Danvers 126 seeds ¼ inch deep in well-prepared soil. This variety excels in heavier soils where other carrots struggle - just work in some compost. Thin seedlings to 2-4 inches apart. Water consistently during germination. Can be left in ground after first frost for sweeter flavor. Excellent choice for clay soil gardens and long-term storage."
+},
+{
+  "id": 7,
+  "name": "Nantes Scarlet",
+  "description": "Nantes Scarlet is a premium French heirloom carrot variety renowned for its exceptional sweetness, tender texture, and almost coreless interior. This cylindrical carrot produces perfectly straight, smooth roots with vibrant orange color. Nantes types are considered by many to be the finest tasting carrots, with a crisp-tender texture that's never woody. The blunt-tipped roots are uniform and easy to harvest, making them a favorite among market gardeners and home growers alike.",
+  "growth_info": {
+    "growth_mode": "Upright",
+    "days_to_harvest": {
+      "lower_estimate": 65,
+      "higher_estimate": 75
+    },
+    "plant_height": "12-16 inches",
+    "spacing": "2-3 inches",
+    "is_container_variety": true,
+    "recommended_container_size": "12-16 inches deep container",
+    "needs_support": false
+  },
+  "appearance": {
+    "flower_color": "White",
+    "leaf_color": "Bright green"
+  },
+  "care_requirements": {
+    "water_requirement": "Regular watering - keep soil consistently moist, especially during root development",
+    "feeding_requirement": "Balanced fertilizer - light feeding, prefers loose, fertile soil",
+    "requires_pruning": false
+  },
+  "harvest_storage": {
+    "typical_yield": "5-7 ounces per root",
+    "best_uses": ["Fresh Eating", "Juicing", "Baby Carrots", "Gourmet Cooking", "Snacking"]
+  },
+  "tolerances": {
+    "heat_tolerance": "Moderate",
+    "cold_tolerance": "Good",
+    "frost_tolerance": true,
+    "drought_tolerance": "Low - requires consistent moisture",
+    "disease_resistance": ["Cercospora Leaf Spot"]
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Exceptionally sweet, tender, and crisp - considered the finest tasting carrot type, almost coreless"
+  },
+  "root_characteristics": {
+    "root_color": "Bright orange",
+    "root_shape": "Cylindrical, blunt-tipped",
+    "root_size": "6-7 inches long, uniform diameter",
+    "texture": "Tender-crisp, smooth, almost coreless",
+    "storage_life": "2-3 months in proper storage"
+  },
+  "fun_fact": "Did you know? Nantes carrots originated in the Nantes region of France and are considered the gold standard for carrot flavor and texture! They're almost coreless, meaning the entire carrot is tender and sweet with no woody center. Many chefs consider them the finest carrots for fresh eating.",
+  "planting_tip": "Plant Nantes Scarlet in loose, well-drained, stone-free soil for straight roots. Sow seeds ¼ inch deep and thin to 2-3 inches apart. Requires consistent moisture and prefers cooler weather. Perfect for containers due to shorter length. Harvest when shoulders reach ¾-1 inch diameter. Can be harvested young as baby carrots or at full size. Best fresh - exceptional flavor!"
+},
+{
+  "id": 8,
+  "name": "Chantenay Red Core",
+  "description": "Chantenay Red Core is a robust, stocky carrot variety perfect for heavy or clay soils and challenging growing conditions. This French heirloom produces short, thick, cone-shaped roots with broad shoulders and deep orange color. Chantenay carrots are incredibly versatile - excellent for fresh eating, cooking, juicing, and storage. The shorter, stouter shape makes them ideal for difficult soils and container growing, while their sweet flavor and crisp texture make them a kitchen favorite.",
+  "growth_info": {
+    "growth_mode": "Compact",
+    "days_to_harvest": {
+      "lower_estimate": 65,
+      "higher_estimate": 75
+    },
+    "plant_height": "10-14 inches",
+    "spacing": "2-4 inches",
+    "is_container_variety": true,
+    "recommended_container_size": "10-12 inches deep container",
+    "needs_support": false
+  },
+  "appearance": {
+    "flower_color": "White",
+    "leaf_color": "Green"
+  },
+  "care_requirements": {
+    "water_requirement": "Regular watering - keep soil consistently moist",
+    "feeding_requirement": "Balanced fertilizer - light feeding",
+    "requires_pruning": false
+  },
+  "harvest_storage": {
+    "typical_yield": "6-8 ounces per root",
+    "best_uses": ["Fresh Eating", "Cooking", "Heavy Soils", "Storage", "Juicing", "Containers"]
+  },
+  "tolerances": {
+    "heat_tolerance": "Good - tolerates heat well",
+    "cold_tolerance": "Excellent",
+    "frost_tolerance": true,
+    "drought_tolerance": "Good - more tolerant than long varieties",
+    "disease_resistance": ["Alternaria Leaf Blight", "Good overall disease resistance"]
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Sweet, rich carrot flavor - excellent for cooking and fresh eating"
+  },
+  "root_characteristics": {
+    "root_color": "Deep orange with reddish core",
+    "root_shape": "Short, conical, broad-shouldered",
+    "root_size": "5-6 inches long, 2-3 inches at shoulder",
+    "texture": "Crisp, dense, and sweet",
+    "storage_life": "4-6 months in proper storage"
+  },
+  "fun_fact": "Did you know? Chantenay carrots were developed in France and are specifically bred to handle heavy, clay, or rocky soils where longer carrots would fork or become misshapen. Their short, stocky shape makes them nearly impossible to break when harvesting from difficult soils!",
+  "planting_tip": "Plant Chantenay Red Core seeds ¼ inch deep. Excellent choice for heavy, clay, or rocky soils - the short, thick roots push through obstacles easily. Thin to 2-4 inches apart. Perfect for containers due to short length. More forgiving of soil conditions than long varieties. Harvest when shoulders are 1.5-2 inches across. Excellent storage carrot!"
+},
+{
+  "id": 9,
+  "name": "Atomic Red",
+  "description": "Atomic Red is a stunning carrot variety with bright red-pink skin and orange-red interior, offering both visual appeal and exceptional nutritional value. This unique carrot is high in lycopene (the same antioxidant found in tomatoes) and provides a sweet, crisp flavor. Atomic Red retains much of its vibrant color when cooked, making it perfect for adding visual interest to dishes. The tapered roots are smooth and uniform, growing well in loose soils.",
+  "growth_info": {
+    "growth_mode": "Upright",
+    "days_to_harvest": {
+      "lower_estimate": 70,
+      "higher_estimate": 80
+    },
+    "plant_height": "12-18 inches",
+    "spacing": "2-4 inches",
+    "is_container_variety": false,
+    "recommended_container_size": "Not suitable for containers",
+    "needs_support": false
+  },
+  "appearance": {
+    "flower_color": "White",
+    "leaf_color": "Green"
+  },
+  "care_requirements": {
+    "water_requirement": "Regular watering - keep soil consistently moist for best color development",
+    "feeding_requirement": "Balanced fertilizer - light feeding",
+    "requires_pruning": false
+  },
+  "harvest_storage": {
+    "typical_yield": "6-8 ounces per root",
+    "best_uses": ["Fresh Eating", "Juicing", "Roasting", "Gourmet Cooking", "Salads"]
+  },
+  "tolerances": {
+    "heat_tolerance": "Moderate",
+    "cold_tolerance": "Good",
+    "frost_tolerance": true,
+    "drought_tolerance": "Low",
+    "disease_resistance": []
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Sweet and crisp with subtle earthy notes - flavor intensifies when cooked"
+  },
+  "root_characteristics": {
+    "root_color": "Red-pink exterior, orange-red interior",
+    "root_shape": "Tapered, cylindrical",
+    "root_size": "7-9 inches",
+    "texture": "Crisp and tender",
+    "storage_life": "2-3 months in proper storage"
+  },
+  "fun_fact": "Did you know? Atomic Red carrots are exceptionally high in lycopene - up to 40 times more than standard orange carrots! Lycopene is a powerful antioxidant linked to heart health and cancer prevention. The red color becomes even more vibrant when cooked, unlike most colored vegetables that fade.",
+  "planting_tip": "Plant Atomic Red in loose, deep, stone-free soil for straight roots. Sow seeds ¼ inch deep and thin to 2-4 inches apart. Consistent moisture is important for good color development. The unique red color makes these carrots easy to spot during harvest. Excellent for juicing - produces beautiful pink juice! Color intensifies with cooking."
+},
+{
+  "id": 10,
+  "name": "Imperator 58",
+  "description": "Imperator 58 is the classic long, tapered carrot variety that defined the commercial carrot standard for decades. This variety produces exceptionally long (10-12 inches), slender roots with deep orange color and excellent flavor. Imperator 58 is the type of carrot you typically see in grocery stores, known for its uniform shape, strong tops for easy harvest, and outstanding storage qualities. Perfect for gardeners with deep, loose soil who want maximum carrot length and impressive harvests.",
+  "growth_info": {
+    "growth_mode": "Upright",
+    "days_to_harvest": {
+      "lower_estimate": 75,
+      "higher_estimate": 85
+    },
+    "plant_height": "14-20 inches",
+    "spacing": "2-4 inches",
+    "is_container_variety": false,
+    "recommended_container_size": "Not suitable for containers - needs deep soil",
+    "needs_support": false
+  },
+  "appearance": {
+    "flower_color": "White",
+    "leaf_color": "Dark green"
+  },
+  "care_requirements": {
+    "water_requirement": "Regular watering - keep soil consistently moist, especially during root elongation",
+    "feeding_requirement": "Balanced fertilizer - light feeding, requires deep, loose soil",
+    "requires_pruning": false
+  },
+  "harvest_storage": {
+    "typical_yield": "8-10 ounces per root",
+    "best_uses": ["Fresh Eating", "Cooking", "Juicing", "Long-term Storage", "Market Growing"]
+  },
+  "tolerances": {
+    "heat_tolerance": "Good",
+    "cold_tolerance": "Good",
+    "frost_tolerance": true,
+    "drought_tolerance": "Moderate",
+    "disease_resistance": ["Alternaria Leaf Blight", "Cercospora Leaf Spot"]
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Sweet, classic carrot flavor - crisp and juicy"
+  },
+  "root_characteristics": {
+    "root_color": "Deep orange",
+    "root_shape": "Very long, slender, tapered",
+    "root_size": "10-12 inches long, 1.5-2 inches at shoulder",
+    "texture": "Crisp, juicy, and sweet",
+    "storage_life": "4-6 months in proper storage - excellent keeper"
+  },
+  "fun_fact": "Did you know? Imperator 58 was developed in the 1920s and became the commercial standard, defining what most people think of as the 'classic' carrot shape! It requires deep, loose, stone-free soil - in rocky or clay soil, these long carrots will fork or twist. They're impressive when grown successfully!",
+  "planting_tip": "Plant Imperator 58 only if you have deep (12+ inches), loose, stone-free soil - these carrots need room to grow long and straight. Work soil deeply and remove rocks. Sow seeds ¼ inch deep, thin to 2-4 inches apart. Consistent, deep watering is crucial for straight roots. Not recommended for clay or rocky soils. Harvest when shoulders are 1-1.5 inches across. Outstanding storage carrot!"
+}
           ]
         },
         {
@@ -807,7 +1052,257 @@
               },
               "fun_fact": "Moon and Stars Watermelon gained popularity in the 1920s and became a symbol of heirloom varieties. The yellow spots on the skin are a natural genetic variation.",
               "planting_tip": "For successful cultivation, plant Moon and Stars Watermelon seeds in well-drained soil. Provide consistent moisture during the growing season, especially when the fruit is setting. Support the vines as they grow and consider pruning to manage vine length. Harvest when the fruit develops a uniform dark green color, and the yellow spots are visible, and the tendrils near the stem dry out."
-            }
+            },
+            {
+  "id": 6,
+  "name": "Black Diamond",
+  "description": "Black Diamond Watermelon is a classic large heirloom variety known for its enormous size and exceptionally sweet, deep red flesh. The dark green to nearly black rind gives this watermelon its distinctive name. Black Diamond produces some of the largest watermelons available, often exceeding 50 pounds. With vigorous trailing vines and excellent heat tolerance, this variety has been a favorite since the 1950s for its impressive size and outstanding flavor.",
+  "growth_info": {
+    "growth_mode": "Trailing, very vigorous",
+    "days_to_harvest": {
+      "lower_estimate": 85,
+      "higher_estimate": 95
+    },
+    "plant_height": "18-24 inches",
+    "spacing": "6-8 feet",
+    "is_container_variety": false,
+    "recommended_container_size": "Not suitable for containers",
+    "needs_support": true
+  },
+  "appearance": {
+    "flower_color": "Yellow",
+    "leaf_color": "Green"
+  },
+  "care_requirements": {
+    "water_requirement": "Regular, deep watering - especially during fruiting, needs ample space and moisture for large fruits",
+    "feeding_requirement": "Heavy feeder - balanced fertilizer with higher potassium during fruiting",
+    "requires_pruning": true
+  },
+  "harvest_storage": {
+    "typical_yield": "30-50+ pounds per fruit",
+    "best_uses": ["Fresh Eating", "Large Gatherings", "Competitions", "Fruit Stands"]
+  },
+  "tolerances": {
+    "heat_tolerance": "Excellent - thrives in extreme heat",
+    "cold_tolerance": "Poor",
+    "frost_tolerance": false,
+    "drought_tolerance": "Low",
+    "disease_resistance": ["Fusarium Wilt", "Anthracnose"]
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Exceptionally sweet with rich, deep red flesh - classic watermelon flavor"
+  },
+  "fruit_characteristics": {
+    "fruit_color": "Very Dark Green to Nearly Black",
+    "fruit_weight": "30-50+ pounds (can exceed 75 pounds)",
+    "skin_thickness": "Thick",
+    "seed_cavity_size": "Large",
+    "storage_quality": "Excellent - 3-4 weeks refrigerated",
+    "crack_resistance": "Excellent"
+  },
+  "fun_fact": "Did you know? Black Diamond watermelons regularly win competitions for largest watermelon, with some specimens exceeding 100 pounds! This variety was introduced in the 1950s and quickly became popular for its impressive size and sweet flavor. It's the go-to variety for growing giant watermelons.",
+  "planting_tip": "Plant Black Diamond in well-drained, fertile soil with full sun. Requires LOTS of space - vines can spread 20+ feet! Water deeply and consistently, especially during fruit development. Feed heavily - these monsters need nutrients! May need support or padding under developing fruits. Harvest when underside turns creamy yellow and tendril near stem dries. Perfect for competitions and large gatherings!"
+},
+{
+  "id": 7,
+  "name": "Orangeglo",
+  "description": "Orangeglo Watermelon is a stunning and unique variety featuring bright orange flesh with exceptional sweetness and a tropical flavor reminiscent of mango or papaya. This oblong melon has a light green rind with darker green stripes. Orangeglo is prized not only for its beautiful color but also for its incredibly sweet, crisp texture and distinctive flavor that sets it apart from traditional red watermelons. The orange flesh is high in beta-carotene and vitamin A.",
+  "growth_info": {
+    "growth_mode": "Trailing, vigorous",
+    "days_to_harvest": {
+      "lower_estimate": 90,
+      "higher_estimate": 105
+    },
+    "plant_height": "18-24 inches",
+    "spacing": "5-7 feet",
+    "is_container_variety": false,
+    "recommended_container_size": "Not suitable for containers",
+    "needs_support": true
+  },
+  "appearance": {
+    "flower_color": "Yellow",
+    "leaf_color": "Green"
+  },
+  "care_requirements": {
+    "water_requirement": "Regular, deep watering - especially during fruiting",
+    "feeding_requirement": "Balanced fertilizer with higher potassium during fruiting",
+    "requires_pruning": true
+  },
+  "harvest_storage": {
+    "typical_yield": "20-40 pounds per fruit",
+    "best_uses": ["Fresh Eating", "Specialty Markets", "Fruit Salads", "Juicing"]
+  },
+  "tolerances": {
+    "heat_tolerance": "Excellent",
+    "cold_tolerance": "Poor",
+    "frost_tolerance": false,
+    "drought_tolerance": "Low",
+    "disease_resistance": []
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Exceptionally sweet with tropical flavor notes - hints of mango and papaya, crisp texture"
+  },
+  "fruit_characteristics": {
+    "fruit_color": "Light Green with Dark Green Stripes (Orange Flesh)",
+    "fruit_weight": "20-40 pounds",
+    "skin_thickness": "Medium-thick",
+    "seed_cavity_size": "Medium",
+    "storage_quality": "Good - 2-3 weeks refrigerated",
+    "crack_resistance": "Good"
+  },
+  "fun_fact": "Did you know? Orangeglo watermelon has bright orange flesh instead of the traditional red, and its flavor is often described as having tropical notes! The orange color comes from high levels of beta-carotene, making it even more nutritious than red watermelons. It's a conversation starter at any gathering!",
+  "planting_tip": "Plant Orangeglo in well-drained, fertile soil with full sun. Requires long, hot growing season for best flavor development. Water deeply and consistently. This variety takes longer to mature than many melons but is worth the wait! Harvest when underside turns creamy yellow and tendril dries. The unique orange flesh and tropical flavor make it a specialty market favorite!"
+},
+{
+  "id": 8,
+  "name": "Ali Baba",
+  "description": "Ali Baba Watermelon is an exceptional Iraqi heirloom variety that produces enormous, elongated melons with incredibly sweet, crisp red flesh. This variety is renowned for producing some of the largest watermelons in the world, often exceeding 60-80 pounds. The oblong shape and light green rind with darker green stripes make it distinctive. Ali Baba is prized in Middle Eastern countries for its outstanding flavor and massive size, requiring a long, hot growing season.",
+  "growth_info": {
+    "growth_mode": "Trailing, extremely vigorous",
+    "days_to_harvest": {
+      "lower_estimate": 95,
+      "higher_estimate": 110
+    },
+    "plant_height": "18-24 inches",
+    "spacing": "6-10 feet",
+    "is_container_variety": false,
+    "recommended_container_size": "Not suitable for containers",
+    "needs_support": true
+  },
+  "appearance": {
+    "flower_color": "Yellow",
+    "leaf_color": "Green"
+  },
+  "care_requirements": {
+    "water_requirement": "Heavy watering - deep and consistent, especially during fruit development",
+    "feeding_requirement": "Heavy feeder - regular fertilization with higher potassium during fruiting",
+    "requires_pruning": true
+  },
+  "harvest_storage": {
+    "typical_yield": "40-80+ pounds per fruit",
+    "best_uses": ["Fresh Eating", "Large Gatherings", "Competitions", "Middle Eastern Cuisine"]
+  },
+  "tolerances": {
+    "heat_tolerance": "Excellent - requires long, hot season",
+    "cold_tolerance": "Poor",
+    "frost_tolerance": false,
+    "drought_tolerance": "Low",
+    "disease_resistance": []
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Exceptionally sweet and crisp with intense watermelon flavor - very juicy"
+  },
+  "fruit_characteristics": {
+    "fruit_color": "Light Green with Dark Green Stripes",
+    "fruit_weight": "40-80+ pounds (can exceed 100 pounds)",
+    "skin_thickness": "Thick",
+    "seed_cavity_size": "Large",
+    "storage_quality": "Excellent - 3-4 weeks refrigerated",
+    "crack_resistance": "Excellent"
+  },
+  "fun_fact": "Did you know? Ali Baba watermelon is an ancient Iraqi heirloom that has been grown in the Middle East for centuries! It's famous for producing some of the largest watermelons in the world, with fruits regularly exceeding 80 pounds. The name comes from the famous character in Arabian Nights - fitting for such a legendary melon!",
+  "planting_tip": "Plant Ali Baba in rich, well-drained soil with full sun. Requires EXTENSIVE space - vines can spread 20-30 feet! Needs long, hot growing season (100+ days). Water heavily and feed regularly for maximum size. May need support or padding under developing fruits. Requires patience but produces massive, incredibly sweet melons. Best in hot climates with long summers."
+},
+{
+  "id": 9,
+  "name": "Petite Yellow",
+  "description": "Petite Yellow Watermelon is a delightful mini icebox variety featuring bright yellow flesh and compact size perfect for small households and refrigerators. This small melon produces 6-8 pound fruits with exceptionally sweet, honey-flavored yellow flesh. The light green rind with dark green stripes makes it attractive, while the manageable size and early maturity make it ideal for home gardeners. Petite Yellow is perfect for small spaces and provides all the sweetness of larger melons in a convenient package.",
+  "growth_info": {
+    "growth_mode": "Trailing, compact vines",
+    "days_to_harvest": {
+      "lower_estimate": 70,
+      "higher_estimate": 80
+    },
+    "plant_height": "12-18 inches",
+    "spacing": "3-4 feet",
+    "is_container_variety": true,
+    "recommended_container_size": "20-24 inches deep, very large container (20+ gallons) with trellis",
+    "needs_support": true
+  },
+  "appearance": {
+    "flower_color": "Yellow",
+    "leaf_color": "Green"
+  },
+  "care_requirements": {
+    "water_requirement": "Regular watering - keep soil consistently moist during fruiting",
+    "feeding_requirement": "Balanced fertilizer with higher potassium during fruiting",
+    "requires_pruning": true
+  },
+  "harvest_storage": {
+    "typical_yield": "6-8 pounds per fruit, multiple fruits per vine",
+    "best_uses": ["Fresh Eating", "Small Households", "Container Growing", "Personal Servings"]
+  },
+  "tolerances": {
+    "heat_tolerance": "Excellent",
+    "cold_tolerance": "Poor",
+    "frost_tolerance": false,
+    "drought_tolerance": "Low",
+    "disease_resistance": ["Fusarium Wilt"]
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Very sweet with honey-like flavor - crisp, refreshing yellow flesh"
+  },
+  "fruit_characteristics": {
+    "fruit_color": "Light Green with Dark Green Stripes (Yellow Flesh)",
+    "fruit_weight": "6-8 pounds",
+    "skin_thickness": "Medium",
+    "seed_cavity_size": "Small",
+    "storage_quality": "Good - fits in refrigerator, 2-3 weeks refrigerated",
+    "crack_resistance": "Good"
+  },
+  "fun_fact": "Did you know? Petite Yellow is perfect for small households because the entire melon fits easily in a standard refrigerator! The compact vines also make it suitable for small gardens and even large containers. Despite its small size, it delivers full watermelon sweetness and unique yellow color.",
+  "planting_tip": "Plant Petite Yellow in well-drained soil with full sun. Compact vines make this suitable for small gardens - only needs 3-4 feet of space! Can be grown in very large containers (20+ gallons) with trellis support. Water consistently during fruit development. Multiple fruits per vine. Harvest when underside turns creamy yellow. Perfect for patios, small gardens, and container growing!"
+},
+{
+  "id": 10,
+  "name": "Desert King",
+  "description": "Desert King Watermelon is a unique yellow-fleshed variety specifically bred to thrive in hot, arid climates with low humidity. This vigorous grower produces large, oblong melons with light green rinds and golden-yellow flesh that's incredibly sweet and crisp. Desert King is renowned for its exceptional drought tolerance once established and its ability to produce quality melons even in challenging desert conditions. The thick rind protects the flesh and provides excellent storage qualities.",
+  "growth_info": {
+    "growth_mode": "Trailing, very vigorous and drought-adapted",
+    "days_to_harvest": {
+      "lower_estimate": 85,
+      "higher_estimate": 95
+    },
+    "plant_height": "18-24 inches",
+    "spacing": "5-7 feet",
+    "is_container_variety": false,
+    "recommended_container_size": "Not suitable for containers",
+    "needs_support": true
+  },
+  "appearance": {
+    "flower_color": "Yellow",
+    "leaf_color": "Gray-green (adapted to reduce water loss)"
+  },
+  "care_requirements": {
+    "water_requirement": "Moderate watering - more drought tolerant than most melons once established, deep watering during fruit set",
+    "feeding_requirement": "Balanced fertilizer with higher potassium during fruiting",
+    "requires_pruning": true
+  },
+  "harvest_storage": {
+    "typical_yield": "15-25 pounds per fruit",
+    "best_uses": ["Fresh Eating", "Desert Climates", "Hot, Dry Gardens", "Storage"]
+  },
+  "tolerances": {
+    "heat_tolerance": "Excellent - specifically bred for extreme heat",
+    "cold_tolerance": "Poor",
+    "frost_tolerance": false,
+    "drought_tolerance": "High - best drought tolerance of any watermelon once established",
+    "disease_resistance": ["Fusarium Wilt", "Good overall disease resistance"]
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Very sweet with honey-like flavor - crisp, golden-yellow flesh"
+  },
+  "fruit_characteristics": {
+    "fruit_color": "Light Green to Pale Yellow (Yellow Flesh)",
+    "fruit_weight": "15-25 pounds",
+    "skin_thickness": "Thick",
+    "seed_cavity_size": "Medium",
+    "storage_quality": "Excellent - 3-4 weeks, thick rind protects flesh",
+    "crack_resistance": "Excellent"
+  },
+  "fun_fact": "Did you know? Desert King was specifically bred to thrive in hot, arid climates where other watermelons struggle! It's the go-to variety for desert gardeners in places like Arizona, Nevada, and Southern California. Once established, it requires less water than standard watermelons and produces sweet, golden flesh even in extreme heat!",
+  "planting_tip": "Plant Desert King in well-drained soil with full sun. Perfect for hot, arid climates with low humidity. Water deeply but less frequently once established - this variety is bred to handle drought! Performs best where other melons fail. Mulch heavily to conserve moisture. Harvest when underside turns creamy yellow and tendril dries. Ideal for desert and xeriscape gardens!"
+}
           ]
         },
         {
@@ -1114,7 +1609,257 @@
               },
               "fun_fact": "Spaghetti Squash is rich in vitamins and minerals, providing a healthy and gluten-free option for those looking to reduce traditional pasta consumption.",
               "planting_tip": "For successful cultivation, plant Spaghetti Squash seeds in well-drained soil. Provide consistent moisture, especially during the fruiting stage. Harvest when the skin turns a deep yellow color, and the flesh can be easily separated into strands with a fork."
-            }
+            },
+            {
+  "id": 4,
+  "name": "Butternut",
+  "description": "Butternut Squash is a classic winter squash variety beloved for its sweet, nutty flavor and smooth, creamy texture. The distinctive bell or pear shape with tan-beige skin makes it easily recognizable. Butternut produces medium to large fruits with dense, orange flesh that's perfect for soups, roasting, and purees. With a vining growth habit and excellent storage qualities, Butternut is one of the most popular and versatile winter squashes available.",
+  "growth_info": {
+    "growth_mode": "Vining",
+    "days_to_harvest": {
+      "lower_estimate": 85,
+      "higher_estimate": 100
+    },
+    "plant_height": "18-24 inches (vines spread 10-15 feet)",
+    "spacing": "4-6 feet",
+    "is_container_variety": false,
+    "recommended_container_size": "Not suitable for containers",
+    "needs_support": false
+  },
+  "appearance": {
+    "flower_color": "Yellow",
+    "leaf_color": "Green"
+  },
+  "care_requirements": {
+    "water_requirement": "Regular watering - keep soil consistently moist, especially during fruiting",
+    "feeding_requirement": "Balanced fertilizer - side-dress with compost mid-season",
+    "requires_pruning": false
+  },
+  "harvest_storage": {
+    "typical_yield": "3-5 pounds per fruit, 3-5 fruits per vine",
+    "best_uses": ["Roasting", "Soups", "Purees", "Baking", "Mashing"]
+  },
+  "tolerances": {
+    "heat_tolerance": "Good",
+    "cold_tolerance": "Poor",
+    "frost_tolerance": false,
+    "drought_tolerance": "Low",
+    "disease_resistance": ["Powdery Mildew Tolerance"]
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Sweet, nutty, rich and creamy - smooth texture when cooked"
+  },
+  "fruit_characteristics": {
+    "fruit_color": "Tan to beige with orange flesh",
+    "fruit_weight": "3-5 pounds",
+    "skin_thickness": "Medium-thick and hard",
+    "seed_cavity_size": "Small - located in bulb end only",
+    "storage_quality": "Excellent - 3-6 months in cool, dry storage, flavor improves with storage",
+    "crack_resistance": "Excellent"
+  },
+  "fun_fact": "Did you know? Butternut squash actually improves in flavor after being stored for a few weeks! The starches convert to sugars during storage, making it sweeter. It's also one of the easiest winter squashes to peel and prepare due to its smooth skin and small seed cavity.",
+  "planting_tip": "Plant Butternut seeds 1 inch deep in warm soil (70°F+) after all frost danger passes. Space plants 4-6 feet apart - vines need room to spread! Water deeply and consistently. Harvest when skin is fully tan/beige and hard (fingernail won't penetrate), and stem is dry and brown. Cure in warm, dry location for 1-2 weeks before storage for best keeping quality."
+},
+{
+  "id": 5,
+  "name": "Delicata",
+  "description": "Delicata Squash, also known as Sweet Potato Squash or Bohemian Squash, is a unique winter squash with edible skin and exceptional sweet flavor. The oblong, cream-colored fruits have distinctive green or orange stripes running lengthwise. Delicata's thin, tender skin doesn't require peeling, making it one of the easiest winter squashes to prepare. The creamy, sweet flesh has a rich, almost corn-like flavor. With a compact bush habit, it's perfect for smaller gardens.",
+  "growth_info": {
+    "growth_mode": "Semi-bush to short vining",
+    "days_to_harvest": {
+      "lower_estimate": 80,
+      "higher_estimate": 100
+    },
+    "plant_height": "18-24 inches (short vines 4-6 feet)",
+    "spacing": "3-4 feet",
+    "is_container_variety": false,
+    "recommended_container_size": "Not suitable for containers",
+    "needs_support": false
+  },
+  "appearance": {
+    "flower_color": "Yellow",
+    "leaf_color": "Green"
+  },
+  "care_requirements": {
+    "water_requirement": "Regular watering - keep soil consistently moist",
+    "feeding_requirement": "Balanced fertilizer - side-dress with compost",
+    "requires_pruning": false
+  },
+  "harvest_storage": {
+    "typical_yield": "1-2 pounds per fruit, 4-6 fruits per plant",
+    "best_uses": ["Roasting", "Baking", "Stuffing", "Quick Cooking"]
+  },
+  "tolerances": {
+    "heat_tolerance": "Good",
+    "cold_tolerance": "Poor",
+    "frost_tolerance": false,
+    "drought_tolerance": "Low",
+    "disease_resistance": []
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Very sweet, creamy, corn-like flavor - similar to sweet potato"
+  },
+  "fruit_characteristics": {
+    "fruit_color": "Cream with green or orange stripes",
+    "fruit_weight": "1-2 pounds",
+    "skin_thickness": "Thin and edible",
+    "seed_cavity_size": "Small",
+    "storage_quality": "Good - 2-3 months in cool, dry storage (shorter than other winter squash)",
+    "crack_resistance": "Good"
+  },
+  "fun_fact": "Did you know? Delicata is one of the only winter squashes with edible skin! You can simply slice it, scoop out seeds, and roast it - no peeling required. The skin becomes tender when cooked and adds extra nutrition and fiber. It's perfect for quick weeknight meals!",
+  "planting_tip": "Plant Delicata seeds 1 inch deep in warm soil after frost danger passes. Compact growth makes it suitable for smaller gardens - only needs 3-4 feet of space! Water consistently. Harvest when skin develops full color and hardens slightly (but still thinner than other winter squash). Use within 2-3 months of harvest - doesn't store as long as butternut but incredible flavor makes it worth it!"
+},
+{
+  "id": 6,
+  "name": "Hubbard",
+  "description": "Hubbard Squash is a large, impressive winter squash variety known for its enormous size, distinctive warty, bumpy skin, and exceptional storage qualities. These massive squashes can weigh 10-40 pounds and come in blue-gray, orange, or green varieties. Hubbard produces dense, fine-grained orange flesh with a rich, sweet flavor perfect for pies, soups, and long-term storage. The extremely hard shell makes it one of the longest-storing winter squashes available, lasting 6 months or more.",
+  "growth_info": {
+    "growth_mode": "Vining - very vigorous",
+    "days_to_harvest": {
+      "lower_estimate": 100,
+      "higher_estimate": 120
+    },
+    "plant_height": "18-24 inches (vines spread 15-20 feet)",
+    "spacing": "6-8 feet",
+    "is_container_variety": false,
+    "recommended_container_size": "Not suitable for containers",
+    "needs_support": false
+  },
+  "appearance": {
+    "flower_color": "Yellow",
+    "leaf_color": "Green"
+  },
+  "care_requirements": {
+    "water_requirement": "Regular watering - keep soil consistently moist, especially during fruit development",
+    "feeding_requirement": "Heavy feeder - balanced fertilizer, side-dress with compost multiple times",
+    "requires_pruning": false
+  },
+  "harvest_storage": {
+    "typical_yield": "10-40 pounds per fruit, 2-4 fruits per vine",
+    "best_uses": ["Long-term Storage", "Pies", "Soups", "Baking", "Purees"]
+  },
+  "tolerances": {
+    "heat_tolerance": "Good",
+    "cold_tolerance": "Poor",
+    "frost_tolerance": false,
+    "drought_tolerance": "Low",
+    "disease_resistance": ["Good overall disease resistance"]
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Rich, sweet, fine-grained - flavor improves significantly with storage"
+  },
+  "fruit_characteristics": {
+    "fruit_color": "Blue-gray, orange, or green with warty, bumpy skin",
+    "fruit_weight": "10-40 pounds",
+    "skin_thickness": "Very thick and extremely hard - difficult to cut",
+    "seed_cavity_size": "Large",
+    "storage_quality": "Excellent - 6-12 months in proper storage, one of the longest-storing squashes",
+    "crack_resistance": "Excellent"
+  },
+  "fun_fact": "Did you know? Hubbard squash can store for up to a year in proper conditions, making it a traditional 'keeper' squash that helped people survive winter before modern refrigeration! The shell is so hard you may need a saw or hammer to cut it open, but the incredible storage life and sweet flavor make it worth the effort.",
+  "planting_tip": "Plant Hubbard in very fertile soil with lots of space - vines can spread 20 feet! Water and feed heavily - these monsters need nutrients. Harvest after first light frost when skin is very hard and difficult to dent with fingernail. Cure for 2 weeks in warm, dry location. The hard shell and long storage make this perfect for winter food security. Pro tip: roast whole at 350°F for easier cutting!"
+},
+{
+  "id": 7,
+  "name": "Yellow Crookneck",
+  "description": "Yellow Crookneck is a classic summer squash variety with distinctive curved neck and bright yellow skin covered in small bumps. This prolific producer yields tender, mild-flavored fruits that are best harvested young at 4-6 inches. Yellow Crookneck has a buttery texture when cooked and is perfect for sautéing, grilling, and baking. With a compact bush habit and continuous production, it's an excellent choice for home gardens and provides abundant harvests throughout summer.",
+  "growth_info": {
+    "growth_mode": "Bushy",
+    "days_to_harvest": {
+      "lower_estimate": 50,
+      "higher_estimate": 60
+    },
+    "plant_height": "24-36 inches",
+    "spacing": "2-3 feet",
+    "is_container_variety": true,
+    "recommended_container_size": "18-24 inch diameter container minimum",
+    "needs_support": false
+  },
+  "appearance": {
+    "flower_color": "Yellow",
+    "leaf_color": "Green"
+  },
+  "care_requirements": {
+    "water_requirement": "Regular watering - keep soil consistently moist, especially during fruiting",
+    "feeding_requirement": "Balanced fertilizer - feed every 2-3 weeks for continuous production",
+    "requires_pruning": false
+  },
+  "harvest_storage": {
+    "typical_yield": "0.5-1 pound per fruit, highly prolific - pick daily",
+    "best_uses": ["Sautéing", "Grilling", "Baking", "Fresh Eating", "Casseroles"]
+  },
+  "tolerances": {
+    "heat_tolerance": "Excellent",
+    "cold_tolerance": "Poor",
+    "frost_tolerance": false,
+    "drought_tolerance": "Low",
+    "disease_resistance": ["Some virus resistance"]
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Mild, sweet, buttery - tender when young"
+  },
+  "fruit_characteristics": {
+    "fruit_color": "Bright yellow with bumpy skin",
+    "fruit_weight": "0.5-1 pound (best at 4-6 inches)",
+    "skin_thickness": "Thin and tender when young",
+    "seed_cavity_size": "Small when harvested young",
+    "storage_quality": "Poor - best used fresh within 3-5 days refrigerated",
+    "crack_resistance": "Good"
+  },
+  "fun_fact": "Did you know? Yellow Crookneck has been grown in American gardens since the early 1700s, making it one of the oldest summer squash varieties! The distinctive curved neck and bumpy skin make it instantly recognizable. Pick fruits when small (4-6 inches) for best flavor and to encourage more production!",
+  "planting_tip": "Plant Yellow Crookneck seeds 1 inch deep in warm soil (70°F+) after all frost danger passes. Space plants 2-3 feet apart or grow in large containers. Water consistently and feed regularly. IMPORTANT: Harvest every 1-2 days when fruits are 4-6 inches long! Leaving large fruits on plant will stop production. The more you pick, the more it produces. Perfect for prolific summer harvests!"
+},
+{
+  "id": 8,
+  "name": "Kabocha",
+  "description": "Kabocha Squash, also known as Japanese Pumpkin, is a premium winter squash variety prized for its exceptional sweetness, dense texture, and rich flavor. The dark green, slightly flattened fruits have sweet, vibrant orange flesh that's drier and fluffier than butternut. Kabocha is beloved in Asian cuisine and increasingly popular worldwide for its superior taste. The flesh has a chestnut-like texture and naturally sweet flavor. With excellent storage qualities and high nutritional value, Kabocha is considered by many to be the finest-tasting winter squash.",
+  "growth_info": {
+    "growth_mode": "Vining",
+    "days_to_harvest": {
+      "lower_estimate": 90,
+      "higher_estimate": 105
+    },
+    "plant_height": "18-24 inches (vines spread 10-12 feet)",
+    "spacing": "4-6 feet",
+    "is_container_variety": false,
+    "recommended_container_size": "Not suitable for containers",
+    "needs_support": false
+  },
+  "appearance": {
+    "flower_color": "Yellow",
+    "leaf_color": "Green"
+  },
+  "care_requirements": {
+    "water_requirement": "Regular watering - keep soil consistently moist during fruiting",
+    "feeding_requirement": "Balanced fertilizer - side-dress with compost",
+    "requires_pruning": false
+  },
+  "harvest_storage": {
+    "typical_yield": "3-8 pounds per fruit, 2-4 fruits per vine",
+    "best_uses": ["Roasting", "Tempura", "Soups", "Japanese Cuisine", "Purees", "Baking"]
+  },
+  "tolerances": {
+    "heat_tolerance": "Good",
+    "cold_tolerance": "Poor",
+    "frost_tolerance": false,
+    "drought_tolerance": "Low",
+    "disease_resistance": ["Powdery Mildew Tolerance"]
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Exceptionally sweet, chestnut-like, fluffy and dry - richest flavor of all winter squashes"
+  },
+  "fruit_characteristics": {
+    "fruit_color": "Dark green, sometimes with lighter stripes or spots",
+    "fruit_weight": "3-8 pounds",
+    "skin_thickness": "Medium-thick and hard",
+    "seed_cavity_size": "Small to medium",
+    "storage_quality": "Excellent - 3-6 months in cool, dry storage, flavor improves with curing",
+    "crack_resistance": "Excellent"
+  },
+  "fun_fact": "Did you know? Kabocha means 'pumpkin' in Japanese, but it's actually a squash! It's considered by many chefs to be the finest-tasting winter squash available, with naturally sweet, chestnut-like flavor that needs no added sugar. The edible skin becomes tender when cooked, and the flesh has a fluffy, dry texture perfect for tempura!",
+  "planting_tip": "Plant Kabocha seeds 1 inch deep in warm, fertile soil after frost danger passes. Vines need 10-12 feet of space. Water consistently. Harvest when skin is deep green and very hard, and stem is dry and corky. IMPORTANT: Cure for 2 weeks in warm (75-85°F), dry location to develop full sweetness. Properly cured Kabocha has incredible, naturally sweet flavor. Can be stored 3-6 months!"
+}
           ]
         },
         {
@@ -1471,7 +2216,257 @@
               },
               "fun_fact": "Athena Cantaloupe, named after the Greek goddess of wisdom, reflects its early maturity and sweet nature. It has gained a reputation for being a wise choice among gardeners for its reliable yields and scrumptious taste.",
               "planting_tip": "For successful cultivation of Athena Cantaloupe, start by planting seeds in well-drained soil with a pH between 6.0 and 7.5. Ensure adequate spacing to allow the vines to sprawl comfortably. Provide regular watering, especially during dry spells, and offer support to the vines as the fruit develops. Apply a balanced fertilizer to promote robust growth. Harvest Athena Cantaloupe when the fruit easily detaches from the stem, and the skin takes on a golden hue, accompanied by a fragrant aroma."
-            }
+            },
+            {
+  "id": 5,
+  "name": "Minnesota Midget",
+  "description": "Minnesota Midget is a compact, early-maturing cantaloupe variety perfect for short growing seasons and small gardens. This bush-type melon produces small, 3-4 inch fruits with sweet, orange flesh and classic cantaloupe flavor. Bred at the University of Minnesota for northern climates, it matures in just 60-70 days. The compact vines spread only 3-4 feet, making it ideal for small spaces, containers, and cold-climate gardens where other melons won't ripen.",
+  "growth_info": {
+    "growth_mode": "Compact bush",
+    "days_to_harvest": {
+      "lower_estimate": 60,
+      "higher_estimate": 70
+    },
+    "plant_height": "12-18 inches",
+    "spacing": "2-3 feet",
+    "is_container_variety": true,
+    "recommended_container_size": "18-24 inches deep, 5+ gallon container",
+    "needs_support": false
+  },
+  "appearance": {
+    "flower_color": "Yellow",
+    "leaf_color": "Green"
+  },
+  "care_requirements": {
+    "water_requirement": "Regular watering - keep soil consistently moist during fruiting",
+    "feeding_requirement": "Balanced fertilizer every 2-3 weeks",
+    "requires_pruning": false
+  },
+  "harvest_storage": {
+    "typical_yield": "0.75-1 pound per fruit, 4-6 fruits per plant",
+    "best_uses": ["Fresh Eating", "Individual Servings", "Small Gardens", "Container Growing"]
+  },
+  "tolerances": {
+    "heat_tolerance": "Good",
+    "cold_tolerance": "Good - bred for short, cool seasons",
+    "frost_tolerance": false,
+    "drought_tolerance": "Low",
+    "disease_resistance": ["Fusarium Wilt"]
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Sweet, classic cantaloupe flavor - concentrated in small package"
+  },
+  "fruit_characteristics": {
+    "fruit_color": "Light tan with fine netting",
+    "fruit_weight": "0.75-1 pound",
+    "skin_thickness": "Thin with delicate netting",
+    "seed_cavity_size": "Small",
+    "storage_quality": "Good - 5-7 days at room temperature, 1-2 weeks refrigerated",
+    "crack_resistance": "Good"
+  },
+  "fun_fact": "Did you know? Minnesota Midget was specifically bred in 1948 for northern gardeners with short growing seasons! It can produce ripe melons in areas where other cantaloupes won't have time to mature. The personal-sized fruits are perfect for individual servings and the compact vines make it ideal for small gardens and containers!",
+  "planting_tip": "Plant Minnesota Midget seeds 1 inch deep in warm soil (70°F+) after frost danger passes. Perfect for northern gardens (zones 3-5) and container growing! Space plants only 2-3 feet apart or grow in large containers. Water consistently. Harvest when fruit slips easily from stem and has strong aroma. The compact vines and early maturity make this the best choice for short-season climates!"
+},
+{
+  "id": 6,
+  "name": "Charentais",
+  "description": "Charentais is a premium French heirloom cantaloupe variety renowned as one of the finest-tasting melons in the world. This small melon features smooth, gray-green skin with subtle ribbing and intensely sweet, deep orange flesh with an extraordinary perfume-like aroma. Charentais is the classic French market melon, prized by gourmets and chefs for its exceptional flavor that's far superior to standard cantaloupes. The small, 2-3 pound fruits have incredibly dense, sweet flesh and are considered the ultimate dessert melon.",
+  "growth_info": {
+    "growth_mode": "Vining",
+    "days_to_harvest": {
+      "lower_estimate": 80,
+      "higher_estimate": 90
+    },
+    "plant_height": "18-24 inches",
+    "spacing": "3-4 feet",
+    "is_container_variety": false,
+    "recommended_container_size": "Not suitable for containers",
+    "needs_support": true
+  },
+  "appearance": {
+    "flower_color": "Yellow",
+    "leaf_color": "Green"
+  },
+  "care_requirements": {
+    "water_requirement": "Regular watering - consistent moisture critical for flavor development, reduce water as fruit ripens",
+    "feeding_requirement": "Balanced fertilizer with higher potassium during fruiting",
+    "requires_pruning": false
+  },
+  "harvest_storage": {
+    "typical_yield": "2-3 pounds per fruit, 3-5 fruits per vine",
+    "best_uses": ["Fresh Eating", "Gourmet Desserts", "Fine Dining", "Chilled"]
+  },
+  "tolerances": {
+    "heat_tolerance": "Excellent",
+    "cold_tolerance": "Poor",
+    "frost_tolerance": false,
+    "drought_tolerance": "Low",
+    "disease_resistance": []
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Extraordinarily sweet, intensely aromatic, perfume-like fragrance - considered the finest-tasting melon"
+  },
+  "fruit_characteristics": {
+    "fruit_color": "Smooth gray-green with subtle ribbing (no netting)",
+    "fruit_weight": "2-3 pounds",
+    "skin_thickness": "Thin and smooth",
+    "seed_cavity_size": "Small",
+    "storage_quality": "Poor - best consumed within 2-3 days of harvest for peak flavor",
+    "crack_resistance": "Moderate"
+  },
+  "fun_fact": "Did you know? Charentais melons are the prized melons served in French restaurants and markets, often selling for premium prices! They're grown in the Charente region of France and are considered the world's finest-tasting melon. The intense perfume and sweetness are unmatched - once you taste a true Charentais, other melons pale in comparison!",
+  "planting_tip": "Plant Charentais in warm, well-drained soil with full sun. Needs consistent moisture during growth but reduce watering as fruit ripens for concentrated flavor. Harvest is tricky - fruit doesn't 'slip' from stem like American cantaloupes. Look for color change from green to golden-gray and strong perfume. Fruit should feel slightly soft at blossom end. Must be eaten within 2-3 days of harvest for peak flavor!"
+},
+{
+  "id": 7,
+  "name": "Galia",
+  "description": "Galia is a unique hybrid melon combining the best qualities of cantaloupe and honeydew, featuring netted golden skin and pale green, extraordinarily sweet flesh. This Israeli-bred variety offers exceptional flavor with high sugar content and tropical aroma. Galia produces medium-sized fruits with smooth, juicy texture that's less musky than cantaloupe but sweeter than honeydew. The distinctive golden netting over lime-green skin makes it visually striking, while the flavor has made it increasingly popular in markets worldwide.",
+  "growth_info": {
+    "growth_mode": "Vining",
+    "days_to_harvest": {
+      "lower_estimate": 75,
+      "higher_estimate": 85
+    },
+    "plant_height": "18-24 inches",
+    "spacing": "3-5 feet",
+    "is_container_variety": false,
+    "recommended_container_size": "Not suitable for containers",
+    "needs_support": true
+  },
+  "appearance": {
+    "flower_color": "Yellow",
+    "leaf_color": "Green"
+  },
+  "care_requirements": {
+    "water_requirement": "Regular watering - consistent moisture during fruit development",
+    "feeding_requirement": "Balanced fertilizer with higher potassium during fruiting",
+    "requires_pruning": false
+  },
+  "harvest_storage": {
+    "typical_yield": "3-5 pounds per fruit",
+    "best_uses": ["Fresh Eating", "Fruit Salads", "Chilled Desserts", "Smoothies"]
+  },
+  "tolerances": {
+    "heat_tolerance": "Excellent - thrives in hot, dry climates",
+    "cold_tolerance": "Poor",
+    "frost_tolerance": false,
+    "drought_tolerance": "Moderate - more tolerant than other melons",
+    "disease_resistance": ["Fusarium Wilt", "Powdery Mildew"]
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Exceptionally sweet with tropical aroma - combines best of cantaloupe and honeydew, very high sugar content"
+  },
+  "fruit_characteristics": {
+    "fruit_color": "Golden-yellow netting over lime-green skin (pale green flesh)",
+    "fruit_weight": "3-5 pounds",
+    "skin_thickness": "Medium with dense netting",
+    "seed_cavity_size": "Medium",
+    "storage_quality": "Good - 1 week at room temperature, 2-3 weeks refrigerated",
+    "crack_resistance": "Excellent"
+  },
+  "fun_fact": "Did you know? Galia melon was developed in Israel in the 1970s by crossing cantaloupe and honeydew varieties! It combines the best traits of both - the sweetness and aroma of cantaloupe with the smooth texture of honeydew. The name 'Galia' means 'God's wave' in Hebrew. It's become extremely popular in Europe and is gaining fans worldwide!",
+  "planting_tip": "Plant Galia seeds 1 inch deep in warm, well-drained soil with full sun. Thrives in hot, dry climates. Water consistently during growth. Harvest when netting turns golden-yellow and fruit has strong tropical aroma. Unlike cantaloupe, Galia doesn't slip from vine - cut with stem attached. The unique flavor combination and excellent disease resistance make this a great choice for melon lovers!"
+},
+{
+  "id": 8,
+  "name": "Sugar Cube",
+  "description": "Sugar Cube is a compact, ultra-sweet cantaloupe variety bred specifically for small gardens and containers. This hybrid produces small, 3-4 pound fruits with dense netting and incredibly sweet, orange flesh. Sugar Cube combines the convenience of a small melon with exceptional flavor - often sweeter than full-sized varieties. The semi-bush vines spread only 4-5 feet, making it perfect for raised beds and small spaces. Early maturity and concentrated fruit set make it highly productive in limited space.",
+  "growth_info": {
+    "growth_mode": "Semi-bush, compact vining",
+    "days_to_harvest": {
+      "lower_estimate": 75,
+      "higher_estimate": 85
+    },
+    "plant_height": "18-24 inches",
+    "spacing": "2-3 feet",
+    "is_container_variety": true,
+    "recommended_container_size": "18-24 inches deep, 5+ gallon container",
+    "needs_support": false
+  },
+  "appearance": {
+    "flower_color": "Yellow",
+    "leaf_color": "Green"
+  },
+  "care_requirements": {
+    "water_requirement": "Regular watering - consistent moisture for sweet flavor",
+    "feeding_requirement": "Balanced fertilizer every 2 weeks during fruiting",
+    "requires_pruning": false
+  },
+  "harvest_storage": {
+    "typical_yield": "3-4 pounds per fruit, 3-4 fruits per plant",
+    "best_uses": ["Fresh Eating", "Small Households", "Container Growing", "Small Gardens"]
+  },
+  "tolerances": {
+    "heat_tolerance": "Excellent",
+    "cold_tolerance": "Poor",
+    "frost_tolerance": false,
+    "drought_tolerance": "Low",
+    "disease_resistance": ["Fusarium Wilt", "Powdery Mildew"]
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Ultra-sweet, concentrated flavor - often sweeter than full-sized melons, aromatic"
+  },
+  "fruit_characteristics": {
+    "fruit_color": "Tan with dense, fine netting",
+    "fruit_weight": "3-4 pounds",
+    "skin_thickness": "Medium with dense netting",
+    "seed_cavity_size": "Small",
+    "storage_quality": "Good - 5-7 days at room temperature, 2 weeks refrigerated",
+    "crack_resistance": "Good"
+  },
+  "fun_fact": "Did you know? Sugar Cube was specifically bred to deliver full-sized cantaloupe sweetness in a small package perfect for today's smaller households! The compact vines make it ideal for container growing on patios and balconies. Despite the small size, the flavor is often superior to large melons because the sweetness is concentrated!",
+  "planting_tip": "Plant Sugar Cube seeds 1 inch deep in warm soil (70°F+) after frost danger passes. Perfect for small gardens and containers! Space plants 2-3 feet apart or grow in large containers (5+ gallons). Water consistently and feed every 2 weeks. The compact vines and small fruits make this perfect for patios, raised beds, and small spaces. Harvest when fruit slips easily and has strong aroma!"
+},
+{
+  "id": 9,
+  "name": "Crane",
+  "description": "Crane is an exceptionally sweet Japanese-bred melon variety that produces some of the finest-tasting melons available. This hybrid creates large, 5-7 pound fruits with smooth, cream-colored skin with fine netting and incredibly sweet, pale orange flesh. Crane melons have extraordinarily high sugar content (often 14-16% Brix) and smooth, juicy texture. Highly prized in Japan where premium melons command high prices, Crane brings gourmet quality to home gardens. The flesh is so sweet and flavorful it rivals the finest Charentais melons.",
+  "growth_info": {
+    "growth_mode": "Vining",
+    "days_to_harvest": {
+      "lower_estimate": 80,
+      "higher_estimate": 90
+    },
+    "plant_height": "18-24 inches",
+    "spacing": "4-5 feet",
+    "is_container_variety": false,
+    "recommended_container_size": "Not suitable for containers",
+    "needs_support": true
+  },
+  "appearance": {
+    "flower_color": "Yellow",
+    "leaf_color": "Green"
+  },
+  "care_requirements": {
+    "water_requirement": "Consistent watering - critical for sugar development, reduce slightly as fruit ripens",
+    "feeding_requirement": "Balanced fertilizer with higher potassium, consistent feeding important for sweetness",
+    "requires_pruning": true
+  },
+  "harvest_storage": {
+    "typical_yield": "5-7 pounds per fruit, 2-3 fruits per vine for best quality",
+    "best_uses": ["Fresh Eating", "Gourmet Desserts", "Special Occasions", "Premium Markets"]
+  },
+  "tolerances": {
+    "heat_tolerance": "Good",
+    "cold_tolerance": "Poor",
+    "frost_tolerance": false,
+    "drought_tolerance": "Low",
+    "disease_resistance": ["Fusarium Wilt", "Powdery Mildew"]
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Extraordinarily sweet (14-16% Brix), smooth and juicy - premium gourmet quality, subtle perfume"
+  },
+  "fruit_characteristics": {
+    "fruit_color": "Cream to pale yellow with fine, delicate netting",
+    "fruit_weight": "5-7 pounds",
+    "skin_thickness": "Medium with fine netting",
+    "seed_cavity_size": "Small to medium",
+    "storage_quality": "Good - 1 week at room temperature, 2 weeks refrigerated",
+    "crack_resistance": "Good"
+  },
+  "fun_fact": "Did you know? Crane melon was developed in Japan where premium melons are considered luxury gifts and can sell for hundreds of dollars! This variety brings that same extraordinary sweetness and quality to home gardens. Sugar content often reaches 14-16% Brix (compared to 10-12% for standard cantaloupes). For best results, limit to 2-3 fruits per vine - Japanese growers often grow only one perfect fruit per plant!",
+  "planting_tip": "Plant Crane in warm, fertile, well-drained soil with full sun. Consistent moisture and feeding are critical for maximum sweetness. For premium quality, prune vines to 2-3 fruits per plant (remove other developing fruits). Support developing fruits off ground. Harvest when fruit develops cream color and strong aroma. The investment in careful cultivation pays off with extraordinary sweetness and flavor!"
+}
           ]
         },
         {
