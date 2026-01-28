@@ -484,6 +484,384 @@
               "flower_characteristics": null,
               "fun_fact": "Polana was developed in Poland and is one of the most cold-hardy everbearing raspberries available! Its early ripening means you can harvest raspberries before the first frost even in short-season areas.",
               "planting_tip": "Polana is suitable for zones 3-8, with exceptional cold tolerance. Perfect for northern gardens where Heritage might not finish ripening before frost. Compact size works well in smaller spaces. Mow canes to ground in late fall for simplified management."
+            },
+            {
+              "id": 7,
+              "name": "Jewel",
+              "description": "Jewel is a premium summer-bearing black raspberry variety known for its exceptionally large, glossy berries and superior flavor. It produces heavy yields of firm, sweet berries that are larger than most black raspberry varieties. Jewel has excellent disease resistance, particularly to anthracnose, and is one of the most productive black raspberry varieties available.",
+              "growth_info": {
+                "growth_mode": "Arching canes, summer-bearing",
+                "days_to_harvest": {
+                  "lower_estimate": 365,
+                  "higher_estimate": 730
+                },
+                "plant_height": "4-6 feet (arching to 7-8 feet)",
+                "spacing": "3-4 feet apart in rows 8-10 feet apart",
+                "is_container_variety": false,
+                "recommended_container_size": "Not recommended - vigorous arching canes",
+                "needs_support": true
+              },
+              "appearance": {
+                "flower_color": "White",
+                "leaf_color": "Dark green with blue-green undersides"
+              },
+              "care_requirements": {
+                "water_requirement": "1-2 inches per week, excellent drainage required",
+                "feeding_requirement": "Balanced fertilizer in early spring, light side-dressing after harvest",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "5-8 pounds per plant in summer",
+                "best_uses": ["Fresh eating", "Freezing", "Jams", "Pies", "Wine making", "Dried"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Good",
+                "cold_tolerance": "Excellent",
+                "frost_tolerance": true,
+                "drought_tolerance": "Good",
+                "disease_resistance": ["Anthracnose", "Excellent disease resistance", "Powdery mildew resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Very sweet, rich, complex with distinctive black raspberry intensity"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Deep purple-black",
+                "fruit_weight": "0.10-0.14 ounces per berry (large for black raspberry)",
+                "skin_thickness": "Very firm",
+                "seed_cavity_size": "Small seeds",
+                "storage_quality": "Excellent firmness, refrigerate for 5-7 days, outstanding for freezing",
+                "crack_resistance": "Excellent"
+              },
+              "herb_characteristics": null,
+              "root_characteristics": null,
+              "leaf_crop_characteristics": null,
+              "flower_characteristics": null,
+              "fun_fact": "Jewel consistently ranks as the highest-yielding black raspberry variety in university trials! Its berries are so firm and flavorful that they're a favorite for commercial production and farmers markets.",
+              "planting_tip": "Jewel is suitable for zones 4-8. Train arching canes to a sturdy trellis system. Tip prune new canes at 30-36 inches to encourage branching. Remove fruited canes immediately after harvest. Keep separate from red raspberries to prevent disease transfer."
+            },
+            {
+              "id": 8,
+              "name": "Himbo Top",
+              "description": "Himbo Top is a Swiss-bred everbearing red raspberry that produces exceptionally large, conical berries with outstanding flavor and firmness. The berries are among the largest of any everbearing variety and have excellent shelf life. Himbo Top is vigorous, highly productive, and has good disease resistance, making it popular with both home gardeners and commercial growers.",
+              "growth_info": {
+                "growth_mode": "Upright, very vigorous, everbearing",
+                "days_to_harvest": {
+                  "lower_estimate": 365,
+                  "higher_estimate": 730
+                },
+                "plant_height": "5-7 feet",
+                "spacing": "2-3 feet apart in rows 7-8 feet apart",
+                "is_container_variety": false,
+                "recommended_container_size": "Not recommended - extremely vigorous growth",
+                "needs_support": true
+              },
+              "appearance": {
+                "flower_color": "White",
+                "leaf_color": "Dark green"
+              },
+              "care_requirements": {
+                "water_requirement": "1-2 inches per week, consistent moisture for large berry size",
+                "feeding_requirement": "Balanced fertilizer in early spring, additional feeding recommended for heavy production",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "6-9 pounds per plant per season",
+                "best_uses": ["Fresh eating", "Farmers markets", "Freezing", "Preserves", "Commercial production"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Good",
+                "cold_tolerance": "Very good",
+                "frost_tolerance": true,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Root diseases", "Cane diseases", "Good virus resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Sweet-tart, well-balanced, excellent flavor with good sweetness"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Bright red",
+                "fruit_weight": "0.16-0.22 ounces per berry (very large)",
+                "skin_thickness": "Very firm, excellent for transport",
+                "seed_cavity_size": "Small seeds",
+                "storage_quality": "Outstanding firmness, refrigerate for 7-10 days, exceptional shelf life",
+                "crack_resistance": "Excellent"
+              },
+              "herb_characteristics": null,
+              "root_characteristics": null,
+              "leaf_crop_characteristics": null,
+              "flower_characteristics": null,
+              "fun_fact": "Himbo Top's name comes from the German words 'Himbeere' (raspberry) and 'Top' (best). It was bred specifically to have the largest, firmest berries possible while maintaining exceptional flavor!",
+              "planting_tip": "Himbo Top is suitable for zones 4-8. Requires very sturdy support due to heavy berry loads and vigorous growth. The exceptional shelf life makes it perfect for selling at markets. Space generously - this variety needs room! Can be managed as annual fall-only crop by mowing down in late winter."
+            },
+            {
+              "id": 9,
+              "name": "Fallgold",
+              "description": "Fallgold is an everbearing yellow raspberry that produces sweet, golden berries with a mild, delicate flavor. The berries are medium-sized, firm, and have lower acidity than red raspberries, making them exceptionally sweet. Fallgold is cold-hardy, productive, and offers a beautiful color contrast in the garden. The plants are vigorous and reliable.",
+              "growth_info": {
+                "growth_mode": "Upright, everbearing",
+                "days_to_harvest": {
+                  "lower_estimate": 365,
+                  "higher_estimate": 730
+                },
+                "plant_height": "4-6 feet",
+                "spacing": "2-3 feet apart in rows 6-8 feet apart",
+                "is_container_variety": true,
+                "recommended_container_size": "18-24 inches deep, 18-24 inches wide",
+                "needs_support": true
+              },
+              "appearance": {
+                "flower_color": "White",
+                "leaf_color": "Medium green"
+              },
+              "care_requirements": {
+                "water_requirement": "1-2 inches per week, consistent moisture important",
+                "feeding_requirement": "Balanced fertilizer in early spring, side-dress after spring harvest",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "3-5 pounds per plant per season",
+                "best_uses": ["Fresh eating", "Desserts", "Preserves", "Decorative garnish", "Fruit salads"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Moderate",
+                "cold_tolerance": "Excellent",
+                "frost_tolerance": true,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Good overall disease resistance", "Root rot resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Very sweet, mild, low acidity, delicate honey-like notes"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Golden yellow",
+                "fruit_weight": "0.08-0.12 ounces per berry",
+                "skin_thickness": "Medium-firm",
+                "seed_cavity_size": "Small seeds",
+                "storage_quality": "Moderate firmness, refrigerate for 2-4 days, more delicate than reds",
+                "crack_resistance": "Moderate"
+              },
+              "herb_characteristics": null,
+              "root_characteristics": null,
+              "leaf_crop_characteristics": null,
+              "flower_characteristics": null,
+              "fun_fact": "Fallgold is a sport (natural mutation) of Heritage raspberry, discovered in the 1970s. Birds are less attracted to yellow raspberries, so you may get to enjoy more of your harvest!",
+              "planting_tip": "Fallgold is suitable for zones 4-9. Plant near red varieties for a colorful mixed harvest. Can be managed by cutting all canes to ground in late fall for fall-only production. The mild flavor appeals to those who find red raspberries too tart, especially children."
+            },
+            {
+              "id": 10,
+              "name": "Meeker",
+              "description": "Meeker is the most widely planted summer-bearing red raspberry in the Pacific Northwest and is prized for its exceptional processing quality and intense flavor. The berries are medium-sized, very firm, and deep red with outstanding flavor that intensifies when cooked. Meeker is extremely productive and disease-resistant, making it ideal for serious preserving and value-added products.",
+              "growth_info": {
+                "growth_mode": "Upright, vigorous, summer-bearing",
+                "days_to_harvest": {
+                  "lower_estimate": 365,
+                  "higher_estimate": 730
+                },
+                "plant_height": "5-6 feet",
+                "spacing": "2-3 feet apart in rows 6-8 feet apart",
+                "is_container_variety": false,
+                "recommended_container_size": "Not recommended - vigorous growth",
+                "needs_support": true
+              },
+              "appearance": {
+                "flower_color": "White",
+                "leaf_color": "Medium to dark green"
+              },
+              "care_requirements": {
+                "water_requirement": "1-2 inches per week, needs consistent moisture during fruit development",
+                "feeding_requirement": "Balanced fertilizer in early spring and after harvest",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "6-10 pounds per plant in summer",
+                "best_uses": ["Freezing", "Jams", "Sauces", "Baking", "Commercial processing", "Fresh eating"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Moderate",
+                "cold_tolerance": "Good",
+                "frost_tolerance": true,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Root rot", "Verticillium wilt", "Good virus resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Intense, rich, sweet-tart, classic raspberry flavor that intensifies when cooked"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Deep red",
+                "fruit_weight": "0.08-0.12 ounces per berry",
+                "skin_thickness": "Very firm, excellent for processing",
+                "seed_cavity_size": "Small seeds",
+                "storage_quality": "Excellent firmness, refrigerate for 5-7 days, freezes exceptionally well",
+                "crack_resistance": "Excellent"
+              },
+              "herb_characteristics": null,
+              "root_characteristics": null,
+              "leaf_crop_characteristics": null,
+              "flower_characteristics": null,
+              "fun_fact": "Meeker accounts for over 90% of raspberry acreage in Washington State! It's the industry standard for frozen raspberries and is what you're most likely eating in raspberry jam or ice cream.",
+              "planting_tip": "Meeker is suitable for zones 6-9, performs best in Pacific Northwest climates. As a summer-bearer, remove fruited canes after harvest. Perfect for those who want to preserve large quantities - its processing quality is unmatched. Heavy yields require sturdy trellis support."
+            },
+            {
+              "id": 11,
+              "name": "Joan J",
+              "description": "Joan J is a thornless everbearing red raspberry that produces large, firm, sweet berries with excellent flavor. Being completely spineless makes harvesting effortless and pleasant, especially for families with children. Joan J has good disease resistance, is cold-hardy, and produces reliable crops of high-quality berries throughout late summer and fall.",
+              "growth_info": {
+                "growth_mode": "Upright, compact, everbearing, thornless",
+                "days_to_harvest": {
+                  "lower_estimate": 365,
+                  "higher_estimate": 730
+                },
+                "plant_height": "4-5 feet",
+                "spacing": "2-3 feet apart in rows 6 feet apart",
+                "is_container_variety": true,
+                "recommended_container_size": "18-24 inches deep, 18-24 inches wide",
+                "needs_support": true
+              },
+              "appearance": {
+                "flower_color": "White",
+                "leaf_color": "Medium green"
+              },
+              "care_requirements": {
+                "water_requirement": "1-2 inches per week, consistent moisture needed",
+                "feeding_requirement": "Balanced fertilizer in early spring",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "4-6 pounds per plant per season",
+                "best_uses": ["Fresh eating", "Family gardening", "Freezing", "Preserves", "Baking"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Good",
+                "cold_tolerance": "Very good",
+                "frost_tolerance": true,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Good disease resistance", "Root rot tolerance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Sweet, well-balanced, pleasant raspberry flavor with good sweetness"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Bright red",
+                "fruit_weight": "0.12-0.16 ounces per berry (large)",
+                "skin_thickness": "Firm",
+                "seed_cavity_size": "Small seeds",
+                "storage_quality": "Good firmness, refrigerate for 3-5 days",
+                "crack_resistance": "Good"
+              },
+              "herb_characteristics": null,
+              "root_characteristics": null,
+              "leaf_crop_characteristics": null,
+              "flower_characteristics": null,
+              "fun_fact": "Joan J was bred specifically to be completely thornless, making it perfect for family gardens where children help with harvesting. No more scratched arms or torn clothing while picking berries!",
+              "planting_tip": "Joan J is suitable for zones 4-8. The thornless canes make this ideal for gardens where children play or help harvest. Compact growth works well in smaller spaces. Simplify management by cutting all canes to ground level in late winter for fall-only harvest."
+            },
+            {
+              "id": 12,
+              "name": "Boyne",
+              "description": "Boyne is an extremely cold-hardy summer-bearing red raspberry developed in Canada specifically for harsh northern climates. It produces medium-sized, sweet, flavorful berries earlier than most summer varieties. Boyne is very productive, disease-resistant, and can survive winters in zone 3. The berries are firm with excellent flavor and the compact plants require minimal support.",
+              "growth_info": {
+                "growth_mode": "Upright, compact, summer-bearing",
+                "days_to_harvest": {
+                  "lower_estimate": 365,
+                  "higher_estimate": 730
+                },
+                "plant_height": "3-5 feet",
+                "spacing": "2-3 feet apart in rows 5-6 feet apart",
+                "is_container_variety": true,
+                "recommended_container_size": "16-20 inches deep, 16-20 inches wide",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "White",
+                "leaf_color": "Medium green"
+              },
+              "care_requirements": {
+                "water_requirement": "1-2 inches per week, tolerates some moisture stress",
+                "feeding_requirement": "Balanced fertilizer in early spring",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "3-5 pounds per plant in summer",
+                "best_uses": ["Fresh eating", "Freezing", "Preserves", "Baking"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Moderate",
+                "cold_tolerance": "Exceptional",
+                "frost_tolerance": true,
+                "drought_tolerance": "Good",
+                "disease_resistance": ["Excellent cold hardiness", "Good disease resistance", "Root rot resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Sweet, rich, classic raspberry flavor with good balance"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Medium to bright red",
+                "fruit_weight": "0.06-0.10 ounces per berry",
+                "skin_thickness": "Firm",
+                "seed_cavity_size": "Small seeds",
+                "storage_quality": "Good firmness, refrigerate for 3-5 days, freezes well",
+                "crack_resistance": "Good"
+              },
+              "herb_characteristics": null,
+              "root_characteristics": null,
+              "leaf_crop_characteristics": null,
+              "flower_characteristics": null,
+              "fun_fact": "Boyne was developed at the Morden Research Station in Manitoba, Canada, and can survive temperatures down to -40°F! It's named after the Boyne River in Manitoba.",
+              "planting_tip": "Boyne is suitable for zones 3-7, with exceptional cold tolerance. Perfect for northern gardens where many varieties won't survive. Early ripening means berries mature before summer heat. Compact size and minimal support needs make it ideal for small gardens and containers."
+            },
+            {
+              "id": 13,
+              "name": "Royalty",
+              "description": "Royalty is a unique purple raspberry variety that is a hybrid between red and black raspberries, combining traits of both. The berries are large, firm, and have a distinctive deep purple color with a rich, sweet-tart flavor. Royalty is extremely cold-hardy, disease-resistant, and produces heavy yields. The berries are excellent for fresh eating and make stunning, deeply colored jams and preserves.",
+              "growth_info": {
+                "growth_mode": "Upright to semi-arching, summer-bearing",
+                "days_to_harvest": {
+                  "lower_estimate": 365,
+                  "higher_estimate": 730
+                },
+                "plant_height": "5-6 feet",
+                "spacing": "3-4 feet apart in rows 8 feet apart",
+                "is_container_variety": false,
+                "recommended_container_size": "Not recommended - vigorous spreading habit",
+                "needs_support": true
+              },
+              "appearance": {
+                "flower_color": "White to pale pink",
+                "leaf_color": "Dark green"
+              },
+              "care_requirements": {
+                "water_requirement": "1-2 inches per week, good drainage important",
+                "feeding_requirement": "Balanced fertilizer in early spring and after harvest",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "5-7 pounds per plant in summer",
+                "best_uses": ["Fresh eating", "Jams", "Jellies", "Wine", "Baking", "Unique color in preserves"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Good",
+                "cold_tolerance": "Exceptional",
+                "frost_tolerance": true,
+                "drought_tolerance": "Good",
+                "disease_resistance": ["Excellent disease resistance", "Immune to raspberry aphid", "Virus resistant"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Rich, sweet-tart, complex flavor combining red and black raspberry characteristics"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Deep purple to burgundy",
+                "fruit_weight": "0.10-0.14 ounces per berry",
+                "skin_thickness": "Very firm",
+                "seed_cavity_size": "Small seeds",
+                "storage_quality": "Excellent firmness, refrigerate for 5-7 days, outstanding for freezing",
+                "crack_resistance": "Excellent"
+              },
+              "herb_characteristics": null,
+              "root_characteristics": null,
+              "leaf_crop_characteristics": null,
+              "flower_characteristics": null,
+              "fun_fact": "Royalty is immune to the large raspberry aphid, which transmits mosaic virus! This makes it one of the most disease-resistant raspberries available. Its purple color comes from incredibly high anthocyanin levels - even higher than blueberries.",
+              "planting_tip": "Royalty is suitable for zones 3-8 with exceptional cold tolerance. Plant away from red and black raspberries to maintain its unique characteristics. The deep purple berries make stunning preserves with intense color. Remove fruited canes after summer harvest. Very vigorous - give it space!"
             }
           ]
         },
@@ -741,6 +1119,256 @@
               },
               "fun_fact": "Howden pumpkins were developed in 1903 and remain the most popular carving pumpkin in North America, accounting for a large percentage of commercial pumpkin sales.",
               "planting_tip": "Howden pumpkins require plenty of space and consistent feeding throughout the season. Plant in rich soil amended with compost. Provide at least 4-5 feet of space between plants to allow vines to spread. Water at the base to keep foliage dry. Harvest after the first light frost when the skin has hardened completely and the stems have turned brown."
+            },
+            {
+              "id": 3,
+              "name": "Jack Be Little",
+              "description": "Jack Be Little pumpkins are miniature decorative pumpkins weighing just 4-8 ounces. These adorable, bright orange mini pumpkins are perfect for table displays, crafts, and fall decorations. Despite their tiny size, they are edible with sweet flesh. Plants are prolific, producing 8-12 pumpkins per vine, making them excellent for markets and decorative purposes.",
+              "growth_info": {
+                "growth_mode": "Vining",
+                "days_to_harvest": {
+                  "lower_estimate": 85,
+                  "higher_estimate": 95
+                },
+                "plant_height": "6-8 inches (vines spread 8-10 feet)",
+                "spacing": "3-4 feet",
+                "is_container_variety": false,
+                "recommended_container_size": "Not suitable for containers",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Yellow",
+                "leaf_color": "Green"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering, 1-2 inches per week",
+                "feeding_requirement": "Moderate feeder, apply balanced fertilizer every 4 weeks",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "8-12 pumpkins per plant",
+                "best_uses": ["Decoration", "Table displays", "Crafts", "Stuffing and baking whole"]
+              },
+              "tolerances": {
+                "heat_tolerance": "High",
+                "cold_tolerance": "Low",
+                "frost_tolerance": false,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Powdery mildew resistance", "Good disease resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Sweet, mild, fine-textured flesh suitable for stuffing and baking"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Bright orange",
+                "fruit_weight": "0.25-0.5 pounds (4-8 ounces)",
+                "skin_thickness": "Thin but firm",
+                "seed_cavity_size": "Small",
+                "storage_quality": "Good, stores 1-2 months",
+                "crack_resistance": "Good"
+              },
+              "fun_fact": "Jack Be Little pumpkins are named after the nursery rhyme 'Jack Be Nimble' and have become one of the most popular miniature pumpkin varieties since their introduction in the 1980s!",
+              "planting_tip": "Jack Be Little pumpkins are easier to grow than larger varieties and tolerate less-than-perfect conditions. Plant in full sun with well-draining soil. The high yield per plant makes them economical for fall decorating. Harvest when fully colored and stems have dried. Perfect for children's gardens due to their manageable size."
+            },
+            {
+              "id": 4,
+              "name": "Jarrahdale",
+              "description": "Jarrahdale is a stunning Australian heirloom pumpkin with distinctive blue-grey skin and deeply ribbed, flattened shape. Weighing 8-15 pounds, these pumpkins are prized for their ornamental beauty and excellent culinary quality. The golden-orange flesh is sweet, dense, and ideal for roasting and pies. Jarrahdale stores exceptionally well and adds unique visual interest to fall displays.",
+              "growth_info": {
+                "growth_mode": "Vining",
+                "days_to_harvest": {
+                  "lower_estimate": 100,
+                  "higher_estimate": 110
+                },
+                "plant_height": "8-12 inches (vines spread 10-15 feet)",
+                "spacing": "4-5 feet",
+                "is_container_variety": false,
+                "recommended_container_size": "Not suitable for containers",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Yellow",
+                "leaf_color": "Green"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering, 1-2 inches per week",
+                "feeding_requirement": "Heavy feeder, apply balanced fertilizer every 3-4 weeks",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "3-4 pumpkins per plant",
+                "best_uses": ["Decoration", "Roasting", "Soups", "Pies", "Baking"]
+              },
+              "tolerances": {
+                "heat_tolerance": "High",
+                "cold_tolerance": "Low",
+                "frost_tolerance": false,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Good disease resistance", "Powdery mildew resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Sweet, nutty, dense flesh with excellent flavor for cooking"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Blue-grey to slate grey",
+                "fruit_weight": "8-15 pounds",
+                "skin_thickness": "Thick and hard",
+                "seed_cavity_size": "Medium",
+                "storage_quality": "Excellent, stores 3-5 months",
+                "crack_resistance": "Excellent"
+              },
+              "fun_fact": "Jarrahdale pumpkins are named after a small town in Western Australia and have been grown there since the 1800s. Their unique blue-grey color comes from a recessive gene and makes them stand out in any display!",
+              "planting_tip": "Jarrahdale pumpkins need a long growing season and perform best in warm climates. Plant in rich, well-amended soil with full sun exposure. Space plants generously as vines are vigorous. The long storage life makes them perfect for winter cooking. Harvest when skin is fully hardened and cannot be dented with a fingernail."
+            },
+            {
+              "id": 5,
+              "name": "Long Island Cheese",
+              "description": "Long Island Cheese is a historic American heirloom pumpkin with a distinctive flat, heavily ribbed shape resembling a wheel of cheese. Weighing 6-10 pounds, these tan to buff-colored pumpkins are prized for their exceptionally sweet, smooth flesh that's perfect for pies and baking. This variety dates back to the 1820s and was once the most popular pie pumpkin in New England.",
+              "growth_info": {
+                "growth_mode": "Vining",
+                "days_to_harvest": {
+                  "lower_estimate": 100,
+                  "higher_estimate": 115
+                },
+                "plant_height": "8-10 inches (vines spread 10-12 feet)",
+                "spacing": "3-4 feet",
+                "is_container_variety": false,
+                "recommended_container_size": "Not suitable for containers",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Yellow",
+                "leaf_color": "Green"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering, 1-2 inches per week",
+                "feeding_requirement": "Heavy feeder, apply balanced fertilizer every 3-4 weeks",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "3-5 pumpkins per plant",
+                "best_uses": ["Pies", "Baking", "Purees", "Soups", "Decoration"]
+              },
+              "tolerances": {
+                "heat_tolerance": "High",
+                "cold_tolerance": "Low",
+                "frost_tolerance": false,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Powdery mildew resistance", "Good overall disease resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Exceptionally sweet, smooth, rich flavor ideal for pies and desserts"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Tan to buff-orange",
+                "fruit_weight": "6-10 pounds",
+                "skin_thickness": "Moderately thick",
+                "seed_cavity_size": "Small to medium",
+                "storage_quality": "Excellent, stores 3-4 months",
+                "crack_resistance": "Good"
+              },
+              "fun_fact": "Long Island Cheese pumpkins were the pumpkin of choice for making pumpkin pie in colonial America! They nearly disappeared but have been revived by heirloom enthusiasts in recent decades.",
+              "planting_tip": "Long Island Cheese pumpkins are suitable for zones 3-10 and are more cold-tolerant than many varieties. Plant in full sun with rich, well-draining soil. These heirlooms are open-pollinated, so you can save seeds. The unique tan color makes them stand out in fall displays. Harvest when fully mature and skin has hardened completely."
+            },
+            {
+              "id": 6,
+              "name": "Baby Boo",
+              "description": "Baby Boo is a miniature white pumpkin variety producing perfectly round, ghost-white fruits weighing just 4-8 ounces. These adorable mini pumpkins are ideal for white-themed fall decorations, wedding displays, and craft projects. Plants are highly productive, yielding 10-15 pumpkins per vine. While primarily ornamental, they are edible with mild, sweet flesh.",
+              "growth_info": {
+                "growth_mode": "Vining",
+                "days_to_harvest": {
+                  "lower_estimate": 85,
+                  "higher_estimate": 95
+                },
+                "plant_height": "6-8 inches (vines spread 8-10 feet)",
+                "spacing": "3-4 feet",
+                "is_container_variety": false,
+                "recommended_container_size": "Not suitable for containers",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Yellow",
+                "leaf_color": "Green"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering, 1-2 inches per week",
+                "feeding_requirement": "Moderate feeder, apply balanced fertilizer every 4 weeks",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "10-15 pumpkins per plant",
+                "best_uses": ["Decoration", "Table displays", "Weddings", "Crafts"]
+              },
+              "tolerances": {
+                "heat_tolerance": "High",
+                "cold_tolerance": "Low",
+                "frost_tolerance": false,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Powdery mildew resistance", "Good disease resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Mild, slightly sweet, fine-textured flesh suitable for cooking"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Pure white",
+                "fruit_weight": "0.25-0.5 pounds (4-8 ounces)",
+                "skin_thickness": "Thin but firm",
+                "seed_cavity_size": "Small",
+                "storage_quality": "Good, stores 1-2 months",
+                "crack_resistance": "Good"
+              },
+              "fun_fact": "Baby Boo pumpkins are a favorite for creating elegant, monochromatic fall displays and have become increasingly popular for autumn weddings and sophisticated decorating schemes!",
+              "planting_tip": "Baby Boo pumpkins are easy to grow and tolerate a wide range of conditions. Plant in full sun with good drainage. The white color develops best with consistent moisture and feeding. Prolific production makes them excellent for market gardening. Harvest when fully white and stems have begun to dry."
+            },
+            {
+              "id": 7,
+              "name": "Atlantic Giant",
+              "description": "Atlantic Giant is the world's largest pumpkin variety, capable of producing pumpkins weighing 200-500+ pounds, with world records exceeding 2,600 pounds! These massive pumpkins are grown primarily for competitions and exhibitions. They require intensive care, extensive space, and heavy feeding but are unmatched for creating jaw-dropping displays and breaking records.",
+              "growth_info": {
+                "growth_mode": "Vining",
+                "days_to_harvest": {
+                  "lower_estimate": 120,
+                  "higher_estimate": 140
+                },
+                "plant_height": "12-18 inches (vines spread 20-40 feet)",
+                "spacing": "10-15 feet minimum",
+                "is_container_variety": false,
+                "recommended_container_size": "Not suitable for containers",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Yellow",
+                "leaf_color": "Large, dark green leaves"
+              },
+              "care_requirements": {
+                "water_requirement": "Heavy watering, 2-3 inches per week, consistent moisture critical",
+                "feeding_requirement": "Extremely heavy feeder, weekly applications of fertilizer required",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "1-2 pumpkins per plant (thin to one for maximum size)",
+                "best_uses": ["Competitions", "Exhibitions", "Display", "Entertainment"]
+              },
+              "tolerances": {
+                "heat_tolerance": "High",
+                "cold_tolerance": "Low",
+                "frost_tolerance": false,
+                "drought_tolerance": "Very low",
+                "disease_resistance": ["Moderate disease resistance", "Requires disease prevention"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Watery, bland, stringy flesh - primarily grown for size, not eating"
+              },
+              "fruit_characteristics": {
+                "fruit_color": "Orange to pinkish-orange",
+                "fruit_weight": "200-500+ pounds (with proper care, can exceed 1000 pounds)",
+                "skin_thickness": "Thick when mature",
+                "seed_cavity_size": "Very large",
+                "storage_quality": "Poor to moderate, best used fresh",
+                "crack_resistance": "Moderate to poor"
+              },
+              "fun_fact": "The world record Atlantic Giant pumpkin weighed an incredible 2,749 pounds in 2023! Growing giant pumpkins has become a competitive sport with dedicated growers worldwide, and prize-winning seeds can sell for hundreds of dollars!",
+              "planting_tip": "Atlantic Giant pumpkins require extreme dedication and resources. Plant in deeply amended soil with excellent drainage. Space plants 10-15 feet apart minimum. Thin to one pumpkin per plant for maximum size. Provide shade cloth protection, constant moisture, and heavy weekly feeding. Bury vines to encourage additional rooting. Hand-pollinate for best results. Not for casual gardeners!"
             }
           ]
         },
@@ -992,6 +1620,246 @@
               },
               "fun_fact": "Long Island Improved was developed in the 1800s and remains a preferred variety for commercial growers in the northeastern United States, particularly on Long Island where it got its name.",
               "planting_tip": "Long Island Improved plants grow tall and require staking or support as they mature. Plant in enriched soil with excellent drainage and full sun exposure. Space plants 24 inches apart to accommodate their larger size. Provide consistent moisture throughout the growing season and feed regularly. Remove bottom leaves as sprouts develop to improve air circulation and concentrate growth upward. This variety's flavor is notably improved by harvesting after a hard frost, so delay harvest if possible until late fall or early winter."
+            },
+            {
+              "id": 3,
+              "name": "Diablo",
+              "description": "Diablo is a modern hybrid Brussels sprout variety bred for early maturity and exceptional uniformity. This high-yielding variety produces smooth, dark green sprouts with excellent flavor and texture. Diablo has superior disease resistance and performs well in various climates, making it a reliable choice for both home gardeners and market growers.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 85,
+                  "higher_estimate": 100
+                },
+                "plant_height": "24-28 inches",
+                "spacing": "18-24 inches",
+                "is_container_variety": false,
+                "recommended_container_size": "Not suitable for containers",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Yellow",
+                "leaf_color": "Dark green"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering, 1-1.5 inches per week",
+                "feeding_requirement": "Moderate to heavy feeder, apply balanced fertilizer every 4 weeks",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "60-85 sprouts per plant",
+                "best_uses": ["Roasting", "Steaming", "Sautéing", "Grilling", "Fresh"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Low to moderate",
+                "cold_tolerance": "Very high",
+                "frost_tolerance": true,
+                "drought_tolerance": "Low",
+                "disease_resistance": ["Clubroot resistance", "Fusarium resistance", "Excellent disease package"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Sweet, mild, nutty flavor with minimal bitterness"
+              },
+              "leafCropCharacteristics": {
+                "head_type": "Smooth, uniform sprout buds",
+                "leaf_texture": "Very tightly packed, firm and dense",
+                "days_to_maturity": "85-100 days",
+                "bolt_resistance": "Excellent"
+              },
+              "fun_fact": "Diablo is one of the earliest-maturing Brussels sprout varieties available, allowing gardeners in short-season climates to successfully grow Brussels sprouts where they couldn't before!",
+              "planting_tip": "Diablo's early maturity makes it perfect for areas with shorter growing seasons. Start seeds indoors 6-8 weeks before last frost or direct sow in early to mid-summer for fall harvest. Plant in full sun with rich, well-draining soil. The compact plant size and early harvest window make this variety excellent for succession planting. Remove lower leaves as sprouts mature to improve air circulation and direct plant energy to sprout development."
+            },
+            {
+              "id": 4,
+              "name": "Rubine",
+              "description": "Rubine is a stunning red Brussels sprout variety that produces deep purple-red sprouts with exceptional ornamental and culinary appeal. This heirloom variety from the Netherlands offers a sweeter, milder flavor than green varieties and the beautiful color intensifies with cold weather. Rubine is both a conversation piece and a delicious addition to fall gardens.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 105,
+                  "higher_estimate": 125
+                },
+                "plant_height": "28-34 inches",
+                "spacing": "20-24 inches",
+                "is_container_variety": false,
+                "recommended_container_size": "Not suitable for containers",
+                "needs_support": true
+              },
+              "appearance": {
+                "flower_color": "Yellow",
+                "leaf_color": "Purple-red to burgundy"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering, 1.5-2 inches per week",
+                "feeding_requirement": "Heavy feeder, apply balanced fertilizer every 3-4 weeks",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "50-75 sprouts per plant",
+                "best_uses": ["Roasting", "Sautéing", "Braising", "Specialty dishes", "Garnish"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Low",
+                "cold_tolerance": "Exceptional",
+                "frost_tolerance": true,
+                "drought_tolerance": "Low",
+                "disease_resistance": ["Good cold hardiness", "Moderate disease resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Exceptionally sweet, mild, nutty with subtle earthy notes and less bitterness than green varieties"
+              },
+              "leafCropCharacteristics": {
+                "head_type": "Purple-red sprout buds with loose outer leaves",
+                "leaf_texture": "Moderately tight, tender when cooked",
+                "days_to_maturity": "105-125 days",
+                "bolt_resistance": "Good"
+              },
+              "fun_fact": "Rubine Brussels sprouts contain high levels of anthocyanins, the same antioxidant compounds found in blueberries! When cooked, they fade to a beautiful blue-green color but retain their sweet flavor.",
+              "planting_tip": "Rubine requires a long growing season and performs best when harvested after multiple hard frosts, which intensify both color and sweetness. Plant in rich, well-amended soil with full sun. This tall variety benefits from staking for support. The striking purple foliage makes it ornamental throughout the season. For best color retention when cooking, add a splash of vinegar or lemon juice to maintain the vibrant hues."
+            },
+            {
+              "id": 5,
+              "name": "Churchill",
+              "description": "Churchill is a reliable hybrid Brussels sprout variety developed for exceptional productivity and disease resistance. This mid-season variety produces abundant, medium to large-sized sprouts with classic flavor and excellent uniformity. Churchill is known for its strong plant structure and ability to hold sprouts well on the stalk, making it ideal for extended harvests.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 95,
+                  "higher_estimate": 110
+                },
+                "plant_height": "26-32 inches",
+                "spacing": "18-24 inches",
+                "is_container_variety": false,
+                "recommended_container_size": "Not suitable for containers",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Yellow",
+                "leaf_color": "Medium to dark green"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering, 1-1.5 inches per week",
+                "feeding_requirement": "Moderate to heavy feeder, apply balanced fertilizer every 4 weeks",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "70-95 sprouts per plant",
+                "best_uses": ["Roasting", "Steaming", "Sautéing", "Freezing", "Fresh"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Low",
+                "cold_tolerance": "Very high",
+                "frost_tolerance": true,
+                "drought_tolerance": "Low",
+                "disease_resistance": ["Clubroot resistance", "Downy mildew resistance", "Ring spot resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Well-balanced, slightly sweet with classic Brussels sprout flavor and tender texture"
+              },
+              "leafCropCharacteristics": {
+                "head_type": "Medium to large, tightly packed sprout buds",
+                "leaf_texture": "Firm, dense exterior with tender interior",
+                "days_to_maturity": "95-110 days",
+                "bolt_resistance": "Excellent"
+              },
+              "fun_fact": "Churchill Brussels sprouts have excellent 'holding quality,' meaning they stay firm and tasty on the stalk for weeks after reaching maturity, allowing for flexible harvest timing!",
+              "planting_tip": "Churchill is forgiving and adaptable, making it excellent for beginning gardeners. Start seeds indoors 6-8 weeks before transplanting or direct sow in mid-summer. Plant in full sun with rich, moisture-retentive soil. The strong stalks typically don't require staking unless in very windy locations. Remove lower leaves progressively as sprouts develop. This variety's ability to hold well means you can harvest as needed over several weeks rather than all at once."
+            },
+            {
+              "id": 6,
+              "name": "Catskill",
+              "description": "Catskill is a classic American heirloom Brussels sprout variety prized for its large, flavorful sprouts and exceptional cold hardiness. Developed in New York's Catskill Mountains region, this variety produces abundant crops of dense, tightly wrapped sprouts on tall, vigorous plants. Catskill is a favorite among cold-climate gardeners for its reliability and outstanding flavor after frost.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 100,
+                  "higher_estimate": 120
+                },
+                "plant_height": "30-36 inches",
+                "spacing": "20-24 inches",
+                "is_container_variety": false,
+                "recommended_container_size": "Not suitable for containers",
+                "needs_support": true
+              },
+              "appearance": {
+                "flower_color": "Yellow",
+                "leaf_color": "Blue-green"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering, 1.5-2 inches per week",
+                "feeding_requirement": "Heavy feeder, apply balanced fertilizer every 3-4 weeks",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "80-110 sprouts per plant",
+                "best_uses": ["Roasting", "Steaming", "Braising", "Freezing", "Traditional preparations"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Low",
+                "cold_tolerance": "Exceptional",
+                "frost_tolerance": true,
+                "drought_tolerance": "Low",
+                "disease_resistance": ["Good cold tolerance", "Some clubroot resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Rich, sweet, complex Brussels sprout flavor with nutty undertones that intensify dramatically after frost"
+              },
+              "leafCropCharacteristics": {
+                "head_type": "Large, very tightly packed sprout buds",
+                "leaf_texture": "Dense, firm with excellent texture",
+                "days_to_maturity": "100-120 days",
+                "bolt_resistance": "Excellent"
+              },
+              "fun_fact": "Catskill Brussels sprouts were specifically bred to withstand the harsh winters of upstate New York and can tolerate temperatures well below freezing while still on the stalk!",
+              "planting_tip": "Catskill thrives in northern climates and actually requires cold weather for best flavor development. Plant in late spring for fall harvest, spacing plants 20-24 inches apart to accommodate their large size. Tall plants require staking for support, especially when loaded with mature sprouts. This variety is best harvested late in the season after several hard frosts. In mild climates, plants can overwinter and be harvested throughout winter months."
+            },
+            {
+              "id": 7,
+              "name": "Nautic",
+              "description": "Nautic is a modern hybrid Brussels sprout variety bred for exceptional disease resistance and productivity. This early to mid-season variety produces smooth, dark green sprouts with outstanding uniformity and excellent shelf life. Nautic has strong plant vigor and performs reliably across different growing conditions, making it popular with both home gardeners and commercial growers.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 90,
+                  "higher_estimate": 105
+                },
+                "plant_height": "24-30 inches",
+                "spacing": "18-24 inches",
+                "is_container_variety": false,
+                "recommended_container_size": "Not suitable for containers",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Yellow",
+                "leaf_color": "Dark green"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering, 1-1.5 inches per week",
+                "feeding_requirement": "Moderate to heavy feeder, apply balanced fertilizer every 4 weeks",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "65-90 sprouts per plant",
+                "best_uses": ["Roasting", "Steaming", "Sautéing", "Market sales", "Fresh", "Freezing"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Moderate",
+                "cold_tolerance": "Very high",
+                "frost_tolerance": true,
+                "drought_tolerance": "Low to moderate",
+                "disease_resistance": ["Clubroot resistance", "Fusarium resistance", "Downy mildew resistance", "Excellent overall disease package"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Sweet, mild, tender with excellent flavor and minimal bitterness"
+              },
+              "leafCropCharacteristics": {
+                "head_type": "Very uniform, smooth sprout buds",
+                "leaf_texture": "Tightly packed, firm and dense with excellent quality",
+                "days_to_maturity": "90-105 days",
+                "bolt_resistance": "Excellent"
+              },
+              "fun_fact": "Nautic was specifically bred to have superior internal color that stays bright green even after storage, making it a top choice for market growers who need sprouts that look fresh for extended periods!",
+              "planting_tip": "Nautic's superior disease resistance makes it ideal for challenging growing conditions or areas with clubroot issues. Start indoors 6-8 weeks before transplanting or direct sow in summer for fall harvest. Plant in full sun with well-draining soil enriched with compost. The compact plant size and excellent uniformity make this variety perfect for intensive spacing in raised beds. Remove lower leaves as sprouts develop. This variety maintains quality well after harvest, making it excellent for storage or market sales."
             }
           ]
         },
@@ -1243,6 +2111,246 @@
               },
               "fun_fact": "Golden oregano's striking golden foliage is at its most vibrant when grown in full sun, and the color actually fades to green if the plant is shaded, making sunlight essential for this variety's ornamental appeal.",
               "planting_tip": "Golden oregano prefers full sun to display its best coloring and requires excellent drainage. It's ideal for container growing where you can showcase its colorful foliage. Plant in well-draining soil and avoid overwatering. Pinch back regularly to maintain compact shape and encourage branching. In colder zones (below zone 5), grow in containers and bring indoors for winter. Use fresh leaves in culinary applications for best flavor, as the delicate leaves are more suited to fresh use than drying."
+            },
+            {
+              "id": 3,
+              "name": "Cuban Oregano",
+              "description": "Cuban oregano is not a true oregano but a succulent herb (Plectranthus amboinicus) with thick, fuzzy leaves and an intense oregano-like flavor with hints of thyme and mint. This tropical perennial produces large, aromatic leaves perfect for Caribbean and Latin American cuisine. It's easy to grow, highly drought-tolerant, and makes an excellent houseplant.",
+              "growth_info": {
+                "growth_mode": "Upright to trailing",
+                "days_to_harvest": {
+                  "lower_estimate": 45,
+                  "higher_estimate": 60
+                },
+                "plant_height": "12-24 inches",
+                "spacing": "18-24 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "10-12 inches",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "White to pale lavender",
+                "leaf_color": "Bright green with fuzzy texture"
+              },
+              "care_requirements": {
+                "water_requirement": "Moderate, water when soil is dry; more drought tolerant than true oregano",
+                "feeding_requirement": "Light to moderate feeder, feed monthly during growing season",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "Continuous throughout growing season",
+                "best_uses": ["Caribbean cuisine", "Latin American dishes", "Fresh use", "Medicinal tea", "Meat dishes"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Exceptional",
+                "cold_tolerance": "Low",
+                "frost_tolerance": false,
+                "drought_tolerance": "Exceptional",
+                "disease_resistance": ["Excellent pest resistance", "Root rot resistant"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Very strong, pungent oregano flavor with thyme, mint, and slight citrus notes"
+              },
+              "herbCharacteristics": {
+                "leaf_texture": "Thick, succulent, fuzzy leaves with prominent veining",
+                "aroma_intensity": "Very strong and pungent",
+                "culinary_strength": "Very strong, use sparingly",
+                "bolt_resistance": "Excellent"
+              },
+              "fun_fact": "Cuban oregano is so aromatic that simply brushing against the plant releases its powerful scent! It's also known by many names including Mexican mint, Indian borage, and Spanish thyme, reflecting its use across different cuisines worldwide.",
+              "planting_tip": "Cuban oregano is tropical and cannot tolerate frost—grow as an annual in cold climates or bring containers indoors before first frost. This succulent herb prefers bright light and well-draining soil. Water sparingly and allow soil to dry between waterings. Propagates easily from stem cuttings placed in water or soil. Use fresh leaves in cooking as they're best fresh rather than dried. The strong flavor means a little goes a long way in recipes."
+            },
+            {
+              "id": 4,
+              "name": "Hot and Spicy Oregano",
+              "description": "Hot and Spicy oregano is a highly aromatic variety developed for its exceptionally intense, peppery flavor that surpasses even Greek oregano in pungency. This compact perennial produces small, gray-green leaves with a powerful aroma and spicy bite. It's perfect for those who want maximum oregano flavor in their Mediterranean dishes and holds up well to long cooking times.",
+              "growth_info": {
+                "growth_mode": "Compact, dense mounding",
+                "days_to_harvest": {
+                  "lower_estimate": 60,
+                  "higher_estimate": 90
+                },
+                "plant_height": "10-16 inches",
+                "spacing": "12-15 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "8-10 inches",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "White",
+                "leaf_color": "Gray-green"
+              },
+              "care_requirements": {
+                "water_requirement": "Low, drought tolerant once established, prefers dry conditions",
+                "feeding_requirement": "Very light feeder, excess nutrients reduce flavor intensity",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "Continuous throughout growing season",
+                "best_uses": ["Mediterranean dishes", "Pizza", "Tomato sauces", "Grilled meats", "Drying"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Exceptional",
+                "cold_tolerance": "Very high",
+                "frost_tolerance": true,
+                "drought_tolerance": "Exceptional",
+                "disease_resistance": ["Excellent disease resistance", "Powdery mildew resistant"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Extremely peppery, spicy, intense with powerful aromatic oils"
+              },
+              "herbCharacteristics": {
+                "leaf_texture": "Small, dense leaves with strong essential oil content",
+                "aroma_intensity": "Exceptionally strong and pungent",
+                "culinary_strength": "Very strong, use in small quantities",
+                "bolt_resistance": "Excellent"
+              },
+              "fun_fact": "Hot and Spicy oregano has such concentrated essential oils that it's often preferred by commercial herb producers for drying and processing—just one plant can provide enough dried oregano for a year of cooking!",
+              "planting_tip": "Hot and Spicy oregano thrives in poor, rocky, well-draining soil with minimal water and nutrients—stressed plants actually produce more intense flavor. Plant in full sun and avoid overwatering at all costs. This variety is extremely cold-hardy (to zone 4) and makes an excellent border plant. Harvest frequently to encourage compact growth. The flavor is so intense that you'll need about half the amount compared to regular oregano in recipes. Dries exceptionally well and intensifies in flavor."
+            },
+            {
+              "id": 5,
+              "name": "Syrian Oregano",
+              "description": "Syrian oregano, also called Bible hyssop or Za'atar, is a Middle Eastern oregano variety with a distinctive savory, earthy flavor profile. This spreading perennial produces soft, silvery-green leaves and is the key ingredient in the famous Middle Eastern spice blend za'atar. It has a milder, more complex flavor than Greek oregano with hints of thyme and marjoram.",
+              "growth_info": {
+                "growth_mode": "Low spreading mat",
+                "days_to_harvest": {
+                  "lower_estimate": 60,
+                  "higher_estimate": 90
+                },
+                "plant_height": "8-12 inches",
+                "spacing": "15-18 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "10-12 inches",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "White to pale pink",
+                "leaf_color": "Silvery gray-green"
+              },
+              "care_requirements": {
+                "water_requirement": "Low to moderate, prefers drier conditions",
+                "feeding_requirement": "Light feeder, minimal fertilizer needed",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "Continuous throughout growing season",
+                "best_uses": ["Za'atar spice blend", "Middle Eastern cuisine", "Flatbreads", "Drying", "Fresh use"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Exceptional",
+                "cold_tolerance": "High",
+                "frost_tolerance": true,
+                "drought_tolerance": "Exceptional",
+                "disease_resistance": ["Excellent disease resistance", "Very hardy"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Savory, earthy, complex with thyme-like notes and mild oregano flavor"
+              },
+              "herbCharacteristics": {
+                "leaf_texture": "Soft, fuzzy, oval-shaped leaves on spreading stems",
+                "aroma_intensity": "Moderate to strong",
+                "culinary_strength": "Moderate, versatile in Middle Eastern cooking",
+                "bolt_resistance": "Excellent"
+              },
+              "fun_fact": "Syrian oregano (Origanum syriacum) is believed by many scholars to be the 'hyssop' mentioned in the Bible and has been used in Middle Eastern cooking and medicine for thousands of years!",
+              "planting_tip": "Syrian oregano is extremely drought-tolerant and thrives in hot, dry conditions similar to its Mediterranean homeland. Plant in full sun with excellent drainage—rocky or sandy soil is ideal. This low-growing variety makes an excellent ground cover or edging plant. Harvest leaves before flowering for the most intense flavor. To make traditional za'atar, dry the leaves thoroughly and mix with toasted sesame seeds, sumac, and salt. Plants are hardy to zone 5 with protection."
+            },
+            {
+              "id": 6,
+              "name": "Variegated Oregano",
+              "description": "Variegated oregano is a beautiful ornamental and culinary variety featuring striking white and green variegated leaves that brighten any herb garden. Despite its decorative appearance, it offers a pleasant, mild oregano flavor suitable for cooking. This compact perennial produces pink flowers and is slightly less vigorous than solid green varieties, making it perfect for containers and edging.",
+              "growth_info": {
+                "growth_mode": "Compact mounding",
+                "days_to_harvest": {
+                  "lower_estimate": 60,
+                  "higher_estimate": 90
+                },
+                "plant_height": "10-14 inches",
+                "spacing": "12-15 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "8-10 inches",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "Pink to pale purple",
+                "leaf_color": "White and green variegated"
+              },
+              "care_requirements": {
+                "water_requirement": "Moderate, needs more water than solid green varieties",
+                "feeding_requirement": "Light to moderate feeder, benefits from occasional feeding",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "Continuous throughout growing season",
+                "best_uses": ["Ornamental gardens", "Container growing", "Fresh culinary use", "Garnish"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Moderate",
+                "cold_tolerance": "Moderate",
+                "frost_tolerance": true,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Generally disease resistant"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Mild, pleasant oregano flavor with subtle sweetness"
+              },
+              "herbCharacteristics": {
+                "leaf_texture": "Soft, medium-sized leaves with creamy white edges",
+                "aroma_intensity": "Mild to moderate",
+                "culinary_strength": "Mild, best for fresh applications",
+                "bolt_resistance": "Very good"
+              },
+              "fun_fact": "Variegated oregano's white leaf margins contain less chlorophyll, which makes the plant grow slightly slower but also makes it less likely to become invasive in the garden—a perfect ornamental herb for tidy gardeners!",
+              "planting_tip": "Variegated oregano needs more sun than golden varieties to maintain its variegation but can suffer leaf scorch in intense afternoon sun—morning sun with afternoon shade is ideal. Plant in well-draining soil enriched with compost. This variety requires slightly more water than other oreganos. Remove any solid green shoots that appear to maintain variegation. Less cold-hardy than Greek oregano (zone 6-9), so mulch heavily in colder areas or grow in containers. Best used fresh as the delicate variegated leaves don't dry as successfully."
+            },
+            {
+              "id": 7,
+              "name": "Mexican Oregano",
+              "description": "Mexican oregano is botanically unrelated to Mediterranean oregano (it's from the verbena family) but offers a distinctive oregano-like flavor with citrus and licorice notes. This woody perennial produces small, narrow leaves and stunning tubular flowers that attract pollinators. It's essential for authentic Mexican, Southwestern, and Latin American cuisine and is more heat-loving than true oreganos.",
+              "growth_info": {
+                "growth_mode": "Upright, bushy shrub",
+                "days_to_harvest": {
+                  "lower_estimate": 75,
+                  "higher_estimate": 120
+                },
+                "plant_height": "24-48 inches",
+                "spacing": "24-36 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "14-16 inches minimum",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "White to pale purple",
+                "leaf_color": "Gray-green"
+              },
+              "care_requirements": {
+                "water_requirement": "Low to moderate, very drought tolerant once established",
+                "feeding_requirement": "Light feeder, minimal fertilizer needed",
+                "requires_pruning": true
+              },
+              "harvest_storage": {
+                "typical_yield": "Continuous throughout growing season",
+                "best_uses": ["Mexican cuisine", "Southwestern dishes", "Chili", "Salsas", "Beans", "Drying"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Exceptional",
+                "cold_tolerance": "Low to moderate",
+                "frost_tolerance": false,
+                "drought_tolerance": "Exceptional",
+                "disease_resistance": ["Excellent pest resistance", "Very hardy in hot climates"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Bold oregano flavor with distinct citrus, licorice, and mild floral notes"
+              },
+              "herbCharacteristics": {
+                "leaf_texture": "Small, narrow leaves on woody stems",
+                "aroma_intensity": "Strong and distinctive",
+                "culinary_strength": "Strong, not interchangeable with Mediterranean oregano",
+                "bolt_resistance": "Excellent"
+              },
+              "fun_fact": "Mexican oregano (Lippia graveolens) is so different from Mediterranean oregano that using one in place of the other can completely change the character of a dish! It's the authentic oregano for making traditional Mexican mole, pozole, and authentic chili con carne.",
+              "planting_tip": "Mexican oregano is a subtropical plant that thrives in heat and requires full sun and excellent drainage. It's hardy only to zone 9-10, so grow as an annual in cold climates or overwinter indoors in a sunny location. This woody herb can become quite large—prune regularly to maintain shape and encourage bushiness. Needs minimal water once established and actually prefers poor soil. Dries beautifully and is often preferred dried over fresh in traditional Mexican cooking. Harvest stems and hang to dry in bunches."
             }
           ]
         },
@@ -1494,6 +2602,486 @@
               },
               "fun_fact": "Sylvetta arugula is sometimes called 'Japanese arugula' in specialty seed catalogs, though it has no connection to Japan—the name likely refers to its sophisticated flavor profile.",
               "planting_tip": "Sylvetta arugula prefers cool growing conditions and thrives in spring and fall gardens. Direct sow seeds 1/4 inch deep in well-prepared, moist soil. Space plants 4-6 inches apart for full-sized plants. This variety is excellent for succession planting and provides several harvests before bolting. Pick outer leaves regularly starting when they're 2-3 inches long to extend the harvest period. For best flavor and tenderness, harvest in cool morning hours. Excellent for container gardening and grows well as microgreens."
+            },
+            {
+              "id": 3,
+              "name": "Runway",
+              "description": "Runway is a heat-tolerant arugula variety bred specifically for extended growing seasons and resistance to bolting. This modern hybrid produces large, tender leaves with a mild, pleasant peppery flavor. It's ideal for summer gardens and warm climates where traditional arugula struggles, making it a game-changer for year-round arugula lovers.",
+              "growth_info": {
+                "growth_mode": "Upright spreading",
+                "days_to_harvest": {
+                  "lower_estimate": 38,
+                  "higher_estimate": 50
+                },
+                "plant_height": "12-16 inches",
+                "spacing": "4-6 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "8 inches deep",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "White",
+                "leaf_color": "Bright green"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering, consistent moisture especially in warm weather",
+                "feeding_requirement": "Moderate fertility, benefits from balanced fertilizer",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "35-45 leaves per square foot",
+                "best_uses": ["Salads", "Summer greens", "Sandwiches", "Fresh eating"]
+              },
+              "tolerances": {
+                "heat_tolerance": "High",
+                "cold_tolerance": "High",
+                "frost_tolerance": true,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Downy mildew resistance", "Good heat tolerance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Mild to moderate peppery flavor, less bitter than standard arugula with pleasant nutty notes"
+              },
+              "leafCropCharacteristics": {
+                "head_type": "Loose leaves",
+                "leaf_texture": "Large, broad, smooth with slight serration",
+                "days_to_maturity": "38-50 days",
+                "bolt_resistance": "Excellent, superior heat tolerance"
+              },
+              "fun_fact": "Runway arugula can extend the arugula growing season by 4-6 weeks compared to traditional varieties, making it possible to grow arugula through most of summer in many climates!",
+              "planting_tip": "Runway's heat tolerance makes it ideal for succession planting from spring through early fall. Direct sow seeds every 2-3 weeks for continuous harvest. While heat-tolerant, it still benefits from afternoon shade in extreme heat (above 85°F). Keep soil consistently moist during warm weather to maintain leaf tenderness and reduce bitterness. Harvest outer leaves when 3-4 inches long for best flavor. This variety is perfect for gardeners who've struggled with arugula bolting in their climate."
+            },
+            {
+              "id": 4,
+              "name": "Dragon's Tongue",
+              "description": "Dragon's Tongue is a distinctive arugula variety featuring deeply serrated, purple-tinged leaves that add visual drama to salads. This heirloom-type variety offers an exceptionally spicy, mustard-like flavor that intensifies as leaves mature. The burgundy veining becomes more pronounced in cool weather, making it both a culinary and ornamental choice for specialty gardens.",
+              "growth_info": {
+                "growth_mode": "Compact rosette",
+                "days_to_harvest": {
+                  "lower_estimate": 40,
+                  "higher_estimate": 55
+                },
+                "plant_height": "8-12 inches",
+                "spacing": "6-8 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "8 inches deep",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "White to cream",
+                "leaf_color": "Green with purple-red veining"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering, consistent moisture for best color development",
+                "feeding_requirement": "Light to moderate fertility",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "20-30 leaves per square foot",
+                "best_uses": ["Gourmet salads", "Specialty greens", "Garnish", "Microgreens"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Low",
+                "cold_tolerance": "Very high",
+                "frost_tolerance": true,
+                "drought_tolerance": "Low",
+                "disease_resistance": []
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Very spicy, intense peppery-mustard flavor with sharp, assertive bite"
+              },
+              "leafCropCharacteristics": {
+                "head_type": "Loose serrated leaves",
+                "leaf_texture": "Deeply serrated, tender with prominent veining",
+                "days_to_maturity": "40-55 days",
+                "bolt_resistance": "Moderate, best in cool weather"
+              },
+              "fun_fact": "Dragon's Tongue arugula's purple coloration intensifies with cold exposure, making fall-grown leaves the most visually striking—and the most flavorful! The color comes from anthocyanins, powerful antioxidants.",
+              "planting_tip": "Dragon's Tongue thrives in cool weather and develops its best color and flavor after light frosts. Direct sow in early spring or late summer for fall harvest. Space plants slightly wider (6-8 inches) to showcase the beautiful leaf patterns. Harvest young leaves for milder flavor or wait for mature leaves for maximum spice and color. The distinctive appearance makes this variety popular for farmers markets and gourmet restaurants. Grows exceptionally well in containers where the colorful foliage can be displayed."
+            },
+            {
+              "id": 5,
+              "name": "Wasabi Arugula",
+              "description": "Wasabi arugula is a specialty variety with an exceptionally sharp, wasabi-like heat that sets it apart from traditional arugula. This fast-growing variety produces bright green, lobed leaves with an intense, spicy kick perfect for those who love bold flavors. It's becoming increasingly popular in Asian fusion cuisine and among adventurous gardeners seeking unique flavors.",
+              "growth_info": {
+                "growth_mode": "Compact",
+                "days_to_harvest": {
+                  "lower_estimate": 25,
+                  "higher_estimate": 35
+                },
+                "plant_height": "6-10 inches",
+                "spacing": "3-4 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "6 inches deep",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "White",
+                "leaf_color": "Bright green"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering, keep soil consistently moist for best flavor",
+                "feeding_requirement": "Light fertility, minimal fertilizer needed",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "30-40 leaves per square foot",
+                "best_uses": ["Asian fusion dishes", "Spicy salads", "Sushi garnish", "Specialty cuisine"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Very low",
+                "cold_tolerance": "High",
+                "frost_tolerance": true,
+                "drought_tolerance": "Very low",
+                "disease_resistance": []
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Extremely spicy with sharp, wasabi-like heat and intense peppery notes"
+              },
+              "leafCropCharacteristics": {
+                "head_type": "Loose lobed leaves",
+                "leaf_texture": "Tender, delicate, moderately lobed",
+                "days_to_maturity": "25-35 days",
+                "bolt_resistance": "Low, bolts quickly in warm weather"
+              },
+              "fun_fact": "Wasabi arugula doesn't actually contain wasabi compounds, but its intense spiciness comes from similar glucosinolates that create a nose-tingling heat reminiscent of real wasabi!",
+              "planting_tip": "Wasabi arugula is extremely fast-growing and best harvested young for peak spiciness. Direct sow seeds in cool weather (spring or fall) and keep soil consistently moist—dry conditions make the leaves even more intensely spicy and tough. Harvest leaves when they're 1-2 inches long for the perfect balance of tenderness and heat. This variety is excellent for microgreens and baby leaf production. Space closely (3-4 inches) for tender baby leaves. The intense flavor means a little goes a long way in dishes!"
+            },
+            {
+              "id": 6,
+              "name": "Bellezia",
+              "description": "Bellezia is a premium Italian arugula variety known for its tender texture and refined, balanced flavor. This cultivated variety produces uniform, rounded leaves with smooth edges and a sophisticated peppery taste that's milder than wild arugula but more flavorful than standard varieties. It's a favorite among chefs for its consistent quality and elegant appearance.",
+              "growth_info": {
+                "growth_mode": "Upright rosette",
+                "days_to_harvest": {
+                  "lower_estimate": 35,
+                  "higher_estimate": 45
+                },
+                "plant_height": "10-14 inches",
+                "spacing": "5-6 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "8 inches deep",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "White",
+                "leaf_color": "Rich green"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering, consistent moisture for tender leaves",
+                "feeding_requirement": "Moderate fertility, benefits from rich soil",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "30-40 leaves per square foot",
+                "best_uses": ["Gourmet salads", "Restaurant use", "Fresh eating", "Italian cuisine"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Low to moderate",
+                "cold_tolerance": "High",
+                "frost_tolerance": true,
+                "drought_tolerance": "Low",
+                "disease_resistance": ["Downy mildew resistance", "Good disease package"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Balanced peppery flavor with sweet undertones, refined and sophisticated"
+              },
+              "leafCropCharacteristics": {
+                "head_type": "Loose leaves",
+                "leaf_texture": "Smooth, rounded, exceptionally tender",
+                "days_to_maturity": "35-45 days",
+                "bolt_resistance": "Good, slower to bolt than heirlooms"
+              },
+              "fun_fact": "Bellezia arugula is grown extensively in the Veneto region of Italy and is the preferred variety for traditional Venetian salads where its tender texture and refined flavor shine!",
+              "planting_tip": "Bellezia performs best in enriched soil with good moisture retention. Direct sow seeds in early spring or late summer, spacing 5-6 inches apart for full-sized leaves. This variety benefits from light shade during the hottest part of the day to maintain tender texture. Harvest outer leaves when 2-4 inches long for continuous production. The refined flavor and attractive appearance make this variety excellent for market gardening and upscale restaurants. Grows beautifully in containers with consistent watering."
+            },
+            {
+              "id": 7,
+              "name": "Red Dragon",
+              "description": "Red Dragon is a striking arugula variety featuring deep burgundy-red leaves with an intense, spicy flavor. This ornamental and culinary variety produces oak-leaf shaped foliage with rich coloration that intensifies in cool weather. Red Dragon offers both visual appeal and robust flavor, making it a standout in gourmet salad mixes and specialty gardens.",
+              "growth_info": {
+                "growth_mode": "Compact spreading",
+                "days_to_harvest": {
+                  "lower_estimate": 40,
+                  "higher_estimate": 50
+                },
+                "plant_height": "8-12 inches",
+                "spacing": "6-8 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "8-10 inches deep",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "White to pale pink",
+                "leaf_color": "Deep burgundy-red to purple"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering, consistent moisture for color development",
+                "feeding_requirement": "Light to moderate fertility, avoid excess nitrogen",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "25-35 leaves per square foot",
+                "best_uses": ["Gourmet salads", "Specialty mixed greens", "Garnish", "Visual appeal"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Low",
+                "cold_tolerance": "Very high",
+                "frost_tolerance": true,
+                "drought_tolerance": "Low",
+                "disease_resistance": []
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Intensely peppery and spicy with bold, assertive flavor and slight bitterness"
+              },
+              "leafCropCharacteristics": {
+                "head_type": "Loose oak-leaf shaped leaves",
+                "leaf_texture": "Lobed, tender, deeply colored",
+                "days_to_maturity": "40-50 days",
+                "bolt_resistance": "Moderate, excellent in cool weather"
+              },
+              "fun_fact": "Red Dragon arugula's dramatic coloring comes from extremely high anthocyanin levels—the same antioxidants found in blueberries and red wine! The deeper the color, the more antioxidants present.",
+              "planting_tip": "Red Dragon develops its most intense color when grown in cool temperatures (below 65°F) with plenty of sunlight. Direct sow in early spring or late summer for fall harvest. Space plants 6-8 inches apart to showcase the beautiful foliage. The deep red color makes this variety stunning in containers and ornamental gardens. Harvest young leaves for tender texture and less bitterness. Cool night temperatures intensify the burgundy coloration. Avoid excessive nitrogen fertilizer, which can reduce color intensity and increase green growth."
+            },
+            {
+              "id": 8,
+              "name": "Apollo",
+              "description": "Apollo is a fast-growing, uniform arugula variety bred for commercial production and home gardens seeking reliability. This hybrid produces broad, dark green leaves with a well-balanced peppery flavor that appeals to a wide range of palates. Apollo has excellent disease resistance and consistent germination, making it a dependable choice for succession planting and year-round production.",
+              "growth_info": {
+                "growth_mode": "Upright compact",
+                "days_to_harvest": {
+                  "lower_estimate": 32,
+                  "higher_estimate": 42
+                },
+                "plant_height": "10-14 inches",
+                "spacing": "4-6 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "8 inches deep",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "White",
+                "leaf_color": "Dark green"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering, consistent moisture preferred",
+                "feeding_requirement": "Moderate fertility, benefits from balanced fertilizer",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "35-45 leaves per square foot",
+                "best_uses": ["Salads", "Mixed greens", "Commercial production", "Fresh eating"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Moderate",
+                "cold_tolerance": "High",
+                "frost_tolerance": true,
+                "drought_tolerance": "Low to moderate",
+                "disease_resistance": ["Downy mildew resistance", "White rust resistance", "Excellent disease package"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Balanced peppery flavor, moderately spicy with pleasant nutty notes"
+              },
+              "leafCropCharacteristics": {
+                "head_type": "Loose leaves",
+                "leaf_texture": "Broad, smooth, tender with slight serration",
+                "days_to_maturity": "32-42 days",
+                "bolt_resistance": "Very good"
+              },
+              "fun_fact": "Apollo arugula was bred specifically for its exceptional uniformity and germination rates—nearly 95% germination under ideal conditions makes it a favorite for market gardeners and commercial growers!",
+              "planting_tip": "Apollo's reliable germination and fast growth make it perfect for succession planting every 10-14 days for continuous harvest. Direct sow seeds 1/4 inch deep in prepared soil with good drainage. Space 4-6 inches apart for full-sized leaves or closer for baby greens. This variety performs well in both spring and fall gardens and tolerates light shade in warmer weather. Begin harvesting outer leaves when 2-3 inches long. The uniform growth pattern makes Apollo ideal for one-cut baby leaf production."
+            },
+            {
+              "id": 9,
+              "name": "Rustic",
+              "description": "Rustic is a robust arugula variety that combines the deep flavor of wild arugula with the productivity of cultivated types. This variety produces deeply lobed, dark green leaves with an earthy, complex peppery flavor. Rustic is particularly cold-hardy and slow to bolt, making it ideal for fall and winter gardens in mild climates or cold frame production.",
+              "growth_info": {
+                "growth_mode": "Compact rosette",
+                "days_to_harvest": {
+                  "lower_estimate": 45,
+                  "higher_estimate": 60
+                },
+                "plant_height": "10-14 inches",
+                "spacing": "6-8 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "8-10 inches deep",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "White with purple veining",
+                "leaf_color": "Dark green"
+              },
+              "care_requirements": {
+                "water_requirement": "Moderate watering, tolerates some dryness once established",
+                "feeding_requirement": "Light fertility, minimal fertilizer needed",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "25-35 leaves per square foot",
+                "best_uses": ["Winter salads", "Cold frame growing", "Hearty dishes", "Pesto"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Low",
+                "cold_tolerance": "Exceptional",
+                "frost_tolerance": true,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Cold hardy", "Good overall disease resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Complex, earthy peppery flavor with pronounced spiciness and slight bitterness"
+              },
+              "leafCropCharacteristics": {
+                "head_type": "Loose deeply lobed leaves",
+                "leaf_texture": "Deeply lobed, sturdy, slightly thicker than standard arugula",
+                "days_to_maturity": "45-60 days",
+                "bolt_resistance": "Excellent, especially in cool weather"
+              },
+              "fun_fact": "Rustic arugula can survive temperatures down to 10°F with protection, making it one of the most cold-hardy salad greens available! In mild climates, it can be harvested throughout winter.",
+              "planting_tip": "Rustic excels as a fall and winter crop in zones 7-10 or under cold frames/row covers in colder zones. Direct sow in late summer or early fall for winter harvest. Space plants 6-8 inches apart to accommodate the larger rosette size. The robust leaves hold up better in cold weather than tender varieties. This variety's slower growth means longer time to harvest but extended productive period. Excellent for overwintering in hoop houses or unheated greenhouses. Harvest outer leaves as needed throughout winter."
+            },
+            {
+              "id": 10,
+              "name": "Olive Leaf",
+              "description": "Olive Leaf is a unique arugula variety with distinctive narrow, elongated leaves resembling olive tree foliage. This specialty variety offers a mild, sophisticated peppery flavor with subtle herbal notes. The unusual leaf shape and refined taste make it popular in upscale restaurants and among gardeners seeking something different from standard arugula varieties.",
+              "growth_info": {
+                "growth_mode": "Upright",
+                "days_to_harvest": {
+                  "lower_estimate": 40,
+                  "higher_estimate": 50
+                },
+                "plant_height": "12-16 inches",
+                "spacing": "5-7 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "8 inches deep",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "White",
+                "leaf_color": "Medium green"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering, consistent moisture for tender leaves",
+                "feeding_requirement": "Moderate fertility",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "30-40 leaves per square foot",
+                "best_uses": ["Gourmet salads", "Restaurant plating", "Specialty greens", "Garnish"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Low to moderate",
+                "cold_tolerance": "High",
+                "frost_tolerance": true,
+                "drought_tolerance": "Low",
+                "disease_resistance": []
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Mild to moderate peppery flavor with subtle herbal, slightly grassy notes"
+              },
+              "leafCropCharacteristics": {
+                "head_type": "Loose narrow leaves",
+                "leaf_texture": "Narrow, elongated, smooth, tender",
+                "days_to_maturity": "40-50 days",
+                "bolt_resistance": "Good"
+              },
+              "fun_fact": "Olive Leaf arugula's unusual narrow leaves are not only visually distinctive but also have a higher surface area to volume ratio, which creates a unique texture in the mouth compared to broad-leafed varieties!",
+              "planting_tip": "Olive Leaf arugula grows best in cool spring and fall conditions. Direct sow seeds in well-prepared soil with good drainage. Space plants 5-7 inches apart to showcase the distinctive leaf shape. The unique appearance makes this variety excellent for visual interest in mixed salad greens. Harvest individual leaves when 3-4 inches long or cut entire plant 1 inch above soil for regrowth. The mild flavor makes it versatile for dishes where you want arugula's character without overwhelming spice. Popular with chefs for creative plating."
+            },
+            {
+              "id": 11,
+              "name": "Slow Bolt",
+              "description": "Slow Bolt is a heat-tolerant arugula variety specifically bred to resist bolting and extend the harvest season into warmer weather. This variety produces medium-sized, serrated leaves with a classic peppery arugula flavor that remains balanced even as temperatures rise. Slow Bolt is ideal for gardeners in warmer climates or those seeking longer production windows.",
+              "growth_info": {
+                "growth_mode": "Compact spreading",
+                "days_to_harvest": {
+                  "lower_estimate": 40,
+                  "higher_estimate": 55
+                },
+                "plant_height": "10-14 inches",
+                "spacing": "4-6 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "8 inches deep",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "White",
+                "leaf_color": "Medium to dark green"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular to frequent watering, especially in warm weather",
+                "feeding_requirement": "Moderate fertility, consistent feeding for extended production",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "30-40 leaves per square foot",
+                "best_uses": ["Salads", "Extended season growing", "Warm climate production", "Fresh eating"]
+              },
+              "tolerances": {
+                "heat_tolerance": "High",
+                "cold_tolerance": "High",
+                "frost_tolerance": true,
+                "drought_tolerance": "Moderate",
+                "disease_resistance": ["Good heat tolerance", "Downy mildew resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Classic peppery arugula flavor, moderately spicy with pleasant balance"
+              },
+              "leafCropCharacteristics": {
+                "head_type": "Loose leaves",
+                "leaf_texture": "Medium-sized, serrated, tender",
+                "days_to_maturity": "40-55 days",
+                "bolt_resistance": "Excellent, superior heat tolerance"
+              },
+              "fun_fact": "Slow Bolt arugula can continue producing for 4-6 weeks longer than standard varieties before flowering, potentially doubling the harvest window in optimal conditions!",
+              "planting_tip": "Slow Bolt performs best with consistent moisture and benefits from afternoon shade in hot climates (above 80°F). Direct sow in spring and continue planting through early summer for extended harvest. Space 4-6 inches apart and mulch around plants to keep roots cool and conserve moisture. Even with its heat tolerance, harvesting regularly encourages continued leaf production and delays bolting. Begin harvesting when leaves reach 2-3 inches. This variety bridges the gap between spring and fall arugula crops in many climates."
+            },
+            {
+              "id": 12,
+              "name": "Grazia",
+              "description": "Grazia is a premium Italian arugula variety prized for its exceptionally tender texture and sweet-peppery flavor profile. This cultivated variety produces uniform, rounded leaves with minimal bitterness and a buttery texture. Grazia is a favorite among chefs for its delicate flavor that doesn't overpower other salad ingredients while still providing characteristic arugula taste.",
+              "growth_info": {
+                "growth_mode": "Compact rosette",
+                "days_to_harvest": {
+                  "lower_estimate": 35,
+                  "higher_estimate": 45
+                },
+                "plant_height": "8-12 inches",
+                "spacing": "5-6 inches",
+                "is_container_variety": true,
+                "recommended_container_size": "8 inches deep",
+                "needs_support": false
+              },
+              "appearance": {
+                "flower_color": "White",
+                "leaf_color": "Bright to medium green"
+              },
+              "care_requirements": {
+                "water_requirement": "Regular watering, consistent moisture essential for tender texture",
+                "feeding_requirement": "Moderate fertility, benefits from rich, well-amended soil",
+                "requires_pruning": false
+              },
+              "harvest_storage": {
+                "typical_yield": "30-40 leaves per square foot",
+                "best_uses": ["Gourmet salads", "Fine dining", "Fresh eating", "Mixed baby greens"]
+              },
+              "tolerances": {
+                "heat_tolerance": "Moderate",
+                "cold_tolerance": "High",
+                "frost_tolerance": true,
+                "drought_tolerance": "Low",
+                "disease_resistance": ["Downy mildew resistance"]
+              },
+              "flavor_characteristics": {
+                "flavor_profile": "Delicately peppery with sweet undertones, minimal bitterness, buttery texture"
+              },
+              "leafCropCharacteristics": {
+                "head_type": "Loose leaves",
+                "leaf_texture": "Smooth, rounded, exceptionally tender and buttery",
+                "days_to_maturity": "35-45 days",
+                "bolt_resistance": "Good"
+              },
+              "fun_fact": "Grazia arugula is named after the Italian word for 'grace' or 'elegance,' reflecting its refined flavor and delicate texture that has made it a staple in high-end Italian restaurants!",
+              "planting_tip": "Grazia requires rich, moisture-retentive soil and consistent watering to develop its signature tender texture. Direct sow seeds in early spring or late summer, spacing 5-6 inches apart. This variety benefits from light shade during the hottest part of the day to maintain tenderness and sweetness. Harvest young leaves at 2-3 inches for peak tenderness and sweetness. The delicate flavor makes it perfect for simple salads with light vinaigrettes where you want subtle peppery notes. Excellent for baby leaf production and mesclun mixes. Popular in containers with regular watering."
             }
           ]
         }

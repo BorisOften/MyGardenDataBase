@@ -209,56 +209,6 @@
                 },
                 {
                     "id": 2,
-                    "name": "Bell",
-                    "description": "Bell peppers, also known as sweet peppers or capsicums, are large, blocky peppers with a mild, sweet flavor and no heat. They come in various colors including green, red, yellow, and orange, and are rich in vitamins C and A. Bell peppers are versatile vegetables used in a wide range of dishes, from salads and stir-fries to stuffed peppers and grilled kebabs.",
-                    "growth_info": {
-                        "growth_mode": "Upright bushy",
-                        "days_to_harvest": {
-                            "lower_estimate": 60,
-                            "higher_estimate": 90
-                        },
-                        "plant_height": "18-24 inches",
-                        "spacing": "18-24 inches",
-                        "is_container_variety": true,
-                        "recommended_container_size": "5 gallons minimum",
-                        "needs_support": true
-                    },
-                    "appearance": {
-                        "flower_color": "White",
-                        "leaf_color": "Green"
-                    },
-                    "care_requirements": {
-                        "water_requirement": "Consistent watering, 1-2 inches per week",
-                        "feeding_requirement": "Balanced fertilizer every 2 weeks during growing season",
-                        "requires_pruning": false
-                    },
-                    "harvest_storage": {
-                        "typical_yield": "5-10 large peppers per plant",
-                        "best_uses": ["Fresh eating", "Cooking", "Salads", "Stuffing", "Grilling", "Roasting"]
-                    },
-                    "tolerances": {
-                        "heat_tolerance": "Good",
-                        "cold_tolerance": "Poor",
-                        "frost_tolerance": false,
-                        "drought_tolerance": "Low",
-                        "disease_resistance": ["Tobacco Mosaic Virus (some varieties)"]
-                    },
-                    "flavor_characteristics": {
-                        "flavor_profile": "Sweet and mild with no heat. Scoville rating: 0 SHU"
-                    },
-                    "fruit_characteristics": {
-                        "fruit_color": "Green maturing to red, yellow, orange, or purple depending on variety",
-                        "fruit_weight": "4-8 ounces",
-                        "skin_thickness": "Thick",
-                        "seed_cavity_size": "Large",
-                        "storage_quality": "Good refrigerated for 1-2 weeks",
-                        "crack_resistance": "Moderate"
-                    },
-                    "fun_fact": "Despite being commonly referred to as vegetables, bell peppers are technically fruits, as they contain seeds and develop from the ovary of a flower. Green bell peppers are simply unripe versions that will turn red, yellow, or orange if left on the plant.",
-                    "planting_tip": "Plant bell peppers in fertile, well-draining soil with a pH of 6.0 to 6.8. Choose a sunny location with at least 6-8 hours of sunlight per day. Space plants adequately to promote air circulation and reduce disease risk. Water deeply but infrequently to encourage deep root growth. Mulch around plants to conserve moisture and suppress weeds. Support plants with stakes or cages as fruit can be heavy."
-                },
-                {
-                    "id": 3,
                     "name": "Poblano",
                     "description": "Poblano peppers, also known as Ancho peppers when dried, are large, heart-shaped chili peppers with a mild to medium heat level. They have a rich, earthy flavor and are commonly used in Mexican cuisine for dishes such as chiles rellenos, mole sauce, and stuffed peppers. Poblanos are prized for their thick flesh and versatility in both fresh and cooked preparations.",
                     "growth_info": {
@@ -308,7 +258,7 @@
                     "planting_tip": "Plant Poblano peppers in nutrient-rich, well-drained soil with a pH of 6.0 to 7.0. Choose a sunny location with good air circulation to prevent fungal diseases. Provide consistent moisture, especially during hot and dry periods, but avoid overwatering to prevent root rot. Harvest Poblanos when they are dark green for a milder flavor, or allow them to ripen to red-brown for a sweeter, slightly hotter taste."
                 },
                 {
-                    "id": 4,
+                    "id": 3,
                     "name": "Cayenne",
                     "description": "Cayenne peppers are long, slender chili peppers known for their intense heat and bright red color. They have a Scoville Heat Unit rating ranging from 30,000 to 50,000, making them hot but not overpowering. Cayenne peppers are commonly used to add spice and flavor to dishes such as hot sauces, chili, curries, and are excellent for drying and grinding into powder.",
                     "growth_info": {
@@ -358,7 +308,7 @@
                     "planting_tip": "Plant Cayenne peppers in well-drained, loamy soil enriched with organic matter. Choose a sunny location with good air circulation. Water deeply and regularly, especially during dry spells, but avoid waterlogging the soil. Provide support for the plants with stakes or cages, as the fruit can weigh down the branches. Harvest Cayenne peppers when they are fully red and ripe for the best flavor and heat."
                 },
                 {
-                    "id": 5,
+                    "id": 4,
                     "name": "Ghost Pepper",
                     "description": "Ghost Pepper, also known as Bhut Jolokia, is one of the hottest chili peppers in the world, with a Scoville Heat Unit rating exceeding 1,000,000. Originating from Northeast India, these small, wrinkled peppers have a distinctively smoky and fruity flavor. Ghost peppers are used sparingly in culinary dishes, hot sauces, and marinades due to their extreme heat.",
                     "growth_info": {
@@ -408,7 +358,7 @@
                     "planting_tip": "Plant Ghost Pepper seeds in well-drained, fertile soil with a pH of 6.0 to 7.0. Choose a sunny location with warm temperatures. Start seeds indoors 10-12 weeks before last frost as they have a long growing season. Provide ample space between plants to allow for air circulation. Water consistently to keep soil evenly moist. Handle Ghost Pepper fruits with extreme care using gloves, as their oils can cause severe skin and eye irritation."
                 },
                 {
-                    "id": 6,
+                    "id": 5,
                     "name": "Anaheim",
                     "description": "Anaheim peppers, also known as New Mexico peppers or California green chilies, are mild chili peppers named after the city of Anaheim, California. These peppers are long and narrow with a slightly curved shape. They have a mild heat level, ranging from 500 to 2,500 Scoville Heat Units, and are commonly used in Southwestern and Mexican cuisines. Anaheim peppers are ideal for roasting, stuffing, and adding flavor to sauces and salsas.",
                     "growth_info": {
@@ -458,7 +408,7 @@
                     "planting_tip": "Plant Anaheim Pepper seeds or transplants in well-drained soil enriched with organic matter. Choose a sunny location with at least 6-8 hours of sunlight per day. Water deeply and regularly, especially during hot and dry periods. Mulch around the plants to conserve moisture and suppress weeds. Harvest Anaheim peppers when they are still green for a milder flavor, or allow them to ripen to red for a sweeter, slightly hotter taste."
                 },
                 {
-                    "id": 7,
+                    "id": 6,
                     "name": "Serrano",
                     "description": "Serrano peppers are small, tapered chili peppers with a bright, crisp, spicy flavor. They are hotter than jalapeño peppers, with a Scoville Heat Unit rating ranging from 10,000 to 23,000. Serranos are commonly used in Mexican and Southwestern cuisines to add heat to salsas, pico de gallo, sauces, and marinades. They are also popular for pickling and garnishing dishes.",
                     "growth_info": {
@@ -506,7 +456,858 @@
                     },
                     "fun_fact": "Serrano peppers are named after the mountains of the Sierra (mountains) regions of the Mexican states of Puebla and Hidalgo, where they are believed to have originated. They deliver their heat immediately upon biting, unlike some peppers that build gradually.",
                     "planting_tip": "Plant Serrano Pepper seeds or transplants in fertile, well-drained soil with a pH of 6.0 to 7.0. Choose a sunny location with good air circulation. Water consistently to keep the soil evenly moist, but avoid overwatering. These prolific producers benefit from regular harvesting to encourage continued fruit production. Can be grown successfully in containers on patios or balconies."
+                },
+                {
+                    "id": 7,
+                    "name": "Bell Pepper",
+                    "description": "Bell Peppers, also known as sweet peppers, are large, blocky peppers with thick walls and a mild, sweet flavor. Unlike most peppers, they contain no capsaicin, making them completely non-spicy with a Scoville rating of 0. Available in multiple colors including green, red, yellow, and orange, Bell Peppers are incredibly versatile in cooking, used fresh in salads, stuffed, roasted, or sautéed in countless dishes.",
+                    "growth_info": {
+                        "growth_mode": "Upright",
+                        "days_to_harvest": {
+                            "lower_estimate": 60,
+                            "higher_estimate": 90
+                        },
+                        "plant_height": "24-36 inches",
+                        "spacing": "18-24 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "5 gallons minimum",
+                        "needs_support": true
+                    },
+                    "appearance": {
+                        "flower_color": "White",
+                        "leaf_color": "Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering, 1-2 inches per week, consistent moisture",
+                        "feeding_requirement": "Balanced fertilizer every 2-3 weeks, increased potassium during fruiting",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "8-12 large peppers per plant",
+                        "best_uses": ["Fresh eating", "Salads", "Stuffing", "Roasting", "Stir-frying", "Grilling"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Good",
+                        "cold_tolerance": "Poor",
+                        "frost_tolerance": false,
+                        "drought_tolerance": "Moderate",
+                        "disease_resistance": ["Tobacco Mosaic Virus"]
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Sweet, crisp, and mild with no heat. Scoville rating: 0 SHU"
+                    },
+                    "fruit_characteristics": {
+                        "fruit_color": "Green maturing to red, yellow, orange, or purple depending on variety",
+                        "fruit_weight": "4-7 ounces",
+                        "skin_thickness": "Very thick",
+                        "seed_cavity_size": "Large",
+                        "storage_quality": "Excellent for fresh use, good for freezing and roasting",
+                        "crack_resistance": "Good"
+                    },
+                    "fun_fact": "Bell Peppers are technically fruits, not vegetables, and all colored Bell Peppers start out green. Red Bell Peppers are simply fully ripened green peppers, which is why they're sweeter and more expensive - they require more time on the plant.",
+                    "planting_tip": "Plant Bell Pepper seeds indoors 8-10 weeks before last frost or use transplants. They need full sun and warm soil temperatures above 60°F. Provide support with stakes or cages as heavy fruits can cause branches to break. Harvest green for a crisp, slightly bitter flavor, or wait for full color development for maximum sweetness. Consistent watering prevents blossom end rot."
+                },
+                {
+                    "id": 8,
+                    "name": "Shishito",
+                    "description": "Shishito peppers are small, slender Japanese peppers that have gained immense popularity in recent years. These wrinkled, finger-length peppers are typically mild, but approximately 1 in 10 will surprise you with significant heat. Traditionally blistered or pan-fried until charred, Shishitos are served as an appetizer with sea salt. Their unpredictable heat and addictive flavor make them a favorite in Asian cuisine and modern American restaurants.",
+                    "growth_info": {
+                        "growth_mode": "Upright compact",
+                        "days_to_harvest": {
+                            "lower_estimate": 60,
+                            "higher_estimate": 70
+                        },
+                        "plant_height": "24-30 inches",
+                        "spacing": "18-24 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "5 gallons minimum",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "White",
+                        "leaf_color": "Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering, keep soil consistently moist",
+                        "feeding_requirement": "Balanced fertilizer every 2-3 weeks",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "60-80 peppers per plant",
+                        "best_uses": ["Blistering", "Pan-frying", "Grilling", "Tempura", "Fresh garnish"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Excellent",
+                        "cold_tolerance": "Poor",
+                        "frost_tolerance": false,
+                        "drought_tolerance": "Moderate",
+                        "disease_resistance": []
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Mostly mild and sweet with occasional spicy surprise. Scoville rating: 50-200 SHU (with occasional outliers up to 1,000 SHU)"
+                    },
+                    "fruit_characteristics": {
+                        "fruit_color": "Green maturing to red",
+                        "fruit_weight": "0.1-0.2 ounce",
+                        "skin_thickness": "Thin",
+                        "seed_cavity_size": "Small",
+                        "storage_quality": "Best used fresh, good for short-term refrigeration",
+                        "crack_resistance": "Good"
+                    },
+                    "fun_fact": "The name 'Shishito' comes from the Japanese word for 'lion's head' (shishi), referring to the shape of the pepper's tip. The famous '1 in 10 is hot' phenomenon occurs when plants experience stress during growing, such as inconsistent watering or temperature fluctuations.",
+                    "planting_tip": "Plant Shishito peppers in well-drained, fertile soil with full sun exposure. They're prolific producers that benefit from frequent harvesting to encourage continued fruit set. Harvest when peppers are 3-4 inches long and still green for the traditional mild flavor. These peppers are particularly well-suited to container growing and make excellent patio plants."
+                },
+                {
+                    "id": 9,
+                    "name": "Banana Pepper",
+                    "description": "Banana Peppers are mild, sweet peppers named for their elongated, curved shape and yellow color that resembles a banana. With a Scoville rating of 0-500, they offer a tangy, slightly sweet flavor with minimal heat. These versatile peppers are popular for pickling, stuffing, and adding to sandwiches, pizzas, and salads. Both sweet and hot varieties exist, with the sweet type being more commonly grown in home gardens.",
+                    "growth_info": {
+                        "growth_mode": "Upright",
+                        "days_to_harvest": {
+                            "lower_estimate": 65,
+                            "higher_estimate": 75
+                        },
+                        "plant_height": "18-24 inches",
+                        "spacing": "18-24 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "5 gallons minimum",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "White",
+                        "leaf_color": "Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering, 1-2 inches per week",
+                        "feeding_requirement": "Balanced fertilizer every 2-3 weeks",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "25-30 peppers per plant",
+                        "best_uses": ["Pickling", "Fresh eating", "Sandwiches", "Pizza topping", "Stuffing", "Salads"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Good",
+                        "cold_tolerance": "Poor",
+                        "frost_tolerance": false,
+                        "drought_tolerance": "Moderate",
+                        "disease_resistance": []
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Mild, sweet, and tangy with minimal heat. Scoville rating: 0-500 SHU"
+                    },
+                    "fruit_characteristics": {
+                        "fruit_color": "Yellow-green maturing to orange-red",
+                        "fruit_weight": "1-1.5 ounces",
+                        "skin_thickness": "Medium",
+                        "seed_cavity_size": "Medium",
+                        "storage_quality": "Excellent for pickling, good fresh",
+                        "crack_resistance": "Good"
+                    },
+                    "fun_fact": "Banana Peppers are often confused with Pepperoncini peppers due to their similar appearance, but Banana Peppers have a sweeter taste and less heat. They're one of the most productive pepper varieties, often producing fruit continuously throughout the growing season.",
+                    "planting_tip": "Plant Banana Pepper seeds indoors 8-10 weeks before last frost or use transplants. They prefer warm soil and full sun but are more compact than many other pepper varieties, making them ideal for smaller gardens. Harvest when peppers are 4-6 inches long and bright yellow for the sweetest flavor, or allow to ripen to red for a slightly sweeter taste. Regular harvesting encourages more fruit production."
+                },
+                {
+                    "id": 10,
+                    "name": "Thai Chili",
+                    "description": "Thai Chili peppers, also known as Bird's Eye Chili or Thai Dragon, are small but mighty peppers essential to Southeast Asian cuisine. These thin, pointed peppers pack intense heat despite their diminutive size, with a Scoville rating of 50,000-100,000. They're used fresh or dried in Thai curries, stir-fries, and hot sauces, delivering a sharp, immediate heat along with a bright, slightly fruity flavor.",
+                    "growth_info": {
+                        "growth_mode": "Compact upright",
+                        "days_to_harvest": {
+                            "lower_estimate": 75,
+                            "higher_estimate": 90
+                        },
+                        "plant_height": "24-36 inches",
+                        "spacing": "18-24 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "3-5 gallons minimum",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "White",
+                        "leaf_color": "Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering, keep soil evenly moist",
+                        "feeding_requirement": "Balanced fertilizer every 2-3 weeks",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "100-200 peppers per plant",
+                        "best_uses": ["Thai curries", "Stir-fries", "Hot sauces", "Fresh garnish", "Drying", "Infused oils"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Excellent",
+                        "cold_tolerance": "Poor",
+                        "frost_tolerance": false,
+                        "drought_tolerance": "Moderate",
+                        "disease_resistance": []
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Very hot with sharp, immediate heat and bright, slightly fruity notes. Scoville rating: 50,000-100,000 SHU"
+                    },
+                    "fruit_characteristics": {
+                        "fruit_color": "Green maturing to bright red",
+                        "fruit_weight": "0.05-0.1 ounce",
+                        "skin_thickness": "Very thin",
+                        "seed_cavity_size": "Very small",
+                        "storage_quality": "Excellent for drying and freezing",
+                        "crack_resistance": "Good"
+                    },
+                    "fun_fact": "Thai Chili peppers are called 'Bird's Eye' because birds, which are immune to capsaicin, eat and disperse the seeds. In Thailand, these peppers are so essential to cuisine that they're often grown in ornamental pots near the kitchen door for easy access while cooking.",
+                    "planting_tip": "Plant Thai Chili peppers in well-drained soil with full sun exposure. These are exceptionally productive plants that grow well in containers, making them perfect for small spaces or patios. Start seeds indoors 8-10 weeks before last frost. The plants are naturally compact and ornamental, with peppers pointing upward. Harvest when peppers turn red for maximum heat and flavor. Handle with gloves to avoid skin irritation."
+                },
+                {
+                    "id": 11,
+                    "name": "Pepperoncini",
+                    "description": "Pepperoncini, also called Tuscan Peppers or Golden Greek Peppers, are mild, wrinkled peppers with a sweet, tangy flavor. With a Scoville rating of just 100-500, these peppers are perfect for those who want flavor without significant heat. They're most commonly pickled and used as a condiment on sandwiches, pizzas, and salads, though they're equally delicious fresh. Their distinctive wrinkled appearance and bright flavor make them a Mediterranean cuisine staple.",
+                    "growth_info": {
+                        "growth_mode": "Upright",
+                        "days_to_harvest": {
+                            "lower_estimate": 60,
+                            "higher_estimate": 75
+                        },
+                        "plant_height": "24-30 inches",
+                        "spacing": "18-24 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "5 gallons minimum",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "White",
+                        "leaf_color": "Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering, 1-2 inches per week",
+                        "feeding_requirement": "Balanced fertilizer every 2-3 weeks",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "30-50 peppers per plant",
+                        "best_uses": ["Pickling", "Sandwiches", "Pizzas", "Salads", "Antipasto", "Fresh eating"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Good",
+                        "cold_tolerance": "Poor",
+                        "frost_tolerance": false,
+                        "drought_tolerance": "Moderate",
+                        "disease_resistance": []
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Mild heat with sweet, tangy, slightly fruity flavor. Scoville rating: 100-500 SHU"
+                    },
+                    "fruit_characteristics": {
+                        "fruit_color": "Yellow-green maturing to red",
+                        "fruit_weight": "0.5-1 ounce",
+                        "skin_thickness": "Medium-thin",
+                        "seed_cavity_size": "Small",
+                        "storage_quality": "Excellent for pickling, good fresh",
+                        "crack_resistance": "Good"
+                    },
+                    "fun_fact": "Pepperoncini are a staple of Greek and Italian cuisine, and the pickled version is what you'll find on nearly every pizza delivery. Despite being called 'Greek peppers,' they're actually native to Italy and Greece. The characteristic wrinkled skin develops naturally as the pepper matures.",
+                    "planting_tip": "Plant Pepperoncini in well-drained, fertile soil with full sun. These are productive, easy-to-grow peppers that tolerate a range of conditions. Start seeds indoors 8-10 weeks before last frost or use transplants. Harvest when peppers are 2-3 inches long and still yellow-green for the classic pickled flavor, though they can be left to ripen to red. The plants are prolific producers and benefit from regular harvesting."
+                },
+                {
+                    "id": 12,
+                    "name": "Cherry Bomb",
+                    "description": "Cherry Bomb peppers are round, cherry-shaped peppers with thick walls and a medium level of heat. Resembling large cherry tomatoes, these peppers have a Scoville rating of 2,500-5,000, offering a pleasant kick without overwhelming heat. They're prized for stuffing with cheese or meats, pickling, and fresh eating. The thick flesh makes them ideal for grilling and roasting, and their attractive appearance makes them popular in gardens and on plates alike.",
+                    "growth_info": {
+                        "growth_mode": "Upright compact",
+                        "days_to_harvest": {
+                            "lower_estimate": 65,
+                            "higher_estimate": 80
+                        },
+                        "plant_height": "18-24 inches",
+                        "spacing": "18-24 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "5 gallons minimum",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "White",
+                        "leaf_color": "Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering, keep soil consistently moist",
+                        "feeding_requirement": "Balanced fertilizer every 2-3 weeks",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "20-30 peppers per plant",
+                        "best_uses": ["Stuffing", "Pickling", "Grilling", "Fresh eating", "Roasting", "Appetizers"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Good",
+                        "cold_tolerance": "Poor",
+                        "frost_tolerance": false,
+                        "drought_tolerance": "Moderate",
+                        "disease_resistance": []
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Medium heat with sweet, slightly tangy flavor and crisp texture. Scoville rating: 2,500-5,000 SHU"
+                    },
+                    "fruit_characteristics": {
+                        "fruit_color": "Green maturing to bright red",
+                        "fruit_weight": "1-2 ounces",
+                        "skin_thickness": "Thick",
+                        "seed_cavity_size": "Medium, ideal for stuffing",
+                        "storage_quality": "Excellent for pickling and stuffing, good fresh",
+                        "crack_resistance": "Excellent"
+                    },
+                    "fun_fact": "Cherry Bomb peppers get their name from their round shape and explosive flavor. They're also known as 'Cherry Hot' peppers. The thick walls that make them perfect for stuffing also mean they take longer to cook through than thinner-walled peppers, making them ideal for grilling without burning.",
+                    "planting_tip": "Plant Cherry Bomb peppers in nutrient-rich, well-drained soil with full sun exposure. These compact plants are well-suited to container growing and small gardens. Start seeds indoors 8-10 weeks before last frost. The thick-walled fruits can be heavy, so ensure plants have adequate support if needed. Harvest when peppers reach 1.5-2 inches in diameter and have turned red for full flavor development. They're excellent for making stuffed pepper appetizers."
+                },
+                {
+                    "id": 13,
+                    "name": "Scotch Bonnet",
+                    "description": "Scotch Bonnet peppers are Caribbean cousins to the Habanero, named for their resemblance to a traditional Scottish tam o' shanter hat. These peppers are extremely hot, with a Scoville rating of 100,000-350,000, but unlike many super-hot peppers, they offer a distinctly sweet, tropical fruit flavor. Essential to Caribbean cuisine, particularly Jamaican jerk seasoning, they provide both intense heat and complex flavor to dishes, marinades, and hot sauces.",
+                    "growth_info": {
+                        "growth_mode": "Compact bushy",
+                        "days_to_harvest": {
+                            "lower_estimate": 90,
+                            "higher_estimate": 120
+                        },
+                        "plant_height": "24-36 inches",
+                        "spacing": "18-24 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "5 gallons minimum",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "White to cream",
+                        "leaf_color": "Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering, keep soil evenly moist but not waterlogged",
+                        "feeding_requirement": "Balanced fertilizer with reduced nitrogen during fruiting",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "30-50 peppers per plant",
+                        "best_uses": ["Jerk seasoning", "Hot sauces", "Caribbean cuisine", "Marinades", "Salsas"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Excellent",
+                        "cold_tolerance": "Poor",
+                        "frost_tolerance": false,
+                        "drought_tolerance": "Moderate",
+                        "disease_resistance": []
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Extremely hot with sweet, fruity, tropical flavor notes. Scoville rating: 100,000-350,000 SHU"
+                    },
+                    "fruit_characteristics": {
+                        "fruit_color": "Green maturing to yellow, orange, or red",
+                        "fruit_weight": "0.1-0.2 ounce",
+                        "skin_thickness": "Thin",
+                        "seed_cavity_size": "Small",
+                        "storage_quality": "Excellent for sauces, good for drying and freezing",
+                        "crack_resistance": "Moderate"
+                    },
+                    "fun_fact": "Scotch Bonnet peppers are the cornerstone of authentic Jamaican jerk seasoning and are considered irreplaceable in traditional Caribbean cooking. While Habaneros can substitute in a pinch, Scotch Bonnets have a distinctly sweeter, more fruity flavor. In Jamaica, they're sometimes called 'Bonney peppers.'",
+                    "planting_tip": "Plant Scotch Bonnet peppers in loose, well-draining soil with slightly acidic pH and full sun exposure. These peppers require a long, warm growing season, so start seeds indoors 10-12 weeks before last frost. They thrive in warm, humid conditions similar to their Caribbean origins. Water consistently and mulch to maintain soil moisture. Handle fruits with gloves, as the oils are intensely hot and can cause severe skin irritation. Harvest when fruits reach full color for maximum flavor."
+                },
+                {
+                    "id": 14,
+                    "name": "Cubanelle",
+                    "description": "Cubanelle peppers, also known as Italian Frying Peppers, are long, tapered sweet peppers with thin walls and a mild, sweet flavor. With a Scoville rating of 0-1,000, they offer minimal heat and are prized for their sweet taste and tender texture when cooked. These peppers are light yellow-green in color and are traditionally used in Cuban, Puerto Rican, and Italian cuisines for frying, stuffing, and sautéing. They're excellent in sofrito and are a staple in Latin American cooking.",
+                    "growth_info": {
+                        "growth_mode": "Upright",
+                        "days_to_harvest": {
+                            "lower_estimate": 65,
+                            "higher_estimate": 80
+                        },
+                        "plant_height": "24-30 inches",
+                        "spacing": "18-24 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "5 gallons minimum",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "White",
+                        "leaf_color": "Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering, 1-2 inches per week",
+                        "feeding_requirement": "Balanced fertilizer every 2-3 weeks",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "15-25 peppers per plant",
+                        "best_uses": ["Frying", "Sautéing", "Stuffing", "Sofrito", "Sandwiches", "Salads"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Good",
+                        "cold_tolerance": "Poor",
+                        "frost_tolerance": false,
+                        "drought_tolerance": "Moderate",
+                        "disease_resistance": []
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Very mild to no heat with sweet, slightly fruity flavor. Scoville rating: 0-1,000 SHU"
+                    },
+                    "fruit_characteristics": {
+                        "fruit_color": "Light yellow-green maturing to orange-red",
+                        "fruit_weight": "1.5-3 ounces",
+                        "skin_thickness": "Thin",
+                        "seed_cavity_size": "Medium to large",
+                        "storage_quality": "Best used fresh, good for short-term refrigeration and freezing",
+                        "crack_resistance": "Moderate"
+                    },
+                    "fun_fact": "Cubanelle peppers are called 'Italian Frying Peppers' because they become incredibly sweet and tender when fried in olive oil, a classic preparation in Italian-American cuisine. In Puerto Rico, they're an essential ingredient in sofrito, the aromatic base for many traditional dishes.",
+                    "planting_tip": "Plant Cubanelle peppers in well-drained, fertile soil with full sun. Start seeds indoors 8-10 weeks before last frost or use transplants. These peppers have thin walls that make them quick-cooking but also more susceptible to sun scald, so adequate foliage coverage is beneficial. Harvest when peppers are 4-6 inches long and still light green for the sweetest, most tender flavor. They can be left to ripen to red but become slightly tougher."
+                },
+                {
+                    "id": 15,
+                    "name": "Padron",
+                    "description": "Padron peppers are small, green Spanish peppers famous for the culinary game of chance they represent - most are mild, but about 1 in 10 packs surprising heat. Traditionally harvested when young at 1-2 inches long, these peppers are a tapas staple in Spain, typically blistered in hot oil and sprinkled with coarse sea salt. With a Scoville rating ranging from 500-2,500 (with occasional hot outliers), Padrons offer a unique eating experience and have become increasingly popular in restaurants worldwide.",
+                    "growth_info": {
+                        "growth_mode": "Upright compact",
+                        "days_to_harvest": {
+                            "lower_estimate": 55,
+                            "higher_estimate": 70
+                        },
+                        "plant_height": "24-36 inches",
+                        "spacing": "18-24 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "5 gallons minimum",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "White",
+                        "leaf_color": "Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering, keep soil consistently moist",
+                        "feeding_requirement": "Balanced fertilizer every 2-3 weeks",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "80-100 peppers per plant",
+                        "best_uses": ["Blistering", "Pan-frying", "Tapas", "Grilling", "Fresh eating"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Excellent",
+                        "cold_tolerance": "Poor",
+                        "frost_tolerance": false,
+                        "drought_tolerance": "Moderate",
+                        "disease_resistance": []
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Mostly mild and sweet with grassy notes, occasional spicy surprises. Scoville rating: 500-2,500 SHU (with outliers up to 5,000 SHU)"
+                    },
+                    "fruit_characteristics": {
+                        "fruit_color": "Green (harvested before ripening to red)",
+                        "fruit_weight": "0.1-0.3 ounce",
+                        "skin_thickness": "Thin",
+                        "seed_cavity_size": "Very small",
+                        "storage_quality": "Best used fresh within a few days of harvest",
+                        "crack_resistance": "Good"
+                    },
+                    "fun_fact": "Padron peppers originate from the municipality of Padrón in Galicia, Spain, and are celebrated with an annual festival each August. The famous Spanish saying goes: 'Pimientos de Padrón, unos pican y otros no' (Padrón peppers, some are hot and some are not). The heat variation comes from growing conditions and maturity level.",
+                    "planting_tip": "Plant Padron peppers in well-drained soil with full sun exposure. These are among the earliest maturing peppers, making them ideal for shorter growing seasons. Harvest frequently when peppers are 1-2 inches long and still bright green - this encourages continued production and keeps them mostly mild. If left to grow larger (3+ inches), they become hotter and develop thicker walls. Very productive plants that thrive in containers."
+                },
+                {
+                    "id": 16,
+                    "name": "Hungarian Wax",
+                    "description": "Hungarian Wax peppers, also called Hot Wax or Banana Wax peppers, are medium-sized peppers with a bright yellow color and waxy appearance. These peppers have variable heat levels ranging from 5,000-15,000 Scoville units, offering moderate to medium-hot spiciness. They have thick, crisp walls that make them excellent for pickling, stuffing, and fresh eating. Popular in Eastern European cuisine, Hungarian Wax peppers add both heat and a slightly sweet, tangy flavor to dishes.",
+                    "growth_info": {
+                        "growth_mode": "Upright",
+                        "days_to_harvest": {
+                            "lower_estimate": 65,
+                            "higher_estimate": 75
+                        },
+                        "plant_height": "18-24 inches",
+                        "spacing": "18-24 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "5 gallons minimum",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "White",
+                        "leaf_color": "Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering, 1-2 inches per week",
+                        "feeding_requirement": "Balanced fertilizer every 2-3 weeks",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "20-30 peppers per plant",
+                        "best_uses": ["Pickling", "Stuffing", "Fresh eating", "Roasting", "Slicing for sandwiches", "Salsa"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Good",
+                        "cold_tolerance": "Poor",
+                        "frost_tolerance": false,
+                        "drought_tolerance": "Moderate",
+                        "disease_resistance": []
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Medium heat with sweet, tangy flavor and crisp texture. Scoville rating: 5,000-15,000 SHU"
+                    },
+                    "fruit_characteristics": {
+                        "fruit_color": "Yellow maturing to orange then red",
+                        "fruit_weight": "1.5-2 ounces",
+                        "skin_thickness": "Medium-thick",
+                        "seed_cavity_size": "Medium",
+                        "storage_quality": "Excellent for pickling, good fresh and frozen",
+                        "crack_resistance": "Good"
+                    },
+                    "fun_fact": "Hungarian Wax peppers are often confused with Banana Peppers due to their similar appearance, but Hungarian Wax peppers are significantly hotter. They're named for their waxy appearance and are a staple in Hungarian cuisine. The heat level increases as the pepper matures from yellow to red.",
+                    "planting_tip": "Plant Hungarian Wax peppers in well-drained, fertile soil with full sun exposure. Start seeds indoors 8-10 weeks before last frost or use transplants. These compact plants are excellent for container growing and smaller gardens. Harvest when peppers are 5-6 inches long and bright yellow for a balance of heat and sweetness. For hotter peppers, allow them to ripen to orange or red. The thick walls make them particularly good for pickling and stuffing."
+                },
+                {
+                    "id": 17,
+                    "name": "Fresno",
+                    "description": "Fresno peppers are medium-sized chili peppers that resemble red jalapeños but pack more heat and a fruitier flavor. Named after Fresno, California, these peppers have a Scoville rating of 2,500-10,000, making them hotter than jalapeños but still manageable for most palates. They're prized for their bright, fruity flavor and are commonly used in hot sauces, salsas, and as a fresh garnish. Fresnos are particularly popular when allowed to ripen to red, which brings out their sweetness.",
+                    "growth_info": {
+                        "growth_mode": "Upright compact",
+                        "days_to_harvest": {
+                            "lower_estimate": 70,
+                            "higher_estimate": 85
+                        },
+                        "plant_height": "24-30 inches",
+                        "spacing": "18-24 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "5 gallons minimum",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "White",
+                        "leaf_color": "Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering, keep soil consistently moist",
+                        "feeding_requirement": "Balanced fertilizer every 2-3 weeks",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "30-40 peppers per plant",
+                        "best_uses": ["Hot sauces", "Salsas", "Fresh garnish", "Pickling", "Roasting", "Grilling"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Good",
+                        "cold_tolerance": "Poor",
+                        "frost_tolerance": false,
+                        "drought_tolerance": "Moderate",
+                        "disease_resistance": []
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Medium heat with bright, fruity, slightly smoky flavor. Scoville rating: 2,500-10,000 SHU"
+                    },
+                    "fruit_characteristics": {
+                        "fruit_color": "Green maturing to bright red",
+                        "fruit_weight": "0.5-1 ounce",
+                        "skin_thickness": "Medium",
+                        "seed_cavity_size": "Small to medium",
+                        "storage_quality": "Good fresh, excellent for sauces and pickling",
+                        "crack_resistance": "Good"
+                    },
+                    "fun_fact": "Fresno peppers were developed in 1952 by Clarence Brown Hamlin in Fresno, California. They're often mistaken for red jalapeños, but Fresnos have thinner walls and a fruitier, smokier flavor. Many restaurants prefer Fresnos over jalapeños for their more complex taste and attractive red color when ripe.",
+                    "planting_tip": "Plant Fresno peppers in well-drained soil enriched with organic matter and full sun exposure. Start seeds indoors 8-10 weeks before last frost. These productive plants benefit from consistent watering, especially during fruit development. While they can be harvested green, Fresnos are best when allowed to fully ripen to red, which typically takes 1-2 weeks longer but results in sweeter, more flavorful peppers. Excellent for container growing."
+                },
+                {
+                    "id": 18,
+                    "name": "Peter Pepper",
+                    "description": "Peter Pepper is a rare and unusual heirloom variety known for its distinctive phallic shape that has earned it various humorous nicknames. Beyond its novelty appearance, this pepper is seriously hot with a Scoville rating of 5,000-30,000 and offers a crisp, bright flavor. Available in red and yellow varieties, Peter Peppers are excellent for fresh eating, pickling, and making hot sauces. Their unique appearance and respectable heat make them conversation starters in gardens and at farmers markets.",
+                    "growth_info": {
+                        "growth_mode": "Upright compact",
+                        "days_to_harvest": {
+                            "lower_estimate": 80,
+                            "higher_estimate": 95
+                        },
+                        "plant_height": "24-36 inches",
+                        "spacing": "18-24 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "5 gallons minimum",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "White",
+                        "leaf_color": "Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering, keep soil consistently moist",
+                        "feeding_requirement": "Balanced fertilizer every 2-3 weeks",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "25-35 peppers per plant",
+                        "best_uses": ["Novelty fresh eating", "Pickling", "Hot sauces", "Salsa", "Conversation piece"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Good",
+                        "cold_tolerance": "Poor",
+                        "frost_tolerance": false,
+                        "drought_tolerance": "Moderate",
+                        "disease_resistance": []
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Medium to hot heat with crisp, bright, slightly sweet flavor. Scoville rating: 5,000-30,000 SHU"
+                    },
+                    "fruit_characteristics": {
+                        "fruit_color": "Green maturing to red or yellow depending on variety",
+                        "fruit_weight": "0.5-1 ounce",
+                        "skin_thickness": "Medium",
+                        "seed_cavity_size": "Small",
+                        "storage_quality": "Good fresh, excellent for pickling",
+                        "crack_resistance": "Good"
+                    },
+                    "fun_fact": "Peter Pepper is an heirloom variety from Texas and Louisiana that's been grown since at least the 1970s. Its distinctive shape occurs naturally and is most pronounced when growing conditions are optimal. The pepper is increasingly rare and considered a collector's item among pepper enthusiasts. Despite its comical appearance, it's a legitimate culinary pepper with excellent flavor.",
+                    "planting_tip": "Plant Peter Pepper seeds in well-drained, fertile soil with full sun. Start seeds indoors 8-10 weeks before last frost. These plants can be somewhat slow to germinate and mature compared to common varieties. Consistent growing conditions help produce the most characteristically shaped fruits. Harvest when peppers reach full color for best flavor. Great for container growing and as a novelty garden plant that's sure to generate questions from visitors."
+                },
+                {
+                    "id": 19,
+                    "name": "Carolina Reaper",
+                    "description": "Carolina Reaper is currently recognized as one of the world's hottest peppers, with a Scoville rating that can exceed 2,200,000 SHU. Developed by Ed Currie of the PuckerButt Pepper Company in South Carolina, this pepper is a cross between a Pakistani Naga and a Red Habanero. Despite its extreme heat, the Reaper has a surprisingly fruity, sweet flavor that develops before the intense heat kicks in. The pepper is characterized by its distinctive scorpion-like tail and bumpy, wrinkled skin.",
+                    "growth_info": {
+                        "growth_mode": "Compact bushy",
+                        "days_to_harvest": {
+                            "lower_estimate": 90,
+                            "higher_estimate": 120
+                        },
+                        "plant_height": "36-48 inches",
+                        "spacing": "24-36 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "7 gallons minimum",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "White to cream",
+                        "leaf_color": "Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering, keep soil evenly moist",
+                        "feeding_requirement": "Balanced fertilizer with micronutrients, reduced nitrogen during fruiting",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "40-50 peppers per plant",
+                        "best_uses": ["Extreme hot sauces", "Very small amounts in cooking", "Competitions", "Drying for powder"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Excellent",
+                        "cold_tolerance": "Poor",
+                        "frost_tolerance": false,
+                        "drought_tolerance": "Moderate",
+                        "disease_resistance": []
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Extremely hot with initial sweet, fruity, cinnamon-like notes before intense burning heat. Scoville rating: 1,400,000-2,200,000+ SHU"
+                    },
+                    "fruit_characteristics": {
+                        "fruit_color": "Green maturing to bright red",
+                        "fruit_weight": "0.2-0.3 ounce",
+                        "skin_thickness": "Thin with distinctive bumpy, wrinkled texture",
+                        "seed_cavity_size": "Small",
+                        "storage_quality": "Excellent for drying and making powder",
+                        "crack_resistance": "Moderate"
+                    },
+                    "fun_fact": "The Carolina Reaper held the Guinness World Record for hottest pepper from 2013 to 2023. Ed Currie spent over 10 years developing this variety. The pepper's heat is so intense that it's used in extreme hot sauce challenges worldwide, and handling it requires gloves and eye protection. Some people report the heat lasting for over 30 minutes.",
+                    "planting_tip": "Plant Carolina Reaper seeds in well-drained, fertile soil with pH 6.0-7.0. Start seeds indoors 10-12 weeks before last frost, as they have a very long growing season. Provide warm temperatures (80-85°F) for best germination. Plants need full sun and consistent moisture. CRITICAL: Always wear gloves and eye protection when handling fruits. Keep away from children and pets. The oils can cause severe burns to skin and eyes. Wash hands thoroughly after handling, even with gloves."
+                },
+                {
+                    "id": 20,
+                    "name": "Aji Amarillo",
+                    "description": "Aji Amarillo, meaning 'yellow chili' in Spanish, is a bright orange-yellow pepper that's the backbone of Peruvian cuisine. Despite the name, the ripe pepper is actually orange, not yellow. With a Scoville rating of 30,000-50,000, it provides medium-high heat along with a distinctive fruity, slightly smoky flavor with berry-like notes. This pepper is essential for dishes like Aji de Gallina, Huancaina sauce, and countless Peruvian recipes. The flavor is unique and cannot be easily substituted.",
+                    "growth_info": {
+                        "growth_mode": "Upright",
+                        "days_to_harvest": {
+                            "lower_estimate": 85,
+                            "higher_estimate": 100
+                        },
+                        "plant_height": "30-48 inches",
+                        "spacing": "18-24 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "5 gallons minimum",
+                        "needs_support": true
+                    },
+                    "appearance": {
+                        "flower_color": "White with purple tinges",
+                        "leaf_color": "Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering, keep soil consistently moist",
+                        "feeding_requirement": "Balanced fertilizer every 2-3 weeks",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "30-50 peppers per plant",
+                        "best_uses": ["Peruvian cuisine", "Sauces", "Pastes", "Marinades", "Ceviches", "Stews"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Excellent",
+                        "cold_tolerance": "Poor",
+                        "frost_tolerance": false,
+                        "drought_tolerance": "Moderate",
+                        "disease_resistance": []
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Medium-high heat with distinctive fruity, berry-like, slightly raisin-like flavor. Scoville rating: 30,000-50,000 SHU"
+                    },
+                    "fruit_characteristics": {
+                        "fruit_color": "Green maturing to deep orange-yellow",
+                        "fruit_weight": "0.5-1 ounce",
+                        "skin_thickness": "Medium-thin",
+                        "seed_cavity_size": "Small to medium",
+                        "storage_quality": "Excellent for making paste, good for freezing and drying",
+                        "crack_resistance": "Good"
+                    },
+                    "fun_fact": "Aji Amarillo has been cultivated in Peru for over 7,000 years and is so essential to Peruvian cuisine that it's often made into a paste that's kept in refrigerators year-round. The pepper is rarely eaten raw but is the foundation of countless cooked dishes. In Peru, you'll find Aji Amarillo paste in nearly every home and restaurant kitchen.",
+                    "planting_tip": "Plant Aji Amarillo in well-drained, fertile soil with full sun. Start seeds indoors 8-10 weeks before last frost. These plants can grow quite tall and may need staking for support. They prefer warm, consistent temperatures and don't tolerate cold well. Harvest when peppers turn from green to deep orange-yellow. The peppers are traditionally used by removing seeds, blending into paste, and freezing for year-round use. Plants are productive and continue producing until frost."
+                },
+                {
+                    "id": 21,
+                    "name": "Trinidad Scorpion",
+                    "description": "Trinidad Scorpion peppers are among the world's hottest chilies, named for their distinctive pointed tail resembling a scorpion's stinger and their origin in Trinidad. With a Scoville rating of 800,000-1,200,000+, these peppers deliver extreme heat along with a fruity, slightly sweet flavor. Various strains exist, including the Butch T and Moruga varieties. The intense heat builds slowly but lasts a long time. Used sparingly in extreme hot sauces and by chili enthusiasts seeking ultimate heat.",
+                    "growth_info": {
+                        "growth_mode": "Compact bushy",
+                        "days_to_harvest": {
+                            "lower_estimate": 90,
+                            "higher_estimate": 120
+                        },
+                        "plant_height": "36-48 inches",
+                        "spacing": "24-36 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "7 gallons minimum",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "White to cream",
+                        "leaf_color": "Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering, keep soil evenly moist but not waterlogged",
+                        "feeding_requirement": "Balanced fertilizer with micronutrients",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "50-80 peppers per plant",
+                        "best_uses": ["Extreme hot sauces", "Tiny amounts in cooking", "Drying for powder", "Heat competitions"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Excellent",
+                        "cold_tolerance": "Poor",
+                        "frost_tolerance": false,
+                        "drought_tolerance": "Moderate",
+                        "disease_resistance": []
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Extremely hot with fruity, slightly sweet flavor before overwhelming heat. Scoville rating: 800,000-1,200,000+ SHU"
+                    },
+                    "fruit_characteristics": {
+                        "fruit_color": "Green maturing to red, yellow, or chocolate brown depending on variety",
+                        "fruit_weight": "0.2-0.3 ounce",
+                        "skin_thickness": "Thin with bumpy, wrinkled texture",
+                        "seed_cavity_size": "Small",
+                        "storage_quality": "Excellent for drying and making extreme hot sauce",
+                        "crack_resistance": "Moderate"
+                    },
+                    "fun_fact": "The Trinidad Scorpion Butch T variety briefly held the world record for hottest pepper in 2011 before being surpassed. The Moruga Scorpion held the record from 2012-2013. These peppers are so hot that in Trinidad, they're sometimes used as a pest deterrent in gardens and to keep animals away from crops. The heat can be felt through gloves.",
+                    "planting_tip": "Plant Trinidad Scorpion seeds in well-drained, fertile soil with pH 6.0-7.0 and full sun. Start seeds indoors 10-12 weeks before last frost, providing warm temperatures for germination. These require a long, hot growing season to reach full maturity. Water consistently and provide adequate spacing for air circulation. IMPORTANT: Always wear double gloves and eye protection when handling. The oils are extremely potent and can cause severe burns. Never touch face or eyes after handling, even hours later."
+                },
+                {
+                    "id": 22,
+                    "name": "Piquillo",
+                    "description": "Piquillo peppers are small, triangular Spanish peppers with a distinctive beak-like shape, earning them the name 'little beak' in Spanish. These sweet peppers have virtually no heat (50-500 SHU) and are prized for their rich, sweet, slightly smoky flavor and tender texture. Traditionally grown in Northern Spain, particularly in Lodosa, Piquillos are typically fire-roasted, peeled, and jarred. They're a gourmet ingredient used for stuffing, in tapas, sauces, and as a garnish.",
+                    "growth_info": {
+                        "growth_mode": "Upright compact",
+                        "days_to_harvest": {
+                            "lower_estimate": 75,
+                            "higher_estimate": 90
+                        },
+                        "plant_height": "24-30 inches",
+                        "spacing": "18-24 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "5 gallons minimum",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "White",
+                        "leaf_color": "Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering, keep soil consistently moist",
+                        "feeding_requirement": "Balanced fertilizer every 2-3 weeks",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "20-30 peppers per plant",
+                        "best_uses": ["Roasting", "Stuffing", "Tapas", "Sauces", "Garnishes", "Jarring"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Good",
+                        "cold_tolerance": "Poor",
+                        "frost_tolerance": false,
+                        "drought_tolerance": "Moderate",
+                        "disease_resistance": []
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Sweet, rich, slightly smoky with no significant heat. Scoville rating: 50-500 SHU"
+                    },
+                    "fruit_characteristics": {
+                        "fruit_color": "Green maturing to deep red",
+                        "fruit_weight": "1-1.5 ounces",
+                        "skin_thickness": "Medium",
+                        "seed_cavity_size": "Small to medium",
+                        "storage_quality": "Excellent for roasting and preserving, good fresh",
+                        "crack_resistance": "Good"
+                    },
+                    "fun_fact": "Authentic Piquillo peppers from Lodosa, Spain have a Protected Designation of Origin (PDO) status, similar to Champagne. They're traditionally harvested by hand and roasted over beechwood fires, which gives them their characteristic smoky flavor. Jarred Piquillos are a staple in Spanish cuisine and considered a gourmet ingredient worldwide.",
+                    "planting_tip": "Plant Piquillo peppers in well-drained, fertile soil with full sun. Start seeds indoors 8-10 weeks before last frost or use transplants. These compact plants are well-suited to container growing. Allow peppers to fully ripen to deep red for the sweetest flavor. To prepare in the traditional Spanish style, roast peppers over an open flame or under a broiler until charred, then peel off the skin. The roasted peppers can be jarred with olive oil for long-term storage."
+                },
+                {
+                    "id": 23,
+                    "name": "Jimmy Nardello",
+                    "description": "Jimmy Nardello is a cherished Italian heirloom sweet pepper with a remarkable story of preservation. These long, slender peppers have absolutely no heat and offer an intensely sweet, rich flavor that intensifies when cooked. Named after Jimmy Nardello, who saved the seeds his family brought from Italy in 1887, this pepper was nearly lost until Seed Savers Exchange helped preserve it. The thin-skinned peppers are perfect for frying, where they become incredibly sweet and tender, making them a favorite among chefs and home gardeners.",
+                    "growth_info": {
+                        "growth_mode": "Upright",
+                        "days_to_harvest": {
+                            "lower_estimate": 80,
+                            "higher_estimate": 90
+                        },
+                        "plant_height": "30-36 inches",
+                        "spacing": "18-24 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "5 gallons minimum",
+                        "needs_support": true
+                    },
+                    "appearance": {
+                        "flower_color": "White",
+                        "leaf_color": "Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering, 1-2 inches per week",
+                        "feeding_requirement": "Balanced fertilizer every 2-3 weeks",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "30-50 peppers per plant",
+                        "best_uses": ["Frying", "Roasting", "Fresh eating", "Salads", "Sandwiches", "Pasta dishes"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Good",
+                        "cold_tolerance": "Poor",
+                        "frost_tolerance": false,
+                        "drought_tolerance": "Moderate",
+                        "disease_resistance": []
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Intensely sweet with rich, fruity flavor and no heat whatsoever. Scoville rating: 0 SHU"
+                    },
+                    "fruit_characteristics": {
+                        "fruit_color": "Green maturing to bright red",
+                        "fruit_weight": "0.5-1 ounce",
+                        "skin_thickness": "Very thin",
+                        "seed_cavity_size": "Small",
+                        "storage_quality": "Best used fresh or shortly after harvest, excellent for frying",
+                        "crack_resistance": "Good"
+                    },
+                    "fun_fact": "The Nardello family brought these pepper seeds from the village of Ruoti in Basilicata, Italy in 1887. Jimmy Nardello's mother would dry and grind the peppers to make paprika. The pepper was nearly lost when Jimmy stopped growing it in his 80s, but Seed Savers Exchange preserved it in 1983. It's now considered one of the finest sweet frying peppers available and has won numerous taste awards.",
+                    "planting_tip": "Plant Jimmy Nardello peppers in well-drained, fertile soil with full sun exposure. Start seeds indoors 8-10 weeks before last frost. Plants are productive and may need staking as they can become heavy with fruit. Harvest when peppers are 8-10 inches long and have turned bright red for maximum sweetness. These peppers are at their best when fried in olive oil until blistered and tender - they become incredibly sweet and are delicious with just a sprinkle of salt. Very productive plants that fruit continuously."
                 }
+                
             ]
         },
         {
@@ -662,6 +1463,496 @@
                     },
                     "fun_fact": "Sweet Spanish Onions are known for their low pungency and high sugar content. They are a favorite for slicing onto salads, sandwiches, and enjoying in a variety of cooked dishes.",
                     "planting_tip": "For successful cultivation of Sweet Spanish Onion, choose a sunny location with well-drained soil. Plant seeds, sets, or transplants at the appropriate depth and spacing. Water consistently, ensuring the soil is kept evenly moist. Mulch around the plants to suppress weeds and retain moisture. Harvest when the tops have fallen over, and the bulbs have reached a desirable size. Allow the bulbs to cure in a warm, dry location for 2-3 weeks before storing."
+                },
+                {
+                    "id": 1,
+                    "name": "Red Burgundy",
+                    "description": "Red Burgundy Onion is a striking deep red onion variety known for its rich color and mild, sweet flavor. This long-day onion produces medium to large, globe-shaped bulbs with beautiful burgundy-red skin and rings. The attractive color and mild taste make it excellent for fresh eating, grilling, and adding visual appeal to salads and sandwiches. Red Burgundy stores reasonably well and maintains its vibrant color when cooked.",
+                    "growth_info": {
+                        "growth_mode": "Upright",
+                        "days_to_harvest": {
+                            "lower_estimate": 95,
+                            "higher_estimate": 110
+                        },
+                        "plant_height": "12-16 inches",
+                        "spacing": "4-6 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "12 inches deep minimum",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "White to pale pink",
+                        "leaf_color": "Blue-Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Consistent moisture, 1 inch per week, reduce as bulbs mature",
+                        "feeding_requirement": "Nitrogen-rich fertilizer every 2-3 weeks until bulbing begins",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "0.5-1 pound per bulb",
+                        "best_uses": ["Fresh Eating", "Salads", "Sandwiches", "Grilling", "Pickling", "Caramelizing"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Moderate",
+                        "cold_tolerance": "Good",
+                        "frost_tolerance": true,
+                        "drought_tolerance": "Low",
+                        "disease_resistance": ["Pink Root"]
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Mild to medium pungency with sweet undertones, less bite than yellow onions"
+                    },
+                    "root_characteristics": {
+                        "root_color": "Deep burgundy red",
+                        "root_shape": "Globe",
+                        "root_size": "2.5-3.5 inches diameter",
+                        "texture": "Crisp and juicy with purple-red rings",
+                        "storage_life": "3-4 months in cool, dry conditions"
+                    },
+                    "fun_fact": "Red onions like Red Burgundy contain anthocyanins, the same antioxidants found in red wine and berries, which give them their distinctive color. These compounds have been studied for potential health benefits. Red onions are often preferred for raw applications because their color adds visual appeal to dishes.",
+                    "planting_tip": "Plant Red Burgundy Onion in full sun with well-drained, fertile soil rich in organic matter. This is a long-day variety best suited for northern climates where day length exceeds 14-16 hours in summer. Plant sets or transplants in early spring, 1 inch deep. Keep soil consistently moist during early growth but reduce watering as bulbs begin to mature. Harvest when 50-75% of tops have fallen over naturally. Cure bulbs in a warm, dry, well-ventilated area for 2-3 weeks before storage."
+                },
+                {
+                    "id": 2,
+                    "name": "Walla Walla",
+                    "description": "Walla Walla Sweet Onion is a famous sweet onion variety from Washington State, known for its exceptionally mild, sweet flavor and jumbo size. These long-day onions can grow to enormous proportions, sometimes exceeding 2 pounds per bulb. With their low sulfur content and high water content, Walla Wallas are sweet enough to eat like an apple. They're perfect for fresh eating, grilling, and showcase recipes where onion flavor should be mild and sweet rather than sharp.",
+                    "growth_info": {
+                        "growth_mode": "Upright",
+                        "days_to_harvest": {
+                            "lower_estimate": 110,
+                            "higher_estimate": 125
+                        },
+                        "plant_height": "14-20 inches",
+                        "spacing": "4-6 inches",
+                        "is_container_variety": false,
+                        "recommended_container_size": "Not recommended for containers",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "White",
+                        "leaf_color": "Blue-Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Consistent, ample moisture, 1-2 inches per week",
+                        "feeding_requirement": "Heavy feeder, nitrogen-rich fertilizer every 2 weeks",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "1-2+ pounds per bulb",
+                        "best_uses": ["Fresh Eating", "Grilling", "Roasting", "Onion Rings", "Salads", "Sandwiches"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Moderate",
+                        "cold_tolerance": "Excellent",
+                        "frost_tolerance": true,
+                        "drought_tolerance": "Low",
+                        "disease_resistance": []
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Exceptionally sweet and mild with very low pungency, high sugar and water content"
+                    },
+                    "root_characteristics": {
+                        "root_color": "Light golden yellow",
+                        "root_shape": "Large globe, slightly flattened",
+                        "root_size": "3-5+ inches diameter",
+                        "texture": "Very juicy and crisp",
+                        "storage_life": "1-2 months, best used fresh"
+                    },
+                    "fun_fact": "Walla Walla Sweet Onions have a protected geographical designation and can only be officially called 'Walla Walla Sweet' if grown in the Walla Walla Valley of Washington and Oregon. The variety was introduced to the region by a French soldier from Corsica in the 1900s. These onions are so sweet that locals famously eat them like apples at the annual Walla Walla Sweet Onion Festival.",
+                    "planting_tip": "Plant Walla Walla onions in fall (September-November) in mild climates or early spring in colder regions. They require a long growing season and are best suited for northern latitudes with long summer days. Plant in rich, loose soil with excellent drainage. Space plants adequately to allow for large bulb development. These are heavy feeders requiring regular fertilization. Due to high water content, they have shorter storage life than other onions, so plan to use them within 1-2 months of harvest."
+                },
+                {
+                    "id": 3,
+                    "name": "Yellow Ebenezer",
+                    "description": "Yellow Ebenezer Onion is a reliable heirloom variety prized for its excellent storage qualities and versatile flavor. This intermediate-day onion produces medium to large, flattened globe-shaped bulbs with golden yellow skin. Known for its dependability and good disease resistance, Yellow Ebenezer has a more pungent flavor than sweet varieties, making it ideal for cooking. It's particularly valued for its long storage life and is often grown specifically for winter storage.",
+                    "growth_info": {
+                        "growth_mode": "Upright",
+                        "days_to_harvest": {
+                            "lower_estimate": 90,
+                            "higher_estimate": 105
+                        },
+                        "plant_height": "10-14 inches",
+                        "spacing": "3-5 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "12 inches deep minimum",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "White",
+                        "leaf_color": "Blue-Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Consistent moisture, 1 inch per week, reduce near harvest",
+                        "feeding_requirement": "Balanced fertilizer every 2-3 weeks",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "0.5-1 pound per bulb",
+                        "best_uses": ["Cooking", "Soups", "Stews", "Sautéing", "Long-term Storage", "General Kitchen Use"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Good",
+                        "cold_tolerance": "Good",
+                        "frost_tolerance": true,
+                        "drought_tolerance": "Moderate",
+                        "disease_resistance": ["Pink Root", "Thrips"]
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Medium to strong pungency with good onion flavor, excellent for cooking"
+                    },
+                    "root_characteristics": {
+                        "root_color": "Golden yellow",
+                        "root_shape": "Flattened globe",
+                        "root_size": "2.5-3.5 inches diameter",
+                        "texture": "Firm and dense",
+                        "storage_life": "6-8 months in proper conditions"
+                    },
+                    "fun_fact": "Yellow Ebenezer has been grown since the 1900s and is considered one of the best onions for producing sets (small onion bulbs used for planting). Many gardeners grow Yellow Ebenezer specifically to harvest some as sets for next year's crop. Its name comes from the Hebrew word meaning 'stone of help,' reflecting its reliability as a garden staple.",
+                    "planting_tip": "Plant Yellow Ebenezer sets or transplants in early spring for northern regions or fall for southern regions. This intermediate-day variety adapts to a wide range of climates. Plant in well-drained soil with full sun. Space sets 1 inch deep and 3-5 inches apart. For best storage quality, allow bulbs to fully mature in the ground until tops fall over naturally. Cure properly for 2-3 weeks in a warm, dry, well-ventilated area. Store in a cool (32-40°F), dry location with good air circulation for maximum storage life."
+                },
+                {
+                    "id": 4,
+                    "name": "Cipollini",
+                    "description": "Cipollini Onions are small, flat Italian onions prized for their sweet, mild flavor and tender texture. These disc-shaped onions are typically 1-3 inches in diameter and have a higher sugar content than regular onions. Cipollini means 'little onion' in Italian, and they're a gourmet favorite for roasting whole, caramelizing, pickling, and grilling. Their unique flat shape and sweet flavor make them a special ingredient in Italian and Mediterranean cuisines, where they're often prepared with balsamic vinegar.",
+                    "growth_info": {
+                        "growth_mode": "Upright",
+                        "days_to_harvest": {
+                            "lower_estimate": 85,
+                            "higher_estimate": 100
+                        },
+                        "plant_height": "8-12 inches",
+                        "spacing": "2-3 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "10 inches deep minimum",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "White",
+                        "leaf_color": "Blue-Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Consistent moisture, 1 inch per week",
+                        "feeding_requirement": "Balanced fertilizer every 2-3 weeks",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "0.1-0.3 pounds per bulb",
+                        "best_uses": ["Roasting Whole", "Caramelizing", "Pickling", "Grilling", "Braising", "Balsamic Glazing"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Moderate",
+                        "cold_tolerance": "Good",
+                        "frost_tolerance": true,
+                        "drought_tolerance": "Low",
+                        "disease_resistance": []
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Sweet and mild with delicate flavor, higher sugar content than regular onions"
+                    },
+                    "root_characteristics": {
+                        "root_color": "Golden yellow to light brown",
+                        "root_shape": "Distinctive flat disc shape",
+                        "root_size": "1-3 inches diameter, 0.5-1 inch thick",
+                        "texture": "Tender and sweet when cooked",
+                        "storage_life": "2-3 months in cool, dry conditions"
+                    },
+                    "fun_fact": "Cipollini onions have been grown in Italy since ancient Roman times and are considered a delicacy. Their flat shape comes from being naturally compressed during growth. In Italian cuisine, they're traditionally prepared 'in agrodolce' (sweet and sour) with balsamic vinegar and sugar, creating a perfect balance of flavors. Their small size makes them perfect for serving whole as an elegant side dish.",
+                    "planting_tip": "Plant Cipollini onion seeds or sets in early spring in full sun with well-drained, fertile soil. Space closer together than regular onions (2-3 inches) since they produce smaller bulbs. These intermediate-day onions adapt to most climates. Keep soil consistently moist throughout the growing season. Harvest when tops fall over and bulbs have reached their characteristic flat shape. The small size means they cure quickly - usually 1-2 weeks. Best used within a few months of harvest while flavor is at its peak."
+                },
+                {
+                    "id": 5,
+                    "name": "White Bermuda",
+                    "description": "White Bermuda Onion is a classic short-day onion variety known for its mild, sweet flavor and white flesh. These medium to large onions have a flattened globe shape and are excellent for fresh eating, slicing, and adding to salads. Originally from the Canary Islands (not Bermuda, despite the name), this variety thrives in southern climates and produces tender, juicy bulbs with relatively low pungency. White Bermudas are perfect for dishes where a mild onion flavor is desired without overpowering other ingredients.",
+                    "growth_info": {
+                        "growth_mode": "Upright",
+                        "days_to_harvest": {
+                            "lower_estimate": 95,
+                            "higher_estimate": 110
+                        },
+                        "plant_height": "10-14 inches",
+                        "spacing": "4-6 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "12 inches deep minimum",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "White",
+                        "leaf_color": "Blue-Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Consistent moisture, 1-1.5 inches per week",
+                        "feeding_requirement": "Nitrogen-rich fertilizer every 2-3 weeks during early growth",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "0.75-1.5 pounds per bulb",
+                        "best_uses": ["Fresh Eating", "Slicing", "Salads", "Sandwiches", "Mild Salsas", "Grilling"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Good",
+                        "cold_tolerance": "Poor",
+                        "frost_tolerance": false,
+                        "drought_tolerance": "Low",
+                        "disease_resistance": []
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Mild and sweet with low pungency, tender and juicy texture"
+                    },
+                    "root_characteristics": {
+                        "root_color": "White to pale yellow",
+                        "root_shape": "Flattened globe",
+                        "root_size": "3-4 inches diameter",
+                        "texture": "Tender, juicy, and crisp",
+                        "storage_life": "1-2 months, best used fresh"
+                    },
+                    "fun_fact": "Despite being called 'Bermuda' onions, this variety actually originated in the Canary Islands and was later grown commercially in Bermuda and Texas. White Bermuda onions became so popular in Texas that they helped establish the state's onion industry. The mild flavor comes from the low sulfur content in the soil where they're traditionally grown. They're the onion of choice for traditional Texas BBQ and fresh salsas.",
+                    "planting_tip": "Plant White Bermuda onions in fall (October-December) in warm southern climates or early spring in mild areas. This short-day variety requires 10-12 hours of daylight to bulb and is best suited for southern latitudes. Plant in loose, well-drained soil with full sun. These onions need consistent moisture throughout the growing season. Harvest when tops begin to fall over and bulbs reach desired size. Due to high water content and low sulfur, they have a shorter storage life than pungent varieties, so plan to use within 1-2 months of harvest."
+                },
+                {
+                    "id": 6,
+                    "name": "Vidalia",
+                    "description": "Vidalia Onion is one of the most famous sweet onion varieties in the United States, protected by a geographical indication that restricts the name to onions grown in specific Georgia counties. These short-day onions are exceptionally sweet and mild with high sugar content and low sulfur levels. Vidalia onions are large, with a characteristic flat shape and golden color. Their sweetness and mild flavor make them perfect for fresh eating, and they're celebrated for being sweet enough to bite into like an apple.",
+                    "growth_info": {
+                        "growth_mode": "Upright",
+                        "days_to_harvest": {
+                            "lower_estimate": 110,
+                            "higher_estimate": 125
+                        },
+                        "plant_height": "12-18 inches",
+                        "spacing": "4-6 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "12 inches deep minimum",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "White",
+                        "leaf_color": "Blue-Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Consistent, ample moisture, 1-2 inches per week",
+                        "feeding_requirement": "Low-sulfur fertilizer, nitrogen-rich every 2 weeks",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "1-2 pounds per bulb",
+                        "best_uses": ["Fresh Eating", "Onion Rings", "Grilling", "Roasting", "Salads", "Sandwiches"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Good",
+                        "cold_tolerance": "Poor",
+                        "frost_tolerance": false,
+                        "drought_tolerance": "Low",
+                        "disease_resistance": []
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Exceptionally sweet and mild with very low pungency, high sugar content"
+                    },
+                    "root_characteristics": {
+                        "root_color": "Light golden yellow",
+                        "root_shape": "Large, flattened globe",
+                        "root_size": "3-5 inches diameter",
+                        "texture": "Very juicy, crisp, and tender",
+                        "storage_life": "1-3 months, best used fresh"
+                    },
+                    "fun_fact": "Vidalia onions received legal protection in 1986 and can only be called 'Vidalia' if grown in one of 20 designated counties in Georgia. The unique sweetness comes from the low-sulfur soil in the region. A farmer named Mose Coleman first discovered their exceptional sweetness in 1931. Vidalia onions are so prized that Georgia designated them the official state vegetable in 1990.",
+                    "planting_tip": "Plant Vidalia onions in fall (October-November) in southern climates where they're suited. This short-day variety requires 10-12 hours of daylight to bulb properly and grows best in USDA zones 7-9. Plant in well-drained, loose soil with low sulfur content. Consistent moisture is critical for developing sweet, juicy bulbs. Harvest when tops fall over and bulbs are large. Handle gently as their high water content makes them prone to bruising. Store in a cool, dry place with good ventilation, ideally separated and not touching."
+                },
+                {
+                    "id": 7,
+                    "name": "Texas 1015",
+                    "description": "Texas 1015 Onion is a short-day sweet onion variety developed by Texas A&M University and named for the ideal planting date of October 15th in Texas. These large, super-sweet onions rival Vidalia and Walla Walla in sweetness and are specifically bred for southern growing conditions. Texas 1015 produces jumbo-sized bulbs with golden yellow skin and exceptionally mild, sweet flavor. They're Texas's answer to Georgia's Vidalia and have become the signature onion of the Lone Star State.",
+                    "growth_info": {
+                        "growth_mode": "Upright",
+                        "days_to_harvest": {
+                            "lower_estimate": 110,
+                            "higher_estimate": 130
+                        },
+                        "plant_height": "14-20 inches",
+                        "spacing": "4-6 inches",
+                        "is_container_variety": false,
+                        "recommended_container_size": "Not recommended for containers",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "White",
+                        "leaf_color": "Blue-Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Consistent moisture, 1-2 inches per week",
+                        "feeding_requirement": "Nitrogen-rich fertilizer every 2 weeks, heavy feeder",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "1-2+ pounds per bulb",
+                        "best_uses": ["Fresh Eating", "Onion Rings", "Grilling", "Roasting", "Salsas", "Fajitas"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Excellent",
+                        "cold_tolerance": "Poor to Moderate",
+                        "frost_tolerance": false,
+                        "drought_tolerance": "Low",
+                        "disease_resistance": ["Pink Root", "Fusarium"]
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Super sweet and mild with minimal pungency, very high sugar content"
+                    },
+                    "root_characteristics": {
+                        "root_color": "Golden yellow",
+                        "root_shape": "Large globe to slightly flattened",
+                        "root_size": "4-5+ inches diameter",
+                        "texture": "Very juicy, crisp, and tender",
+                        "storage_life": "2-3 months in proper conditions"
+                    },
+                    "fun_fact": "Texas 1015 was released in 1983 by Dr. Leonard Pike at Texas A&M University after years of breeding work. The '1015' refers to the ideal planting date of October 15th in South Texas. These onions can grow to truly enormous sizes - competition growers have produced Texas 1015 onions weighing over 4 pounds! They're the official onion of the Texas Onion Fest held annually in Weslaco, Texas.",
+                    "planting_tip": "Plant Texas 1015 onions on or around October 15th in South Texas for best results (adjust timing for your specific location in zones 8-10). This short-day variety needs 10-12 hours of daylight. Plant transplants or sets in well-prepared, fertile soil with excellent drainage. Space adequately to allow for large bulb development. These are heavy feeders requiring regular fertilization. Harvest in late spring when tops fall over. The large size and high water content mean they should be handled carefully and used within 2-3 months."
+                },
+                {
+                    "id": 8,
+                    "name": "Red Creole",
+                    "description": "Red Creole Onion is a hot, pungent short-day variety traditionally grown in Louisiana and other Gulf Coast states. These small to medium-sized onions have deep red-purple skin and strong, spicy flavor. Unlike sweet onions, Red Creole is valued for its intense onion flavor and excellent storage qualities. It's heat-tolerant and disease-resistant, making it ideal for humid southern climates. This variety is essential for authentic Cajun and Creole cooking, where its bold flavor stands up to spicy, complex dishes.",
+                    "growth_info": {
+                        "growth_mode": "Upright",
+                        "days_to_harvest": {
+                            "lower_estimate": 90,
+                            "higher_estimate": 105
+                        },
+                        "plant_height": "10-14 inches",
+                        "spacing": "3-5 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "12 inches deep minimum",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "White with pink tinge",
+                        "leaf_color": "Blue-Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Moderate moisture, 1 inch per week, tolerates some drought",
+                        "feeding_requirement": "Balanced fertilizer every 3 weeks",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "0.3-0.6 pounds per bulb",
+                        "best_uses": ["Cooking", "Cajun Dishes", "Gumbo", "Jambalaya", "Pickling", "Long-term Storage"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Excellent",
+                        "cold_tolerance": "Poor",
+                        "frost_tolerance": false,
+                        "drought_tolerance": "Moderate",
+                        "disease_resistance": ["Pink Root", "Thrips", "Fusarium"]
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Strong, hot, and pungent with intense onion flavor, low sugar content"
+                    },
+                    "root_characteristics": {
+                        "root_color": "Deep red-purple",
+                        "root_shape": "Globe to slightly flattened",
+                        "root_size": "2-3 inches diameter",
+                        "texture": "Dense and firm",
+                        "storage_life": "4-6 months in cool, dry conditions"
+                    },
+                    "fun_fact": "Red Creole onions have been grown in Louisiana since the 1700s when they were introduced by Spanish and French settlers. They're specifically adapted to the hot, humid Gulf Coast climate where many other onion varieties fail. The pungent flavor makes them perfect for the 'holy trinity' of Cajun cooking (onions, celery, and bell peppers). Despite their small size, they pack a powerful flavor punch that sweet onions can't match.",
+                    "planting_tip": "Plant Red Creole onions in fall (October-December) in Gulf Coast regions or early spring in warmer climates. This short-day variety thrives in heat and humidity. Plant sets or transplants in well-drained soil with full sun. These onions are more drought-tolerant than sweet varieties and resist many diseases common in humid climates. Harvest when tops fall over. Cure thoroughly for 3-4 weeks in a warm, dry location. The firm, dense bulbs store exceptionally well - hang in mesh bags in a cool, dry place for up to 6 months."
+                },
+                {
+                    "id": 9,
+                    "name": "Ailsa Craig",
+                    "description": "Ailsa Craig Onion is a prized exhibition variety from Scotland, famous for producing enormous, perfectly round bulbs that regularly win prizes at competitions. These long-day onions can grow to extraordinary sizes - often 2-3 pounds or more - while maintaining a mild, sweet flavor. With thin, straw-colored skin and pale flesh, Ailsa Craig has a refined appearance and excellent eating quality. While traditionally grown for exhibition, these onions are also superb for general culinary use, particularly slicing and cooking.",
+                    "growth_info": {
+                        "growth_mode": "Upright",
+                        "days_to_harvest": {
+                            "lower_estimate": 105,
+                            "higher_estimate": 120
+                        },
+                        "plant_height": "16-24 inches",
+                        "spacing": "6-8 inches for exhibition size",
+                        "is_container_variety": false,
+                        "recommended_container_size": "Not recommended for containers",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "White",
+                        "leaf_color": "Blue-Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Consistent, ample moisture, 1-2 inches per week",
+                        "feeding_requirement": "Heavy feeder, nitrogen-rich fertilizer weekly for exhibition size",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "1.5-3+ pounds per bulb",
+                        "best_uses": ["Exhibition", "Slicing", "Cooking", "Roasting", "General Kitchen Use", "Fresh Eating"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Moderate",
+                        "cold_tolerance": "Good",
+                        "frost_tolerance": true,
+                        "drought_tolerance": "Low",
+                        "disease_resistance": []
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Mild and sweet with pleasant onion flavor, not overly pungent"
+                    },
+                    "root_characteristics": {
+                        "root_color": "Pale straw-yellow",
+                        "root_shape": "Perfect globe, exhibition quality",
+                        "root_size": "4-6+ inches diameter",
+                        "texture": "Fine-grained, tender, and juicy",
+                        "storage_life": "3-4 months in cool, dry conditions"
+                    },
+                    "fun_fact": "Ailsa Craig is named after a granite island in Scotland's Firth of Clyde. This variety has been winning onion-growing competitions since the early 1900s and remains the gold standard for exhibition onions. The world record for the largest onion (over 18 pounds) was set using genetics from Ailsa Craig breeding lines. British gardeners have been competing with giant Ailsa Craig onions for over a century, with some families passing down growing secrets through generations.",
+                    "planting_tip": "Plant Ailsa Craig onions in early spring in northern climates (long-day variety requiring 14-16 hours of daylight). Start from seed indoors 10-12 weeks before last frost for best results. Plant in deep, rich, well-prepared soil with excellent drainage. For exhibition-sized bulbs, space 6-8 inches apart and feed heavily throughout the season. Thin to single plants for largest size. Keep consistently moist. Support developing bulbs by carefully removing soil around the top. Harvest when tops fall and cure thoroughly for 3-4 weeks."
+                },
+                {
+                    "id": 10,
+                    "name": "Egyptian Walking",
+                    "description": "Egyptian Walking Onion, also called Tree Onion or Topset Onion, is a unique perennial onion that produces small bulblets (top sets) at the top of its stalks instead of flowers. These top bulbs eventually weigh down the stalk, causing it to bend and 'plant' the bulblets in new locations, giving the appearance of the onion 'walking' across the garden. Both the underground bulbs and top sets are edible with a strong onion flavor. This variety is extremely cold-hardy and requires virtually no maintenance once established.",
+                    "growth_info": {
+                        "growth_mode": "Upright, then arching",
+                        "days_to_harvest": {
+                            "lower_estimate": 60,
+                            "higher_estimate": 365
+                        },
+                        "plant_height": "24-36 inches",
+                        "spacing": "6-8 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "12 inches deep minimum",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "Rarely flowers, produces bulblets instead",
+                        "leaf_color": "Blue-Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Moderate moisture, drought-tolerant once established",
+                        "feeding_requirement": "Light fertilizer in spring, minimal feeding needed",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "Multiple small bulbs per plant, 10-20 top sets per stalk",
+                        "best_uses": ["Green Onions", "Pickling", "Cooking", "Perpetual Harvest", "Ornamental"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Good",
+                        "cold_tolerance": "Excellent",
+                        "frost_tolerance": true,
+                        "drought_tolerance": "Good",
+                        "disease_resistance": ["Most common onion diseases"]
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Strong, pungent onion flavor, more intense than regular onions"
+                    },
+                    "root_characteristics": {
+                        "root_color": "Red-brown to purple-brown",
+                        "root_shape": "Small clustered bulbs underground, bulblets on top",
+                        "root_size": "0.5-1 inch diameter (both underground and top sets)",
+                        "texture": "Firm and crunchy",
+                        "storage_life": "Top sets store 2-3 months, use fresh greens immediately"
+                    },
+                    "fun_fact": "Despite the name 'Egyptian,' these onions likely originated in Asia and have been grown in Europe and North America for centuries. They're called 'walking' because the weight of the top bulblets causes the stalks to bend over and plant themselves, allowing the plant to slowly 'walk' across the garden year after year. They're nearly indestructible, surviving temperatures down to -40°F. Once planted, they can provide harvests for decades with minimal care.",
+                    "planting_tip": "Plant Egyptian Walking Onion top sets or divisions in early spring or fall. This perennial thrives in zones 3-9. Plant top sets 1-2 inches deep or divide established clumps. They prefer full sun but tolerate partial shade. These onions are extremely low-maintenance and spread readily - plant them where you don't mind them multiplying. Harvest green tops anytime, underground bulbs in fall, or top sets when they form in summer. Allow some top sets to fall and replant themselves for continuous production. Excellent for permaculture and low-maintenance gardens."
                 }
             ]
         },
@@ -817,6 +2108,486 @@
                     },
                     "fun_fact": "Lacinato Kale is named after the Italian word 'lacinato,' meaning 'with torn edges.' Its unique dinosaur-skin appearance and tender texture make it a favorite among gardeners and chefs alike. Many believe its flavor actually improves after being touched by frost!",
                     "planting_tip": "For successful cultivation of Lacinato Kale, plant seeds or transplants in well-draining, nutrient-rich soil. Provide consistent moisture and protect young plants from extreme heat. Harvest the outer leaves when they reach 6-8 inches, allowing the inner leaves to continue growing. Regular harvesting promotes continuous leaf production throughout the growing season. Plant in late summer for a fall crop that will taste sweeter after frost."
+                },
+                {
+                    "id": 1,
+                    "name": "Winterbor",
+                    "description": "Winterbor Kale is an exceptionally hardy curly kale variety bred for superior cold tolerance and winter harvesting. This vigorous F1 hybrid produces heavily frilled, blue-green leaves on tall, upright plants. Known for its ability to withstand harsh winter conditions down to 0°F or lower, Winterbor becomes sweeter after frost exposure. Its thick, deeply curled leaves hold up well in cooking and maintain excellent texture in both raw and cooked applications. This is the go-to variety for year-round kale production in cold climates.",
+                    "growth_info": {
+                        "growth_mode": "Upright",
+                        "days_to_harvest": {
+                            "lower_estimate": 60,
+                            "higher_estimate": 75
+                        },
+                        "plant_height": "24-36 inches",
+                        "spacing": "18-24 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "14 inches deep, 14-16 inches wide",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "Yellow",
+                        "leaf_color": "Blue-Green to Gray-Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering, 1-1.5 inches per week",
+                        "feeding_requirement": "Nitrogen-rich fertilizer every 3-4 weeks",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "2-3 pounds per plant over season",
+                        "best_uses": ["Soups", "Stews", "Sautéing", "Smoothies", "Winter Salads", "Braising"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Low",
+                        "cold_tolerance": "Excellent",
+                        "frost_tolerance": true,
+                        "drought_tolerance": "Low",
+                        "disease_resistance": ["Downy Mildew", "Alternaria"]
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Sweet and mild after frost, slightly bitter when young, classic kale flavor"
+                    },
+                    "leaf_crop_characteristics": {
+                        "head_type": "Loose leaf",
+                        "leaf_texture": "Heavily curled and frilled, thick and sturdy",
+                        "days_to_maturity": "60-75 days",
+                        "bolt_resistance": "Excellent, slow to bolt"
+                    },
+                    "fun_fact": "Winterbor Kale can survive temperatures as low as -20°F when properly hardened off, making it one of the most cold-hardy vegetables available. In many climates, it can be harvested fresh from the garden throughout winter, even under snow. The name 'Winterbor' reflects both its winter hardiness and its breeding origin (bor refers to borecole, an old term for kale).",
+                    "planting_tip": "Plant Winterbor Kale in mid to late summer for fall and winter harvesting. While it tolerates some heat, it truly excels in cool weather. Plant in well-drained, fertile soil enriched with compost. Space plants adequately as they grow quite large. For best winter production, allow plants to become established before hard freezes. Harvest outer leaves continuously, leaving the growing center intact. The flavor dramatically improves after several frosts - leaves become noticeably sweeter and less bitter."
+                },
+                {
+                    "id": 2,
+                    "name": "Red Russian",
+                    "description": "Red Russian Kale is a beautiful heirloom variety distinguished by its flat, oak-leaf-shaped leaves with striking purple-red stems and veins. This hardy kale has gray-green leaves with prominent purple coloring that intensifies in cold weather. Known for its tender texture and sweet, mild flavor, Red Russian is often considered one of the best-tasting kale varieties. The attractive foliage makes it popular in ornamental gardens as well as vegetable plots. It's exceptionally cold-hardy and actually improves in flavor after frost.",
+                    "growth_info": {
+                        "growth_mode": "Upright to spreading",
+                        "days_to_harvest": {
+                            "lower_estimate": 50,
+                            "higher_estimate": 65
+                        },
+                        "plant_height": "18-30 inches",
+                        "spacing": "12-18 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "12 inches deep, 12-14 inches wide",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "Yellow",
+                        "leaf_color": "Gray-Green with Purple-Red stems and veins"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering, 1-1.5 inches per week",
+                        "feeding_requirement": "Nitrogen-rich fertilizer every 3-4 weeks",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "1.5-2 pounds per plant over season",
+                        "best_uses": ["Salads", "Smoothies", "Stir-fries", "Sautéing", "Raw Eating", "Garnish"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Moderate",
+                        "cold_tolerance": "Excellent",
+                        "frost_tolerance": true,
+                        "drought_tolerance": "Low to Moderate",
+                        "disease_resistance": ["Cabbage Worms somewhat resistant"]
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Sweet, mild, slightly nutty with minimal bitterness, tender texture"
+                    },
+                    "leaf_crop_characteristics": {
+                        "head_type": "Loose leaf",
+                        "leaf_texture": "Flat, smooth, oak-leaf shaped, tender",
+                        "days_to_maturity": "50-65 days",
+                        "bolt_resistance": "Good in cool weather, moderate in warm weather"
+                    },
+                    "fun_fact": "Red Russian Kale is an heirloom variety introduced to Canada by Russian traders in the 1880s. Despite its name, it likely originated in Siberia where extreme cold tolerance was essential. The purple coloring intensifies dramatically after frost, making it one of the most visually striking vegetables in a winter garden. Some gardeners grow it purely as an ornamental edible in flower beds.",
+                    "planting_tip": "Plant Red Russian Kale in early spring for summer harvest or late summer for fall/winter production. This variety tolerates more heat than many other kales but truly shines in cool weather. Plant in fertile, well-drained soil with consistent moisture. The tender leaves are less prone to insect damage than some varieties. Harvest leaves when young (4-6 inches) for salads or allow to mature for cooking. Cut outer leaves regularly to encourage continuous production. One of the best varieties for eating raw due to its tender texture and sweet flavor."
+                },
+                {
+                    "id": 3,
+                    "name": "Redbor",
+                    "description": "Redbor Kale is a stunning ornamental and edible variety featuring deeply curled leaves in vibrant shades of magenta, purple, and red. This F1 hybrid combines exceptional cold hardiness with spectacular color that intensifies in cool weather and after frost. The heavily frilled leaves create a dramatic rosette that looks like a giant purple flower. While beautiful enough for ornamental plantings, Redbor is fully edible with a flavor similar to other curly kales. It's one of the most visually striking vegetables available and makes an excellent edible landscape plant.",
+                    "growth_info": {
+                        "growth_mode": "Upright rosette",
+                        "days_to_harvest": {
+                            "lower_estimate": 65,
+                            "higher_estimate": 80
+                        },
+                        "plant_height": "24-36 inches",
+                        "spacing": "18-24 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "14 inches deep, 14-16 inches wide",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "Yellow",
+                        "leaf_color": "Deep magenta to purple-red"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering, 1-1.5 inches per week",
+                        "feeding_requirement": "Nitrogen-rich fertilizer every 3-4 weeks, avoid over-fertilizing which can reduce color",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "2-2.5 pounds per plant over season",
+                        "best_uses": ["Ornamental", "Salads", "Smoothies", "Sautéing", "Garnish", "Edible Landscaping"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Low to Moderate",
+                        "cold_tolerance": "Excellent",
+                        "frost_tolerance": true,
+                        "drought_tolerance": "Low",
+                        "disease_resistance": ["Good general disease resistance"]
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Mild to moderately sweet with slight bitterness, flavor improves after frost"
+                    },
+                    "leaf_crop_characteristics": {
+                        "head_type": "Loose leaf rosette",
+                        "leaf_texture": "Heavily curled and frilled, thick and sturdy",
+                        "days_to_maturity": "65-80 days",
+                        "bolt_resistance": "Excellent"
+                    },
+                    "fun_fact": "Redbor Kale's intense purple color comes from high levels of anthocyanins, the same antioxidants found in blueberries and red wine. The color becomes more vibrant as temperatures drop, with the most spectacular coloring occurring after several hard frosts. It's frequently used in ornamental plantings, edible landscapes, and even floral arrangements. Redbor won the All-America Selections award for its outstanding ornamental and edible qualities.",
+                    "planting_tip": "Plant Redbor Kale in late summer for the best color development in fall and winter. While it can be planted in spring, the color is most intense in cool weather. Plant in full sun and fertile, well-drained soil. Space adequately as plants grow large and full. The color intensifies with cold weather - plants that look merely purple-green in warm weather transform into deep magenta after frost. Excellent for ornamental borders, containers, and edible landscapes. Harvest outer leaves or enjoy as a colorful winter focal point."
+                },
+                {
+                    "id": 4,
+                    "name": "Scarlet",
+                    "description": "Scarlet Kale is a beautiful and nutritious variety featuring tender green leaves with vibrant magenta-purple ribs and veining. This compact kale offers the best of both worlds - ornamental beauty and excellent eating quality. The leaves are more tender than traditional curly kale but hardier than Lacinato, with a sweet, mild flavor that makes it excellent for raw eating. Scarlet's striking two-tone coloring becomes more pronounced in cool weather, making it perfect for fall and winter gardens. It's ideal for gardeners who want both visual appeal and culinary versatility.",
+                    "growth_info": {
+                        "growth_mode": "Upright compact",
+                        "days_to_harvest": {
+                            "lower_estimate": 55,
+                            "higher_estimate": 70
+                        },
+                        "plant_height": "18-24 inches",
+                        "spacing": "12-18 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "12 inches deep, 12-14 inches wide",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "Yellow",
+                        "leaf_color": "Green with Magenta-Purple veins and stems"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering, 1-1.5 inches per week",
+                        "feeding_requirement": "Nitrogen-rich fertilizer every 3-4 weeks",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "1.5-2 pounds per plant over season",
+                        "best_uses": ["Salads", "Smoothies", "Sautéing", "Garnish", "Raw Eating", "Ornamental"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Moderate",
+                        "cold_tolerance": "Excellent",
+                        "frost_tolerance": true,
+                        "drought_tolerance": "Low",
+                        "disease_resistance": ["Good general resistance"]
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Sweet, mild, and tender with minimal bitterness, excellent raw"
+                    },
+                    "leaf_crop_characteristics": {
+                        "head_type": "Loose leaf",
+                        "leaf_texture": "Smooth to slightly textured, tender",
+                        "days_to_maturity": "55-70 days",
+                        "bolt_resistance": "Good in cool weather"
+                    },
+                    "fun_fact": "Scarlet Kale is sometimes called 'Red Ursa' kale and was developed to combine the tender texture of Lacinato with the cold hardiness and vibrant color of red kale varieties. The magenta coloring is due to anthocyanins, which provide antioxidant benefits. The color contrast between the green leaves and purple veins makes it popular with chefs for plate garnishing and in farmers market displays.",
+                    "planting_tip": "Plant Scarlet Kale in early spring or late summer for fall/winter harvest. This variety performs well in both seasons but shows its best color in cool weather. Plant in fertile, well-drained soil with full sun to partial shade. The compact growth habit makes it excellent for containers and small gardens. Harvest young leaves (4-6 inches) for salads and smoothies, or allow to mature for cooking. Regular harvesting of outer leaves promotes continuous production. The tender texture and mild flavor make it one of the best kales for converting people who think they don't like kale."
+                },
+                {
+                    "id": 5,
+                    "name": "Vates",
+                    "description": "Vates Kale is a dwarf, compact variety of curly kale developed specifically for cold climates and overwintering. This low-growing variety reaches only 12-16 inches tall, making it perfect for exposed gardens where taller plants might suffer wind damage. Vates produces dark blue-green, heavily curled leaves with excellent flavor that sweetens after frost. Its compact size, exceptional cold hardiness, and slow-bolting nature make it ideal for fall and winter harvesting. This variety was specifically bred to withstand harsh conditions while providing reliable, continuous harvests.",
+                    "growth_info": {
+                        "growth_mode": "Compact upright",
+                        "days_to_harvest": {
+                            "lower_estimate": 55,
+                            "higher_estimate": 65
+                        },
+                        "plant_height": "12-16 inches",
+                        "spacing": "10-15 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "10 inches deep, 10-12 inches wide",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "Yellow",
+                        "leaf_color": "Dark Blue-Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering, 1-1.5 inches per week",
+                        "feeding_requirement": "Nitrogen-rich fertilizer every 3-4 weeks",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "1-1.5 pounds per plant over season",
+                        "best_uses": ["Soups", "Stews", "Sautéing", "Smoothies", "Chips", "Winter Harvest"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Low",
+                        "cold_tolerance": "Excellent",
+                        "frost_tolerance": true,
+                        "drought_tolerance": "Low",
+                        "disease_resistance": ["Good general resistance"]
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Classic kale flavor, sweet and mild after frost, slightly bitter when warm"
+                    },
+                    "leaf_crop_characteristics": {
+                        "head_type": "Loose leaf",
+                        "leaf_texture": "Heavily curled, compact, medium thickness",
+                        "days_to_maturity": "55-65 days",
+                        "bolt_resistance": "Excellent, very slow to bolt"
+                    },
+                    "fun_fact": "Vates Kale was developed at the Virginia Truck Experiment Station (V.A.T.E.S.) in the 1940s specifically for commercial winter production and home gardens in cold regions. Its dwarf habit makes it less susceptible to wind damage and snow breakage than taller varieties. Many gardeners in harsh climates rely on Vates for fresh greens throughout winter, as it can be harvested even in snow and survives temperatures well below 0°F when established.",
+                    "planting_tip": "Plant Vates Kale in mid to late summer for fall and winter harvest. The compact size makes it excellent for intensive planting and containers. Plant in fertile, well-drained soil with full sun. Space plants closer together than standard kale varieties due to the smaller size. For overwintering, ensure plants are well-established before hard freezes. The low profile helps protect it from winter winds and makes it easier to cover with row covers or cold frames for extended harvest. Flavor is best after several hard frosts. Harvest outer leaves throughout winter, leaving center growth point intact."
+                },
+                {
+                    "id": 6,
+                    "name": "Curly Blue",
+                    "description": "Curly Blue Kale, also known as Blue Curled Scotch Kale, is a classic heirloom variety featuring tightly curled, blue-green leaves with a distinctively frilly appearance. This traditional kale has been grown for generations and remains popular for its reliability, cold hardiness, and classic kale flavor. The deeply ruffled leaves have a substantial texture that holds up well in cooking, making it ideal for soups, stews, and braised dishes. Curly Blue is the quintessential kale that many people picture when they think of this nutritious green.",
+                    "growth_info": {
+                        "growth_mode": "Upright",
+                        "days_to_harvest": {
+                            "lower_estimate": 55,
+                            "higher_estimate": 70
+                        },
+                        "plant_height": "18-24 inches",
+                        "spacing": "15-18 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "12 inches deep, 12-14 inches wide",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "Yellow",
+                        "leaf_color": "Blue-Green to Gray-Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering, 1-1.5 inches per week",
+                        "feeding_requirement": "Nitrogen-rich fertilizer every 3-4 weeks",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "1.5-2 pounds per plant over season",
+                        "best_uses": ["Soups", "Stews", "Sautéing", "Braising", "Smoothies", "Kale Chips"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Low",
+                        "cold_tolerance": "Excellent",
+                        "frost_tolerance": true,
+                        "drought_tolerance": "Low",
+                        "disease_resistance": ["Good general resistance"]
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Classic kale flavor with moderate bitterness, becomes sweeter after frost"
+                    },
+                    "leaf_crop_characteristics": {
+                        "head_type": "Loose leaf",
+                        "leaf_texture": "Tightly curled and ruffled, sturdy and substantial",
+                        "days_to_maturity": "55-70 days",
+                        "bolt_resistance": "Good in cool weather"
+                    },
+                    "fun_fact": "Curly Blue Kale is one of the oldest kale varieties still widely grown today, with roots in Scotland where kale has been cultivated since medieval times. The tight curls help protect the plant from frost damage by creating tiny air pockets that insulate the leaf tissue. In Scotland, kale was such an important crop that 'kailyards' (kale gardens) were common features of every cottage, and dinner time was traditionally called 'kail time.'",
+                    "planting_tip": "Plant Curly Blue Kale in early spring for summer harvest or mid to late summer for fall and winter production. This variety performs best in cool weather and actually needs frost to develop its sweetest flavor. Plant in fertile, well-drained soil with full sun. The sturdy leaves are more resistant to insect damage than tender varieties. Harvest outer leaves when they reach 6-8 inches, leaving the center to continue producing. The curly texture can trap soil and debris, so wash thoroughly. Excellent for traditional kale recipes and making crispy kale chips."
+                },
+                {
+                    "id": 7,
+                    "name": "White Russian",
+                    "description": "White Russian Kale is a rare and attractive heirloom variety closely related to Red Russian Kale but featuring striking white to pale cream-colored stems and veining against gray-green leaves. This cold-hardy variety has flat, oak-leaf-shaped leaves similar to Red Russian but with a unique color palette that intensifies in cold weather. White Russian offers a sweet, mild flavor with tender texture, making it excellent for both raw and cooked applications. The beautiful contrast between the pale stems and green leaves makes it popular for ornamental edible gardens.",
+                    "growth_info": {
+                        "growth_mode": "Upright to spreading",
+                        "days_to_harvest": {
+                            "lower_estimate": 50,
+                            "higher_estimate": 65
+                        },
+                        "plant_height": "18-30 inches",
+                        "spacing": "12-18 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "12 inches deep, 12-14 inches wide",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "Yellow",
+                        "leaf_color": "Gray-Green with white to cream stems and veins"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering, 1-1.5 inches per week",
+                        "feeding_requirement": "Nitrogen-rich fertilizer every 3-4 weeks",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "1.5-2 pounds per plant over season",
+                        "best_uses": ["Salads", "Smoothies", "Stir-fries", "Sautéing", "Raw Eating", "Ornamental"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Moderate",
+                        "cold_tolerance": "Excellent",
+                        "frost_tolerance": true,
+                        "drought_tolerance": "Low to Moderate",
+                        "disease_resistance": ["Good general resistance"]
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Sweet, mild, delicate with minimal bitterness, very tender texture"
+                    },
+                    "leaf_crop_characteristics": {
+                        "head_type": "Loose leaf",
+                        "leaf_texture": "Flat, smooth, oak-leaf shaped, tender",
+                        "days_to_maturity": "50-65 days",
+                        "bolt_resistance": "Good in cool weather"
+                    },
+                    "fun_fact": "White Russian Kale is a natural variant of Red Russian Kale and is much rarer in cultivation. The white stems become even more pronounced in cold weather, creating a stunning display in winter gardens. Some seed savers believe White Russian may be closer to the original Siberian kale that was introduced to North America, before the red-stemmed variant became more popular. It's prized by chefs for its delicate appearance on plates.",
+                    "planting_tip": "Plant White Russian Kale in early spring or late summer for fall/winter harvest. This variety tolerates heat better than many kales but excels in cool weather. Plant in fertile, well-drained soil with consistent moisture. The tender leaves are best harvested young (4-6 inches) for raw eating in salads. Allow some plants to mature for cooking. The white stems become more vibrant after light frosts. Like Red Russian, this variety is less prone to insect damage than some others. Excellent for containers and ornamental vegetable gardens due to its unique coloring."
+                },
+                {
+                    "id": 8,
+                    "name": "Darkibor",
+                    "description": "Darkibor Kale is an improved F1 hybrid curly kale variety known for its exceptionally dark blue-green color and uniform, heavily frilled leaves. This vigorous grower produces thick, robust leaves with intense color that holds well through the season. Darkibor combines excellent cold hardiness with strong disease resistance and vigorous growth, making it a reliable choice for commercial growers and home gardeners alike. The deeply curled leaves have substantial texture and classic kale flavor that becomes sweeter after exposure to frost.",
+                    "growth_info": {
+                        "growth_mode": "Upright",
+                        "days_to_harvest": {
+                            "lower_estimate": 60,
+                            "higher_estimate": 75
+                        },
+                        "plant_height": "20-30 inches",
+                        "spacing": "15-20 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "14 inches deep, 14-16 inches wide",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "Yellow",
+                        "leaf_color": "Very Dark Blue-Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering, 1-1.5 inches per week",
+                        "feeding_requirement": "Nitrogen-rich fertilizer every 3-4 weeks",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "2-3 pounds per plant over season",
+                        "best_uses": ["Soups", "Stews", "Sautéing", "Smoothies", "Braising", "Market Sales"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Low to Moderate",
+                        "cold_tolerance": "Excellent",
+                        "frost_tolerance": true,
+                        "drought_tolerance": "Low",
+                        "disease_resistance": ["Downy Mildew", "Alternaria", "Black Rot"]
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Classic kale flavor with good balance, moderate bitterness that sweetens after frost"
+                    },
+                    "leaf_crop_characteristics": {
+                        "head_type": "Loose leaf",
+                        "leaf_texture": "Heavily curled and frilled, thick and uniform",
+                        "days_to_maturity": "60-75 days",
+                        "bolt_resistance": "Excellent"
+                    },
+                    "fun_fact": "Darkibor is part of the '-bor' series of kale varieties (including Winterbor and Redbor) bred for superior performance and uniformity. The 'Dark' in its name refers to the exceptionally deep blue-green color, which indicates high nutrient density - darker greens typically contain more vitamins and antioxidants. This variety is popular with market growers because the uniform, attractive leaves command premium prices and have excellent shelf life.",
+                    "planting_tip": "Plant Darkibor Kale in late summer for fall and winter harvest, or early spring for summer production. This variety performs consistently across seasons but is especially impressive in fall/winter. Plant in fertile, well-drained soil with full sun. Space adequately as plants grow quite large and vigorous. Strong disease resistance means less pest pressure compared to some heirloom varieties. Harvest outer leaves regularly to encourage continuous production. The uniform, heavily curled leaves make excellent kale chips. Flavor is best after frost exposure."
+                },
+                {
+                    "id": 9,
+                    "name": "Tronchuda",
+                    "description": "Tronchuda Kale, also known as Portuguese Kale or Sea Kale Cabbage, is a unique variety featuring large, smooth leaves with thick, white midribs resembling bok choy or collards more than traditional kale. This heirloom from Portugal has a mild, sweet flavor and tender texture quite different from curly or Lacinato types. Both the leaves and the thick stems are edible, with the stems having a pleasant, slightly sweet taste similar to cabbage. Tronchuda is essential in Portuguese cuisine, particularly in the famous caldo verde soup.",
+                    "growth_info": {
+                        "growth_mode": "Upright rosette",
+                        "days_to_harvest": {
+                            "lower_estimate": 55,
+                            "higher_estimate": 75
+                        },
+                        "plant_height": "18-24 inches",
+                        "spacing": "18-24 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "14 inches deep, 14-16 inches wide",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "Yellow",
+                        "leaf_color": "Blue-Green with white to cream midribs"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering, 1-1.5 inches per week",
+                        "feeding_requirement": "Nitrogen-rich fertilizer every 3-4 weeks",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "2-3 pounds per plant over season",
+                        "best_uses": ["Soups (especially Caldo Verde)", "Sautéing", "Braising", "Stir-fries", "Portuguese Cuisine"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Moderate",
+                        "cold_tolerance": "Good",
+                        "frost_tolerance": true,
+                        "drought_tolerance": "Low",
+                        "disease_resistance": ["Good general resistance"]
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Mild, sweet, cabbage-like with minimal bitterness, tender texture"
+                    },
+                    "leaf_crop_characteristics": {
+                        "head_type": "Loose rosette",
+                        "leaf_texture": "Smooth, broad leaves with thick white midribs",
+                        "days_to_maturity": "55-75 days",
+                        "bolt_resistance": "Good"
+                    },
+                    "fun_fact": "Tronchuda Kale is the traditional kale used in caldo verde, Portugal's national soup. The name 'Tronchuda' refers to the thick white midribs that are a prized part of the plant. In Portugal, this kale is so beloved that different regions have their own local varieties. Portuguese immigrants brought this variety to communities worldwide, making it essential in Portuguese diaspora cooking. Unlike other kales, both the ribs and leaves are equally valued.",
+                    "planting_tip": "Plant Tronchuda Kale in early spring or late summer. This variety tolerates warmer temperatures better than most kales but still prefers cool weather. Plant in rich, well-drained soil with full sun to partial shade. Space generously as plants form large rosettes. The broad leaves can collect water and soil, so ensure good air circulation. Harvest entire leaves including the thick midribs - the stems can be chopped and cooked like bok choy stems. To prepare traditionally for caldo verde, stack leaves, roll tightly, and slice into very thin ribbons. The mild flavor makes it excellent for introducing people to kale."
+                },
+                {
+                    "id": 10,
+                    "name": "Dazzling Blue",
+                    "description": "Dazzling Blue Kale is a striking F1 hybrid variety featuring intensely blue-green, heavily savoyed leaves that create a stunning rosette. This variety combines ornamental beauty with excellent eating quality and exceptional cold hardiness. The deeply textured, almost bubbly leaves have a thick, substantial feel and hold their color beautifully through winter. Dazzling Blue offers vigorous growth, uniform plants, and good disease resistance. The dramatic appearance makes it popular for ornamental edible gardens while the flavor and texture are excellent for cooking.",
+                    "growth_info": {
+                        "growth_mode": "Upright rosette",
+                        "days_to_harvest": {
+                            "lower_estimate": 60,
+                            "higher_estimate": 75
+                        },
+                        "plant_height": "20-30 inches",
+                        "spacing": "18-24 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "14 inches deep, 14-16 inches wide",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "Yellow",
+                        "leaf_color": "Intense Blue-Green with gray tones"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering, 1-1.5 inches per week",
+                        "feeding_requirement": "Nitrogen-rich fertilizer every 3-4 weeks",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "2-2.5 pounds per plant over season",
+                        "best_uses": ["Soups", "Stews", "Sautéing", "Braising", "Ornamental", "Market Sales"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Low to Moderate",
+                        "cold_tolerance": "Excellent",
+                        "frost_tolerance": true,
+                        "drought_tolerance": "Low",
+                        "disease_resistance": ["Downy Mildew", "Black Rot", "Good general resistance"]
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Sweet and mild with classic kale flavor, becomes very sweet after frost"
+                    },
+                    "leaf_crop_characteristics": {
+                        "head_type": "Loose rosette",
+                        "leaf_texture": "Heavily savoyed (bubbly/textured), thick and substantial",
+                        "days_to_maturity": "60-75 days",
+                        "bolt_resistance": "Excellent"
+                    },
+                    "fun_fact": "Dazzling Blue Kale lives up to its name with leaves so intensely blue-green they almost appear to glow. The blue coloring comes from a thick waxy coating (bloom) that protects the leaves from cold damage and helps them shed water. This variety is so ornamental that it's frequently used in decorative plantings and edible landscapes. The heavily textured leaves are particularly stunning after frost when they sparkle with ice crystals in morning light.",
+                    "planting_tip": "Plant Dazzling Blue Kale in mid to late summer for spectacular fall and winter display. While it can be grown in spring, the color and texture are most impressive in cool weather. Plant in fertile, well-drained soil with full sun. Space generously to allow the full rosette to develop - mature plants can spread 24-30 inches. The thick, heavily savoyed leaves are very cold-hardy and maintain excellent texture through winter. Harvest outer leaves or enjoy the entire plant as an ornamental focal point. Perfect for edible landscapes, ornamental borders, and containers. The dramatic blue color pairs beautifully with red kales like Redbor."
                 }
             ]
         },
@@ -1267,6 +3038,251 @@
                     },
                     "fun_fact": "German Butterball Potato is a favorite among home gardeners and chefs and is often described as having the richest, most buttery flavor of any potato variety. Despite its name, it was actually developed in the United States, not Germany, but the 'German' refers to its style and flavor profile.",
                     "planting_tip": "Plant German Butterball seed pieces in well-drained, loose soil. Choose a sunny location for optimal growth. Plant seed pieces 4 inches deep and 10-12 inches apart in rows spaced 24-30 inches apart. This variety benefits from consistent moisture and produces the best flavor when allowed to fully mature. Let the soil dry slightly between waterings to concentrate sugars and enhance flavor. Cure properly for best storage and flavor development."
+                },
+                {
+                    "id": 7,
+                    "name": "Fingerling French",
+                    "description": "Fingerling French Potato is a distinctive heirloom fingerling variety with rose-red skin and vibrant yellow flesh. These small, elongated tubers have a firm, waxy texture and a rich, nutty, buttery flavor that intensifies when roasted. The finger-like shape (2-4 inches long) makes them perfect for roasting whole, grilling, or showcasing in potato salads. Fingerling French is prized by gourmet cooks for its beautiful presentation, excellent flavor, and ability to hold its shape during cooking.",
+                    "growth_info": {
+                        "growth_mode": "Bushy",
+                        "days_to_harvest": {
+                            "lower_estimate": 90,
+                            "higher_estimate": 110
+                        },
+                        "plant_height": "18-24 inches",
+                        "spacing": "8-10 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "14 inches deep, 12-14 inches wide",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "Purple to lavender",
+                        "leaf_color": "Medium to Dark Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering, 1-1.5 inches per week",
+                        "feeding_requirement": "Balanced fertilizer at planting, light feeding mid-season",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "1.5-3 pounds per plant",
+                        "best_uses": ["Roasting", "Grilling", "Salads", "Pan-frying", "Steaming"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Moderate",
+                        "cold_tolerance": "Good",
+                        "frost_tolerance": false,
+                        "drought_tolerance": "Low to Moderate",
+                        "disease_resistance": ["Scab resistance"]
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Rich, nutty, buttery with intense flavor, firm and waxy texture"
+                    },
+                    "root_characteristics": {
+                        "root_color": "Rose-red skin, golden yellow flesh",
+                        "root_shape": "Long, slender, finger-like",
+                        "root_size": "Small, 2-4 inches long, 1 inch diameter",
+                        "texture": "Firm, waxy, holds shape perfectly",
+                        "storage_life": "2-3 months in cool, dark storage"
+                    },
+                    "fun_fact": "Fingerling potatoes get their name from their resemblance to fingers. French Fingerling, despite its name, is believed to have originated in Germany or Austria. They became popular in French cuisine and were brought to America by European immigrants. Fingerlings command premium prices at farmers markets due to their gourmet appeal and labor-intensive harvest.",
+                    "planting_tip": "Plant Fingerling French seed pieces in well-drained, loose soil enriched with organic matter. Choose a sunny location for optimal growth. Plant whole small tubers or cut larger ones, spacing 8-10 inches apart in rows 24-30 inches apart. These smaller potatoes don't need as much space as standard varieties. Hill lightly to prevent greening but avoid excessive hilling which can reduce tuber formation. Harvest carefully to avoid breaking the delicate tubers. Best harvested when fully mature for optimal flavor and texture."
+                },
+                {
+                    "id": 8,
+                    "name": "Purple Majesty",
+                    "description": "Purple Majesty Potato is a modern variety developed by Colorado State University, featuring deep purple skin and vibrant purple flesh throughout. This oblong potato maintains its striking purple color even after cooking, making it perfect for adding visual interest to any dish. Purple Majesty has a mild, slightly earthy flavor and medium-moist texture. It's packed with anthocyanin antioxidants and offers excellent disease resistance, making it both nutritious and easy to grow.",
+                    "growth_info": {
+                        "growth_mode": "Bushy",
+                        "days_to_harvest": {
+                            "lower_estimate": 85,
+                            "higher_estimate": 105
+                        },
+                        "plant_height": "20-26 inches",
+                        "spacing": "10-12 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "16 inches deep, 14 inches wide",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "Purple to lavender",
+                        "leaf_color": "Dark Green with purple stems"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering, 1-2 inches per week",
+                        "feeding_requirement": "Balanced fertilizer at planting and mid-season",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "2-4 pounds per plant",
+                        "best_uses": ["Roasting", "Mashing", "Chips", "Salads", "Baking"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Moderate to Good",
+                        "cold_tolerance": "Good",
+                        "frost_tolerance": false,
+                        "drought_tolerance": "Moderate",
+                        "disease_resistance": ["Late Blight resistance", "Verticillium Wilt resistance", "Early Blight tolerance"]
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Mild, slightly earthy with subtle sweetness, medium-moist texture"
+                    },
+                    "root_characteristics": {
+                        "root_color": "Deep purple (skin and flesh throughout)",
+                        "root_shape": "Oblong",
+                        "root_size": "Medium, 3-5 inches",
+                        "texture": "Medium-moist, moderate starch",
+                        "storage_life": "3-4 months in cool, dark storage"
+                    },
+                    "fun_fact": "Purple Majesty was specifically bred to have deep purple color throughout the entire tuber, unlike some purple varieties that have white areas. The intense purple color comes from very high levels of anthocyanins - up to 4 times more than other purple varieties. These antioxidants have been studied for potential health benefits including anti-inflammatory and cardiovascular support.",
+                    "planting_tip": "Plant Purple Majesty seed pieces in well-drained soil with good organic content. Choose a sunny location for optimal growth. Plant seed pieces 4 inches deep and 10-12 inches apart in rows spaced 30 inches apart. This variety has excellent disease resistance, making it easier to grow organically. The purple color is most vibrant when cooked using methods that preserve pigments - steaming or microwaving works better than boiling. Hill plants regularly to maximize yield and prevent greening."
+                },
+                {
+                    "id": 9,
+                    "name": "Norland Red",
+                    "description": "Norland Red Potato is a popular early-season red potato variety known for its bright red skin, white flesh, and round to oblong shape. This variety matures quickly and produces smooth-skinned tubers with shallow eyes, making them easy to clean and prepare. Norland has a waxy texture that holds its shape well during cooking, making it ideal for potato salads, boiling, and roasting. It's prized for early harvest, reliable production, and good disease resistance.",
+                    "growth_info": {
+                        "growth_mode": "Bushy",
+                        "days_to_harvest": {
+                            "lower_estimate": 65,
+                            "higher_estimate": 80
+                        },
+                        "plant_height": "18-24 inches",
+                        "spacing": "10-12 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "16 inches deep, 14 inches wide",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "White to pale lavender",
+                        "leaf_color": "Medium Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering, 1-2 inches per week, especially during tuber formation",
+                        "feeding_requirement": "Balanced fertilizer at planting, light feeding at emergence",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "2-4 pounds per plant",
+                        "best_uses": ["Salads", "Boiling", "Roasting", "Steaming", "New Potatoes"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Moderate",
+                        "cold_tolerance": "Good",
+                        "frost_tolerance": false,
+                        "drought_tolerance": "Low",
+                        "disease_resistance": ["Scab resistance", "Verticillium Wilt resistance"]
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Mild, slightly sweet with waxy, creamy texture"
+                    },
+                    "root_characteristics": {
+                        "root_color": "Bright red skin, white flesh",
+                        "root_shape": "Round to oblong",
+                        "root_size": "Medium, 2-4 inches",
+                        "texture": "Waxy, holds shape well when cooked",
+                        "storage_life": "2-3 months in cool, dark storage"
+                    },
+                    "fun_fact": "Norland Red was developed in North Dakota in 1957 and quickly became one of the most popular early red potato varieties in North America. Its ability to produce a crop in just 65-70 days makes it perfect for northern climates with short growing seasons. Many gardeners plant Norland for early 'new potatoes' and then plant a second crop for fall harvest.",
+                    "planting_tip": "Plant Norland Red seed pieces in early spring as soon as soil can be worked, as it's cold-tolerant and benefits from cool growing conditions. Plant in well-drained soil 3-4 inches deep and 10-12 inches apart in rows spaced 24-30 inches apart. This variety sets tubers early, so ensure adequate moisture during the first 6-8 weeks. Can be harvested as 'new potatoes' 50-60 days after planting, or allow to mature fully. Excellent choice for succession planting or double-cropping in areas with long seasons."
+                },
+                {
+                    "id": 10,
+                    "name": "Carola",
+                    "description": "Carola Potato is a premium mid-season variety from Germany, featuring smooth golden-yellow skin and rich, deep yellow flesh. This variety is renowned for its exceptional buttery flavor, creamy texture, and versatility in cooking. Carola produces uniform, oval tubers with shallow eyes and has excellent culinary qualities for boiling, mashing, roasting, and making gourmet potato dishes. It's a favorite among chefs and serious gardeners for its superior taste and consistent performance.",
+                    "growth_info": {
+                        "growth_mode": "Bushy",
+                        "days_to_harvest": {
+                            "lower_estimate": 75,
+                            "higher_estimate": 95
+                        },
+                        "plant_height": "20-26 inches",
+                        "spacing": "12-15 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "18 inches deep, 14-16 inches wide",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "White",
+                        "leaf_color": "Medium Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering, 1-2 inches per week, consistent moisture important",
+                        "feeding_requirement": "Balanced fertilizer at planting, side-dress when plants reach 6 inches",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "3-5 pounds per plant",
+                        "best_uses": ["Boiling", "Mashing", "Roasting", "Grilling", "Gourmet Dishes"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Moderate",
+                        "cold_tolerance": "Good",
+                        "frost_tolerance": false,
+                        "drought_tolerance": "Low to Moderate",
+                        "disease_resistance": ["Scab resistance", "Good general disease resistance"]
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Exceptionally buttery, rich, and creamy with sweet undertones, waxy to all-purpose texture"
+                    },
+                    "root_characteristics": {
+                        "root_color": "Golden yellow skin and flesh",
+                        "root_shape": "Oval, uniform",
+                        "root_size": "Medium to large, 3-5 inches",
+                        "texture": "Creamy, buttery, waxy to all-purpose",
+                        "storage_life": "3-5 months in proper cool, dark storage"
+                    },
+                    "fun_fact": "Carola is considered by many European chefs to be one of the finest-tasting potatoes available and commands premium prices in markets. It was developed in Germany in the 1980s and has won numerous taste awards. The deep yellow color indicates high carotenoid content, and the flavor is so rich that these potatoes need minimal seasoning. Carola is often compared favorably to Yukon Gold but with even better flavor.",
+                    "planting_tip": "Plant Carola seed pieces in loose, well-drained soil enriched with compost. Choose a sunny location for optimal growth. Plant seed pieces 4 inches deep and 12-15 inches apart in rows spaced 30-36 inches apart. Carola benefits from consistent moisture throughout the growing season - uneven watering can cause growth cracks. Hill plants regularly to encourage maximum tuber development. Allow tubers to fully mature for best flavor and storage qualities. Cure properly after harvest for 10-14 days to enhance flavor and storage life."
+                },
+                {
+                    "id": 11,
+                    "name": "Russian Banana",
+                    "description": "Russian Banana Potato is an heirloom fingerling variety with distinctive yellow, crescent-shaped tubers that resemble small bananas. This late-season variety produces firm, waxy potatoes with rich, buttery yellow flesh and exceptional flavor. Russian Banana has a dense, creamy texture that holds its shape perfectly during cooking, making it ideal for potato salads, roasting, and grilling. The unique shape and outstanding flavor have made it a favorite at farmers markets and among gourmet cooks.",
+                    "growth_info": {
+                        "growth_mode": "Bushy",
+                        "days_to_harvest": {
+                            "lower_estimate": 95,
+                            "higher_estimate": 115
+                        },
+                        "plant_height": "20-24 inches",
+                        "spacing": "8-10 inches",
+                        "is_container_variety": true,
+                        "recommended_container_size": "14 inches deep, 12-14 inches wide",
+                        "needs_support": false
+                    },
+                    "appearance": {
+                        "flower_color": "White to pale pink",
+                        "leaf_color": "Medium Green"
+                    },
+                    "care_requirements": {
+                        "water_requirement": "Regular watering, 1-2 inches per week, consistent moisture",
+                        "feeding_requirement": "Moderate fertilizer at planting, light mid-season feeding",
+                        "requires_pruning": false
+                    },
+                    "harvest_storage": {
+                        "typical_yield": "1.5-3 pounds per plant",
+                        "best_uses": ["Salads", "Roasting", "Grilling", "Steaming", "Pan-frying"]
+                    },
+                    "tolerances": {
+                        "heat_tolerance": "Moderate",
+                        "cold_tolerance": "Good",
+                        "frost_tolerance": false,
+                        "drought_tolerance": "Moderate",
+                        "disease_resistance": ["Scab resistance", "Good general resistance"]
+                    },
+                    "flavor_characteristics": {
+                        "flavor_profile": "Rich, buttery, nutty with exceptional depth of flavor, firm and waxy"
+                    },
+                    "root_characteristics": {
+                        "root_color": "Golden yellow skin and flesh",
+                        "root_shape": "Long, curved, crescent-shaped (banana-like)",
+                        "root_size": "3-5 inches long, 1-1.5 inches diameter",
+                        "texture": "Dense, firm, waxy, holds shape excellently",
+                        "storage_life": "4-6 months in proper cool, dark storage"
+                    },
+                    "fun_fact": "Russian Banana Potato is believed to have been brought to North America by Russian immigrants in the late 1800s, possibly via Alaska. Despite its heirloom status, it wasn't widely available until Seed Savers Exchange helped preserve and distribute it in the 1980s. The crescent shape develops naturally and is one of the most distinctive of all fingerling varieties. Russian Banana is known for having one of the longest storage lives of any fingerling potato.",
+                    "planting_tip": "Plant Russian Banana seed pieces or whole small tubers in well-drained, loose soil. Choose a sunny location for optimal growth. Plant 3-4 inches deep and 8-10 inches apart in rows spaced 24-30 inches apart. This late-season variety needs a long growing season to develop full flavor and size. Provide consistent moisture throughout growth but reduce watering 2 weeks before harvest. The firm, waxy texture makes these potatoes excellent for storage - cure properly for 2 weeks and store in cool (40-45°F), dark conditions. Handle carefully during harvest as the elongated shape can be fragile."
                 }
             ]
         },
@@ -1717,6 +3733,251 @@
               },
               "fun_fact": "Purple Sweet Potato is native to the island of Okinawa in Japan and is a staple food in the Okinawan diet, known for promoting longevity and health.",
               "planting_tip": "Plant Purple Sweet Potato slips in well-drained, loose soil. Choose a sunny location for optimal growth. Plant slips about 3 inches deep and 12 inches apart in rows spaced 36-42 inches apart. Keep the soil consistently moist but not waterlogged."
+            },
+            {
+                "id": 7,
+                "name": "Georgia Jet",
+                "description": "Georgia Jet Sweet Potato is a fast-maturing variety known for its deep orange flesh and copper-red skin. This early-season sweet potato was specifically bred for northern climates with shorter growing seasons, producing good yields in just 90-100 days. Georgia Jet has a moist, sweet flavor and smooth texture when cooked, making it excellent for baking, roasting, and mashing. It's prized for its adaptability to cooler climates and reliable production.",
+                "growth_info": {
+                    "growth_mode": "Vining",
+                    "days_to_harvest": {
+                        "lower_estimate": 90,
+                        "higher_estimate": 100
+                    },
+                    "plant_height": "12-18 inches (vines spread 4-8 feet)",
+                    "spacing": "12 inches",
+                    "is_container_variety": false,
+                    "recommended_container_size": "Not recommended",
+                    "needs_support": false
+                },
+                "appearance": {
+                    "flower_color": "Light purple",
+                    "leaf_color": "Green"
+                },
+                "care_requirements": {
+                    "water_requirement": "Regular watering, especially during tuber formation",
+                    "feeding_requirement": "Balanced fertilizer, low nitrogen",
+                    "requires_pruning": false
+                },
+                "harvest_storage": {
+                    "typical_yield": "3-5 pounds per plant",
+                    "best_uses": ["Baking", "Roasting", "Mashing", "Casseroles"]
+                },
+                "tolerances": {
+                    "heat_tolerance": "Excellent",
+                    "cold_tolerance": "Better than most varieties",
+                    "frost_tolerance": false,
+                    "drought_tolerance": "Moderate",
+                    "disease_resistance": ["Fusarium wilt", "Good general resistance"]
+                },
+                "flavor_characteristics": {
+                    "flavor_profile": "Sweet, moist, and flavorful with rich orange color"
+                },
+                "root_characteristics": {
+                    "root_color": "Deep orange flesh, copper-red skin",
+                    "root_shape": "Uniform, blocky to oblong",
+                    "root_size": "Medium, 4-6 inches long",
+                    "texture": "Moist and smooth",
+                    "storage_life": "4-6 months when properly cured"
+                },
+                "fun_fact": "Georgia Jet was developed specifically for northern gardeners who want to grow sweet potatoes but have shorter growing seasons. It can produce a crop in areas where other sweet potato varieties won't mature. The variety was released in 1982 and quickly became popular among home gardeners in USDA zones 5-7.",
+                "planting_tip": "Plant Georgia Jet slips in late spring when soil temperature reaches at least 60°F. This variety is more tolerant of cooler soil than most sweet potatoes. Plant slips 3-4 inches deep and 12 inches apart in well-drained, loose soil. Use black plastic mulch in northern climates to warm soil and extend the growing season. Georgia Jet's shorter maturity time makes it ideal for areas with 100-110 frost-free days. Harvest before first frost and cure at 80-85°F for 7-10 days."
+            },
+            {
+                "id": 8,
+                "name": "Vardaman",
+                "description": "Vardaman Sweet Potato is a unique bush-type variety with compact growth habit, making it ideal for small gardens and container growing. Unlike most sweet potatoes that produce long vines, Vardaman's vines stay short and manageable at 2-3 feet. It produces golden-orange flesh with rose-copper skin and has excellent flavor. The compact growth and attractive purple-tinged foliage make it popular for ornamental edible gardens while still providing good yields of delicious sweet potatoes.",
+                "growth_info": {
+                    "growth_mode": "Compact bush",
+                    "days_to_harvest": {
+                        "lower_estimate": 100,
+                        "higher_estimate": 120
+                    },
+                    "plant_height": "12-18 inches (vines spread only 2-3 feet)",
+                    "spacing": "12-18 inches",
+                    "is_container_variety": true,
+                    "recommended_container_size": "20 inches deep, 18-20 inches wide",
+                    "needs_support": false
+                },
+                "appearance": {
+                    "flower_color": "Light purple",
+                    "leaf_color": "Green with purple tones"
+                },
+                "care_requirements": {
+                    "water_requirement": "Regular watering, keep soil consistently moist",
+                    "feeding_requirement": "Balanced fertilizer, low nitrogen",
+                    "requires_pruning": false
+                },
+                "harvest_storage": {
+                    "typical_yield": "2-4 pounds per plant",
+                    "best_uses": ["Baking", "Roasting", "Mashing", "Container Growing"]
+                },
+                "tolerances": {
+                    "heat_tolerance": "Excellent",
+                    "cold_tolerance": "Poor",
+                    "frost_tolerance": false,
+                    "drought_tolerance": "Moderate",
+                    "disease_resistance": ["Fusarium wilt", "Root-knot nematodes"]
+                },
+                "flavor_characteristics": {
+                    "flavor_profile": "Sweet, moist, and rich with excellent flavor"
+                },
+                "root_characteristics": {
+                    "root_color": "Golden orange flesh, rose-copper skin",
+                    "root_shape": "Blocky to slightly tapered",
+                    "root_size": "Small to medium, 4-6 inches",
+                    "texture": "Moist and creamy",
+                    "storage_life": "5-7 months when properly cured"
+                },
+                "fun_fact": "Vardaman is a breakthrough variety released in 1981 by Mississippi State University. It was the first successful bush-type sweet potato, revolutionizing sweet potato growing for small gardens. The compact habit uses only 20-30% of the space required by vining varieties, making it possible to grow sweet potatoes in raised beds, small gardens, and even large containers. The purple-tinged foliage is ornamental enough for landscape use.",
+                "planting_tip": "Plant Vardaman slips in well-drained soil or large containers filled with quality potting mix. Space slips 12-18 inches apart - much closer than vining varieties. The compact growth makes this variety ideal for intensive planting in raised beds. Plant slips 3 inches deep when soil temperature reaches 65°F. Container growing requires consistent watering and feeding. Despite smaller plant size, Vardaman produces surprisingly good yields. Perfect for small-space gardening, patios, and anywhere traditional sweet potato vines would be too aggressive."
+            },
+            {
+                "id": 9,
+                "name": "Murasaki",
+                "description": "Murasaki Sweet Potato is a Japanese variety featuring stunning purple skin and white flesh with purple streaks. This unique sweet potato has a dry, fluffy texture similar to a russet potato and a mild, slightly sweet, chestnut-like flavor. Murasaki is less sweet than typical orange sweet potatoes, making it versatile for both sweet and savory dishes. It's particularly popular in Japanese and Hawaiian cuisines and is prized for its beautiful appearance and distinctive texture.",
+                "growth_info": {
+                    "growth_mode": "Vining",
+                    "days_to_harvest": {
+                        "lower_estimate": 110,
+                        "higher_estimate": 130
+                    },
+                    "plant_height": "12-18 inches (vines spread 8-12 feet)",
+                    "spacing": "12-15 inches",
+                    "is_container_variety": false,
+                    "recommended_container_size": "Not recommended",
+                    "needs_support": false
+                },
+                "appearance": {
+                    "flower_color": "Light purple to white",
+                    "leaf_color": "Green"
+                },
+                "care_requirements": {
+                    "water_requirement": "Regular watering, moderate moisture",
+                    "feeding_requirement": "Balanced fertilizer, low nitrogen",
+                    "requires_pruning": false
+                },
+                "harvest_storage": {
+                    "typical_yield": "3-4 pounds per plant",
+                    "best_uses": ["Roasting", "Baking", "Tempura", "Frying", "Savory Dishes"]
+                },
+                "tolerances": {
+                    "heat_tolerance": "Excellent",
+                    "cold_tolerance": "Poor",
+                    "frost_tolerance": false,
+                    "drought_tolerance": "Moderate",
+                    "disease_resistance": ["Moderate disease resistance"]
+                },
+                "flavor_characteristics": {
+                    "flavor_profile": "Mild, slightly sweet, nutty, chestnut-like with dry, fluffy texture"
+                },
+                "root_characteristics": {
+                    "root_color": "White flesh with purple streaks, deep purple skin",
+                    "root_shape": "Elongated, irregular",
+                    "root_size": "Medium to large, 6-10 inches",
+                    "texture": "Dry, fluffy, low moisture content",
+                    "storage_life": "6-8 months when properly cured"
+                },
+                "fun_fact": "Murasaki means 'purple' in Japanese. This variety is extremely popular in Hawaii where it's often called 'Hawaiian Sweet Potato' and is used in traditional Hawaiian dishes. The dry, fluffy texture when cooked is quite different from typical American sweet potatoes, making it excellent for applications where you don't want excess moisture, such as tempura or french fries. In Japan, it's a premium variety commanding high prices.",
+                "planting_tip": "Plant Murasaki slips in loose, well-drained soil with full sun. This variety needs a longer growing season than most, so plant early when soil reaches 65°F. Space slips 12-15 inches apart in rows 36-42 inches apart. Murasaki produces vigorous vines that spread widely - ensure adequate space. The tubers develop deep in the soil, so avoid compacted areas. This variety stores exceptionally well - the dry texture improves with curing and storage. Cure at 85°F for 10-14 days for best flavor and texture development."
+            },
+            {
+                "id": 10,
+                "name": "Hernandez",
+                "description": "Hernandez Sweet Potato is a high-yielding variety developed by Louisiana State University, known for its uniform shape, deep orange flesh, and excellent flavor. It has copper-colored skin and produces consistently shaped tubers that are ideal for commercial production and home gardens. Hernandez offers superior disease resistance, particularly to soil-borne diseases, and has a moist, sweet flavor perfect for baking, roasting, and mashing. This variety is valued for reliability and consistent performance.",
+                "growth_info": {
+                    "growth_mode": "Vining",
+                    "days_to_harvest": {
+                        "lower_estimate": 90,
+                        "higher_estimate": 110
+                    },
+                    "plant_height": "12-18 inches (vines spread 6-10 feet)",
+                    "spacing": "12 inches",
+                    "is_container_variety": false,
+                    "recommended_container_size": "Not recommended",
+                    "needs_support": false
+                },
+                "appearance": {
+                    "flower_color": "Light purple",
+                    "leaf_color": "Green"
+                },
+                "care_requirements": {
+                    "water_requirement": "Regular watering, especially during tuber formation",
+                    "feeding_requirement": "Balanced fertilizer, low nitrogen, moderate feeding",
+                    "requires_pruning": false
+                },
+                "harvest_storage": {
+                    "typical_yield": "4-6 pounds per plant",
+                    "best_uses": ["Baking", "Roasting", "Mashing", "Commercial Processing"]
+                },
+                "tolerances": {
+                    "heat_tolerance": "Excellent",
+                    "cold_tolerance": "Poor",
+                    "frost_tolerance": false,
+                    "drought_tolerance": "Moderate",
+                    "disease_resistance": ["Fusarium wilt", "Root-knot nematodes", "Soil rot", "Streptomyces"]
+                },
+                "flavor_characteristics": {
+                    "flavor_profile": "Sweet, moist, rich flavor with excellent texture"
+                },
+                "root_characteristics": {
+                    "root_color": "Deep orange flesh, copper skin",
+                    "root_shape": "Very uniform, blocky",
+                    "root_size": "Large, 6-8 inches",
+                    "texture": "Moist and creamy",
+                    "storage_life": "7-10 months when properly cured"
+                },
+                "fun_fact": "Hernandez was released by LSU in 1995 and was named after Dr. Tara P. Hernandez, a renowned sweet potato researcher. It quickly gained popularity with commercial growers due to its exceptional uniformity, high yields, and disease resistance. Hernandez can produce over 300 bushels per acre under optimal conditions. The variety's consistency makes it popular for processing into sweet potato products like fries and chips.",
+                "planting_tip": "Plant Hernandez slips in well-prepared, loose soil with good drainage. This variety performs best in sandy loam soils. Plant slips 3-4 inches deep and 12 inches apart when soil temperature reaches 65°F. Hernandez has vigorous vine growth - ensure adequate spacing between rows (36-48 inches). The excellent disease resistance makes it suitable for fields with soil-borne disease pressure. Water consistently during tuber development. Harvest when vines begin to yellow. Cure at 80-85°F with 85-90% humidity for 7-10 days for exceptional storage life."
+            },
+            {
+                "id": 11,
+                "name": "White Yam",
+                "description": "White Yam Sweet Potato, also called Boniato or Cuban Sweet Potato, is a unique variety with white to pale yellow flesh and burgundy to purple skin. Despite being called a 'yam,' it's a true sweet potato with a dry, fluffy texture similar to a russet potato. White Yam has a mild, slightly sweet flavor with chestnut undertones, making it perfect for savory dishes. It's popular in Latin American and Caribbean cuisines and provides an alternative to traditional orange sweet potatoes.",
+                "growth_info": {
+                    "growth_mode": "Vining",
+                    "days_to_harvest": {
+                        "lower_estimate": 100,
+                        "higher_estimate": 120
+                    },
+                    "plant_height": "12-18 inches (vines spread 6-10 feet)",
+                    "spacing": "12-15 inches",
+                    "is_container_variety": false,
+                    "recommended_container_size": "Not recommended",
+                    "needs_support": false
+                },
+                "appearance": {
+                    "flower_color": "Light purple to white",
+                    "leaf_color": "Green"
+                },
+                "care_requirements": {
+                    "water_requirement": "Regular watering, prefers slightly drier conditions than orange varieties",
+                    "feeding_requirement": "Balanced fertilizer, low nitrogen",
+                    "requires_pruning": false
+                },
+                "harvest_storage": {
+                    "typical_yield": "3-5 pounds per plant",
+                    "best_uses": ["Roasting", "Boiling", "Frying", "Mashing", "Savory Dishes", "Latin American Cuisine"]
+                },
+                "tolerances": {
+                    "heat_tolerance": "Excellent",
+                    "cold_tolerance": "Poor",
+                    "frost_tolerance": false,
+                    "drought_tolerance": "Good",
+                    "disease_resistance": ["Moderate disease resistance"]
+                },
+                "flavor_characteristics": {
+                    "flavor_profile": "Mild, slightly sweet, nutty, chestnut-like with dry, fluffy texture"
+                },
+                "root_characteristics": {
+                    "root_color": "White to pale yellow flesh, burgundy to purple skin",
+                    "root_shape": "Irregular, knobby, elongated",
+                    "root_size": "Medium to large, 4-8 inches",
+                    "texture": "Dry, fluffy, starchy when cooked",
+                    "storage_life": "4-6 months when properly cured"
+                },
+                "fun_fact": "White Yam sweet potatoes are called 'boniato' in Spanish-speaking countries and are a staple in Cuban cuisine. The name 'yam' is a misnomer - true yams are an entirely different species. Boniato's dry texture makes it perfect for dishes where you don't want the sweetness or moisture of orange sweet potatoes. In Latin American markets, boniato often commands premium prices due to high demand from Caribbean and Central American communities.",
+                "planting_tip": "Plant White Yam slips in loose, sandy, well-drained soil. This variety is more drought-tolerant than orange sweet potatoes and actually prefers slightly drier conditions. Plant slips 3-4 inches deep and 12-15 inches apart when soil reaches 65-70°F. The irregular shape means tubers can grow quite large and deep - ensure soil is loose to at least 12 inches. This variety needs a full growing season to develop best flavor. Harvest carefully as the irregular shape makes tubers more prone to damage. Cure at 85°F for 10-14 days - the dry texture improves significantly with proper curing."
             }
           ]
         }

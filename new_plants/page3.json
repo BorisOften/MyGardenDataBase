@@ -442,7 +442,247 @@
               },
               "fun_fact": "Did you know? Little Gem Lettuce is a cross between romaine and butterhead lettuce, combining the best qualities of both varieties - crisp texture with a sweet, tender heart. It's perfect for grilling whole!",
               "planting_tip": "Plant Little Gem Lettuce in well-drained soil with full sunlight to partial shade. Water consistently for best head formation. Space closer together than full-size lettuce. Harvest individual heads when they are small and compact (6-8 inches). Excellent for small gardens and containers. Can be grilled whole or halved for a unique preparation."
-            }
+            },
+            {
+  "id": 7,
+  "name": "Oak Leaf",
+  "description": "Oak Leaf Lettuce is a distinctive looseleaf variety characterized by its deeply lobed leaves that resemble oak tree leaves. This cool-season annual is available in both green and red varieties, offering tender texture and mild flavor. Oak Leaf Lettuce is prized for its ornamental appearance, heat tolerance, and slow-bolting characteristics, making it an excellent choice for extending the salad season.",
+  "growth_info": {
+    "growth_mode": "Non-heading, loose rosette",
+    "days_to_harvest": {
+      "lower_estimate": 45,
+      "higher_estimate": 55
+    },
+    "plant_height": "8-12 inches",
+    "spacing": "8-10 inches",
+    "is_container_variety": true,
+    "recommended_container_size": "8-10 inches deep",
+    "needs_support": false
+  },
+  "appearance": {
+    "flower_color": "Yellow",
+    "leaf_color": "Green or burgundy-red with deeply lobed edges"
+  },
+  "care_requirements": {
+    "water_requirement": "Moderate - consistent moisture, 1 inch per week",
+    "feeding_requirement": "Light nitrogen feeding every two weeks",
+    "requires_pruning": false
+  },
+  "harvest_storage": {
+    "typical_yield": "Continuous harvest for weeks - excellent cut and come again variety",
+    "best_uses": ["Salads", "Mixed Greens", "Garnish", "Containers", "Ornamental Edging"]
+  },
+  "tolerances": {
+    "heat_tolerance": "High - more heat tolerant than most lettuce varieties",
+    "cold_tolerance": "High - tolerates light frost",
+    "frost_tolerance": true,
+    "drought_tolerance": "Low - requires consistent moisture",
+    "disease_resistance": []
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Mild, sweet, nutty flavor with tender, buttery texture - less bitter than other looseleaf varieties"
+  },
+  "leaf_crop_characteristics": {
+    "head_type": "No head - attractive loose rosette with oak-shaped leaves",
+    "leaf_texture": "Very tender, delicate leaves with distinctive lobed shape",
+    "days_to_maturity": "45-55 days",
+    "bolt_resistance": "High - excellent bolt resistance, slow to bolt"
+  },
+  "fun_fact": "Did you know? Oak Leaf Lettuce is one of the most heat-tolerant lettuces available and can continue producing well into summer when other varieties have bolted. Its distinctive leaf shape makes it a favorite in gourmet salad mixes!",
+  "planting_tip": "Plant Oak Leaf Lettuce in well-drained soil with partial shade to full sunlight. Water consistently, and harvest outer leaves continuously for extended production. Succession plant every 2-3 weeks. This variety tolerates heat better than most lettuces, making it ideal for spring through early summer growing. Both green and red varieties available - red Oak Leaf has more pronounced flavor."
+},
+{
+  "id": 8,
+  "name": "Mâche",
+  "description": "Mâche, also known as Corn Salad or Lamb's Lettuce, is a delicate European green with small, spoon-shaped leaves and a mild, nutty flavor. This cool-season annual is exceptionally cold-hardy and can be grown throughout winter in many climates. Mâche forms attractive rosettes of tender leaves and is prized in French cuisine for its buttery texture and sweet taste.",
+  "growth_info": {
+    "growth_mode": "Low rosette-forming",
+    "days_to_harvest": {
+      "lower_estimate": 50,
+      "higher_estimate": 60
+    },
+    "plant_height": "3-6 inches",
+    "spacing": "4-6 inches",
+    "is_container_variety": true,
+    "recommended_container_size": "6-8 inches deep",
+    "needs_support": false
+  },
+  "appearance": {
+    "flower_color": "Pale blue (rarely seen)",
+    "leaf_color": "Dark green, glossy spoon-shaped leaves"
+  },
+  "care_requirements": {
+    "water_requirement": "Moderate - keep soil evenly moist",
+    "feeding_requirement": "Light nitrogen feeding every three weeks",
+    "requires_pruning": false
+  },
+  "harvest_storage": {
+    "typical_yield": "Multiple small rosettes per plant, continuous harvest",
+    "best_uses": ["Gourmet Salads", "Winter Greens", "French Cuisine", "Mesclun Mixes", "Garnish"]
+  },
+  "tolerances": {
+    "heat_tolerance": "Very Low - strictly a cool-season crop",
+    "cold_tolerance": "Extremely High - hardy to zone 5, can overwinter",
+    "frost_tolerance": true,
+    "drought_tolerance": "Low - requires consistent moisture",
+    "disease_resistance": []
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Mild, sweet, nutty flavor with buttery, tender texture - delicate and refined"
+  },
+  "leaf_crop_characteristics": {
+    "head_type": "Small, tight rosettes",
+    "leaf_texture": "Very tender, spoon-shaped glossy leaves",
+    "days_to_maturity": "50-60 days",
+    "bolt_resistance": "N/A - grows best in cold weather, bolts in heat"
+  },
+  "fun_fact": "Did you know? Mâche is one of the few salad greens that actually improves in cold weather and can be harvested from under snow! It's a winter staple in French markets and is sometimes called 'corn salad' because it traditionally grew as a weed in grain fields.",
+  "planting_tip": "Plant Mâche in late summer or early fall for winter harvest, or early spring for spring harvest. Grows best in cool weather (40-60°F). Water consistently and provide partial shade in warmer weather. Harvest entire rosettes or individual leaves when plants are 3-4 inches tall. Excellent for winter gardens and cold frames. Will not germinate or grow well in warm weather."
+},
+{
+  "id": 9,
+  "name": "Batavian",
+  "description": "Batavian Lettuce, also known as French Crisp or Summer Crisp, is a heat-tolerant variety that combines the crispness of iceberg with the flavor and ease of looseleaf types. This cool-season annual forms loose to semi-firm heads with thick, crunchy leaves. Batavian is prized for its exceptional bolt resistance and ability to maintain quality in warmer temperatures, making it ideal for extending the growing season.",
+  "growth_info": {
+    "growth_mode": "Semi-heading, loose to moderately firm",
+    "days_to_harvest": {
+      "lower_estimate": 55,
+      "higher_estimate": 70
+    },
+    "plant_height": "10-14 inches",
+    "spacing": "10-12 inches",
+    "is_container_variety": true,
+    "recommended_container_size": "10-12 inches deep",
+    "needs_support": false
+  },
+  "appearance": {
+    "flower_color": "Yellow",
+    "leaf_color": "Bright to dark green, sometimes with red tinges"
+  },
+  "care_requirements": {
+    "water_requirement": "Moderate - consistent moisture, 1 inch per week",
+    "feeding_requirement": "Light to moderate nitrogen feeding every two weeks",
+    "requires_pruning": false
+  },
+  "harvest_storage": {
+    "typical_yield": "One semi-firm head per plant, or continuous outer leaf harvest",
+    "best_uses": ["Salads", "Summer Gardens", "Sandwiches", "Wraps", "Heat-Tolerant Gardens"]
+  },
+  "tolerances": {
+    "heat_tolerance": "Very High - excellent heat tolerance for a lettuce",
+    "cold_tolerance": "High - tolerates light frost",
+    "frost_tolerance": true,
+    "drought_tolerance": "Moderate - more drought tolerant than most lettuces",
+    "disease_resistance": ["Tip Burn Resistant"]
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Sweet, mild flavor with crisp, juicy texture - maintains sweetness in warm weather"
+  },
+  "leaf_crop_characteristics": {
+    "head_type": "Loose to semi-firm head with thick ribs",
+    "leaf_texture": "Very crisp, crunchy leaves with substantial texture",
+    "days_to_maturity": "55-70 days",
+    "bolt_resistance": "Very High - exceptional bolt resistance"
+  },
+  "fun_fact": "Did you know? Batavian lettuce is often called 'Summer Crisp' because it's one of the few lettuces that can produce crisp, quality heads in summer heat. It combines the best traits of crisphead and looseleaf varieties!",
+  "planting_tip": "Plant Batavian Lettuce in well-drained soil with full sunlight. Water consistently but it tolerates some drought better than other lettuces. Can be succession planted throughout spring and summer. Harvest outer leaves continuously or wait for semi-firm heads to develop. Excellent choice for hot climates or extending the lettuce season into summer. More forgiving than other head lettuces."
+},
+{
+  "id": 10,
+  "name": "Mizuna",
+  "description": "Mizuna is a Japanese mustard green with feathery, deeply serrated leaves and a mild, peppery flavor. This cool-season annual grows rapidly and forms attractive rosettes of delicate, frilly foliage. Mizuna is prized in Asian cuisine and gourmet salad mixes for its unique texture, decorative appearance, and versatility. It's milder than arugula but more flavorful than lettuce.",
+  "growth_info": {
+    "growth_mode": "Rosette-forming, bushy",
+    "days_to_harvest": {
+      "lower_estimate": 30,
+      "higher_estimate": 40
+    },
+    "plant_height": "8-16 inches",
+    "spacing": "6-10 inches",
+    "is_container_variety": true,
+    "recommended_container_size": "8-10 inches deep",
+    "needs_support": false
+  },
+  "appearance": {
+    "flower_color": "Yellow",
+    "leaf_color": "Bright to dark green, feathery and serrated"
+  },
+  "care_requirements": {
+    "water_requirement": "Moderate - consistent moisture needed",
+    "feeding_requirement": "Light nitrogen feeding every two to three weeks",
+    "requires_pruning": false
+  },
+  "harvest_storage": {
+    "typical_yield": "Continuous abundant harvest - excellent cut and come again",
+    "best_uses": ["Salads", "Stir-fries", "Asian Cuisine", "Mesclun Mixes", "Braising", "Soups"]
+  },
+  "tolerances": {
+    "heat_tolerance": "Low to Moderate - bolts in heat but more tolerant than arugula",
+    "cold_tolerance": "Very High - excellent cold tolerance, can overwinter",
+    "frost_tolerance": true,
+    "drought_tolerance": "Low - requires consistent moisture",
+    "disease_resistance": []
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Mild peppery, slightly mustardy flavor - milder than arugula with pleasant bite"
+  },
+  "leaf_crop_characteristics": {
+    "head_type": "No head - attractive feathery rosette",
+    "leaf_texture": "Delicate, feathery, deeply serrated leaves",
+    "days_to_maturity": "30-40 days (baby leaves), 40-50 days (full size)",
+    "bolt_resistance": "Low - bolts in warm weather"
+  },
+  "fun_fact": "Did you know? Mizuna has been cultivated in Japan for centuries and is a key ingredient in mesclun mixes. Its feathery leaves make it one of the most decorative salad greens, and it can regrow multiple times from a single planting!",
+  "planting_tip": "Plant Mizuna in well-drained soil with full to partial sunlight. Water consistently for tender growth. Harvest baby leaves at 3-4 inches for salads, or let mature for cooking greens. Cut entire plant 1 inch above soil for regrowth. Succession plant every 2 weeks in cool weather. Excellent for fall and winter gardens - flavor improves after light frost. Can be grown year-round in mild climates."
+},
+{
+  "id": 11,
+  "name": "Frisée",
+  "description": "Frisée, also known as Curly Endive, is a distinctive chicory with finely curled, narrow leaves and a pleasantly bitter flavor. This cool-season perennial (grown as annual) forms loose heads with pale yellow centers when blanched. Frisée is a classic component of French salads and mesclun mixes, prized for its unique texture, mild bitterness, and elegant appearance in gourmet dishes.",
+  "growth_info": {
+    "growth_mode": "Loose head-forming rosette",
+    "days_to_harvest": {
+      "lower_estimate": 70,
+      "higher_estimate": 90
+    },
+    "plant_height": "8-12 inches",
+    "spacing": "10-12 inches",
+    "is_container_variety": true,
+    "recommended_container_size": "10-12 inches deep",
+    "needs_support": false
+  },
+  "appearance": {
+    "flower_color": "Blue (rarely seen in cultivation)",
+    "leaf_color": "Green outer leaves, pale yellow blanched center"
+  },
+  "care_requirements": {
+    "water_requirement": "Moderate - consistent moisture, 1 inch per week",
+    "feeding_requirement": "Light nitrogen feeding every two to three weeks",
+    "requires_pruning": false
+  },
+  "harvest_storage": {
+    "typical_yield": "One loose head per plant, or continuous outer leaf harvest",
+    "best_uses": ["Gourmet Salads", "French Cuisine", "Salad Mixes", "Bistro Salads", "Garnish"]
+  },
+  "tolerances": {
+    "heat_tolerance": "Moderate - more heat tolerant than lettuce",
+    "cold_tolerance": "Very High - excellent cold tolerance",
+    "frost_tolerance": true,
+    "drought_tolerance": "Moderate - more drought tolerant than lettuce",
+    "disease_resistance": []
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Mildly bitter with nutty undertones - pale center is tender and less bitter, outer leaves more assertive"
+  },
+  "leaf_crop_characteristics": {
+    "head_type": "Loose, open head with finely curled leaves",
+    "leaf_texture": "Very curly, fine, delicate leaves - crisp texture",
+    "days_to_maturity": "70-90 days (can blanch center 2-3 weeks before harvest)",
+    "bolt_resistance": "Moderate - relatively bolt resistant"
+  },
+  "fun_fact": "Did you know? Frisée is traditionally blanched by tying outer leaves together to exclude light from the center, creating a tender, pale yellow heart with milder flavor. It's a classic component of the French bistro salad 'salade lyonnaise' with bacon and poached egg!",
+  "planting_tip": "Plant Frisée in well-drained soil with full sunlight. Water consistently for best growth. Blanch centers by gathering outer leaves and tying them together 2-3 weeks before harvest to produce pale, tender hearts. Harvest whole heads or outer leaves as needed. More cold and heat tolerant than lettuce. Best flavor develops in cool weather. Can be grown spring, fall, or winter in mild climates."
+}
           ]
         },
         {
@@ -649,7 +889,257 @@
               },
               "fun_fact": "Did you know? Provider is an heirloom variety from the 1960s and is one of the earliest maturing bush beans - perfect for short growing seasons and succession planting!",
               "planting_tip": "Plant Provider seeds 1-2 inches deep in warm soil (60°F+). Space 4-6 inches apart in rows. This variety is very reliable and sets pods even in cool, damp conditions. Succession plant every 2 weeks for continuous harvest. Harvest when pods are 5-6 inches long and still tender."
-            }
+            },
+            {
+  "id": 2,
+  "name": "Kentucky Wonder Pole",
+  "description": "Kentucky Wonder Pole beans are a classic heirloom variety renowned for their exceptional flavor, productivity, and vigorous climbing habit. This indeterminate pole bean produces abundant 7-9 inch pods over an extended harvest period. Kentucky Wonder has been a garden favorite since the 1850s, prized for its meaty, flavorful pods that are excellent fresh, canned, or frozen. The vines can grow 6-8 feet tall and provide continuous harvests throughout the season.",
+  "growth_info": {
+    "growth_mode": "Pole - climbing, indeterminate",
+    "days_to_harvest": {
+      "lower_estimate": 60,
+      "higher_estimate": 70
+    },
+    "plant_height": "72-96 inches (6-8 feet)",
+    "spacing": "6-8 inches",
+    "is_container_variety": true,
+    "recommended_container_size": "18-24 inches deep with trellis",
+    "needs_support": true
+  },
+  "appearance": {
+    "flower_color": "White to pale purple",
+    "leaf_color": "Green"
+  },
+  "care_requirements": {
+    "water_requirement": "Regular watering - 1-1.5 inches per week, consistent moisture for extended production",
+    "feeding_requirement": "Light nitrogen at planting, side-dress with compost mid-season",
+    "requires_pruning": false
+  },
+  "harvest_storage": {
+    "typical_yield": "3-5 lbs per plant over extended 6-8 week harvest period",
+    "best_uses": ["Fresh Eating", "Canning", "Freezing", "Steaming", "Sautéing"]
+  },
+  "tolerances": {
+    "heat_tolerance": "High - excellent heat tolerance",
+    "cold_tolerance": "None - very frost sensitive",
+    "frost_tolerance": false,
+    "drought_tolerance": "Low - requires consistent moisture for continuous production",
+    "disease_resistance": ["Some rust resistance"]
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Rich, meaty, classic bean flavor - sweet and robust, considered one of the best-tasting beans"
+  },
+  "fruit_characteristics": {
+    "fruit_color": "Medium to dark green",
+    "fruit_weight": "Above average pod weight",
+    "skin_thickness": "Medium - becomes slightly stringy when overmature",
+    "seed_cavity_size": "Medium",
+    "storage_quality": "Excellent for canning and freezing",
+    "crack_resistance": "Good"
+  },
+  "fun_fact": "Did you know? Kentucky Wonder has been grown in American gardens since the 1850s and is considered the standard by which all other pole beans are measured. Its name comes from its 'wonderful' productivity and flavor!",
+  "planting_tip": "Plant Kentucky Wonder seeds 1-2 inches deep in warm soil (65°F+) at the base of sturdy support structures (poles, trellises, or teepees). Provide strong support as vines can reach 8 feet. Water consistently throughout the season. Harvest pods when 6-8 inches long before seeds bulge. Pick regularly (every 2-3 days) to encourage continuous production throughout the season."
+},
+{
+  "id": 3,
+  "name": "Contender",
+  "description": "Contender bush beans are celebrated for their exceptional cold tolerance and reliability in challenging growing conditions. This hardy variety produces heavy yields of stringless, smooth pods even in cool, damp weather where other beans might fail. Contender is an early-maturing bush bean that's perfect for northern gardens and early spring planting. Its consistent performance and disease resistance make it a dependable choice for both beginning and experienced gardeners.",
+  "growth_info": {
+    "growth_mode": "Bush - compact, determinate",
+    "days_to_harvest": {
+      "lower_estimate": 48,
+      "higher_estimate": 55
+    },
+    "plant_height": "16-20 inches",
+    "spacing": "4-6 inches",
+    "is_container_variety": true,
+    "recommended_container_size": "12 inches deep",
+    "needs_support": false
+  },
+  "appearance": {
+    "flower_color": "White",
+    "leaf_color": "Green"
+  },
+  "care_requirements": {
+    "water_requirement": "Regular watering - 1 inch per week, tolerates variable conditions",
+    "feeding_requirement": "Minimal - light compost at planting",
+    "requires_pruning": false
+  },
+  "harvest_storage": {
+    "typical_yield": "1.5-2 lbs per plant in concentrated 2-3 week harvest",
+    "best_uses": ["Fresh Eating", "Canning", "Freezing", "Steaming", "Cold Gardens"]
+  },
+  "tolerances": {
+    "heat_tolerance": "Moderate - performs well in moderate heat",
+    "cold_tolerance": "High - exceptional cold tolerance for a bean, sets pods in cool weather",
+    "frost_tolerance": false,
+    "drought_tolerance": "Moderate - reasonably drought tolerant",
+    "disease_resistance": ["Mosaic Virus", "Powdery Mildew", "Common Bean Mosaic"]
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Mild, sweet, tender - classic green bean flavor with smooth texture"
+  },
+  "fruit_characteristics": {
+    "fruit_color": "Medium green",
+    "fruit_weight": "Average pod weight",
+    "skin_thickness": "Tender and smooth",
+    "seed_cavity_size": "Small",
+    "storage_quality": "Excellent for freezing and canning",
+    "crack_resistance": "Excellent"
+  },
+  "fun_fact": "Did you know? Contender is one of the most cold-tolerant bush beans available and can germinate in soil temperatures as low as 55°F, making it ideal for early spring planting in northern climates!",
+  "planting_tip": "Plant Contender seeds 1-2 inches deep in soil as cool as 55°F (warmer is better but not required). Space 4-6 inches apart. This variety is very forgiving and sets pods even in less-than-ideal conditions. Perfect for early spring planting or areas with cool, short summers. Succession plant every 2 weeks. Harvest at 5-6 inches for best quality."
+},
+{
+  "id": 4,
+  "name": "Dragon Tongue",
+  "description": "Dragon Tongue is a stunning heirloom Dutch wax bean with cream-colored pods dramatically streaked with purple flames. This bush variety combines exceptional ornamental beauty with outstanding flavor, making it both a conversation piece and a culinary delight. The colorful pods lose their purple streaks when cooked, turning yellow-green. Dragon Tongue offers a tender, crisp texture and sweet flavor, plus it's easier to spot for harvest than standard green beans.",
+  "growth_info": {
+    "growth_mode": "Bush - compact, determinate",
+    "days_to_harvest": {
+      "lower_estimate": 55,
+      "higher_estimate": 65
+    },
+    "plant_height": "18-24 inches",
+    "spacing": "4-6 inches",
+    "is_container_variety": true,
+    "recommended_container_size": "12 inches deep",
+    "needs_support": false
+  },
+  "appearance": {
+    "flower_color": "Purple",
+    "leaf_color": "Green"
+  },
+  "care_requirements": {
+    "water_requirement": "Regular watering - 1 inch per week, consistent moisture for best pod quality",
+    "feeding_requirement": "Minimal - beans fix nitrogen, light compost at planting",
+    "requires_pruning": false
+  },
+  "harvest_storage": {
+    "typical_yield": "1-1.5 lbs per plant over 2-3 week harvest period",
+    "best_uses": ["Fresh Eating", "Salads", "Stir-fries", "Steaming", "Pickling", "Ornamental"]
+  },
+  "tolerances": {
+    "heat_tolerance": "Moderate - performs well in summer heat",
+    "cold_tolerance": "None - frost sensitive",
+    "frost_tolerance": false,
+    "drought_tolerance": "Low - requires consistent moisture",
+    "disease_resistance": ["Some disease resistance"]
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Sweet, crisp, and tender - milder and sweeter than standard green beans with slight nutty undertones"
+  },
+  "fruit_characteristics": {
+    "fruit_color": "Cream with purple-red streaks (turns yellow-green when cooked)",
+    "fruit_weight": "Average to slightly above average",
+    "skin_thickness": "Very tender",
+    "seed_cavity_size": "Small to medium",
+    "storage_quality": "Good for freezing, excellent fresh",
+    "crack_resistance": "Good"
+  },
+  "fun_fact": "Did you know? Dragon Tongue beans are much easier to spot for harvest than green beans due to their striking purple streaks, helping you avoid over-mature pods. They're also beautiful raw in salads before the purple color cooks away!",
+  "planting_tip": "Plant Dragon Tongue seeds 1-2 inches deep in warm soil (60°F+). Space 4-6 inches apart. These beans are easy to grow and the colorful pods make harvesting a breeze. Harvest when pods are 6-7 inches long and still slender for best flavor and texture. The purple streaks make it easy to see when pods are ready. Best eaten fresh to enjoy the unique coloring."
+},
+{
+  "id": 5,
+  "name": "Fortex",
+  "description": "Fortex is a premium French filet pole bean renowned for producing exceptionally long, slender, stringless pods of outstanding quality. This vigorous climber yields abundantly over an extended harvest period, producing 7-11 inch pods that remain tender and delicious even when large. Fortex is a favorite among gourmet cooks and market gardeners for its haricot vert quality, meaty texture, and rich bean flavor. The extra-long pods make quick work of harvest.",
+  "growth_info": {
+    "growth_mode": "Pole - climbing, indeterminate",
+    "days_to_harvest": {
+      "lower_estimate": 60,
+      "higher_estimate": 70
+    },
+    "plant_height": "72-96 inches (6-8 feet)",
+    "spacing": "6-8 inches",
+    "is_container_variety": true,
+    "recommended_container_size": "18-24 inches deep with trellis",
+    "needs_support": true
+  },
+  "appearance": {
+    "flower_color": "White",
+    "leaf_color": "Dark green"
+  },
+  "care_requirements": {
+    "water_requirement": "Regular watering - 1-1.5 inches per week, consistent moisture for extended production",
+    "feeding_requirement": "Light nitrogen at planting, side-dress with compost mid-season for sustained production",
+    "requires_pruning": false
+  },
+  "harvest_storage": {
+    "typical_yield": "4-6 lbs per plant over extended 6-8 week harvest period",
+    "best_uses": ["Fresh Eating", "Gourmet Cooking", "Haricots Verts", "Steaming", "Sautéing", "Market Gardens"]
+  },
+  "tolerances": {
+    "heat_tolerance": "High - excellent heat tolerance",
+    "cold_tolerance": "None - frost sensitive",
+    "frost_tolerance": false,
+    "drought_tolerance": "Low - requires consistent moisture",
+    "disease_resistance": ["Bean Mosaic Virus"]
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Rich, meaty bean flavor - complex and sweet with tender texture, considered gourmet quality"
+  },
+  "fruit_characteristics": {
+    "fruit_color": "Dark green",
+    "fruit_weight": "Above average due to extra length",
+    "skin_thickness": "Thin and tender - completely stringless",
+    "seed_cavity_size": "Very small - pods stay slender even when long",
+    "storage_quality": "Excellent for freezing, outstanding fresh",
+    "crack_resistance": "Excellent"
+  },
+  "fun_fact": "Did you know? Fortex beans can grow 10-11 inches long while remaining tender and stringless - most beans become tough and stringy at this length! The extra-long pods mean fewer beans to pick for the same yield.",
+  "planting_tip": "Plant Fortex seeds 1-2 inches deep in warm soil (65°F+) at the base of sturdy 6-8 foot supports. Provide strong trellis, poles, or netting. Water consistently throughout the season. Harvest pods when 7-9 inches long (or even longer - they stay tender!). Pick every 2-3 days to encourage continuous heavy production. Excellent for market gardens due to quick harvest and premium quality."
+},
+{
+  "id": 6,
+  "name": "Royal Burgundy",
+  "description": "Royal Burgundy is a striking purple bush bean that combines ornamental beauty with excellent flavor and easy harvesting. The vibrant purple pods stand out dramatically against the foliage, making them incredibly easy to spot and pick. Royal Burgundy produces abundant yields of 5-6 inch stringless pods with a rich, sweet flavor. The pods turn green when cooked, but their purple color makes raw snacking and salads visually stunning. An excellent choice for children's gardens and anyone who wants beans that are easy to find.",
+  "growth_info": {
+    "growth_mode": "Bush - compact, determinate",
+    "days_to_harvest": {
+      "lower_estimate": 51,
+      "higher_estimate": 60
+    },
+    "plant_height": "18-22 inches",
+    "spacing": "4-6 inches",
+    "is_container_variety": true,
+    "recommended_container_size": "12 inches deep",
+    "needs_support": false
+  },
+  "appearance": {
+    "flower_color": "Purple-pink",
+    "leaf_color": "Green with purple-tinged stems"
+  },
+  "care_requirements": {
+    "water_requirement": "Regular watering - 1 inch per week, consistent moisture important",
+    "feeding_requirement": "Minimal - beans fix nitrogen, light compost at planting",
+    "requires_pruning": false
+  },
+  "harvest_storage": {
+    "typical_yield": "1-2 lbs per plant over 2-3 week harvest period",
+    "best_uses": ["Fresh Eating", "Steaming", "Children's Gardens", "Salads", "Freezing"]
+  },
+  "tolerances": {
+    "heat_tolerance": "Moderate - performs well in summer heat",
+    "cold_tolerance": "Low - frost sensitive but sets pods in cooler weather",
+    "frost_tolerance": false,
+    "drought_tolerance": "Low - requires consistent moisture",
+    "disease_resistance": ["Some mosaic resistance"]
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Sweet, tender, rich bean flavor - slightly earthier than green beans with pleasant texture"
+  },
+  "fruit_characteristics": {
+    "fruit_color": "Deep purple (turns green when cooked)",
+    "fruit_weight": "Average pod weight",
+    "skin_thickness": "Tender and stringless",
+    "seed_cavity_size": "Small",
+    "storage_quality": "Good for freezing, excellent fresh",
+    "crack_resistance": "Good"
+  },
+  "fun_fact": "Did you know? Royal Burgundy beans are almost impossible to miss during harvest due to their deep purple color - no more searching through green foliage for green beans! They're perfect for children's gardens and teaching kids to harvest.",
+  "planting_tip": "Plant Royal Burgundy seeds 1-2 inches deep in warm soil (60°F+). Space 4-6 inches apart. The purple pods make harvesting incredibly easy - no beans hiding in the foliage! Harvest when pods are 5-6 inches long and still slender. The purple color indicates they're ready. Succession plant every 2 weeks for continuous harvest. Note: pods turn green when cooked but are beautiful purple when raw."
+}
           ]
         },
         {
@@ -1156,7 +1646,257 @@
                     },
                     "fun_fact": "Did you know? Bush Champion is a true bush cucumber, meaning it stays compact (18-24 inches tall) and doesn't send out long vines like traditional cucumbers. This makes it perfect for containers, patios, and small raised beds - you can grow cucumbers even in tiny spaces!",
                     "planting_tip": "Plant Bush Champion in well-drained soil with full sun. Perfect for containers - use at least a 5-gallon pot. Space plants 18-24 inches apart. Water consistently - bush varieties are less drought tolerant. Feed every 2-3 weeks. No trellising needed! Harvest at 6-8 inches long. Compact size makes inspection and harvesting easy. Excellent for small-space gardens and beginners!"
-                }
+                },
+                {
+    "id": 8,
+    "name": "Persian (Beit Alpha)",
+    "description": "Persian cucumbers, also known as Beit Alpha cucumbers, are small, thin-skinned cucumbers with exceptional sweetness and crunch. These Middle Eastern varieties produce abundant yields of 4-6 inch fruits with crisp texture, minimal seeds, and thin, tender skin that never needs peeling. Persian cucumbers are burpless, non-bitter, and perfect for fresh eating and snacking. They're parthenocarpic, meaning they set fruit without pollination.",
+    "growth_info": {
+        "growth_mode": "Vining - vigorous",
+        "days_to_harvest": {
+            "lower_estimate": 55,
+            "higher_estimate": 65
+        },
+        "plant_height": "60-84 inches on trellis",
+        "spacing": "12-18 inches",
+        "is_container_variety": true,
+        "recommended_container_size": "16-20 inches deep, 5+ gallon pot with trellis",
+        "needs_support": true
+    },
+    "appearance": {
+        "flower_color": "Yellow",
+        "leaf_color": "Green"
+    },
+    "care_requirements": {
+        "water_requirement": "Regular watering - consistent moisture, 1-2 inches per week",
+        "feeding_requirement": "Moderate to heavy feeder - balanced fertilizer every 2 weeks",
+        "requires_pruning": false
+    },
+    "harvest_storage": {
+        "typical_yield": "25-40 small cucumbers per plant",
+        "best_uses": ["Fresh Eating", "Snacking", "Salads", "Lunch Boxes", "Pickling"]
+    },
+    "tolerances": {
+        "heat_tolerance": "High - excellent heat tolerance",
+        "cold_tolerance": "None - frost sensitive",
+        "frost_tolerance": false,
+        "drought_tolerance": "Low - needs consistent moisture",
+        "disease_resistance": ["Powdery Mildew Resistance", "Downy Mildew Resistance"]
+    },
+    "flavor_characteristics": {
+        "flavor_profile": "Exceptionally sweet, crisp, refreshing - burpless with no bitterness, superior flavor to standard cucumbers"
+    },
+    "fruit_characteristics": {
+        "fruit_color": "Dark green, smooth",
+        "fruit_weight": "3-5 oz per cucumber",
+        "skin_thickness": "Very thin, tender, never needs peeling",
+        "seed_cavity_size": "Very small with tiny, barely noticeable seeds",
+        "storage_quality": "Excellent, 1-2 weeks refrigerated",
+        "crack_resistance": "Excellent"
+    },
+    "fun_fact": "Did you know? Persian cucumbers are parthenocarpic, meaning they produce fruit without pollination, resulting in nearly seedless cucumbers! They're the cucumbers you often see sold in packages at grocery stores. They're incredibly popular because they never need peeling and have superior flavor!",
+    "planting_tip": "Plant Persian cucumbers in rich, well-drained soil with full sun. Provide trellis support for vertical growth and straight fruits. Water consistently and deeply. Feed every 2 weeks for maximum production. No pollination needed for fruit set - great for greenhouse growing! Harvest at 4-6 inches long for best quality. Pick frequently (every 1-2 days) to encourage continuous heavy production. Incredibly productive variety!"
+},
+{
+    "id": 9,
+    "name": "Boston Pickling",
+    "description": "Boston Pickling is a classic heirloom variety specifically bred for pickling, though it's also excellent for fresh eating when young. This reliable cucumber produces abundant yields of blocky, medium-green fruits with crisp texture and traditional cucumber flavor. Dating back to the 1880s, Boston Pickling is valued for its consistent performance, disease resistance, and perfect size for making dill pickles and pickle spears.",
+    "growth_info": {
+        "growth_mode": "Vining - vigorous",
+        "days_to_harvest": {
+            "lower_estimate": 52,
+            "higher_estimate": 58
+        },
+        "plant_height": "60-72 inches on trellis",
+        "spacing": "12-18 inches",
+        "is_container_variety": true,
+        "recommended_container_size": "16-18 inches deep, 5 gallon pot with support",
+        "needs_support": true
+    },
+    "appearance": {
+        "flower_color": "Yellow",
+        "leaf_color": "Green"
+    },
+    "care_requirements": {
+        "water_requirement": "Regular watering - consistent moisture, 1-2 inches per week",
+        "feeding_requirement": "Moderate feeder - balanced fertilizer every 2-3 weeks",
+        "requires_pruning": false
+    },
+    "harvest_storage": {
+        "typical_yield": "20-30 cucumbers per plant",
+        "best_uses": ["Pickling", "Dill Pickles", "Fresh Eating", "Gherkins", "Bread and Butter Pickles"]
+    },
+    "tolerances": {
+        "heat_tolerance": "High - excellent heat tolerance",
+        "cold_tolerance": "None - frost sensitive",
+        "frost_tolerance": false,
+        "drought_tolerance": "Low - needs consistent moisture",
+        "disease_resistance": ["Cucumber Mosaic Virus", "Scab"]
+    },
+    "flavor_characteristics": {
+        "flavor_profile": "Crisp, mild, classic cucumber flavor - excellent texture for pickling, stays crunchy"
+    },
+    "fruit_characteristics": {
+        "fruit_color": "Medium green with black spines",
+        "fruit_weight": "4-6 oz at pickling size",
+        "skin_thickness": "Medium, slightly bumpy - perfect texture for pickles",
+        "seed_cavity_size": "Small when harvested at proper pickling size",
+        "storage_quality": "Best for pickling, good fresh for 5-7 days",
+        "crack_resistance": "Good"
+    },
+    "fun_fact": "Did you know? Boston Pickling has been cultivated since the 1880s and is one of the oldest American cucumber varieties still widely grown today! It's the traditional variety used for making classic American dill pickles and was selected specifically for its ability to stay crisp and crunchy after brining.",
+    "planting_tip": "Plant Boston Pickling in well-drained, fertile soil with full sun. Provide trellis support for easier harvesting and cleaner fruits. Water consistently. Feed every 2-3 weeks. For pickling: harvest at 3-5 inches. For fresh eating: harvest at 6-8 inches. Pick frequently - daily if possible - to encourage more production. Perfect for canning projects and pickle enthusiasts!"
+},
+{
+    "id": 10,
+    "name": "Suyo Long",
+    "description": "Suyo Long is an exceptional Chinese heirloom cucumber known for its extremely long, slender, ribbed fruits and outstanding flavor. These dark green cucumbers can grow 12-18 inches long while remaining crisp, sweet, and burpless. Suyo Long is prized for never becoming bitter, even when large, and has thin, tender skin that doesn't need peeling. This vigorous climber is perfect for trellising and produces abundantly throughout the season.",
+    "growth_info": {
+        "growth_mode": "Vining - very vigorous climber",
+        "days_to_harvest": {
+            "lower_estimate": 60,
+            "higher_estimate": 70
+        },
+        "plant_height": "96-120+ inches (8-10+ feet)",
+        "spacing": "18-24 inches",
+        "is_container_variety": true,
+        "recommended_container_size": "20-24 inches deep, 7+ gallon pot with tall trellis",
+        "needs_support": true
+    },
+    "appearance": {
+        "flower_color": "Yellow",
+        "leaf_color": "Green"
+    },
+    "care_requirements": {
+        "water_requirement": "Regular to high watering - 1-2 inches per week, more in heat",
+        "feeding_requirement": "Heavy feeder - balanced fertilizer every 2 weeks",
+        "requires_pruning": true
+    },
+    "harvest_storage": {
+        "typical_yield": "25-35 long cucumbers per plant",
+        "best_uses": ["Fresh Eating", "Asian Cuisine", "Stir-fries", "Salads", "Pickling"]
+    },
+    "tolerances": {
+        "heat_tolerance": "Very High - thrives in hot weather",
+        "cold_tolerance": "None - frost sensitive",
+        "frost_tolerance": false,
+        "drought_tolerance": "Low - needs consistent moisture",
+        "disease_resistance": ["Good Powdery Mildew Resistance", "Downy Mildew Tolerance"]
+    },
+    "flavor_characteristics": {
+        "flavor_profile": "Sweet, crisp, burpless - exceptional flavor, never bitter even when very large, refreshing and crunchy"
+    },
+    "fruit_characteristics": {
+        "fruit_color": "Dark green with deep ribbing",
+        "fruit_weight": "10-16 oz when optimal",
+        "skin_thickness": "Very thin, tender, always edible",
+        "seed_cavity_size": "Very small even when large",
+        "storage_quality": "Good, 1-2 weeks refrigerated",
+        "crack_resistance": "Good"
+    },
+    "fun_fact": "Did you know? Suyo Long cucumbers can grow up to 18 inches long while remaining crisp and sweet with no bitterness! The distinctive ribbing and curved shape are characteristic of this heirloom Chinese variety. It's often considered one of the best-tasting cucumbers available and is a favorite in Asian cuisine.",
+    "planting_tip": "Plant Suyo Long in rich, well-drained soil with full sun. MUST provide very sturdy trellis or support 8-10 feet tall - this variety is extremely vigorous. Water deeply and consistently. Feed every 2 weeks. Harvest at 10-15 inches for best quality, though they remain good even larger. The long fruits grow straighter when trellised vertically. Prune excessive growth for better air circulation. Excellent for hot climates!"
+},
+{
+    "id": 11,
+    "name": "National Pickling",
+    "description": "National Pickling is a classic, reliable heirloom variety bred specifically for producing uniform cucumbers perfect for pickling. This vigorous vine produces abundant yields of blocky, dark green fruits with black spines and excellent crunch. National Pickling has been a standard for home canners and commercial pickle producers since 1924. The cucumbers maintain their crisp texture beautifully when pickled and are also delicious fresh.",
+    "growth_info": {
+        "growth_mode": "Vining - vigorous",
+        "days_to_harvest": {
+            "lower_estimate": 52,
+            "higher_estimate": 60
+        },
+        "plant_height": "60-84 inches on support",
+        "spacing": "12-18 inches",
+        "is_container_variety": true,
+        "recommended_container_size": "16-18 inches deep, 5 gallon pot",
+        "needs_support": true
+    },
+    "appearance": {
+        "flower_color": "Yellow",
+        "leaf_color": "Green"
+    },
+    "care_requirements": {
+        "water_requirement": "Regular watering - consistent moisture, 1-2 inches per week",
+        "feeding_requirement": "Moderate feeder - balanced fertilizer every 2-3 weeks",
+        "requires_pruning": false
+    },
+    "harvest_storage": {
+        "typical_yield": "25-40 cucumbers per plant",
+        "best_uses": ["Pickling", "Canning", "Gherkins", "Dill Pickles", "Relish"]
+    },
+    "tolerances": {
+        "heat_tolerance": "High - good heat tolerance",
+        "cold_tolerance": "None - frost sensitive",
+        "frost_tolerance": false,
+        "drought_tolerance": "Low - needs consistent moisture",
+        "disease_resistance": ["Cucumber Mosaic Virus", "Scab Resistance"]
+    },
+    "flavor_characteristics": {
+        "flavor_profile": "Crisp, firm, mild flavor - excellent texture retention when pickled, stays crunchy"
+    },
+    "fruit_characteristics": {
+        "fruit_color": "Dark green with prominent black spines",
+        "fruit_weight": "3-5 oz at pickling size",
+        "skin_thickness": "Medium with bumpy texture - ideal for pickles",
+        "seed_cavity_size": "Very small when harvested young",
+        "storage_quality": "Excellent for pickling, maintains crunch",
+        "crack_resistance": "Good"
+    },
+    "fun_fact": "Did you know? National Pickling has been the gold standard for pickling cucumbers since 1924 and is still widely used by commercial pickle producers! Its uniform size, excellent crunch retention, and prolific production make it perfect for large-scale canning and pickle-making projects.",
+    "planting_tip": "Plant National Pickling in well-drained, fertile soil with full sun. Provide trellis for cleaner fruits and easier harvest. Water consistently. Feed every 2-3 weeks. For best pickles: harvest at 2-4 inches (gherkins) or 4-6 inches (dills). Pick daily for continuous production - this variety is incredibly prolific! Perfect for pickle enthusiasts and canning projects. Can also be eaten fresh at 6-8 inches."
+},
+{
+    "id": 12,
+    "name": "Spacemaster",
+    "description": "Spacemaster is a compact bush cucumber variety specifically bred for small gardens, containers, and limited spaces. Despite its dwarf size, Spacemaster produces full-sized, 7-8 inch cucumbers with excellent flavor and crisp texture. This determinate variety sets fruits all at once, making it perfect for small-scale pickling projects. Spacemaster is ideal for patio containers, raised beds, and urban gardens where space is at a premium.",
+    "growth_info": {
+        "growth_mode": "Bush - very compact, determinate",
+        "days_to_harvest": {
+            "lower_estimate": 56,
+            "higher_estimate": 63
+        },
+        "plant_height": "18-24 inches",
+        "spacing": "18-24 inches",
+        "is_container_variety": true,
+        "recommended_container_size": "12-14 inches deep, 5 gallon pot",
+        "needs_support": false
+    },
+    "appearance": {
+        "flower_color": "Yellow",
+        "leaf_color": "Dark green"
+    },
+    "care_requirements": {
+        "water_requirement": "Regular watering - consistent moisture, 1 inch per week",
+        "feeding_requirement": "Moderate feeder - balanced fertilizer every 2-3 weeks",
+        "requires_pruning": false
+    },
+    "harvest_storage": {
+        "typical_yield": "6-10 cucumbers per plant in concentrated harvest",
+        "best_uses": ["Fresh Eating", "Container Gardening", "Small Gardens", "Pickling", "Salads"]
+    },
+    "tolerances": {
+        "heat_tolerance": "Moderate - good summer performance",
+        "cold_tolerance": "None - frost sensitive",
+        "frost_tolerance": false,
+        "drought_tolerance": "Low - needs consistent moisture",
+        "disease_resistance": ["Cucumber Mosaic Virus", "Scab"]
+    },
+    "flavor_characteristics": {
+        "flavor_profile": "Crisp, refreshing, mild cucumber flavor - good texture and taste despite compact plant"
+    },
+    "fruit_characteristics": {
+        "fruit_color": "Dark green",
+        "fruit_weight": "7-9 oz per cucumber",
+        "skin_thickness": "Medium",
+        "seed_cavity_size": "Small to medium",
+        "storage_quality": "Good, 5-7 days refrigerated",
+        "crack_resistance": "Good"
+    },
+    "fun_fact": "Did you know? Spacemaster was bred specifically for the space-age generation in 1980 and won an All-America Selections award! It produces full-sized 7-8 inch cucumbers on plants only 2 feet wide - perfect for NASA's space garden research and urban gardeners with limited space!",
+    "planting_tip": "Plant Spacemaster in well-drained soil with full sun. Perfect for containers - use at least a 5-gallon pot. Space plants 18-24 inches apart. Water consistently - compact plants have smaller root systems. Feed every 2-3 weeks. No trellising needed! Fruits tend to ripen within a concentrated period. Harvest at 6-8 inches. Excellent for small-space gardens, patios, balconies, and beginners. Plant multiple succession crops every 2-3 weeks for continuous harvest."
+}
             ]
         },
         {
@@ -1663,7 +2403,257 @@
               },
               "fun_fact": "Louisiana Green Velvet okra is cherished for its velvety pods, adding a unique texture to dishes and contributing to the rich culinary heritage of Louisiana.",
               "planting_tip": "For successful cultivation, plant Louisiana Green Velvet okra seeds in well-drained soil with good sunlight. Water consistently and provide support if needed. Harvest the pods when they are 4-6 inches in length for optimal tenderness and flavor."
-            }
+            },
+            {
+  "id": 8,
+  "name": "Cow Horn",
+  "description": "Cow Horn okra is a distinctive heirloom variety known for its exceptionally long, curved pods that can reach 10-14 inches while remaining tender and flavorful. This vigorous, tall-growing variety produces pale green, slightly ribbed pods with a unique horn-like shape. Cow Horn is prized for staying tender even at larger sizes, making it forgiving for gardeners who can't harvest daily. The pods are excellent for frying, pickling, and traditional Southern dishes.",
+  "growth_info": {
+    "growth_mode": "Upright, tall",
+    "days_to_harvest": {
+      "lower_estimate": 55,
+      "higher_estimate": 70
+    },
+    "plant_height": "48-72 inches",
+    "spacing": "18-24 inches",
+    "is_container_variety": false,
+    "recommended_container_size": "N/A",
+    "needs_support": false
+  },
+  "appearance": {
+    "flower_color": "Pale yellow to cream",
+    "leaf_color": "Green"
+  },
+  "care_requirements": {
+    "water_requirement": "Regular watering, keep soil consistently moist, more drought tolerant once established",
+    "feeding_requirement": "Balanced fertilizer every 3-4 weeks",
+    "requires_pruning": false
+  },
+  "harvest_storage": {
+    "typical_yield": "20-30 long pods per plant",
+    "best_uses": ["Fresh Cooking", "Frying", "Pickling", "Gumbo", "Canning"]
+  },
+  "tolerances": {
+    "heat_tolerance": "Excellent - thrives in extreme heat",
+    "cold_tolerance": "Poor",
+    "frost_tolerance": false,
+    "drought_tolerance": "High - very drought tolerant once established",
+    "disease_resistance": []
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Mild, tender okra flavor - stays tender even when large, less mucilaginous than some varieties"
+  },
+  "fruit_characteristics": {
+    "fruit_color": "Pale green to white-green",
+    "fruit_weight": "2-4 ounces",
+    "skin_thickness": "Thin",
+    "seed_cavity_size": "Small to medium",
+    "storage_quality": "Good fresh, 3-4 days refrigerated",
+    "crack_resistance": "Good"
+  },
+  "fun_fact": "Did you know? Cow Horn okra can grow pods up to 14 inches long while still remaining tender and non-fibrous! This heirloom variety is forgiving for busy gardeners because the pods stay tender much longer than standard varieties. It's been grown in the South since the 1800s!",
+  "planting_tip": "Plant Cow Horn okra seeds in well-drained soil with full sun after soil reaches 65-70°F. Space plants 18-24 inches apart as they grow quite tall (4-6 feet). Water consistently during establishment, then less frequently once mature. Harvest pods when 7-10 inches long (can go longer - they stay tender!). This variety is excellent for hot, dry climates."
+},
+{
+  "id": 9,
+  "name": "Baby Bubba Hybrid",
+  "description": "Baby Bubba Hybrid is a compact, dwarf okra variety perfect for small gardens, containers, and short growing seasons. Despite its diminutive size (only 3-4 feet tall), Baby Bubba produces full-sized, spineless pods with excellent flavor and tenderness. This early-maturing variety is ideal for northern gardens and urban spaces where traditional tall okra varieties won't fit. The concentrated harvest and manageable size make harvesting easy.",
+  "growth_info": {
+    "growth_mode": "Compact, dwarf",
+    "days_to_harvest": {
+      "lower_estimate": 48,
+      "higher_estimate": 55
+    },
+    "plant_height": "36-48 inches",
+    "spacing": "12-18 inches",
+    "is_container_variety": true,
+    "recommended_container_size": "14-18 inches deep, 5+ gallon pot",
+    "needs_support": false
+  },
+  "appearance": {
+    "flower_color": "Cream with red center",
+    "leaf_color": "Green"
+  },
+  "care_requirements": {
+    "water_requirement": "Regular watering, keep soil consistently moist",
+    "feeding_requirement": "Balanced fertilizer every 2-3 weeks due to heavy production",
+    "requires_pruning": false
+  },
+  "harvest_storage": {
+    "typical_yield": "15-25 pods per plant over extended period",
+    "best_uses": ["Fresh Cooking", "Small Gardens", "Container Growing", "Frying", "Gumbo"]
+  },
+  "tolerances": {
+    "heat_tolerance": "Excellent",
+    "cold_tolerance": "Poor",
+    "frost_tolerance": false,
+    "drought_tolerance": "Moderate",
+    "disease_resistance": ["Good Disease Resistance"]
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Tender, mild okra flavor - excellent texture, spineless for easy handling"
+  },
+  "fruit_characteristics": {
+    "fruit_color": "Dark green",
+    "fruit_weight": "1-2 ounces",
+    "skin_thickness": "Thin",
+    "seed_cavity_size": "Small",
+    "storage_quality": "Best fresh, 2-3 days refrigerated",
+    "crack_resistance": "Good"
+  },
+  "fun_fact": "Did you know? Baby Bubba Hybrid produces full-sized okra pods on plants only 3-4 feet tall, making it perfect for container growing and small spaces! It's one of the few okra varieties that thrives in pots and is early enough for northern gardens with short growing seasons.",
+  "planting_tip": "Plant Baby Bubba in well-drained soil or large containers (5+ gallons) with full sun. Perfect for patios, balconies, and small raised beds. Water consistently and fertilize every 2-3 weeks due to heavy production. Harvest pods when 3-5 inches long. The compact size makes harvesting easy - no ladder needed! Excellent for first-time okra growers and urban gardens."
+},
+{
+  "id": 10,
+  "name": "Hill Country Red",
+  "description": "Hill Country Red is a stunning Texas heirloom okra variety featuring deep red pods, red stems, and even red-veined leaves. This ornamental and edible variety produces tender, flavorful pods that retain some red color when cooked. Hill Country Red is both productive and beautiful, making it perfect for edible landscaping. The vibrant red color makes pods easy to spot during harvest, and the plant itself is a garden showstopper.",
+  "growth_info": {
+    "growth_mode": "Upright",
+    "days_to_harvest": {
+      "lower_estimate": 55,
+      "higher_estimate": 65
+    },
+    "plant_height": "48-72 inches",
+    "spacing": "18-24 inches",
+    "is_container_variety": false,
+    "recommended_container_size": "N/A",
+    "needs_support": false
+  },
+  "appearance": {
+    "flower_color": "Cream to yellow with dark red center",
+    "leaf_color": "Green with red veining and red stems"
+  },
+  "care_requirements": {
+    "water_requirement": "Regular watering, keep soil consistently moist",
+    "feeding_requirement": "Balanced fertilizer every 3-4 weeks",
+    "requires_pruning": false
+  },
+  "harvest_storage": {
+    "typical_yield": "15-25 pods per plant",
+    "best_uses": ["Ornamental Gardens", "Fresh Cooking", "Frying", "Pickling", "Edible Landscaping"]
+  },
+  "tolerances": {
+    "heat_tolerance": "Excellent - thrives in extreme heat",
+    "cold_tolerance": "Poor",
+    "frost_tolerance": false,
+    "drought_tolerance": "High - very drought tolerant once established",
+    "disease_resistance": []
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Tender, mild, sweet okra flavor - similar to green varieties but slightly sweeter"
+  },
+  "fruit_characteristics": {
+    "fruit_color": "Deep burgundy-red (may turn greenish when cooked but retains some red)",
+    "fruit_weight": "1-2 ounces",
+    "skin_thickness": "Thin",
+    "seed_cavity_size": "Small",
+    "storage_quality": "Best fresh, 2-3 days refrigerated",
+    "crack_resistance": "Good"
+  },
+  "fun_fact": "Did you know? Hill Country Red okra is a Texas heirloom that's as beautiful as it is productive! The entire plant - stems, leaf veins, and pods - displays vibrant red coloring. The red pods are incredibly easy to spot during harvest, and the plant itself is stunning enough to use in ornamental flower beds!",
+  "planting_tip": "Plant Hill Country Red in well-drained soil with full sun. This variety loves hot, dry Texas-style conditions. Water regularly during establishment, then can tolerate some drought. Harvest pods when 3-5 inches long while still tender. The red color makes them easy to find! Plant in front of gardens as an ornamental focal point. Excellent for hot, dry climates."
+},
+{
+  "id": 11,
+  "name": "Perkins Long Pod",
+  "description": "Perkins Long Pod is a classic heirloom okra variety dating back to the early 1900s, known for its impressive productivity and long, slender pods. This reliable variety produces abundant yields of 7-8 inch spineless pods that are tender and flavorful. Perkins Long Pod is a favorite among commercial growers and canners for its uniform pods, excellent quality, and dependable performance. It's perfect for making pickled okra and canning projects.",
+  "growth_info": {
+    "growth_mode": "Upright, vigorous",
+    "days_to_harvest": {
+      "lower_estimate": 56,
+      "higher_estimate": 65
+    },
+    "plant_height": "48-60 inches",
+    "spacing": "18-24 inches",
+    "is_container_variety": false,
+    "recommended_container_size": "N/A",
+    "needs_support": false
+  },
+  "appearance": {
+    "flower_color": "Yellow with dark center",
+    "leaf_color": "Green"
+  },
+  "care_requirements": {
+    "water_requirement": "Regular watering, keep soil consistently moist",
+    "feeding_requirement": "Balanced fertilizer every 3-4 weeks",
+    "requires_pruning": false
+  },
+  "harvest_storage": {
+    "typical_yield": "20-30 pods per plant",
+    "best_uses": ["Canning", "Pickling", "Freezing", "Fresh Cooking", "Commercial Production"]
+  },
+  "tolerances": {
+    "heat_tolerance": "Excellent",
+    "cold_tolerance": "Poor",
+    "frost_tolerance": false,
+    "drought_tolerance": "Moderate",
+    "disease_resistance": []
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Classic, mild okra flavor - tender and non-fibrous when harvested at proper size"
+  },
+  "fruit_characteristics": {
+    "fruit_color": "Medium to dark green",
+    "fruit_weight": "2-3 ounces",
+    "skin_thickness": "Thin",
+    "seed_cavity_size": "Small",
+    "storage_quality": "Excellent for canning and freezing, 2-3 days fresh",
+    "crack_resistance": "Excellent"
+  },
+  "fun_fact": "Did you know? Perkins Long Pod has been a commercial standard since 1900 and is still widely grown for canning and pickling operations! It produces incredibly uniform 7-8 inch pods that are perfect for fitting into jars. This heirloom variety is prized for its reliability and productivity.",
+  "planting_tip": "Plant Perkins Long Pod in well-drained soil with full sun. Space plants 18-24 inches apart. Water consistently for best production. This variety is extremely productive and sets pods continuously. Harvest when 6-8 inches long for optimal tenderness. Perfect for preserving projects - the uniform size makes canning and pickling easy. Highly reliable variety for home and market gardens."
+},
+{
+  "id": 12,
+  "name": "Jade",
+  "description": "Jade okra is a modern hybrid variety bred for superior tenderness, productivity, and spineless pods. This reliable variety produces beautiful, smooth, dark green pods that maintain tenderness even when slightly overgrown. Jade offers excellent disease resistance and performs consistently in various growing conditions. With strong, upright plants and easy harvesting, Jade is perfect for both home gardeners and market growers seeking premium quality okra.",
+  "growth_info": {
+    "growth_mode": "Upright, sturdy",
+    "days_to_harvest": {
+      "lower_estimate": 50,
+      "higher_estimate": 60
+    },
+    "plant_height": "48-60 inches",
+    "spacing": "18-24 inches",
+    "is_container_variety": false,
+    "recommended_container_size": "N/A",
+    "needs_support": false
+  },
+  "appearance": {
+    "flower_color": "Cream with slight pink tinge",
+    "leaf_color": "Dark green"
+  },
+  "care_requirements": {
+    "water_requirement": "Regular watering, keep soil consistently moist",
+    "feeding_requirement": "Balanced fertilizer every 3-4 weeks",
+    "requires_pruning": false
+  },
+  "harvest_storage": {
+    "typical_yield": "20-35 pods per plant",
+    "best_uses": ["Fresh Cooking", "Freezing", "Frying", "Grilling", "Market Gardens"]
+  },
+  "tolerances": {
+    "heat_tolerance": "Excellent - performs well in high heat",
+    "cold_tolerance": "Poor",
+    "frost_tolerance": false,
+    "drought_tolerance": "Moderate to High",
+    "disease_resistance": ["Fusarium Wilt", "Good General Disease Resistance"]
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Exceptionally tender and mild - very little mucilage, sweet okra flavor"
+  },
+  "fruit_characteristics": {
+    "fruit_color": "Dark glossy green",
+    "fruit_weight": "1-2 ounces",
+    "skin_thickness": "Thin, smooth",
+    "seed_cavity_size": "Very small",
+    "storage_quality": "Excellent, 3-5 days refrigerated",
+    "crack_resistance": "Excellent"
+  },
+  "fun_fact": "Did you know? Jade okra is completely spineless and produces exceptionally smooth, tender pods that stay tender longer than most varieties! It's a favorite among market growers because the pods maintain premium quality even if harvest is delayed by a day or two - very forgiving!",
+  "planting_tip": "Plant Jade in well-drained soil with full sun after soil warms to 65-70°F. Space plants 18-24 inches apart. Water consistently and fertilize every 3-4 weeks. Harvest pods when 3-6 inches long - they stay tender even when larger. The spineless, smooth pods make harvesting comfortable. Excellent disease resistance makes this a reliable, low-maintenance choice for consistent production."
+}
           ]
         },
         {
@@ -2094,7 +3084,277 @@
               "flower_characteristics": null,
               "fun_fact": "Silver Queen has been a garden staple since 1956 and is often called the 'Queen of White Corn'! It's so popular that some gardeners won't grow any other variety, and many farm stands sell out of Silver Queen first!",
               "planting_tip": "Silver Queen needs warm soil (at least 65°F) to germinate well. Plant in blocks of at least 4 rows for best pollination. This variety loves heat and performs exceptionally well in hot summer climates. Pick ears when silks are brown and dry for peak sweetness."
-            }
+            },
+            {
+  "id": 6,
+  "name": "Honey Select Hybrid",
+  "description": "Honey Select is a premium tricolor hybrid sweet corn variety that produces stunning ears with a mix of yellow, white, and bi-color kernels. This sugary-enhanced (SE) corn offers exceptional sweetness that holds well after harvest, making it perfect for fresh eating and market sales. Honey Select combines excellent flavor with strong disease resistance and adaptability to various growing conditions. The tall, vigorous plants produce uniform ears with excellent tip fill.",
+  "growth_info": {
+    "growth_mode": "Upright",
+    "days_to_harvest": {
+      "lower_estimate": 79,
+      "higher_estimate": 85
+    },
+    "plant_height": "6-7 feet",
+    "spacing": "12-18 inches apart in rows 30-36 inches apart",
+    "is_container_variety": false,
+    "recommended_container_size": "Not recommended for containers",
+    "needs_support": false
+  },
+  "appearance": {
+    "flower_color": "Yellow (tassels)",
+    "leaf_color": "Dark green"
+  },
+  "care_requirements": {
+    "water_requirement": "1-1.5 inches per week, consistent moisture during ear development",
+    "feeding_requirement": "Balanced fertilizer at planting and side-dress when knee-high",
+    "requires_pruning": false
+  },
+  "harvest_storage": {
+    "typical_yield": "1-2 large ears per stalk",
+    "best_uses": ["Fresh eating", "Grilling", "Freezing", "Market sales", "Extended harvest window"]
+  },
+  "tolerances": {
+    "heat_tolerance": "Excellent",
+    "cold_tolerance": "Poor",
+    "frost_tolerance": false,
+    "drought_tolerance": "Good",
+    "disease_resistance": ["Common Rust", "Northern Corn Leaf Blight", "Stewart's Wilt"]
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Exceptionally sweet, tender-crisp texture, holds sweetness for 3-5 days after picking"
+  },
+  "fruit_characteristics": {
+    "fruit_color": "Tricolor (yellow, white, and bi-color kernels)",
+    "fruit_weight": "12-14 ounces",
+    "skin_thickness": "Thin, tender kernels",
+    "seed_cavity_size": "N/A",
+    "storage_quality": "Excellent - sweetness holds for 3-5 days refrigerated",
+    "crack_resistance": "Excellent"
+  },
+  "herb_characteristics": null,
+  "root_characteristics": null,
+  "leaf_crop_characteristics": null,
+  "flower_characteristics": null,
+  "fun_fact": "Did you know? Honey Select is a sugary-enhanced (SE) corn, which means it converts less sugar to starch after harvest compared to traditional sweet corn, keeping it sweeter longer! The tricolor ears make every harvest a surprise with their beautiful mix of yellow, white, and bi-colored kernels.",
+  "planting_tip": "Plant Honey Select in warm soil (60°F+) in blocks of at least 4 rows for best pollination. Water deeply and consistently, especially during tasseling and silk formation. This variety has excellent disease resistance and performs well in various conditions. Harvest window is longer than standard varieties - ears maintain quality for several days at peak ripeness."
+},
+{
+  "id": 7,
+  "name": "Bodacious",
+  "description": "Bodacious is a highly productive hybrid yellow sweet corn variety known for its outstanding flavor, large ears, and reliable performance. This sugary-enhanced corn produces hefty 8-9 inch ears with excellent tip fill and plump, sweet kernels. Bodacious is prized for its strong stalks that resist lodging, consistent yields even in challenging conditions, and extended harvest window. It's a favorite among both home gardeners and commercial growers.",
+  "growth_info": {
+    "growth_mode": "Upright, sturdy stalks",
+    "days_to_harvest": {
+      "lower_estimate": 75,
+      "higher_estimate": 83
+    },
+    "plant_height": "6.5-7.5 feet",
+    "spacing": "12-18 inches apart in rows 30-36 inches apart",
+    "is_container_variety": false,
+    "recommended_container_size": "Not recommended for containers",
+    "needs_support": false
+  },
+  "appearance": {
+    "flower_color": "Yellow (tassels)",
+    "leaf_color": "Dark green"
+  },
+  "care_requirements": {
+    "water_requirement": "1-1.5 inches per week, especially during ear development",
+    "feeding_requirement": "Heavy feeder - nitrogen-rich fertilizer at planting and side-dress when knee-high",
+    "requires_pruning": false
+  },
+  "harvest_storage": {
+    "typical_yield": "1-2 large ears per stalk",
+    "best_uses": ["Fresh eating", "Grilling", "Boiling", "Freezing", "Market sales"]
+  },
+  "tolerances": {
+    "heat_tolerance": "Excellent - performs well in hot conditions",
+    "cold_tolerance": "Poor",
+    "frost_tolerance": false,
+    "drought_tolerance": "Good - better than many hybrids",
+    "disease_resistance": ["Common Rust", "Northern Corn Leaf Blight", "Stewart's Wilt"]
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Intensely sweet, rich corn flavor with tender-crisp texture"
+  },
+  "fruit_characteristics": {
+    "fruit_color": "Golden yellow",
+    "fruit_weight": "14-16 ounces",
+    "skin_thickness": "Thin, tender kernels",
+    "seed_cavity_size": "N/A",
+    "storage_quality": "Very good - holds sweetness well for 3-4 days refrigerated",
+    "crack_resistance": "Excellent"
+  },
+  "herb_characteristics": null,
+  "root_characteristics": null,
+  "leaf_crop_characteristics": null,
+  "flower_characteristics": null,
+  "fun_fact": "Did you know? Bodacious has won numerous taste tests and awards for its exceptional flavor! It's known for producing consistently large, well-filled ears even in less-than-ideal conditions, earning its reputation as one of the most reliable sweet corn varieties available.",
+  "planting_tip": "Plant Bodacious in blocks of at least 4 rows for optimal pollination. Strong stalks resist wind damage better than many varieties. Water deeply during ear development for best kernel fill. This variety has excellent disease resistance, making it a low-maintenance choice. Succession plant every 2 weeks for continuous harvest through summer."
+},
+{
+  "id": 8,
+  "name": "Stowell's Evergreen",
+  "description": "Stowell's Evergreen is a legendary heirloom white corn variety dating back to 1848, famous for its incredibly long harvest window and excellent keeping quality. This tall, vigorous variety produces large ears that remain in prime eating condition longer than almost any other corn. The name 'Evergreen' refers to the fact that the kernels stay tender and sweet for an extended period. It's a favorite for late-season planting and successive harvests.",
+  "growth_info": {
+    "growth_mode": "Upright, tall",
+    "days_to_harvest": {
+      "lower_estimate": 95,
+      "higher_estimate": 105
+    },
+    "plant_height": "7-9 feet",
+    "spacing": "12-18 inches apart in rows 30-36 inches apart",
+    "is_container_variety": false,
+    "recommended_container_size": "Not recommended for containers",
+    "needs_support": false
+  },
+  "appearance": {
+    "flower_color": "Yellow (tassels)",
+    "leaf_color": "Green"
+  },
+  "care_requirements": {
+    "water_requirement": "1-1.5 inches per week, consistent moisture important",
+    "feeding_requirement": "Heavy feeder - nitrogen-rich fertilizer at planting and side-dress when knee-high",
+    "requires_pruning": false
+  },
+  "harvest_storage": {
+    "typical_yield": "2 large ears per stalk",
+    "best_uses": ["Fresh eating", "Canning", "Freezing", "Creamed corn", "Extended harvest"]
+  },
+  "tolerances": {
+    "heat_tolerance": "Excellent - thrives in heat",
+    "cold_tolerance": "Poor",
+    "frost_tolerance": false,
+    "drought_tolerance": "Good once established",
+    "disease_resistance": ["Moderate disease resistance"]
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Sweet, rich, old-fashioned corn flavor - tender and stays sweet longer than modern varieties"
+  },
+  "fruit_characteristics": {
+    "fruit_color": "White to cream",
+    "fruit_weight": "12-16 ounces",
+    "skin_thickness": "Thin to medium kernels",
+    "seed_cavity_size": "N/A",
+    "storage_quality": "Exceptional - ears remain in eating condition for 7-10 days, excellent for canning",
+    "crack_resistance": "Good"
+  },
+  "herb_characteristics": null,
+  "root_characteristics": null,
+  "leaf_crop_characteristics": null,
+  "flower_characteristics": null,
+  "fun_fact": "Did you know? Stowell's Evergreen was developed in 1848 by Nathan Stowell of New Jersey and has been grown continuously for over 175 years! It revolutionized corn growing because the ears stayed tender and sweet much longer than other varieties of the time, earning the name 'Evergreen.'",
+  "planting_tip": "This tall variety needs warm soil (65°F+) and full sun. Plant in blocks for good pollination. The extended harvest window means ears can be picked over a longer period without becoming tough. Excellent for succession planting and late-season crops. The tall stalks can handle some wind but may need support in very windy areas."
+},
+{
+  "id": 9,
+  "name": "Painted Mountain",
+  "description": "Painted Mountain is a unique, cold-hardy flour corn variety bred specifically for short growing seasons and harsh climates. This stunning ornamental corn displays a rainbow of colors including burgundy, gold, orange, blue, and white kernels. Developed in Montana, Painted Mountain matures faster than most corn varieties and can germinate in soil as cool as 50°F. It's perfect for grinding into nutritious, colorful flour or cornmeal and makes beautiful decorative displays.",
+  "growth_info": {
+    "growth_mode": "Upright, compact",
+    "days_to_harvest": {
+      "lower_estimate": 80,
+      "higher_estimate": 90
+    },
+    "plant_height": "4-5 feet",
+    "spacing": "10-12 inches apart in rows 24-30 inches apart",
+    "is_container_variety": false,
+    "recommended_container_size": "Not recommended for containers",
+    "needs_support": false
+  },
+  "appearance": {
+    "flower_color": "Various colors (tassels)",
+    "leaf_color": "Green"
+  },
+  "care_requirements": {
+    "water_requirement": "1 inch per week, drought tolerant once established",
+    "feeding_requirement": "Moderate feeder - balanced fertilizer at planting",
+    "requires_pruning": false
+  },
+  "harvest_storage": {
+    "typical_yield": "1-3 small to medium ears per stalk",
+    "best_uses": ["Grinding into flour/cornmeal", "Decorative corn", "Popcorn", "Polenta", "Northern gardens"]
+  },
+  "tolerances": {
+    "heat_tolerance": "Good",
+    "cold_tolerance": "Excellent - best cold tolerance of any corn",
+    "frost_tolerance": false,
+    "drought_tolerance": "Excellent",
+    "disease_resistance": ["Excellent disease resistance", "Pest resistant"]
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Sweet, nutty, rich flavor when ground into flour - slightly sweet with complex undertones"
+  },
+  "fruit_characteristics": {
+    "fruit_color": "Multicolored (burgundy, gold, orange, blue, white, purple)",
+    "fruit_weight": "4-8 ounces",
+    "skin_thickness": "Hard flint kernels",
+    "seed_cavity_size": "N/A",
+    "storage_quality": "Excellent for long-term storage when dried, high in protein and antioxidants",
+    "crack_resistance": "Excellent"
+  },
+  "herb_characteristics": null,
+  "root_characteristics": null,
+  "leaf_crop_characteristics": null,
+  "flower_characteristics": null,
+  "fun_fact": "Did you know? Painted Mountain was bred specifically for growing at high elevations with short seasons! It can germinate in soil as cool as 50°F and matures in just 80-90 days, making it perfect for northern gardens, high-altitude growing, and short growing seasons where other corn varieties fail.",
+  "planting_tip": "Perfect for short-season climates! Plant as soon as soil reaches 50°F - much earlier than other corn. Space closer than traditional corn due to compact size. Excellent for northern zones 3-5. Allow ears to dry completely on stalks. Grind dried kernels into colorful, nutritious flour high in protein and antioxidants. Can be grown in areas other corn varieties can't!"
+},
+{
+  "id": 10,
+  "name": "Incredible Hybrid",
+  "description": "Incredible is an aptly named supersweet (SH2) hybrid corn variety that delivers extraordinary sweetness and tender-crisp texture. This yellow corn produces large, well-filled ears that stay sweet for an extended period after harvest. Incredible is prized by both home gardeners and market growers for its exceptional eating quality, consistent performance, and superior disease resistance. The sugars are 2-3 times higher than standard sweet corn varieties.",
+  "growth_info": {
+    "growth_mode": "Upright, vigorous",
+    "days_to_harvest": {
+      "lower_estimate": 82,
+      "higher_estimate": 87
+    },
+    "plant_height": "6-7 feet",
+    "spacing": "12-18 inches apart in rows 30-36 inches apart",
+    "is_container_variety": false,
+    "recommended_container_size": "Not recommended for containers",
+    "needs_support": false
+  },
+  "appearance": {
+    "flower_color": "Yellow (tassels)",
+    "leaf_color": "Dark green"
+  },
+  "care_requirements": {
+    "water_requirement": "1-1.5 inches per week, consistent moisture crucial for supersweet varieties",
+    "feeding_requirement": "Heavy feeder - nitrogen-rich fertilizer at planting and side-dress when knee-high",
+    "requires_pruning": false
+  },
+  "harvest_storage": {
+    "typical_yield": "1-2 large ears per stalk",
+    "best_uses": ["Fresh eating", "Raw in salads", "Grilling", "Freezing", "Market sales"]
+  },
+  "tolerances": {
+    "heat_tolerance": "Excellent",
+    "cold_tolerance": "Poor - needs warm soil (70°F+) to germinate",
+    "frost_tolerance": false,
+    "drought_tolerance": "Moderate",
+    "disease_resistance": ["Common Rust", "Northern Corn Leaf Blight", "Stewart's Wilt", "MDM Downy Mildew"]
+  },
+  "flavor_characteristics": {
+    "flavor_profile": "Incredibly sweet - 2-3x sweeter than standard sweet corn, tender-crisp texture, holds sweetness for 7-10 days"
+  },
+  "fruit_characteristics": {
+    "fruit_color": "Bright golden yellow",
+    "fruit_weight": "12-14 ounces",
+    "skin_thickness": "Very thin, tender-crisp kernels",
+    "seed_cavity_size": "N/A",
+    "storage_quality": "Excellent - maintains sweetness for 7-10 days refrigerated",
+    "crack_resistance": "Excellent"
+  },
+  "herb_characteristics": null,
+  "root_characteristics": null,
+  "leaf_crop_characteristics": null,
+  "flower_characteristics": null,
+  "fun_fact": "Did you know? Incredible is a supersweet (SH2) corn, meaning it has 2-3 times more sugar than standard sweet corn! It's so sweet it can be eaten raw right off the stalk. The supersweet gene also means it stays sweet much longer after harvest - up to 10 days refrigerated!",
+  "planting_tip": "IMPORTANT: Supersweet corn must be isolated from other corn types by at least 250 feet or planted 2 weeks earlier/later to prevent cross-pollination. Needs warm soil (70°F+) to germinate - don't rush planting. Water consistently for best kernel development. The exceptional sweetness and long-lasting quality make this ideal for market growers. Harvest when silks are brown and dry."
+}
           ]
         }
     ]
