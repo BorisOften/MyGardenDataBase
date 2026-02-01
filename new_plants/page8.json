@@ -1970,7 +1970,7 @@
           "varieties": [
             {
               "id": 0,
-              "name": "Greek Oregano",
+              "name": "Greek",
               "description": "Greek oregano is the most prized culinary oregano variety, known for its robust, peppery flavor and aromatic intensity. This low-growing, woody perennial produces tiny gray-green leaves and delicate white or pink flowers. It's the preferred choice for Mediterranean cooking and is hardier than most oregano varieties.",
               "growth_info": {
                 "growth_mode": "Compact mounding",
@@ -2018,7 +2018,7 @@
             },
             {
               "id": 1,
-              "name": "Italian Oregano",
+              "name": "Italian",
               "description": "Italian oregano, also known as Sicilian oregano, offers a more delicate flavor than Greek oregano with slightly sweet and earthy undertones. This variety produces broader, softer leaves on more tender stems and grows slightly taller than Greek oregano. It's excellent fresh or dried and is the traditional choice for Italian cuisine.",
               "growth_info": {
                 "growth_mode": "Spreading mound",
@@ -2066,7 +2066,7 @@
             },
             {
               "id": 2,
-              "name": "Golden Oregano",
+              "name": "Golden",
               "description": "Golden oregano is an ornamental and culinary variety prized for its attractive bright golden-yellow foliage that adds visual interest to herb gardens. Despite its delicate appearance, it has a pleasant, mild oregano flavor suitable for culinary use. The plant produces small white or pale pink flowers and is slightly less cold hardy than Greek oregano.",
               "growth_info": {
                 "growth_mode": "Compact spreading",
@@ -2114,7 +2114,7 @@
             },
             {
               "id": 3,
-              "name": "Cuban Oregano",
+              "name": "Cuban",
               "description": "Cuban oregano is not a true oregano but a succulent herb (Plectranthus amboinicus) with thick, fuzzy leaves and an intense oregano-like flavor with hints of thyme and mint. This tropical perennial produces large, aromatic leaves perfect for Caribbean and Latin American cuisine. It's easy to grow, highly drought-tolerant, and makes an excellent houseplant.",
               "growth_info": {
                 "growth_mode": "Upright to trailing",
@@ -2162,7 +2162,7 @@
             },
             {
               "id": 4,
-              "name": "Hot and Spicy Oregano",
+              "name": "Hot and Spicy",
               "description": "Hot and Spicy oregano is a highly aromatic variety developed for its exceptionally intense, peppery flavor that surpasses even Greek oregano in pungency. This compact perennial produces small, gray-green leaves with a powerful aroma and spicy bite. It's perfect for those who want maximum oregano flavor in their Mediterranean dishes and holds up well to long cooking times.",
               "growth_info": {
                 "growth_mode": "Compact, dense mounding",
@@ -2210,7 +2210,7 @@
             },
             {
               "id": 5,
-              "name": "Syrian Oregano",
+              "name": "Syrian",
               "description": "Syrian oregano, also called Bible hyssop or Za'atar, is a Middle Eastern oregano variety with a distinctive savory, earthy flavor profile. This spreading perennial produces soft, silvery-green leaves and is the key ingredient in the famous Middle Eastern spice blend za'atar. It has a milder, more complex flavor than Greek oregano with hints of thyme and marjoram.",
               "growth_info": {
                 "growth_mode": "Low spreading mat",
@@ -2258,7 +2258,7 @@
             },
             {
               "id": 6,
-              "name": "Variegated Oregano",
+              "name": "Variegated",
               "description": "Variegated oregano is a beautiful ornamental and culinary variety featuring striking white and green variegated leaves that brighten any herb garden. Despite its decorative appearance, it offers a pleasant, mild oregano flavor suitable for cooking. This compact perennial produces pink flowers and is slightly less vigorous than solid green varieties, making it perfect for containers and edging.",
               "growth_info": {
                 "growth_mode": "Compact mounding",
@@ -2306,7 +2306,7 @@
             },
             {
               "id": 7,
-              "name": "Mexican Oregano",
+              "name": "Mexican",
               "description": "Mexican oregano is botanically unrelated to Mediterranean oregano (it's from the verbena family) but offers a distinctive oregano-like flavor with citrus and licorice notes. This woody perennial produces small, narrow leaves and stunning tubular flowers that attract pollinators. It's essential for authentic Mexican, Southwestern, and Latin American cuisine and is more heat-loving than true oreganos.",
               "growth_info": {
                 "growth_mode": "Upright, bushy shrub",
@@ -2701,7 +2701,7 @@
             },
             {
               "id": 5,
-              "name": "Wasabi Arugula",
+              "name": "Wasabi",
               "description": "Wasabi arugula is a specialty variety with an exceptionally sharp, wasabi-like heat that sets it apart from traditional arugula. This fast-growing variety produces bright green, lobed leaves with an intense, spicy kick perfect for those who love bold flavors. It's becoming increasingly popular in Asian fusion cuisine and among adventurous gardeners seeking unique flavors.",
               "growth_info": {
                 "growth_mode": "Compact",
