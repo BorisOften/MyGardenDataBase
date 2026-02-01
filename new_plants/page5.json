@@ -309,7 +309,7 @@
                 },
                 {
                     "id": 4,
-                    "name": "Ghost Pepper",
+                    "name": "Ghost",
                     "description": "Ghost Pepper, also known as Bhut Jolokia, is one of the hottest chili peppers in the world, with a Scoville Heat Unit rating exceeding 1,000,000. Originating from Northeast India, these small, wrinkled peppers have a distinctively smoky and fruity flavor. Ghost peppers are used sparingly in culinary dishes, hot sauces, and marinades due to their extreme heat.",
                     "growth_info": {
                         "growth_mode": "Compact bushy",
@@ -459,7 +459,7 @@
                 },
                 {
                     "id": 7,
-                    "name": "Bell Pepper",
+                    "name": "Bell",
                     "description": "Bell Peppers, also known as sweet peppers, are large, blocky peppers with thick walls and a mild, sweet flavor. Unlike most peppers, they contain no capsaicin, making them completely non-spicy with a Scoville rating of 0. Available in multiple colors including green, red, yellow, and orange, Bell Peppers are incredibly versatile in cooking, used fresh in salads, stuffed, roasted, or sautéed in countless dishes.",
                     "growth_info": {
                         "growth_mode": "Upright",
@@ -559,7 +559,7 @@
                 },
                 {
                     "id": 9,
-                    "name": "Banana Pepper",
+                    "name": "Banana",
                     "description": "Banana Peppers are mild, sweet peppers named for their elongated, curved shape and yellow color that resembles a banana. With a Scoville rating of 0-500, they offer a tangy, slightly sweet flavor with minimal heat. These versatile peppers are popular for pickling, stuffing, and adding to sandwiches, pizzas, and salads. Both sweet and hot varieties exist, with the sweet type being more commonly grown in home gardens.",
                     "growth_info": {
                         "growth_mode": "Upright",
@@ -1009,7 +1009,7 @@
                 },
                 {
                     "id": 18,
-                    "name": "Peter Pepper",
+                    "name": "Peter",
                     "description": "Peter Pepper is a rare and unusual heirloom variety known for its distinctive phallic shape that has earned it various humorous nicknames. Beyond its novelty appearance, this pepper is seriously hot with a Scoville rating of 5,000-30,000 and offers a crisp, bright flavor. Available in red and yellow varieties, Peter Peppers are excellent for fresh eating, pickling, and making hot sauces. Their unique appearance and respectable heat make them conversation starters in gardens and at farmers markets.",
                     "growth_info": {
                         "growth_mode": "Upright compact",

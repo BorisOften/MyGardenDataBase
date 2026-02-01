@@ -205,7 +205,7 @@
             },
             {
               "id": 2,
-              "name": "Chocolate Mint",
+              "name": "Chocolate",
               "description": "Chocolate Mint is a delightful mint variety with a unique chocolatey flavor and aroma. This perennial herb features dark green leaves with a hint of purple and is a favorite for culinary uses, desserts, and aromatic purposes. Chocolate Mint adds a sweet and refreshing twist to various dishes and beverages.",
               "growth_info": {
                 "growth_mode": "Spreading via rhizomes",
@@ -253,7 +253,7 @@
             },
             {
               "id": 3,
-              "name": "Apple Mint",
+              "name": "Apple",
               "description": "Apple Mint, also known as Pineapple Mint, is a mint variety with a fruity and refreshing flavor. This perennial herb has bright green leaves and is popular for culinary uses, beverages, and garnishes. Apple Mint adds a delightful twist to salads, desserts, and drinks with its apple-like taste and aroma.",
               "growth_info": {
                 "growth_mode": "Spreading via rhizomes",
@@ -349,7 +349,7 @@
             },
             {
   "id": 5,
-  "name": "Orange Mint",
+  "name": "Orange",
   "description": "Orange Mint is a delightful mint variety that combines traditional mint flavor with bright citrus notes reminiscent of orange peel. This perennial herb features smooth, rounded leaves with a distinct orange fragrance and is excellent for both culinary and ornamental purposes. Orange Mint adds a unique citrusy-mint twist to beverages, desserts, and savory dishes, making it a versatile addition to any herb garden.",
   "growth_info": {
     "growth_mode": "Spreading via rhizomes",
@@ -397,7 +397,7 @@
 },
 {
   "id": 6,
-  "name": "Ginger Mint",
+  "name": "Ginger",
   "description": "Ginger Mint is a striking mint variety featuring bright yellow and green variegated foliage with a subtle ginger-mint flavor. This perennial herb is prized for its ornamental beauty and unique taste that combines traditional mint with hints of ginger spice. Ginger Mint adds both visual interest and culinary versatility to gardens, making it popular for decorative plantings, beverages, and Asian-inspired cuisine.",
   "growth_info": {
     "growth_mode": "Spreading via rhizomes",
@@ -445,7 +445,7 @@
 },
 {
   "id": 7,
-  "name": "Pineapple Mint",
+  "name": "Pineapple",
   "description": "Pineapple Mint is a beautiful variegated mint variety with creamy white edges on its soft, fuzzy leaves and a delightful fruity flavor. This perennial herb combines ornamental appeal with culinary versatility, offering a mild mint taste with tropical pineapple notes. Less aggressive than many mint varieties, Pineapple Mint is perfect for containers, borders, and as a stunning edible garnish.",
   "growth_info": {
     "growth_mode": "Spreading via rhizomes (less aggressive than other mints)",
@@ -493,7 +493,7 @@
 },
 {
   "id": 8,
-  "name": "Mojito Mint",
+  "name": "Mojito",
   "description": "Mojito Mint, also known as Cuban Mint or Yerba Buena, is the authentic mint variety traditionally used in classic Cuban mojitos. This perennial herb features bright green leaves with a perfectly balanced mint flavor that's neither too strong nor too mild. With a smoother, less harsh taste than peppermint and more robust flavor than spearmint, Mojito Mint is the ideal choice for cocktails, beverages, and Caribbean cuisine.",
   "growth_info": {
     "growth_mode": "Spreading via rhizomes",
@@ -541,7 +541,7 @@
 },
 {
   "id": 9,
-  "name": "Corsican Mint",
+  "name": "Corsican",
   "description": "Corsican Mint is a unique, miniature mint variety that forms a dense, moss-like ground cover with tiny, rounded leaves. This perennial herb releases a strong peppermint fragrance when walked upon, making it perfect for planting between stepping stones and in rock gardens. While primarily ornamental, Corsican Mint can be used sparingly in culinary applications and is prized for creating fragrant, low-maintenance ground cover in shady areas.",
   "growth_info": {
     "growth_mode": "Mat-forming ground cover",
@@ -696,7 +696,7 @@
           "varieties": [
             {
               "id": 0,
-              "name": "Bouquet Dill",
+              "name": "Bouquet",
               "description": "Bouquet Dill is a popular dill variety known for its feathery foliage and strong, aromatic flavor. This annual herb is commonly used in culinary applications, pickling, and as a garnish. With its upright growth habit and delicate leaves, Bouquet Dill is a versatile and flavorful addition to herb gardens and kitchen windowsills.",
               "growth_info": {
                 "growth_mode": "Upright, single stem",
@@ -744,7 +744,7 @@
             },
             {
               "id": 1,
-              "name": "Fernleaf Dill",
+              "name": "Fernleaf",
               "description": "Fernleaf Dill is a compact and dwarf dill variety known for its finely cut, fern-like foliage. This annual herb is prized for its culinary uses, especially in salads, sauces, and fish dishes. With its compact growth habit, Fernleaf Dill is suitable for small gardens, containers, and indoor herb gardens.",
               "growth_info": {
                 "growth_mode": "Compact, bushy",
@@ -792,7 +792,7 @@
             },
             {
               "id": 2,
-              "name": "Mammoth Dill",
+              "name": "Mammoth",
               "description": "Mammoth Dill is a tall and vigorous dill variety known for its large, umbrella-like flower heads. This annual herb is valued for its culinary uses, especially in pickling and flavoring various dishes. With its robust growth habit, Mammoth Dill is a classic choice for larger herb gardens and farm plantings.",
               "growth_info": {
                 "growth_mode": "Tall, upright, vigorous",
@@ -840,7 +840,7 @@
             },
             {
   "id": 3,
-  "name": "Dukat Dill",
+  "name": "Dukat",
   "description": "Dukat Dill is a premium European variety known for its exceptional flavor and high essential oil content. This annual herb produces abundant, aromatic foliage with a sweeter, more refined taste than common dill varieties. Dukat is slower to bolt than most dill varieties, providing an extended harvest period. It's a favorite among chefs and serious gardeners for its superior culinary quality and productivity.",
   "growth_info": {
     "growth_mode": "Upright, well-branched",
@@ -1032,7 +1032,7 @@
 },
 {
   "id": 7,
-  "name": "Tetra Dill",
+  "name": "Tetra",
   "description": "Tetra Dill is a specialized tetraploid variety with thicker stems, larger leaves, and more robust growth than standard diploid dill. This annual herb was developed through chromosome doubling, resulting in exceptionally vigorous plants with enhanced flavor and aroma. Tetra produces abundant, substantial foliage perfect for both fresh use and drying, making it a favorite for commercial herb production and serious home gardeners seeking maximum yield.",
   "growth_info": {
     "growth_mode": "Upright, robust, thick-stemmed",
@@ -1187,7 +1187,7 @@
           "varieties": [
             {
               "id": 0,
-              "name": "Common Sage",
+              "name": "Common",
               "description": "Common Sage, also known as Garden Sage, is a well-known and versatile herb with gray-green leaves and a distinct earthy flavor. This perennial herb is widely used in culinary applications, teas, and for its aromatic properties. Common Sage is known for its hardiness and can be a valuable addition to herb gardens and landscapes.",
               "growth_info": {
                 "growth_mode": "Upright, woody subshrub",
@@ -1235,7 +1235,7 @@
             },
             {
               "id": 1,
-              "name": "Pineapple Sage",
+              "name": "Pineapple",
               "description": "Pineapple Sage is a unique and aromatic sage variety with bright green leaves and a sweet pineapple fragrance. This perennial herb is valued for its culinary uses, teas, and ornamental appeal. Pineapple Sage is known for attracting pollinators with its vibrant red tubular flowers and is a delightful addition to herb gardens and landscape borders.",
               "growth_info": {
                 "growth_mode": "Upright, bushy",
@@ -1283,7 +1283,7 @@
             },
             {
               "id": 2,
-              "name": "Tricolor Sage",
+              "name": "Tricolor",
               "description": "Tricolor Sage is a visually stunning sage variety with variegated leaves featuring shades of green, purple, and white. This perennial herb is not only prized for its ornamental appeal but also for its culinary uses. Tricolor Sage adds a burst of color to herb gardens and is an excellent choice for decorative containers.",
               "growth_info": {
                 "growth_mode": "Compact, bushy subshrub",
@@ -1331,7 +1331,7 @@
             },
             {
   "id": 3,
-  "name": "Purple Sage",
+  "name": "Purple",
   "description": "Purple Sage is a striking ornamental and culinary herb featuring beautiful purple-gray foliage with a soft, velvety texture. This perennial subshrub combines the classic sage flavor with stunning visual appeal, making it equally valuable in the kitchen and garden. Purple Sage is slightly milder than common sage and is prized for its drought tolerance, aromatic leaves, and ability to add both flavor and color to culinary creations and landscape designs.",
   "growth_info": {
     "growth_mode": "Upright, woody subshrub",
@@ -1379,7 +1379,7 @@
 },
 {
   "id": 4,
-  "name": "Golden Sage",
+  "name": "Golden",
   "description": "Golden Sage is a beautiful variegated variety featuring bright green leaves with golden-yellow edges and splashes. This perennial herb offers the classic sage flavor while adding a bright, sunny accent to herb gardens and containers. Golden Sage is valued for its ornamental beauty, culinary uses, and ability to brighten shady corners of the garden with its luminous foliage.",
   "growth_info": {
     "growth_mode": "Compact, bushy subshrub",
@@ -1427,7 +1427,7 @@
 },
 {
   "id": 5,
-  "name": "Berggarten Sage",
+  "name": "Berggarten",
   "description": "Berggarten Sage is a German cultivar known for its large, rounded leaves and compact, non-flowering habit. This perennial herb produces broad, silvery-green foliage with exceptional flavor and minimal flowering, allowing for extended leaf production throughout the season. Berggarten is prized by chefs for its superior culinary quality and by gardeners for its attractive, low-maintenance growth habit.",
   "growth_info": {
     "growth_mode": "Compact, mounding subshrub",
@@ -1475,7 +1475,7 @@
 },
 {
   "id": 6,
-  "name": "White Sage",
+  "name": "White",
   "description": "White Sage, also known as Bee Sage, is a distinctive California native with striking silvery-white foliage and powerful aromatic properties. This perennial subshrub is sacred to many Indigenous peoples and is traditionally used for ceremonial smudging and spiritual practices. White Sage features intensely aromatic leaves covered in fine white hairs and produces tall spikes of white to pale lavender flowers that attract numerous pollinators.",
   "growth_info": {
     "growth_mode": "Upright, open subshrub",
@@ -1523,7 +1523,7 @@
 },
 {
   "id": 7,
-  "name": "Clary Sage",
+  "name": "Clary",
   "description": "Clary Sage is a biennial or short-lived perennial herb known for its large, aromatic leaves and spectacular flower spikes with colorful bracts. This ornamental and medicinal sage produces impressive flowering displays in its second year, with pink, purple, or white bracts surrounding small flowers. Clary Sage has been traditionally used for its essential oils, medicinal properties, and as a flavoring agent, though it has a distinctly different flavor from culinary sage.",
   "growth_info": {
     "growth_mode": "Upright, rosette-forming biennial",
@@ -1774,7 +1774,7 @@
             },
             {
               "id": 2,
-              "name": "Barbecue Rosemary",
+              "name": "Barbecue",
               "description": "Barbecue Rosemary is a robust and flavorful rosemary variety with dark green leaves and a strong aromatic profile. This perennial herb is specially bred for its culinary uses, particularly in grilling and barbecuing. Barbecue Rosemary adds a savory touch to meat and vegetable dishes, making it a favorite for outdoor cooking enthusiasts.",
               "growth_info": {
                 "growth_mode": "Upright, bushy",
@@ -1822,7 +1822,7 @@
             },
             {
   "id": 3,
-  "name": "Prostrate Rosemary",
+  "name": "Prostrate",
   "description": "Prostrate Rosemary, also known as Creeping Rosemary, is a low-growing, cascading variety with trailing stems that make it perfect for hanging baskets, containers, and ground cover. This perennial herb features the classic rosemary fragrance and flavor while offering unique ornamental value with its graceful, weeping habit. Prostrate Rosemary produces abundant pale blue flowers and is excellent for slopes, walls, and erosion control.",
   "growth_info": {
     "growth_mode": "Prostrate, trailing, cascading",
@@ -1870,7 +1870,7 @@
 },
 {
   "id": 4,
-  "name": "Blue Boy Rosemary",
+  "name": "Blue Boy",
   "description": "Blue Boy Rosemary is a compact, dwarf variety perfect for small gardens, containers, and edging. This perennial herb maintains a naturally rounded, bushy shape without extensive pruning and produces abundant bright blue flowers. Despite its diminutive size, Blue Boy offers full-strength rosemary flavor and fragrance, making it ideal for kitchen windowsills, small patios, and urban gardening where space is limited.",
   "growth_info": {
     "growth_mode": "Compact, rounded, dwarf",
@@ -1966,7 +1966,7 @@
 },
 {
   "id": 6,
-  "name": "Golden Rain Rosemary",
+  "name": "Golden Rain",
   "description": "Golden Rain Rosemary is a striking variegated variety featuring green needles streaked with golden-yellow, creating a bright, sunny appearance in the garden. This perennial herb offers the classic rosemary flavor while providing exceptional ornamental value with its colorful foliage. Golden Rain is particularly beautiful in spring when new growth emerges with the most intense golden coloration, making it a favorite for decorative containers and landscape accents.",
   "growth_info": {
     "growth_mode": "Upright, semi-erect",
@@ -2014,7 +2014,7 @@
 },
 {
   "id": 7,
-  "name": "Salem Rosemary",
+  "name": "Salem",
   "description": "Salem Rosemary is a cold-hardy, upright variety developed specifically for northern climates and challenging growing conditions. This perennial herb features pale blue flowers and good culinary quality while offering exceptional cold tolerance rivaling that of Arp. Salem maintains a neat, upright habit and produces abundant foliage with classic rosemary flavor, making it an excellent choice for gardeners in zones where most rosemary varieties struggle.",
   "growth_info": {
     "growth_mode": "Upright, bushy",
@@ -2169,7 +2169,7 @@
           "varieties": [
             {
               "id": 0,
-              "name": "Common Chives",
+              "name": "Common",
               "description": "Common Chives, also known as Allium schoenoprasum, are a classic and versatile herb with slender, hollow leaves and a mild onion flavor. This perennial herb is popular in culinary applications, adding a fresh and subtle onion taste to a variety of dishes. Common Chives are easy to grow and are a staple in herb gardens and kitchen windowsills.",
               "growth_info": {
                 "growth_mode": "Clumping, grass-like",
@@ -2217,7 +2217,7 @@
             },
             {
               "id": 1,
-              "name": "Garlic Chives",
+              "name": "Garlic",
               "description": "Garlic Chives, also known as Allium tuberosum or Chinese Chives, are a flavorful herb with flat, strap-like leaves and a distinct garlic taste. This perennial herb is widely used in culinary dishes, providing a mild garlic flavor without the intensity of fresh garlic. Garlic Chives are valued for their versatility and are a popular choice for both herb gardens and Asian cuisines.",
               "growth_info": {
                 "growth_mode": "Clumping, upright",
@@ -2265,7 +2265,7 @@
             },
             {
               "id": 2,
-              "name": "Society Garlic",
+              "name": "Society",
               "description": "Society Garlic, botanically known as Tulbaghia violacea, is not a true chive but a related ornamental herb with narrow, strap-like leaves and a mild garlic flavor. This perennial is valued for its ornamental appeal and culinary uses. Society Garlic is known for its pretty lilac-pink flowers that bloom profusely and is suitable for both herb gardens and landscape borders.",
               "growth_info": {
                 "growth_mode": "Clumping, upright",
@@ -2313,7 +2313,7 @@
             },
             {
   "id": 3,
-  "name": "Siberian Garlic Chives",
+  "name": "Siberian Garlic",
   "description": "Siberian Garlic Chives, also known as Blue Chives or Allium nutans, are a unique variety with distinctive blue-green foliage and nodding pink to purple flowers. This perennial herb offers a mild garlic-onion flavor and exceptional cold hardiness. Siberian Garlic Chives are prized for their ornamental beauty, culinary versatility, and ability to thrive in harsh climates where other chives might struggle.",
   "growth_info": {
     "growth_mode": "Clumping, upright with arching leaves",
@@ -2361,7 +2361,7 @@
 },
 {
   "id": 4,
-  "name": "Fine Leaf Chives",
+  "name": "Fine Leaf",
   "description": "Fine Leaf Chives, also known as Fine-Leaved Chives or Slender Chives, are a delicate variety with extremely thin, thread-like leaves and a refined onion flavor. This perennial herb is prized by chefs for its elegant appearance and tender texture. Fine Leaf Chives produce abundant purple flowers and are perfect for garnishing delicate dishes where the standard chive might be too coarse or overpowering.",
   "growth_info": {
     "growth_mode": "Clumping, grass-like with fine texture",
@@ -2409,7 +2409,7 @@
 },
 {
   "id": 5,
-  "name": "Giant Siberian Chives",
+  "name": "Giant Siberian",
   "description": "Giant Siberian Chives are a robust, large-leaved variety with broad, flat foliage and a strong garlic flavor. This perennial herb produces the largest leaves of any chive variety, making it highly productive and valued for culinary use. Giant Siberian Chives offer exceptional cold hardiness combined with vigorous growth, producing showy white flower clusters and abundant foliage throughout the growing season.",
   "growth_info": {
     "growth_mode": "Clumping, vigorous upright",
@@ -2457,7 +2457,7 @@
 },
 {
   "id": 6,
-  "name": "Forescate Chives",
+  "name": "Forescate",
   "description": "Forescate Chives are a unique ornamental variety bred specifically for their abundant, vibrant pink to rose-purple flowers and compact growth habit. This perennial herb produces numerous flowers over an extended period, making it valuable as both an edible ornamental and culinary herb. Forescate offers the mild onion flavor of common chives while providing exceptional visual appeal with its profuse blooms that attract pollinators.",
   "growth_info": {
     "growth_mode": "Compact, clumping",
@@ -2505,7 +2505,7 @@
 },
 {
   "id": 7,
-  "name": "Staro Chives",
+  "name": "Staro",
   "description": "Staro Chives are a vigorous, high-yielding variety bred for commercial production and home gardens seeking maximum productivity. This perennial herb produces thick, uniform clumps of bright green, hollow leaves with excellent flavor and texture. Staro is valued for its rapid regrowth after cutting, disease resistance, and ability to produce abundant harvests throughout the growing season, making it a favorite among market gardeners and culinary enthusiasts.",
   "growth_info": {
     "growth_mode": "Dense clumping, very vigorous",
