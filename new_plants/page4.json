@@ -1512,56 +1512,6 @@
             },
             {
               "id": 2,
-              "name": "Zucchini",
-              "description": "Zucchini, also known as summer squash, is a versatile and prolific variety with tender green fruits. The mild flavor and tender texture make it a favorite for various cooking methods. With a bushy growth habit, it is suitable for both traditional gardens and containers.",
-              "growth_info": {
-                "growth_mode": "Bushy",
-                "days_to_harvest": {
-                  "lower_estimate": 50,
-                  "higher_estimate": 60
-                },
-                "plant_height": "24-36 inches",
-                "spacing": "2-3 feet",
-                "is_container_variety": true,
-                "recommended_container_size": "18-24 inch diameter container minimum",
-                "needs_support": false
-              },
-              "appearance": {
-                "flower_color": "Yellow",
-                "leaf_color": "Green"
-              },
-              "care_requirements": {
-                "water_requirement": "Regular watering - keep soil consistently moist",
-                "feeding_requirement": "Balanced fertilizer - feed every 2-3 weeks",
-                "requires_pruning": false
-              },
-              "harvest_storage": {
-                "typical_yield": "0.5-1 pound per fruit",
-                "best_uses": ["Grilling", "Sauteing", "Baking"]
-              },
-              "tolerances": {
-                "heat_tolerance": "Good",
-                "cold_tolerance": "Poor",
-                "frost_tolerance": false,
-                "drought_tolerance": "Low",
-                "disease_resistance": ["Bacterial Wilt"]
-              },
-              "flavor_characteristics": {
-                "flavor_profile": "Mild and tender"
-              },
-              "fruit_characteristics": {
-                "fruit_color": "Green",
-                "fruit_weight": "0.5-1 pound",
-                "skin_thickness": "Thin and tender",
-                "seed_cavity_size": "Small",
-                "storage_quality": "Poor - best used fresh within 1 week refrigerated",
-                "crack_resistance": "Good"
-              },
-              "fun_fact": "Zucchini is botanically classified as a fruit but is commonly treated as a vegetable in culinary applications. It is a popular ingredient in savory dishes and baked goods.",
-              "planting_tip": "For successful cultivation, plant Zucchini seeds in well-drained soil. Provide consistent moisture, especially during the fruiting stage. Harvest when the fruits are young and tender for the best flavor and texture."
-            },
-            {
-              "id": 3,
               "name": "Spaghetti",
               "description": "Spaghetti Squash is a unique winter squash variety with stringy, spaghetti-like flesh when cooked. The mild flavor and noodle-like texture make it a popular low-carb alternative to pasta. With a bushy growth habit, it is a delightful addition to home gardens.",
               "growth_info": {
@@ -1611,7 +1561,7 @@
               "planting_tip": "For successful cultivation, plant Spaghetti Squash seeds in well-drained soil. Provide consistent moisture, especially during the fruiting stage. Harvest when the skin turns a deep yellow color, and the flesh can be easily separated into strands with a fork."
             },
             {
-  "id": 4,
+  "id": 3,
   "name": "Butternut",
   "description": "Butternut Squash is a classic winter squash variety beloved for its sweet, nutty flavor and smooth, creamy texture. The distinctive bell or pear shape with tan-beige skin makes it easily recognizable. Butternut produces medium to large fruits with dense, orange flesh that's perfect for soups, roasting, and purees. With a vining growth habit and excellent storage qualities, Butternut is one of the most popular and versatile winter squashes available.",
   "growth_info": {
@@ -1661,7 +1611,7 @@
   "planting_tip": "Plant Butternut seeds 1 inch deep in warm soil (70°F+) after all frost danger passes. Space plants 4-6 feet apart - vines need room to spread! Water deeply and consistently. Harvest when skin is fully tan/beige and hard (fingernail won't penetrate), and stem is dry and brown. Cure in warm, dry location for 1-2 weeks before storage for best keeping quality."
 },
 {
-  "id": 5,
+  "id": 4,
   "name": "Delicata",
   "description": "Delicata Squash, also known as Sweet Potato Squash or Bohemian Squash, is a unique winter squash with edible skin and exceptional sweet flavor. The oblong, cream-colored fruits have distinctive green or orange stripes running lengthwise. Delicata's thin, tender skin doesn't require peeling, making it one of the easiest winter squashes to prepare. The creamy, sweet flesh has a rich, almost corn-like flavor. With a compact bush habit, it's perfect for smaller gardens.",
   "growth_info": {
@@ -1711,7 +1661,7 @@
   "planting_tip": "Plant Delicata seeds 1 inch deep in warm soil after frost danger passes. Compact growth makes it suitable for smaller gardens - only needs 3-4 feet of space! Water consistently. Harvest when skin develops full color and hardens slightly (but still thinner than other winter squash). Use within 2-3 months of harvest - doesn't store as long as butternut but incredible flavor makes it worth it!"
 },
 {
-  "id": 6,
+  "id": 5,
   "name": "Hubbard",
   "description": "Hubbard Squash is a large, impressive winter squash variety known for its enormous size, distinctive warty, bumpy skin, and exceptional storage qualities. These massive squashes can weigh 10-40 pounds and come in blue-gray, orange, or green varieties. Hubbard produces dense, fine-grained orange flesh with a rich, sweet flavor perfect for pies, soups, and long-term storage. The extremely hard shell makes it one of the longest-storing winter squashes available, lasting 6 months or more.",
   "growth_info": {
@@ -1761,7 +1711,7 @@
   "planting_tip": "Plant Hubbard in very fertile soil with lots of space - vines can spread 20 feet! Water and feed heavily - these monsters need nutrients. Harvest after first light frost when skin is very hard and difficult to dent with fingernail. Cure for 2 weeks in warm, dry location. The hard shell and long storage make this perfect for winter food security. Pro tip: roast whole at 350°F for easier cutting!"
 },
 {
-  "id": 7,
+  "id": 6,
   "name": "Yellow Crookneck",
   "description": "Yellow Crookneck is a classic summer squash variety with distinctive curved neck and bright yellow skin covered in small bumps. This prolific producer yields tender, mild-flavored fruits that are best harvested young at 4-6 inches. Yellow Crookneck has a buttery texture when cooked and is perfect for sautéing, grilling, and baking. With a compact bush habit and continuous production, it's an excellent choice for home gardens and provides abundant harvests throughout summer.",
   "growth_info": {
@@ -1811,7 +1761,7 @@
   "planting_tip": "Plant Yellow Crookneck seeds 1 inch deep in warm soil (70°F+) after all frost danger passes. Space plants 2-3 feet apart or grow in large containers. Water consistently and feed regularly. IMPORTANT: Harvest every 1-2 days when fruits are 4-6 inches long! Leaving large fruits on plant will stop production. The more you pick, the more it produces. Perfect for prolific summer harvests!"
 },
 {
-  "id": 8,
+  "id": 7,
   "name": "Kabocha",
   "description": "Kabocha Squash, also known as Japanese Pumpkin, is a premium winter squash variety prized for its exceptional sweetness, dense texture, and rich flavor. The dark green, slightly flattened fruits have sweet, vibrant orange flesh that's drier and fluffier than butternut. Kabocha is beloved in Asian cuisine and increasingly popular worldwide for its superior taste. The flesh has a chestnut-like texture and naturally sweet flavor. With excellent storage qualities and high nutritional value, Kabocha is considered by many to be the finest-tasting winter squash.",
   "growth_info": {

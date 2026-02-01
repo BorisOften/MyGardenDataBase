@@ -1389,7 +1389,7 @@
           "varieties": [
             {
               "id": 0,
-              "name": "Sweet Basil",
+              "name": "Sweet",
               "description": "Sweet Basil is a popular culinary herb known for its aromatic leaves and versatile uses in cooking. With a sweet and slightly peppery flavor, it is a key ingredient in various dishes, including pasta, salads, and pesto. Sweet Basil is an annual herb that thrives in warm climates, making it a favorite among gardeners and chefs alike.",
               "growth_info": {
                 "growth_mode": "Annual",
@@ -1441,7 +1441,7 @@
             },
             {
               "id": 1,
-              "name": "Genovese Basil",
+              "name": "Genovese",
               "description": "Genovese Basil is a classic and widely-used basil variety, known for its strong aroma and bold, sweet flavor. This annual herb is a staple in Italian cuisine and is commonly used in pesto, salads, and various dishes. With large, dark green leaves, Genovese Basil adds a rich and aromatic dimension to culinary creations.",
               "growth_info": {
                 "growth_mode": "Annual",
@@ -1493,7 +1493,7 @@
             },
             {
               "id": 2,
-              "name": "Thai Basil",
+              "name": "Thai",
               "description": "Thai Basil, also known as Holy Basil, is a flavorful basil variety with a distinct anise-like aroma and spicy flavor. Widely used in Thai and Southeast Asian cuisines, this annual herb adds a unique and aromatic touch to curries, stir-fries, and noodle dishes. With purple stems and blooms, Thai Basil is not only culinary but also ornamental.",
               "growth_info": {
                 "growth_mode": "Annual",
@@ -1545,7 +1545,7 @@
             },
             {
               "id": 3,
-              "name": "Lemon Basil",
+              "name": "Lemon",
               "description": "Lemon Basil is a delightful basil variety with a citrusy aroma and flavor reminiscent of lemon. This annual herb is a versatile addition to both sweet and savory dishes, adding a refreshing and zesty twist. With bright green leaves and a distinct lemon scent, Lemon Basil is a popular choice for teas, desserts, and summer dishes.",
               "growth_info": {
                 "growth_mode": "Annual",
@@ -1597,7 +1597,7 @@
             },
             {
               "id": 4,
-              "name": "Purple Ruffles Basil",
+              "name": "Purple Ruffles",
               "description": "Purple Ruffles Basil is a visually stunning basil variety known for its deeply ruffled and purple-tinged leaves. This annual herb not only adds a unique aesthetic to the garden but also offers a sweet basil flavor. With its ornamental and culinary appeal, Purple Ruffles Basil is a favorite for garnishes, salads, and culinary creations.",
               "growth_info": {
                 "growth_mode": "Annual",
@@ -1649,7 +1649,7 @@
             },
             {
               "id": 5,
-              "name": "Cinnamon Basil",
+              "name": "Cinnamon",
               "description": "Cinnamon Basil is a unique basil variety known for its distinct cinnamon-like aroma and flavor. This annual herb adds a warm and spicy note to both sweet and savory dishes. With green leaves and a delightful fragrance, Cinnamon Basil is a wonderful addition to teas, desserts, and recipes that benefit from a touch of cinnamon.",
               "growth_info": {
                 "growth_mode": "Annual",
@@ -1701,7 +1701,7 @@
             },
             {
               "id": 6,
-              "name": "African Blue Basil",
+              "name": "African Blue",
               "description": "African Blue Basil is a unique and ornamental basil variety with attractive purple stems and flowers. While it shares the aromatic qualities of traditional basil, African Blue Basil stands out with its striking appearance. This perennial herb is not only a flavorful addition to dishes but also a beautiful and pollinator-friendly plant for gardens.",
               "growth_info": {
                 "growth_mode": "Perennial",
@@ -2917,7 +2917,7 @@
           "varieties": [
             {
               "id": 0,
-              "name": "English Thyme",
+              "name": "English",
               "description": "English Thyme is a classic and versatile herb with small, aromatic leaves. This perennial herb is well-known for its culinary uses and is a key ingredient in various cuisines. With a low-growing and spreading habit, English Thyme is often used in both cooking and ornamental landscaping.",
               "growth_info": {
                 "growth_mode": "Low-growing, spreading",
@@ -2965,7 +2965,7 @@
             },
             {
               "id": 1,
-              "name": "Lemon Thyme",
+              "name": "Lemon",
               "description": "Lemon Thyme is a fragrant and flavorful herb known for its citrusy aroma and taste. This perennial herb adds a unique twist to both savory and sweet dishes. With small, green leaves and a prostrate growth habit, Lemon Thyme is a delightful addition to herb gardens, borders, and containers.",
               "growth_info": {
                 "growth_mode": "Prostrate, mat-forming",
@@ -3013,7 +3013,7 @@
             },
             {
               "id": 2,
-              "name": "French Thyme",
+              "name": "French",
               "description": "French Thyme, also known as Summer Thyme, is a culinary herb with aromatic leaves that are commonly used in French cuisine. This perennial herb has a bushy growth habit and adds a savory flavor to various dishes. With its versatility and culinary appeal, French Thyme is a popular choice for herb gardens and kitchen windowsills.",
               "growth_info": {
                 "growth_mode": "Upright, bushy",
@@ -3061,7 +3061,7 @@
             },
             {
   "id": 3,
-  "name": "Creeping Thyme",
+  "name": "Creeping",
   "description": "Creeping Thyme, also known as Mother of Thyme, is a low-growing, mat-forming perennial herb that creates a beautiful ground cover. This variety is prized for its ornamental value and ability to tolerate foot traffic, making it ideal for pathways, rock gardens, and between stepping stones. While less commonly used in cooking than upright varieties, Creeping Thyme still offers aromatic leaves and produces abundant flowers that attract pollinators.",
   "growth_info": {
     "growth_mode": "Prostrate, mat-forming",
@@ -3109,7 +3109,7 @@
 },
 {
   "id": 4,
-  "name": "Caraway Thyme",
+  "name": "Caraway",
   "description": "Caraway Thyme is a distinctive culinary herb that combines traditional thyme characteristics with a unique caraway seed flavor. This low-growing perennial features dark green leaves and produces delicate pink flowers. The unusual flavor profile makes it a favorite among adventurous cooks and herb enthusiasts, adding complexity to dishes that benefit from both thyme and caraway notes.",
   "growth_info": {
     "growth_mode": "Low-growing, spreading",
@@ -3157,7 +3157,7 @@
 },
 {
   "id": 5,
-  "name": "Orange Thyme",
+  "name": "Orange",
   "description": "Orange Thyme is a fragrant culinary herb that combines traditional thyme flavor with bright citrus notes reminiscent of orange zest. This upright perennial herb features dark green leaves edged with subtle variegation and produces pale pink flowers. The distinctive orange aroma and flavor make it an excellent choice for both sweet and savory dishes, particularly those featuring poultry, seafood, and fruit.",
   "growth_info": {
     "growth_mode": "Upright, compact",
@@ -3205,7 +3205,7 @@
 },
 {
   "id": 6,
-  "name": "Woolly Thyme",
+  "name": "Woolly",
   "description": "Woolly Thyme is a unique ornamental ground cover variety featuring soft, fuzzy, gray-green foliage that feels like wool to the touch. This low-growing perennial creates dense mats and is primarily grown for its exceptional ornamental value in rock gardens, between pavers, and as a lawn alternative. While less aromatic than culinary thymes, Woolly Thyme produces charming pink flowers and tolerates light foot traffic.",
   "growth_info": {
     "growth_mode": "Prostrate, mat-forming",
@@ -3253,7 +3253,7 @@
 },
 {
   "id": 7,
-  "name": "Silver Thyme",
+  "name": "Silver",
   "description": "Silver Thyme is an attractive variegated culinary herb featuring silvery-white edges on its small green leaves, creating a stunning ornamental display. This upright perennial combines excellent culinary value with exceptional visual appeal, making it a dual-purpose addition to herb gardens and ornamental landscapes. The classic thyme flavor is complemented by a slightly milder, sweeter taste compared to common thyme varieties.",
   "growth_info": {
     "growth_mode": "Upright, compact",
